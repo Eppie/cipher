@@ -1,0 +1,148 @@
+
+
+
+
+Office of the General Counsel
+B-277047
+June 2, 1997
+The Honorable Alfonse M. D'Amato Chairman The Honorable Paul S.
+Sarbanes Ranking Minority Member Committee on Banking, Housing, and
+Urban Affairs United States Senate
+The Honorable Thomas J. Bliley, Jr. Chairman The Honorable John
+D. Dingell Ranking Minority Member Committee on Commerce House of
+Representatives
+Subject: Securities and Exchange Commission: Rules Implementing
+Amendments to the Investment Advisers Act of 1940 (Rule 203A-2)
+Pursuant to section 801(a)(2)(A) of title 5, United States Code,
+this is our report on a major rule promulgated by the Securities
+and Exchange Commission, entitled "Rules Implementing Amendments to
+the Investment Advisers Act of 1940 (Rule 203A-2)" (RIN:
+3235-AH07). We received the rule on May 16, 1997. It was published
+in the Federal Register as a final rule on May 22, 1997. 62 Fed.
+Reg. 28112.
+The final rule, which was issued simultaneously with six other
+rules relating to the amendment of the Investment Advisers Act by
+the National Securities Markets Improvement Act of 1996,
+particularly title III, the Investment Adviser Supervision
+Coordination Act, exempts four types of advisers from the
+prohibition on SEC registration. These are: (1) certain pension
+consultants, (2) nationally recognized statistical rating
+organizations, (3) certain advisers affiliated with SEC-registered
+investment advisers, and (4) newly formed advisers that have a
+reasonable expectation of becoming eligible for SEC registration
+within 120 days.
+Enclosed is our assessment of the SEC's compliance with the
+procedural steps required by section 801(a)(1)(B)(i) through (iv)
+of title 5 with respect to the rule. Our review indicates that the
+SEC complied with the applicable requirements.
+GAO/OGC-97-46
+If you have any questions about this report, please contact
+James Vickers, Assistant General Counsel, at (202) 512-8210. The
+official responsible for GAO evaluation work relating to the
+Securities and Exchange Commission is Jean Stromberg, Director,
+Financial Institutions and Markets Issues. Ms. Stromberg can be
+reached at (202) 512-8678.
+Robert P. Murphy General Counsel
+Enclosure
+cc: The Honorable Jonathan G. Katz Secretary Securities and
+Exchange Commission
+Page 2 GAO/OGC-97-46
+ENCLOSURE
+ANALYSIS UNDER 5 U.S.C. § 801(a)(1)(B)(i)-(iv) OF A MAJOR RULE
+ISSUED BY THE SECURITIES AND EXCHANGE COMMISSION ENTITLED "RULES
+IMPLEMENTING AMENDMENTS TO THE INVESTMENT ADVISERS ACT OF 1940
+(RULE 203A-2)" (RIN: 3235-AH07)
+(i) Cost-benefit analysis
+The SEC has submitted to our Office a cost-benefit analysis of
+the final rule. The analysis concludes that the quantifiable costs
+associated with the rule are $600,000 for the Pension Consultant
+exemption, $18,000 for the Nationally Recognized Statistical Rating
+Organization exemption, $300,000 for the Affiliated Adviser
+exemption, and $8,700 for the New Adviser exemption for a total of
+$926,700.
+The analysis lists quantifiable benefits of $5,000,000 for the
+Affiliated Adviser exemption and $2,000,000 for the New Adviser
+exemption. In addition, another benefit includes permitting real
+estate advisers to pension plans to continue to register with the
+SEC, which will allow the advisers to comply with the requirements
+of the Employee Retirement Income Security Act of 1974 (ERISA).
+Also, new advisers would not have to register initially with a
+state or states, then deregister and register with the SEC if they
+had the expectation of being eligible for SEC registration within
+120 days.
+(ii) Agency actions relevant to the Regulatory Flexibility Act,
+5 U.S.C. §§ 603-605, 607 and 609
+The SEC prepared an Initial Regulatory Flexibility Analysis
+(IRFA) in connection with the proposed rule, which was summarized
+in the notice of proposed rulemaking (61 Fed. Reg. 68480, 68491-92,
+December 27, 1996), and was available to the public in its
+entirety. One comment was received in response to the IRFA.
+The preamble to the final rule contains a summary of the Final
+Regulatory Flexibility Analysis, a complete copy of which was
+submitted to our Office and was available to the public. The
+analysis describes the reason for the final rule and the legal
+basis for it; descriptions and estimates of the number of small
+entities affected by the rule; a discussion of the recordkeeping,
+reporting, and other compliance requirements; and the steps taken
+to minimize the burdens on small entities.
+The SEC estimated that of the 23,350 investment advisers
+currently registered with the SEC, 17,650 advisers would be
+considered small entities. After July 8, 1997,
+GAO/OGC-97-46
+approximately 850 of those small entities would remain eligible
+for registration with the SEC.
+The comment received in response to the IRFA concerned the
+impact of the proposed rule on small entities that manage funds
+regulated under ERISA. ERISA protects a plan's named fiduciary from
+liability for the individual decisions of an "investment manager"
+appointed by the fiduciary to manage the plan's assets. "Investment
+manager" is defined by ERISA to include investment advisers
+registered under the Advisers Act. Although ERISA has been amended
+to include stateregistered investment advisers as "investment
+managers," the amendment expires 2 years after enactment. When this
+amendment expires, small advisers effectively will not be able to
+manage ERISA funds.
+While the SEC found that it would be inconsistent with the
+Coordination Act to grant an exemption for the above-described
+small entities, the Commissioner has written to the congressional
+committees concerned urging that the sunset provision be eliminated
+and the ERISA exemption be made permanent.
+Also, in response to concerns expressed, the final rule
+increases the threshold for Commission registration from $25 to $30
+million of assets under management.
+(iii) Agency actions relevant to sections 202-205 of the
+Unfunded Mandates Reform Act of 1995, 2 U.S.C. §§ 1532-1535
+As an independent regulatory agency, the SEC is not subject to
+title II of the Unfunded Mandates Reform Act of 1995.
+(iv) Other relevant information or requirements under acts and
+executive orders
+Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.
+The final rule was promulgated using the notice and comment
+procedures of 5 U.S.C. § 553. A notice of proposed rulemaking was
+published on December 27, 1996, 61 Fed. Reg. 68480, and requested
+the submission of comments. The SEC received 105 comments in
+response to the proposed rule. The comments received and actions
+taken as a result of the comments are discussed in the preamble to
+the final rule, including the redrafting of certain language on the
+Form ADV-T for greater clarity.
+Paperwork Reduction Act, 44 U.S.C. §§ 3501-3520
+The final rule requires the collection of information which is
+subject to review by the Office of Management and Budget (OMB)
+under the Paperwork Reduction Act. OMB has approved the information
+collection contained on the Form ADV and has
+Page 2 GAO/OGC-97-46
+issued OMB No. 3235-0049 following the submission of revised
+burden hour estimates. The SEC now estimates that the annual burden
+estimate for all respondents to Form ADV is 18,128 hours.
+Statutory authorization for the rule
+The SEC cites section 203A(c) of the Investment Advisers Act of
+1940 (15 U.S.C. § 80b-3A(c)) as authority for the promulgation of
+the final rule.
+Executive Order No. 12866
+The rule, promulgated by an independent regulatory agency, is
+not subject to the review requirements of Executive Order No.
+12866.
+Page 3 GAO/OGC-97-46
+
+
+

@@ -1,0 +1,818 @@
+
+
+
+
+A Preliminary Version of this Paper was Presented at
+The Evolving Structure of Postal and Delivery Industries June
+11-14, 1997, Helsingør, Denmark
+Sponsored by Center for Research in Regulated Industries at
+Rutgers University
+
+
+AN ANALYSIS OF THE POTENTIAL FOR CREAM SKIMMING IN THE U.S.
+RESIDENTIAL DELIVERY MARKET
+Robert H. Cohen William W. Ferguson John D. Waller Spyros S.
+Xenakis
+Office of Rates, Analysis and Planning
+U.S. Postal Rate Commission
+October 1998
+Published in Emerging Competition in Postal and Delivery
+Systems, edited by M.A. Crew and
+P.R. Kleindorfer. Boston: Kluwer Academic Publishers, 1999.
+An Analysis of the Potential for Cream Skimming in the U.S.
+Residential Delivery Market
+
+A. Introduction
+Postal administrations often claim that without a legal
+monopoly1 to protect them from cream skimming, they would not be
+able to continue providing universal service at uniform and
+affordable prices. Because they serve delivery points with a range
+of profitability, postal administrations fear that without monopoly
+protection cream skimmers would capture their high profit routes,
+leaving them with their less profitable routes. The question is,
+would cream skimming divert so much volume that universal service
+at affordable prices becomes infeasible?
+Sweden is the only industrial nation which actually has had
+competition in its letter mail market after abolishing its
+monopoly.2 A competitor, City Mail, has served selected portions of
+the country but was twice forced into bankruptcy.3 City Mail has
+again emerged from bankruptcy and is competing with Sweden Post.
+Perhaps on City Mail's third attempt, we will finally have a valid
+test of whether Sweden Post actually needs monopoly protection in
+order to provide universal service at reasonable prices. As far as
+the authors know, the economics of the competition between Sweden
+Post and its competitor has not been studied. If City Mail finally
+succeeds in avoiding bankruptcy, such a study might determine the
+reasons why Sweden Post was vulnerable to cream skimming. In
+addition, it might describe the impact that a viable competitor has
+had on
+1
+In the U.S., as in most industrial nations, the postal monopoly
+extends only to letter mail (including addressed advertising).
+2
+Finland has abolished its monopoly and in so doing created a
+licensing system for competitors to Finland Post. No other operator
+has yet begun to offer service in competition with Finland Post.
+New Zealand has also just recently abolished its monopoly, but it
+is too early to know if competitors will emerge and be
+successful.
+3
+A recent study found that the Swedish Postal Service had engaged
+in a variety of anti-competitive practices with respect to its
+competitor. See "Deregulation of the Postal Service's Market;
+report on the abuse by the Postal Office of Its dominant market
+position and on the Competition Authority's handling of the
+question of competition in relation to the Post Office," Professor
+Erik Nerep (Stockholm School of Economics), February 1995.
+the dominant provider. It should be noted that the presence of
+City Mail has already prompted Sweden Post to lower prices for
+large volume mailers in areas served by its competitor.4
+Cream skimmers take advantage of an incumbent's price when it is
+based on an average of heterogeneous costs. They serve the low cost
+portion of the market and price below the incumbent. Conceptually
+cream skimming has two basic dimensions - product and geography.
+Product cream skimming is where a competitor tries to capture the
+most profitable portion of the market for a product with
+heterogeneous costs. Geographic cream skimming is where a
+competitor tries to provide a service only to selected, low cost
+areas.5 City Mail is an example of geographic cream skimming. Its
+carriers provide twice weekly delivery to various areas in Sweden
+for large volume customers.6 This paper addresses only geographic
+cream skimming. 7
+Postal monopolies, like most other legal monopolies, are thought
+by many observers (1) to be technically inefficient, and (2) to
+have delivery functions which exhibit economies of scale.8 This
+paper addresses several questions which arise from these two points
+under the assumption that the monopoly and any other barriers to
+entry were to be removed. It asks how much more efficient would a
+potential competitor have to be to overcome the scale economies of
+the U.S. Postal Service? Assuming potential competitors are able to
+achieve the necessary level of efficiency, it then asks how much
+volume might they be able to capture and in which markets? Finally,
+it asks what effect
+4
+It would be interesting to learn: How much it cost Sweden Post
+to serve the areas where it lowered prices relative to its average
+cost, how important the abandonment of universal pricing is to
+Sweden Post's competitive position, and are the circumstances in
+Sweden applicable to the U.S.? Section J of this paper examines
+this issue further.
+5
+Cream skimming may have a third dimension having to do with
+transactions costs. In practice cream skimmers may restrict
+themselves to large volume customers since the transaction costs of
+dealing with smaller volume customers and individuals may be
+prohibitive.
+6
+Sweden Post delivers five days per week.
+7
+A report by the General Accounting Office (GAO) at least
+partially analyzed the effect product cream skimming would have on
+the U.S. Postal Service. Its assessment was as follows: Priority
+Mail (First Class over 11 ounces) - high risk of loss of
+significant volumes, but a low financial impact, if it did occur;
+First Class - low risk of loss of significant volumes, but a high
+financial impact, if it did occur; Advertising Mail low risk of
+loss and a medium financial impact, if it did occur. See "Postal
+Service Reform; Issues Relevant to Changing Restrictions on Private
+Letter Delivery," General Accounting Office, September 1996.
+8
+In the U.S., legal monopolies include the local delivery of
+electricity, gas, water and until recently telephone.
+would the loss of volume to cream skimmers have on the resulting
+prices the Postal Service would have to charge in order to maintain
+universal service?
+Many observers believe that cream skimmers in the United States
+would serve cities and leave rural areas to the universal service
+provider because they assume that the cost of delivery to rural
+areas is much higher than the cost of delivery to cities. An
+earlier study9 challenged that assumption. It estimated that in
+1989 city delivery cost per piece was only 8 percent lower than
+rural delivery, but that city delivery cost per delivery point was
+actually 7 percent higher than rural delivery cost. It concluded
+that there was no cross subsidy of rural delivery by city delivery.
+In theory, cream skimming of residential service could occur in
+either city or rural areas. This paper focuses on city delivery
+because of the more detailed data available on this type of
+delivery.
+We first provide a brief description of the current competition
+in delivery. We then describe the data used in our analysis and the
+costs and profitability of the Postal Service's city residential
+delivery routes. We next examine the volume vulnerable to capture
+by potential cream skimmers. We describe characteristics of routes
+most likely to be profitable to competitors and provide a range of
+estimates for the cost of cream skimmers. After examining the
+consequences of successful cream skimming on Postal Service rates,
+we explain why cream skimming is not likely to be successful on
+business routes in the U.S. Finally, we provide some observations
+on the relevance this analysis may have for other countries.
+
+
+B. Current Competition In Delivery
+Competitors of the U.S. Postal Service may legally deliver only
+periodicals, catalogues over 24 pages, parcels, and unaddressed
+letters.10 Alternative delivery is particularly difficult because
+of the so called mail box law which prohibits any one but the
+9 See Cohen, Ferguson & Xenakis, "Rural Delivery and the
+Universal Service Obligation: A Quantitative Investigation."
+Regulation and the Nature of Postal Delivery Services, Ed. Crew
+& Kleindorfer, Kluwer Academic Publishers, 1993.
+Technically, the U.S. monopoly is primarily a revenue monopoly.
+A third party may deliver a letter if proper postage is affixed and
+canceled. The monopoly also has an urgent mail exception for
+letters which are charged twice normal First-Class postage with a
+minimum of $3.00. Unlike most industrial nations, there is no
+exemption from the monopoly based on weight or price.
+Postal Service from accessing a private mail box.11 The U.S.
+Postal Service broadly interprets "letter" to include any addressed
+information recorded on a physical object. Thus, for example, it
+considers an addressed grocery store advertisement to be a
+letter.
+In 1989, Publishers Express was founded by Time Inc., Meredith
+Corp., American Express Publishing, New York Times Co., Times
+Mirror Co., and R. R. Donnelley, among others, to provide
+alternative delivery.12 In spite of its prestigious sponsorship,
+the company ceased operations in 1996. Many other small
+entrepreneurs provide alternative delivery, but they have a very
+small share of the market. They are scattered around the country
+and mostly deliver unaddressed "saturation" advertisements and
+small quantities of periodicals and small parcels.
+The real alternative delivery system in the United States is the
+newspaper industry which delivers advertising preprints or
+inserts.13 The Postal Service has the advantage of being able to
+deliver these advertisements to all addresses, while newspapers
+usually (but not always) deliver inserts just to their subscribers.
+A typical newspaper in the U.S. has less than 50 percent coverage
+in its service area. This puts it at a disadvantage vis a vis the
+Postal Service, which delivers to all households. Newspapers, on
+the other hand, have the advantage of charging lower prices.
+Because marginal costs are very low, a newspaper price for
+preprints might be as low as 5 or 6 cents per piece. The lowest
+rate currently charged by the Postal Service is 11.0 to 11.4 cents
+for saturation mail weighing up to 3.3 ounces and drop shipped at
+the delivery office.14 Newspapers deliver about 86 billion inserts
+annually,15 while the U.S. Postal Service delivers at least 11
+billion competing items.16
+11
+As far as we know, the U.S. is the only country that has a mail
+box rule.
+12
+For a more comprehensive discussion of alternative delivery in
+the United States, see the General Accounting Office Study, n. 7,
+supra.
+13
+Newspapers also deliver product samples.
+14
+The Postal Service has an additional disadvantage because city
+carriers deliver only addressed advertising mail. This requires the
+mailer to have an address list kept in delivery sequence and to
+have address labels for each piece.
+15
+Newspaper Association of America's WEB Site;
+www.naa.org/marketscope/databank/preppriyr.htm.
+16
+This was the saturation and 125-piece walk sequence Enhanced
+Carrier Route mail volume in 1996. Many of these items are so
+called "marriage mail" pieces which contain several individual
+advertisements combined into a single piece. These individual
+advertisements could each be a stand-alone insert. Thus, 11 billion
+pieces is an extreme lower bound on the number of preprints carried
+by the Postal Service.
+
+
+C. City Carrier Data
+Each year the Postal Service conducts a City Carrier Survey
+(CCS) of delivered mail volume by route. Between 1993 and 1996, the
+Postal Service conducted the survey using a relatively small panel
+of about 400 routes.17 Prior to that, the Postal Service randomly
+sampled a much larger cross section of its routes over the course
+of a year. The last set of cross sectional data filed with the
+Postal Rate Commission in 1989 consisted of a sample of 16,092
+different routes.18 Because of the large sample size, these data
+are far more useful for our analysis than the subsequent panel
+data.19
+Each record in the 1989 CCS contains the date of the
+observation, the 5-Digit ZIP Code in which the route is located,
+the route type,20 the number of pieces (by subclass and by shape)
+per stop, the number of possible deliveries and actual deliveries
+per stop, and the stop type ("single delivery residential,"
+"multi-delivery residential," and "business-and-mixed"). Generally,
+data are recorded for every tenth stop on a route. The authors were
+able to make use of the records for 14,884 routes.21 This analysis
+is based on the data set of 13,212 usable residential routes22 and
+476,953 stops. 23 About 89 percent of all city routes are
+residential routes. The rest are business or mixed (residential and
+business).
+
+
+D. Postal Service Delivery Cost And Profitability
+This analysis uses delivery data from 1989, but uses 1996 cost
+levels for wages, fringe benefits, and other associated delivery
+costs. Total volume grew 13.5 percent
+17
+A panel survey collects data repeatedly from the same
+sample.
+18
+There were 157 thousand city delivery routes in FY 1989. There
+were also 46 thousand rural routes, most of which had costs
+comparable to city delivery routes. See Cohen, Ferguson &
+Xenakis, n. 9, supra.
+19
+The 1997 CCS data were not available when the analysis for this
+paper was conducted.
+20
+Business foot, business motorized, residential foot, residential
+park and loop, residential curb, mixed foot, mixed park and loop,
+and mixed curb.
+21
+The data are organized by the 26 pay periods in a year. Portions
+of the data from a few pay periods were not usable. Comparisons
+with previously published summaries indicate that the missing data
+did not bias our results.
+22
+To a much lesser extent this analysis makes use of data from 717
+business routes.
+23
+Ninety-four percent (94%) of these stops are residential, while
+six percent (6%) are either business, or mixed
+business-and-residential stops. Not all stops on a residential
+route are residences. Some are business stops and some are mixed
+(business and residential).
+between 1989 and 1996, and the number of routes increased 7
+percent. We make no attempt to adjust for these increases.
+When calculating city delivery cost, we include the entire
+(fixed and volume variable) in-office and out-of-office cost24 for
+all city routes, plus the cost of overtime, supervision, space, and
+vehicles. Starting with a productive hourly rate of $25.25 for city
+carriers, we calculate a cost per residential delivery route of
+$266 per delivery day.25 The cost we calculate can be considered to
+be the avoided cost or the incremental cost of the city delivery
+function. Alternatively, it can be considered a lower bound on the
+stand-alone cost of city delivery.26
+We calculate the daily profit of residential delivery routes for
+the Postal Service by totaling the revenue minus collection,
+processing and transportation costs of the mail delivered on each
+route and subtracting the delivery cost of $266.
+Table 1 displays a variety of mean route statistics for
+residential routes separated into quartiles based on their profit.
+less As can be seen, the mean daily profit of each quartile ranges
+from positive $248 to negative $110. The average profit for all
+residential routes is $41 with 46.5 percent of the routes operating
+at a loss. The route cost per piece ranges from 7.6 cents to 23.5
+cents, and averages 12.5 cents. Route volume ranges from 3,485
+pieces to 1,131 pieces, and averages 2,128 pieces. The number of
+possible deliveries (which ranges from 670 to 411) is dependent on
+route terrain. 27 All the statistics presented are monotonic
+across28 quartiles except for route type. This is because of the
+close relationship between cost (per piece, delivery and stop),
+volume
+24
+"In-office" refers to the in the office activity of a letter
+carrier (primarily sequencing mail to be delivered),
+"out-of-office" refers to the activity of the carrier while on the
+street.
+25
+This is based on the city delivery carrier total cost of $33.20
+per hour. This, in turn, is based on a productive hourly rate (pay,
+overtime pay, and benefits for hours worked) increased to account
+for other costs that can be associated with carriers. These other
+costs include systemwide labor related costs (e.g., worker's
+compensation, civil service retirement unfunded liability),
+indirect labor such as carrier supervision, vehicle costs, and
+space related costs (rents, fuel, utilities, custodial
+maintenance). The standard work day for a city carrier is eight
+hours.
+26
+It is a lower bound because the cost includes no marketing or
+administrative costs which a stand-alone firm would normally
+incur.
+27
+By "physical terrain" we mean the physical proximity of the
+delivery points and whether they are most advantageously served by
+a curb, park & loop, or foot route.
+28
+A monotonic series is one whose every term is greater than (less
+than) or equal to the previous term. 6
+(per piece, delivery and stop), and the number of deliveries
+(stops) on a route. With respect to route type, we see that the
+percentage of curb routes is greatest in the most profitable
+quartile.29 These routes are largely a suburban phenomenon, they
+reach more stops in a day and hence, have more volume. The appendix
+(Table A1) presents demographic characteristics related to the
+quartiles in Table 1.
+Table 1
+SELECTED AVERAGES FOR RESIDENTIAL ROUTES WHEN ROUTES ARE SORTED
+BY PROFIT PER ROUTE
+Profit Cost (cents) Per (possible) Volume Pieces Per (possible)
+Quartile (dollars) Piece Delivery Stop (pieces) Deliverya Stop
+
+
+a
+In the paper referenced in n. 9, supra, pieces per possible
+delivery were weighed by stop and produced a slightly higher pieces
+per delivery. Here they are unweighted.
+The revenue for 46.5 percent of the routes (all of quartile 4
+and most of quartile 3) is not enough to cover the costs of the
+mail delivered on those routes. Thus, it might be argued that a
+monopoly is necessary to ensure service to those households. For
+several reasons, it would seem the burden of proof for this
+position should fall on its proponents. The routes which are
+unprofitable are dispersed across the country in a great number of
+cities. A competitive postal service that refused to serve
+households on unprofitable
+Curb routes deliver directly from the vehicle to a curbside mail
+receptacle. Park and loop routes involve parking, covering an area
+by foot, then parking the vehicle in a new area.
+routes would impose large transaction costs on its customers to
+separate mail and to secure suppliers to deliver its remaining
+mail. Such firms would be at a considerable disadvantage to those
+providing universal service. Larger transaction networks (be they
+mail, packages, overnight or telephone) are more valuable to
+customers and providers than smaller networks. It is for sound
+business reasons that Federal Express and United Parcel Service
+provide universal delivery service. A major business asset of the
+U.S. Postal Service and all other national posts is that they
+provide service to every address in the countries they serve. Thus,
+there is a business incentive for any postal provider (who is not
+simply a cream skimmer) to offer universal service within the
+territories it serves.
+Routes which are unprofitable when serviced six days per week
+would become profitable when serviced less frequently. In a
+competitive environment, the Postal Service could easily retain
+universal service, but perhaps not a universal service standard.30
+Delivery less than six days per week would certainly be preferable
+to abandoning delivery altogether. Of course, if the Postal Service
+were to simply abandon delivery to unprofitable routes, it would
+not have to refuse, return or destroy mail destined to these
+routes. Delivery firms with lower costs than the Postal Service
+would emerge to serve them and the Postal Service could hand off
+its unprofitable mail to them. 31 Under any foreseeable
+circumstances, universal delivery would not cease.32
+
+
+E. Volume Available For Cream Skimmers
+It is unlikely that cream skimmers would base their selection of
+areas to serve on the Postal Service's delivery profits. Postal
+Service delivery profitability depends on the revenue for all mail
+delivered, and it is not likely that cream skimmers could capture
+all categories of mail.
+30
+It is interesting to note that United Parcel Service recently
+began delivery less frequently than daily to certain residential
+areas.
+31
+Costs would be lower by dint of lower wages and/or less frequent
+delivery.
+32
+The concept of a universal service obligation may really mean
+more frequent delivery than economically warranted for households
+living on unprofitable routes. This, of course, is in addition to
+providing retail services to rural communities.
+Residential cream skimmers would serve bulk mailers with
+sufficient volumes of mail for the areas they serve. We assume that
+only mail that is presorted to the carrier route level would be
+vulnerable to cream skimming. If a bulk mailer did not have
+sufficient volume to sort to the carrier route level, the
+transaction costs for both mailer and cream skimmer would be
+prohibitive. Of course, third parties might become intermediaries
+between these bulk mailers and cream skimmers. Such parties would
+have to engage in processing and transportation. They would in
+effect be a parallel postal system for bulk mailers. An analysis of
+separate postal systems for bulk mailers is beyond the scope of
+this paper.
+The U.S. Postal Service requires First-Class and advertising
+mail to have at least ten pieces for a carrier to qualify for a
+carrier route discount. Publications may qualify with as few as six
+pieces for a carrier route. The amounts being presorted to the
+carrier route level in 1996 are shown in the right hand column:
+
+First-Class Mail is unzoned and receives no discount for being
+deposited near its destination. Most First-Class carrier route
+volume is prepared by utilities and may be local depending on the
+billing operations of the utility. For purposes of this analysis we
+assume that all First-Class carrier route mail is available to
+local cream skimmers.
+Publications Mail. While only 3.2 billion pieces of the carrier
+route volume is entered locally or entered close enough to its
+destination to be available to cream skimmers, we assume that all
+4.5 billion pieces are available to cream skimmers.
+Advertising Mail. Eight-five (85) percent or 25.2 billion pieces
+of carrier route advertising mail are drop shipped or entered
+locally. Notwithstanding, we assume here that all carrier route
+advertising mail would be available to cream skimmers.
+To summarize, 37.7 billion pieces of carrier route volume are
+potentially available to cream skimmers.33 This represents 20.6
+percent of the total volume of 182.7 billion pieces in 1996.
+Geographic cream skimmers would concentrate on areas with the most
+carrier route volume because their cost per piece would be lowest
+and their potential profit would be the greatest.
+Table 2 displays mean daily route statistics for routes when
+divided into quartiles reflecting their volumes of carrier route
+mail. We see a wide divergence in carrier route volume among the
+quartiles. The range is from 1,263 pieces to 87 pieces with an
+average of 551. The first quartile routes have more than twice the
+volume of carrier route mail as the second quartile. In fact, the
+first quartile has more than half of all carrier route volume
+delivered on residential routes. Thus, the first quartile of routes
+are much more attractive targets for cream skimmers than the other
+routes. We again see a monotonic behavior of the other variables
+across quartiles.34 Route profitability by quartile in Table 2
+changes by a sizable amount as compared to route profitability in
+Table 1. Less than half the routes in quartile 1, Table 1, are also
+in quartile 1, Table 2. The appendix (Table A2) presents
+demographic characteristics related to the quartiles in Table
+2.
+33
+Some of this mail is delivered by rural carriers. For purpose of
+this analysis, we assume that rural delivery is subject to the same
+degree of cream skimming as city delivery. However, some carrier
+route mail is delivered on business routes and some is delivered
+via post office boxes and, thus, would not be available to cream
+skimmers. Consequently, 37.7 billion represents an upper bound of
+the volume available to cream skimmers.
+34
+The only deviation from the monotonic behavior in Table 2 occurs
+for deliveries per route between quartiles 2 and 3.
+Table 2
+SELECTED AVERAGES FOR RESIDENTIAL ROUTES WHEN ROUTES ARE SORTED
+BY VOLUME OF CARRIER ROUTE MAIL PER ROUTE
+Profit Cost (cents) Per (possible) Quartile (dollars) Piece
+Delivery Stop
+Volume (pieces) All Carrier Pieces Per (possible) Mail Route
+Delivery Stop
+
+
+
+
+F. Estimating The Delivery Cost For Cream Skimmers
+Cream skimmers undercut prices charged by an incumbent that has
+heterogeneous costs but averaged prices. Cream skimmers profit by
+selling low cost items at below the incumbents average price.
+Delivery cream skimmers would attempt to serve those areas where
+the cost to deliver carrier route pieces is the lowest (i.e., where
+the volume of carrier route pieces is the highest). The first
+quartile of routes in Table 2 would make the best targets. It is
+this case we examine.
+In an important sense, this is an unrealistic case since
+quartile 1 represents 40,000 routes which are scattered over more
+than half the 30,000 5-Digit ZIP Code areas in the U.S. It is
+extremely unlikely that they constitute all the residential routes
+in any 5-Digit ZIP Code nor is it likely that they make up the
+entire suburban ring around cities. It is unrealistic for cream
+skimmers to serve such a fragmented market. From both an
+operational and marketing standpoint, cream skimmers would have to
+serve markets with at best a large proportion of routes in quartile
+1. Their markets would undoubtedly contain a large number of routes
+in the other quartiles. Notwithstanding, for analytical purposes,
+we assume the best possible case for cream skimmers; that they
+would be able to serve only routes that fall within quartile 1.
+A potential competitor must decide the level of service to
+provide and this decision would affect the amount of volume that it
+could actually capture. Many magazines, newspapers, and
+advertisements must be delivered within a one, two or three day
+window. A competitor delivering only one day a week would have to
+forego much potential volume. On the other hand, delivery six days
+a week would certainly raise the cost per delivered piece and make
+it less likely that a cream skimmer would be viable.35 City Mail in
+Sweden chose to deliver two days per week (Monday/Thursday in some
+areas and Tuesday/Friday in other areas).
+In all probability, a cream skimmer could not prosper unless it
+could deliver mail at a price less than the incumbent postal
+administration. Its cost per delivered piece would be a function of
+its cost of labor and productivity. It would be expected that a
+cream skimmer would have a significant labor cost advantage. Its
+productivity would be influenced by the in-office and out-of-office
+technology it employed. In 1989, Postal Service carriers spent more
+than 40 percent of their time in-office preparing for delivery on
+the street. Many mailstreams must be merged and sorted into
+delivery sequence.36 It is not clear what technology cream skimmers
+would use. Moreover, we do not know whether the personnel of a
+cream skimmer would be more productive on the street than
+U.S. Postal Service carriers. This analysis will combine these
+variables (labor cost, technology, in-office and out-of-office
+productivity) into a single efficiency parameter.
+35
+In a sense, each piece of advertising mail competes with other
+advertising mail for the recipient's attention. If a cream skimmer
+could capture a large portion of the available carrier route
+volume, its customers might prefer more frequent delivery to
+minimize this type of competition.
+36
+This function is rapidly being automated for letter size mail in
+the U.S. Delivery point barcoded mail is increasingly being
+sequenced on sorting machines, saving significant in-office
+delivery time. From 1989 to 1996, the percentage of in-office time
+for city carriers has declined from 41 percent to 34 percent. It is
+expected that this trend will continue. Unless a potential cream
+skimmer had enough capital to employ sequencing automation, the
+Postal Service might have a significant advantage in sequencing and
+merging letter-shaped mail. First Class is almost all letter
+shaped, publications are almost all flat shaped, and carrier route
+advertising is 43 percent letter shaped.
+
+
+G. Cream Skimmers Cost Per Piece
+Table 3 has four matrices, each reflecting a different
+percentage of available volume assumed to be captured by cream
+skimmers. Each matrix presents cream skimmer unit or per piece
+costs based on frequency of delivery and relative efficiency of the
+cream skimmer. We measure relative efficiency in terms of cream
+skimmers cost relative to the Postal Service's cost.
+The shaded cell in the top matrix, 13.1 cents, is the Postal
+Service cost per piece for delivering only carrier route presorted
+mail in the least expensive quartile. This number is derived from
+the 8.7 cent cost of the Postal Service delivering all mail in the
+least expensive quartile shown in Table 2. If only the carrier
+route mail is delivered, the average delivered volume decreases
+from 3,051 to 1,263 in this quartile. The variable costs drop as
+the volume drops, but the fixed costs are spread over less volume
+which increases the fixed costs proportionately. The result is an
+increase in the unit costs to
+13.1 cents shown in Table 3. Going down that column, the costs
+per piece are displayed assuming a cream skimmer had the same cost
+as the U.S. Postal Service, but delivers fewer days per week. The
+costs decrease by the amount of fixed costs in delivery. The
+variable cost remains the same because the volume does not change.
+Most other national postal administrations would have a greater
+percentage of fixed costs because they have fewer pieces per
+possible delivery.37
+The columns display cream skimmers' costs as a function of U.S.
+Postal Service efficiency, expressed as a percentage of the Postal
+Service's delivery cost per piece. The 120 percent column displays
+the cream skimmer's per piece cost if its cost were 120 percent of
+the U.S. Postal Service.38 The 60 percent column displays the cream
+skimmer's per piece cost if its cost were 60 percent of the U.S.
+Postal Service.
+Table 3
+CREAM SKIMMER'S COST PER PIECE IN CENTS AS A FUNCTION OF
+EFFICIENCY RELATIVE TO POSTAL SERVICE, DAYS OF DELIVERY AND PERCENT
+OF CARRIER ROUTE MAIL
+100% OF CARRIER ROUTE VOLUME CAPTURED
+
+75% OF CARRIER ROUTE VOLUME CAPTURED
+
+50% OF CARRIER ROUTE VOLUME CAPTURED
+
+25% OF CARRIER ROUTE VOLUME CAPTURED
+
+For all mail the Postal Service city carrier cost (fixed and
+variable) is 12.5 cents per piece. (See Tables 1 and 2, cost per
+piece all routes.) This is the cost for the delivery function. Each
+postal product has a variable cost for mail processing,
+transportation and delivery. Each product also has an average
+incremental (avoidable) cost. In the case of advertising carrier
+route mail, the average incremental cost is about 7 cents.39 If
+threatened by cream skimmers, the Postal Service could respond by
+lowering its price towards average incremental costs. If the Postal
+Service maintained uniform prices but had competition only in
+selected areas, it would sacrifice revenue in those areas without
+competition. These circumstances would probably call for selective
+discounts (with average incremental costs as a floor) to large
+volume mailers40 who would otherwise become customers of cream
+skimmers. Thus, cream skimmers would most likely have to have costs
+no higher than approximately 7 cents per piece in order to compete
+on a cost basis alone.41
+The Postal Service's productive hourly wage of more than $25 may
+make it likely that cream skimmers could obtain some cost advantage
+on that basis alone. We do not know how reducing the frequency of
+delivery would affect demand for alternative delivery. A two-day
+frequency could satisfy a three-day window, but would miss many
+delivery dates for time value publications. It should also be noted
+that some customers may not be willing to leave the Postal Service
+for a variety of reasons including the sense of security of dealing
+with a government agency.
+If a cream skimmer were to capture only 25 percent of the
+available market, it would have difficulty succeeding. At that
+level of market penetration, its costs would have to be 40 percent
+of the Postal Service's at a two-day frequency in order to be below
+Postal Service incremental costs. With 50 percent of the average
+volume at a two-day frequency, a cream skimmer's costs would have
+to be 60 percent or less of the Postal Service's in order to remain
+below the Service's average incremental costs.
+39
+The variable cost of carrier route advertising mail comes
+predominantly from the delivery function (in-office and
+out-of-office). The delivery function is about 50 percent variable.
+Thus, the variable cost of the advertising carrier route mail
+product can be much lower than the average (fixed and variable)
+cost of delivery. The average incremental cost of advertising
+carrier route mail is only slightly higher than the variable cost
+since we estimate it here to consist of variable costs plus single
+subclass stop costs for 1996.
+40
+Except for a customer with a very high elasticity of demand,
+there is no reason for a monopoly to grant volume based discounts
+since customers have no alternative supplier. We understand this
+was the case with UPS, which had a virtual monopoly in surface
+parcel delivery in the U.S., and did not give discounts to surface
+parcel customers until Roadway Package Service began to target its
+most lucrative customers in the 1980s. UPS then began offering
+discounts to certain large volume customers.
+41
+Some mailers currently use cream skimmers because of service
+considerations.
+
+
+H. Consequences Of Successful Cream Skimming
+Table 4 shows the required increase in the U.S. Postal Service
+rates based on the percentage of carrier route volume that would be
+captured by cream skimmers targeting mail in quartile 1, Table 2.42
+The maximum effect is an increase of about 1.2 cents in the
+First-Class rate (with corresponding increases in the other
+classes). This would be an increase of nearly 4 percent; a
+significant but limited effect.
+Lifting the letter mail monopoly and allowing cream skimming
+would likely have an important impact on rate setting for the
+Postal Service's large volume carrier route customers, if our
+assumptions are correct concerning the amount of volume available
+for capture by cream skimmers. The maximum impact on overall postal
+rates is, however, likely to be limited. The negative impact on
+Postal Service's finances would likely be offset to a great extent
+by the effect of limited competition on the Postal Service's
+efficiency, service performance and product innovation.
+Table 4 IMPACT OF CREAM SKIMMING ON
+
+
+
+I. Comparison Of Business And Residential Routes
+We do not analyze cream skimming on business routes because only
+7 percent of mail volume delivered on them is carrier route as
+compared to 26 percent on residential routes. This makes them
+unlikely candidates for cream skimming based on our analysis. We
+compare several statistics for city residential and business routes
+in Table 5.
+Table 5 COSTS BY TYPE OF CITY DELIVERY ROUTE
+
+It can be seen that business routes have slightly more pieces
+per route with slightly higher cost per piece.43 The cost per
+delivery point and stop on business routes is much higher, but the
+profit per piece remains higher.44
+We are not aware of any study that has identified the reasons
+why business routes have a higher cost per piece and much higher
+cost per stop than residential routes. Several factors may
+contribute, including the high cost of serving each individual
+business in office buildings. In contrast, residential apartment
+houses generally have mail boxes in one central and convenient
+location for carriers. Other factors include the larger proportion
+of business mail requiring signatures and the greater difficulty of
+getting around in congested business areas as opposed to
+residential and suburban neighborhoods. Because business routes
+have much higher cost per delivery point, they
+43
+Business routes get much more assistance from routers who
+sequence the mail in the office, thus saving in-office time for the
+carrier. The cost per piece and per delivery point reflects these
+extra costs.
+44
+Profit is higher on business routes than on residential routes
+because of greater volumes of high profit mail, such as on Priority
+and Express. Cream skimming delivery networks might be developed
+for such mail in business areas, but are beyond the scope of this
+paper.
+are unlikely candidates for geographic cream skimmers who could
+be expected to have far fewer pieces over which to spread the cost
+per delivery point.45
+
+
+J. Some Differences Between the U.S. and Other Countries
+The classification structures in industrial countries have
+varying degrees of efficiency (defined as adherence to cost).46
+Efficient classification discourages cream skimmers because it
+leaves less cream to skim. The less efficient the classification
+structure, the more the administration needs monopoly protection.
+The U.S. Postal Service's classification structure contains several
+score of cost based discounts and rate differentials, probably more
+than any other administration.47 This should tend to make the U.S.
+less vulnerable to cream skimming. Moreover, the U.S. has more
+pieces per capita than virtually any other country. Because the
+delivery function has important economies of scale, ceteris
+paribus, the U.S. should have lower per piece costs than virtually
+every other country. This factor also makes the U.S. less
+vulnerable to cream skimming. In addition, the proportion of fixed
+cost in the delivery network is largely a function of volume per
+capita (per delivery). The larger the volume per capita, the larger
+the proportion of variable costs and the smaller the proportion of
+fixed costs. Since virtually every other postal administration has
+less volume per capita than the U.S., a larger proportion of their
+delivery costs are fixed relative to the U.S. A cream skimmer can
+reduce its fixed cost relative to an incumbent simply by reducing
+the number of days of delivery. Thus, a cream skimmer would obtain
+less cost advantage by cutting delivery frequency in the U.S. than
+in countries with less per capita volume. This also tends to make
+the U.S. less vulnerable to cream skimming than other
+countries.48
+45
+Of course, messenger services are common in central business
+districts, but this is for reasons of service and not cost.
+46
+The most efficient classification structure would be based on
+costs alone and would offer worksharing discounts wherever
+practical. These discounts would equal the cost savings. No postal
+administration meets this standard nor do the authors recommend
+that they do.
+47
+Advertising mail alone has over 60 different rate categories
+with rate differentials based on shape and discounts for
+presorting, barcoding and drop shipping.
+48
+A consequence of this is that an administration which delivers
+five days per week, ceteris paribus, is a more difficult target for
+cream skimmers than one which delivers six days per week.
+On the other hand, some factors appear to make the U.S. Postal
+Service more vulnerable than other postal administrations to cream
+skimming. Few, if any, countries have as large a proportion of
+carrier route volume as does the U.S. This is the mail most
+susceptible to diversion. In addition, few postal administrations
+pay their employees as large a wage premium as does the U.S. Postal
+Service.49 A wage premium allows cream skimmers to obtain an
+efficiency/cost advantage simply by paying the prevailing wage.
+49 See Cohen, Chu, Ferguson & Xenakis, "A Cross Sectional
+Comparison and Analysis of Productivity for 21 National Postal
+Administrations." Managing Change in the Postal and Delivery
+Industries, Ed. Crew & Kleindorfer, Kluwer Academic Publishers,
+1997.
+
+
+APPENDIX
+This paper's analysis is based on volume and delivery statistics
+from 13,212 residential carrier routes. These routes were extracted
+from the Carrier Cost Survey (CCS), conducted by the U.S. Postal
+Service in 1989. In addition to the volume and delivery statistics
+for each of the 13,212 residential routes, CCS provides the
+associated 5-Digit ZIP Code served by each route. A ZIP Code may be
+served by many routes. The data presented in this appendix are
+based on the demographic data for the 5-Digit ZIP Code for each
+route in a quartile. Thus, the demographic data for the same
+5-Digit ZIP Code could be averaged into the totals for two
+different quartiles. This would happen if two routes from the same
+5-Digit ZIP Code were in separate quartiles.
+The United States Bureau of the Census has grouped the 1990
+Census of Population and Housing data using 5-Digit ZIP Codes. The
+file (STF 3B) is available in three CDs of about 1.4 gigabytes
+(GBs) and contains socio-economic data for 29,467 5-Digit ZIP Codes
+served by the U.S. Postal Service. The Puerto Rico ZIP Codes are
+not included in STF 3B file.
+By merging the STF 3B file with CCS data, we have obtained
+economic and demographic data for the ZIP Codes in which 12,876
+residential routes reside. We could not obtain any socio-economic
+information for the ZIP Codes of 336 residential routes (most of
+them in Puerto Rico) because their ZIP Codes were not included in
+the STF 3B file.
+Tables A1 through A3 provide statistics for age, household
+income, and education attainment for the 5-Digit ZIP Code for the
+12,876 residential routes in CCS. Table A1 presents the statistics
+by quartile when routes are sorted by profitability. Tables A2 and
+A3 present the statistics by quartile and decile respectively when
+routes are sorted by carrier route volume. The statistics in Table
+A1 show that, on average, routes in the more profitable quartiles
+reside in ZIP Codes with higher income households and more educated
+adults. Likewise, the statistics in Tables A2 and A3 show that
+routes with high carrier route volume reside in ZIP Codes with
+higher levels of household income and education attainment.
+
+
+
+
+
+
+

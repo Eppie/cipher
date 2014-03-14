@@ -1,0 +1,2638 @@
+
+   
+      
+         
+            Periodic Table Manners
+(The Carnival of the Elements)
+
+
+
+            Like the weather, atoms nowadays are freely
+talked about but the ordinary person rarely
+does anything about them.  We know that water is
+H2O and (if we are sufficiently dyspeptic) that baking
+soda is NaHCO3; and it is generally agreed that uranium
+is quite heavy and that certain isotopes of it can
+be manipulated in such a way as to make a very big
+bang.  Some of us may even take a slightly perverse
+delight in the ability to rattle off the first 90-odd
+names of the elements to the tune of Gilbert and
+Sullivan's Modern Major General, thanks to the jeu
+d'esprit of a brash young Harvard junior-faculty statistician
+in the early 1950s.
+            
+
+            Very few of us, however, can say why the symbol
+for sodium is Na, why quicklime should remind us of
+a Brooklyn journalist preacher, or what the secret
+ingredient in a popular variety of ersatz diamond has
+to do with a little town in the southern end of Sweden
+and near the end of the alphabet.
+
+            The following article makes no attempt to be a 20-minute
+Chem 101 crash course for the perplexed, but,
+it is hoped, should at least provide you with counter-ammunition
+the next time someone corners you at a
+party and starts dropping terms such as stoichiometry
+as the temperature of your beer rises slowly but inexorably
+from cellar to attic.
+
+            It is in Attica that we begin, for the notion that the
+many complex substances with which we are surrounded
+in daily life might in reality be compounded
+from a much smaller number of basic elements is documented
+as far back as the golden age of Greece.
+Today we are accustomed to thinking of elements and
+atoms as one and the same; to the Greeks, atoms and
+elements represented efforts by different philosophic
+schools to explain the discrepancy between appearances
+and the true nature of things.
+
+            According to Aristotle, it was the qualitative pluralist
+Empedocles (484-424 B.C.E.) who first argued
+that everything was fundamentally reducible to the
+elements earth, water, air and fire (or sunlight) in different
+proportions, but, as one classical scholar
+
+observes, a popular belief in the four as somehow
+basic ingredients in nature was much older, possibly
+a borrowing from Egypt.
+
+            Greek atomism was fashioned in a different workshop.
+Democritus (born sometime between 470 and
+457 B.C.E.) maintained that despite our sense perceptions,
+in reality there are only atoms and the
+void.  Aristotle says that Democritus conceived
+atoms—the word means unsplittables (Greek a- ,
+not-, plus tomos , a cut, section)—as being particles
+at variance with one another which tend to get
+ensnarled and interlocked... fit snugly and so catch
+firm hold of one another, for some bodies are scalene
+while others are sharply hooked, some are concave,
+others convex... (As it turns out, atoms don't quite
+work this way; but complex molecules, particularly
+organic compounds, often do, which is why surface
+proteins of a cell that function as receptor sites for
+harmful invaders such as viruses can be blocked with
+other molecules of the appropriate shape, and why,
+when placed in a solution of mixed sugars, some bacteria
+flunk the membership test for the Clean Plate
+Club because they can digest dextrose but leave its
+mirror image, levulose, untouched.)
+
+            Although the four-elements paradigm remained
+robust throughout antiquity and through the Middle
+Ages (during which a mystical tradition emerged
+proposing a fifth element, ruling the others, the socalled
+quintessence ), atomism fell out of favor for
+nearly two millennia until the quantitative philosophy
+of the early Enlightenment created a conceptual environment
+friendly to the metamorphosis of alchemy,
+through the chemical experiments of Robert Hooke,
+Isaac Newton, Joseph Priestley, Henry Cavendish,
+Antoine Lavoisier and others, into something like the
+chemistry we were all taught in high school.
+
+            The scientist's prejudice, to be sure, sometimes
+impeded saving the phenomenon (as the Greeks
+aptly called experimental observation).  The year
+before the outbreak of the American Revolution,
+Priestley succeeded in removing from air, so he
+thought, the substance called phlogiston which was
+thought to be what put fires out, and dubbed his
+dephlogisticated air oxygen because he supposed it
+to be an essential ingredient of acids (Greek oxy -,
+sharp—as in oxymoron —plus - gen , related to the
+verb gignomai , I become, happen, am born)
+.  Cavendish was much closer to his own mark: in 1766
+he isolated hydrogen, which he correctly perceived
+as a building block of water ( hydro- being the
+oblique stem of Greek hyder , water).
+
+            In many instances, finding an element was simply
+a matter of recognizing that it was an element
+and not a compound, and had been lying around
+people's mines and workshops since antiquity.  In
+place of the alchemical signs still common through
+Newton's day in the notation of chemical reactions,
+elements got assigned symbols of one or two letters,
+often drawn from the Latin names for the same substances
+because Latin remained the common tongue
+for scholarly communication across national and linguistic
+borders until well into the 19th century.  Thus
+the sign for iron became Fe (from Latin ferrum ), for
+gold, Au ( aurum ), for silver, Ag ( argentum ), for copper
+Cu (cuprum) , for lead, Pb ( plumbum —until
+steel replaced lead pipe for waterworks, plumbers
+were, and had been since Roman times, workers in
+lead).
+
+            Other symbols are less straightforward.
+Sodium—the name is derived from soda , originally
+an Italian term for ash used in glassmaking and later
+applied to a number of sodium salts—is Na, short
+for natron or natrium , a neo-latinate term also
+applied to a variety of sodium compounds.  Because
+it has the same number of free electrons as hydrogen,
+sodium is useful in a great many compounds as
+a substitute for one of the two atoms of hydrogen
+(also valence 1) in a variety of acids.  Thus jewelers'
+pickling solution, used to dissolve surface sulfides
+from precious metals and marketed under such
+trade names as Dixcel or Sparex, is sodium hyposulfate
+(NaHSO4;), far less corrosive than the sulfuric
+acid
+it replaced in everyday use.  Other common
+sodium compounds are NaHCO3 (sodium bicarbonate,
+or baking soda, mentioned above), NaCl (sodium
+chloride, or common table salt; chlorine is so
+called because in its gaseous form it is green—
+Greek chlor- , as in chlorophyl , which, a vulgar
+euphemism for manure notwithstanding, is what
+really makes the grass grow green), NaOH (sodium
+hydroxide, commonly known as caustic soda or lye)
+and NaNO3 (sodium nitrate, sometimes called Chile
+saltpeter).
+
+            A common substitute for sodium when the latter
+is contraindicated (e.g. for heart conditions) is potassium
+(from potash), whose valence is also 1 and
+whose symbol is K, from late Latin kalium , a word of
+dubious etymology.  (For what it's worth, Greek kalia
+means birdhouse, little shed, wooden shrine—
+such as would cover an outdoor divinty's statue.)
+Unlike sodium, free potassium reacts violently with
+water, liberating gaseous hydrogen ; but like sodium, potassium is rarely
+free and much more apt to be encountered in compounds.  Potassium iodide
+can be used at dinner as a salt substitute; Morton salt
+includes significant amounts of it as an additive
+because iodine (like chlorine, a valence-1 halogen
+and a gas in its natural state) is necessary to the
+proper functioning of our thyroid glands.
+
+            Potassium chloride (KCl), on the other hand,
+can be made to react with Chile saltpeter (see
+above) to produce true saltpeter: potassium nitrate
+(KNO3), an essential ingredient of gunpowder,
+whose other two components are sulfur and carbon;
+the three can be combined to explosive effect in as
+simple proportions by weight as 1, 2, and 3 respectively.
+(Do not try this at home.)
+
+            There is also a compound called wall saltpeter
+because it can leach out of the mortar between the
+bricks of damp walls: calcium nitrate (CaNO3).
+Calcium has a valence of 2, so it can substitute in
+many a molecule for two atoms of potassium, sodium,
+or hydrogen, or some combination of them; its
+name derives from Latin calx , which means both
+lime—the substance, not the fruit—and heelbone.
+The association of lime and bones is not accidental:
+Limestone (calcium carbonate, CaCO3) is nothing
+but the fossilized skeletons of tiny sea animals, and
+calcium is the principal ingredient of bone; when
+Shakespeare wrote, in The Tempest , that Of his
+bones are coral made, he stated a truer fact of
+nature than he may have known.  Other ubiquitous
+calcium compounds include gypsum—calcium sulfate
+(CaSO4;), which is what sheetrock is made of—
+and the active binding agent in cement, quicklime—
+Calcium oxide (CaO), produced by cooking limestone
+in a lime kiln (the primitive version, a lime rick
+—compare hay-rick , a variant of haystack —was a
+heap of earth with the stone and a fire kept going
+inside it—whence the name of the town in Ireland
+by which the doggerel verse-form is called as well ).
+Quicklime is quick (that is, alive, as in the quick
+and the dead) because it is anhydrous (Greek for
+unwatered) and soaks up water with a vengeance to
+make slaked lime (calcium hydroxide, Ca(OH)2,
+from CaO + H2O), which is what makes quicklime so
+useful as the binding agent in mortar, cement, and
+concrete.
+
+            Some elements bear macaronic labels: one
+which has a name from Greek but a symbol from
+Latin is antimony (refined as early as 900 C.E. and
+used, during the Middle Ages, as a powerful precursor
+to Ex-Lax.  The patient swallowed it as a pill
+which was collected at the other end and weighed,
+the patient being charged for the difference.)
+Antimony is so called from Greek antimonos , against
+single(ness) owing to its readiness to react with
+other substances, but its chemical symbol is Sb, from
+Latin stibium , the name of a cosmetic and medicinal
+powder (antimony sulfide) used by Roman women as
+a hair blackener for their eyebrows, and in ophthalmology
+(of which there were many Etruscan specialists,
+thanks in part to the unhealthy swamps of
+Rome's Tuscan hinterlands) as an eye ointment.
+Another metal, tin—for which the Phoenicians used
+to sail as far from Tyre and Sidon to the mines on the
+coast of Cornwall nearly three millennia ago—bears
+a Latin symbol short for another metallic substance:
+Sn, for stannum , a Roman-era amalgam of silver and
+lead.  (The Romans called tin plumbum album —
+white lead.)
+
+            Most of the elements discovered in the first exuberant
+wave of Enlightenment chemistry bear
+abbreviations close to their actual names: Ni for
+nickel, first identified in 1751 (an abbreviation of
+German Kupfernickel , copper-demon, so called
+because miners first noticed it as a stubborn adulterant
+of copper ore), Al for aluminum—spelled alumin i um
+in the British Commonwealth nations
+(named in 1825 from Latin alumen , astringent substance),
+Co for cobalt (isolated in 1735; the name is
+a variant of German Kobold , a kind of imp).  But
+there are a few curve balls here as well, such as tungsten
+(from tung sten , Swedish for heavy stone), first
+discovered in 1783, whose symbol is W, short for
+Wolfram (wolf-soot)—the German name for tungsten
+oxide.
+
+            
+
+            Tungsten was first discovered in the United
+States in 1819, along with tellurium (with the symbol
+Te, it comes from Latin tellus , another word for
+terra , both meaning earth; compare the consonant
+shift between Latin puer , boy, and puella, girl) in
+Huntington, Connecticut, in a bismuth mine.  (It was
+once thought that bismuth —symbol Bi—was a
+Germanic corruption of weisse Masse , white mass.
+However, it now appears to have a far more complicated
+history: German Bismut came from New Latin
+bismutum , itself altered from medieval Latin vismutum ,
+from obsolete German Wismut , itself a compound
+of Wise- , meadow, plus Mut , mine claim.  If
+this seems far-fetched, consider that a major
+American silver polish company began when a Mr.
+Wright of New Hampshire extricated one of his cows
+from a slough in a wet part of a field and was tipped
+off by the whitish mud clinging to the animal's feet to
+the presence of what proved to be a surprisingly
+large deposit of calcium-rich diatomaceous earth.
+Mines do grow in meadows.)
+
+            Apart from identifying the elements, the
+chemists of the 18th and early 19th century were
+most interested in quantifying them.  Jö;ns Jakob
+Berzelius, who discovered selenium (from Greek
+selene , moon) in 1818 and named silicon (from
+Latin silex , flint) in 1824, compiled the first systematic
+table of the elements in 1828, arranged according
+to units of atomic weight one twelfth of the heft
+of the commonest isotope of carbon.  (The heavier
+carbon-14—C14 for short—is radioactive, with a
+half-life—the amount of time it takes half the
+radioactive atoms to throw off particles and decay to
+their non-radioactive isotope—reckoned in thousands
+of years, once the carbon is captured in a living
+organism such as a tree.  This permits a means of reasonably
+accurate dating which has been a boon to
+archeologists.)
+
+            Four decades later, Dmitri Mendeleev systematized
+the table to show stacks of elements with similar
+properties (e.g. the interchangeability of the
+numbers of hydrogen, lithium, sodium and potassium
+atoms in molecules such as sulfates and hydroxides:
+The sodium atom in lye—NaOH—could just
+as well be replaced by a second hydrogen, making
+hydrogen hydroxide—HOH, better known as
+H2O, or water).  Mendeleev's insight was so valuable
+that when radioactive elements began being synthesized
+in laboratories during this century, he got one
+named after him: Mendelevium—note the dropping
+of the final e!—the 101st element (symbol
+Md), first synthesized in 1955.
+
+            Other scientists with eponymous atoms include
+the discoverers of radium, Pierre and Marie Curie
+(element 96, Curium, symbol Cm, discovered in
+1944), Ernest O. Lawrence, founder of the
+Lawrence Berkeley and Lawrence Livermore laboratories
+(element 103, Lawrencium, symbol Lr, synthesized
+in 1961), and, of course, Albert Einstein
+(element 99, Einsteinium, symbol Es, created in
+1952)—the only instance of an atom named after
+someone still living at the time of its discovery.  (He
+died in 1955.)
+
+            Place names and celestial bodies have been a
+fruitful source of names for both natural and synthetic
+elements.  For the outer planets, there are
+uranium, neptunium, and plutonium.  Cerium is
+named for the asteroid Ceres, both having been discovered
+the same year (1801).  National commemoratives
+include Americium, Germanium, Polonium
+and Francium; ancient France likewise gets a nod in
+Gallium (Ga), the only metal that melts in your
+hand, not in your chamber (unless you have a very
+warm room)—named both for Gaul (Latin Gallia,
+that place which, thanks to Julius Caesar's memoir
+of its subjugation by the Romans, every schoolchild
+used to know was divided into three parts) and, in a
+gesture of unusual levity, as a pun on the name of its
+discoverer, Paul-Émile Lecoq de Boisbaudran.
+(French coq and Latin gallus both mean the same
+thing: rooster.)
+
+            One place has the distinction of having no fewer
+than four atoms named after it, an embarrassment
+of nomenclature arising from what was originally
+thought to be one element turning out on closer
+inspection to be several.  Carl Gustav Mosander
+found a new element in a geological sample from
+Ytterby, Sweden, a town just a few miles north of
+Göteborg (the Swedish terminus for the ferry from
+Frederikshavn, Denmark.  Do not confuse this with
+Ytterby n , Sweden, which is 1000 kilometers to the
+north, on the gulf of Bothnia).  Naturally enough,
+Mosander named the new element Ytterbium, after
+the town.
+
+            One can well imagine his surprise when the
+new atom turned out to be plural.  To make the best
+of a bad situation, the second and third elements
+got names from pieces of the first: Erbium (Er) and
+Terbium (Tb).  Complicating matters even more, in
+1907 another chemist, George Urbain, discovered
+that the remaining element was actually two.  The
+new one got called Ytterbium (Yb) and Mosander's
+original find got the name Yttrium (Y).  Synthetic
+yttrium aluminum garnets (YAGs) are favored by
+jewelers and their public because the high refractive
+index of the gem approaches that of diamond,
+at a fraction of the cost.
+
+            Revelation is not seal'd:  New elements are
+being discovered to this day.  As of last year, the
+Society for Heavy Ion Research in Darmstadt,
+Germany, had gotten up to element 112.  These new
+radioactive atoms are remarkably ephemeral, often
+decaying in millionths of a second into lighter elements
+by casting off subatomic particles, their fleeting
+lives documented only by vapor trails.
+
+            Still, they enjoy a brief existence of a sort, and
+names for them, honoring physicists and the locations
+of their laboratories, are already queued up
+awaiting approval by the scientific community at
+large: Rutherfordium for #104 (Ernest Rutherford),
+Dubnium for #105 (after the Russian lab at Dubna),
+Seaborgium for #106 (Glenn Seaborg), Bohrium for
+#107 (Niels Bohr), Hassium for #108 (Hesse
+province in Germany, where the Darmstadt lab is
+located) and—the first element to be named solely
+for a woman—Meitnerium for #109 (Lise Meitner).
+
+            It is a sobering thought, then, to consider that
+virtually all of the elements above #2 (helium, the
+fusion product of the hydrogen that makes up the
+stars, our sun included) are the result of the catastrophic
+blowing apart of prior suns, and that our
+earth and everything else in our own solar system
+are mere cosmic hand-me-downs from someone
+else's supernova.  In this light the history of the universe
+according to Taoist thought can be either
+depressing or exhilarating, depending on one's point
+of view; at any rate it seems true enough as far as
+the Big Picture goes: First there was nothing.  Then
+there was something.  Then there was hydrogen.
+Then there was dirty hydrogen.
+            
+
+            
+               Notes
+               
+            
+
+            
+               Nick Humez is the coauthor, with his brother
+Alex, of a half-dozen books on language and word origins
+including Latin for People/Latina pro Populo
+(Little, Brown, Boston: 1976).  He divides his time
+between a silversmithing studio in Maine and a scriptorium
+in New Jersey.
+            
+            The idea for this title came from Jane
+Gallagher Cates, to whom, with her husband, David
+Cates, I am indebted for thoughtful comments and
+suggestions on an early draft of this article.
+            Tom Lehrer, who went on in the 1960s to a
+tenure-track position at Stanford and to write songs
+for the television hits That was the Week That Was
+(New Math, The Vatican Rag) and Sesame Street
+(Silent Letter E).  In his easily accessible modified-stride
+piano style and sardonic lyrics, Lehrer profoundly
+influenced a whole generation of budding
+cabaret-song composers, including the author of this
+article.  It could be argued that only Socrates, perhaps,
+had so widespread an effect on a rising generation in
+his cultural milieu—and we all know what they did to
+him .
+            Philip Wheelwright, in The Presocratics , BobbsMerrill/Odyssey:
+1966, page 481, note 8.  That the Egyptians recognized an elemental chemistry—the
+word khem is a very old name for the black alluvium
+of the Nile delta, and thus, by synecdoche, for Egypt
+itself—is argued at some length by R. A. Schwaller de
+Lubizc in his titanic book on the temple of Apet of the
+South at Luxor, The Temple of Man (Inner Traditions
+International, Rochester, VT: in press).
+            Priestley's flawed insight is discussed in Thomas
+Kuhn's brilliant The Structure of Scientific
+Revolutions (Harvard University Press: 1969.)
+Originally issued by Chicago University Press as one
+offering in a set of works, edited by the mathematician
+Rudolf Carnap, called Foundations of the Unity
+of Science, Kuhn's blockbuster deconstruction of
+normal scientific practice had the effect among
+some readers of torpedoing the very idea that that
+there was any unity of science.  That it was the final
+volume in the series may, however, have been entirely
+coincidental.  Carnap died in 1970 and Kuhn this
+past year.
+            The formula for sulfuric acid will never be forgotten
+by anyone who learned in junior high school
+some variant of the following epitaph:
+Johnny drank the beaker dry;
+Johnny is no more:
+For what he thought was H2O
+Was H2SO4;.
+            
+            As the Italian chemist Primo Levi dramatically
+was reminded when a flask blew up in which he was
+trying to refine benzene under wartime-scarcity conditions,
+one of several remarkable escapes from death
+recounted in his collection of autobiographical essays
+published as The Periodic Table (Schocken, New
+York: 1984).
+            Here is the limerick about Henry Ward Beecher,
+promised in the opening paragraph:
+A great Congregational Preacher
+Once said to a hen, You sweet creature!
+The hen, just for that,
+Laid an egg in his hat,
+And thus did the hen reward Beecher.
+It has been argued, but not definitively proven,
+that this is a veiled reference to the scandalous affair
+between Beecher and Elizabeth Tilton, a member of
+his parish and the wife of his successor as editor of the
+Independent , for more on which see Richard
+Brookhiser's article The Happy Medium in the New
+York Times Book Review of March 29, 1998.
+            An alternate derivation, spurious but appealing,
+was proposed to us while this article was in preparation,
+in a letter (8/20/1998) from Col.  Frank Holan,
+USAF (retd.): The symbol for tungsten is W because
+it is Weird.
+            I am indebted to Edward Goldfrank, my coauthor
+on the Boston Basin Bicycle Book , for bringing
+to my attention this tidy cosmological synopsis (personal
+communication, late 1970s).
+            Loose ends: (a) While we're on the subject, or at
+least next door to it—or at any rate, before we leave
+its vicinity—let this be said for the record: Nowhere
+in the works of Arthur Conan Doyle does arch-sleuth
+Sherlock Holmes ever actually say, Elementary, my
+dear Watson.
+
+(b) The term element itself, while unquestionably
+from Latin—Cicero gives it as a gloss for Greek stoicheion,
+series ( stoichiometry is the calculation of
+relative quantities of reagents and their end-products
+in a chemical reaction)—is of obscure derivation.
+Ernout and Meillet, in their delightful Dictionnaire
+étymologique de la langue latine , urbanely review several
+rather far-fetched possibilities including
+LMN—well, it is a series—and elephas (elephant),
+but conclude with a shrug of their shoulders and a
+suggestion that the word might have come from
+Etruscan.  Another word whose origin is shrouded in
+the mists of antiquity—like the swamps of Etruria, a
+notoriously foggy place.
+         
+         
+            EX CATHEDRA
+
+            
+               Ave!
+            
+
+            Or, rather, hello again! VERBATIM is back,
+with as few changes as possible, and we hope that it
+comes as an old friend.  We thank everyone who
+resubscribed, sight unseen, and especially those who
+enclosed heartening notes, made helpful suggestions,
+and, in general, cheered us on.
+
+            You'll find some familiar voices as well as some
+new ones in this issue.  In choosing the articles you
+see in this issue I had help from a name you may
+have noticed on the masthead: Paul Heacock, of the
+Cambridge Dictionary of American English.  I would
+also like to thank Bob Olsen, John Mella, Mike
+Slattery, Debbie Posner, and (especially) Hazel Hall
+for their help. (Hazel has agreed to continue as our
+UK representative.)
+
+            One thing you may have already noticed is that
+we are a little more wired than before, and it's not
+just due to Coca-Cola and coffee.  I can be emailed at
+editor@verbatimmag.com , and our shiny new website,
+www.verbatimmag.com , has been duly submitted
+to all the spiders, indexers, and 'bots that make
+up the major Internet search indexes.  Eventually, we
+plan to make back issues available (and searchable!)
+online for your researching pleasure.
+
+            Many of you have written and asked for details
+about the sale.  VERBATIM has been sold to Dr.
+Warren Gilson, an inventor in Madison, Wisconsin.
+(His company's website is www.gilson.com ; they
+make lab gadgets beyond your wildest dreams, and
+he can be reached electronically at wegilson@gilson
+.com ).  Dr. Gilson has set up VERBATIM as part of
+Word, Inc., which has applied for nonprofit status.
+We're awaiting word from the IRS; please cross your
+fingers for us.  Our purpose is to promote learning
+and discussion of language and words.
+
+            One of the questions we asked on our survey was
+if you would be interested in a Best of collection of
+past articles.  Many, many of you were, so I am asking
+you to send in your votes for what articles were
+best from the past twenty-three volumes.  Send
+them to the address on the masthead or to editor@verbatimmag.com.
+Please include the title,
+author, volume, and issue number if you know them,
+or as much information as you can!
+
+            Kudos to the sharp-eyed survey answerers who
+caught the typo in the last line of the survey: The
+classic you instead of your.  And thanks to those of
+you who wrote in about the double possessive in the
+salutation of the letters.  To lift from the latest
+Fowler's English Usage, (ed. R.W. Burchfield,
+Oxford, 1996 p. 227)  a friend of my mother's is
+idiomatic, but a friend of the British Museum's is
+not.  So the idiomaticity of the phrase we used in
+our letter to former subscribers (Dear Friends of
+VERBATIM'S) all depends on whether you feel
+VERBATIM is more like your mother or the British
+Museum!
+
+            A few reassurances: some of you have written to
+express your hopes that VERBATIM will not
+become clogged with ads.  According to our nonprofit
+application, we can only accept ads for products,
+businesses, or services related to our mission,
+which absolutely rules out ads for personal watercraft,
+financial services, and smelly perfume inserts.
+
+            One last plea: don't you know someone who
+would like VERBATIM?  Think of us when making
+out your holiday lists.  Due to the marvelous response
+from former subscribers, the special $25/year rate in
+North America (¥18 in the U.K, US $30 everywhere
+else) will be good for the foreseeable future.  Write,
+call, or email by December 1 and your gift will start
+with the January issue.  Of course, we'll send a card.
+
+            I trust that our readers will not hesitate to make
+their feelings known about our reincarnation—keep
+those letters coming!
+
+            Erin McKean
+         
+         
+            DARE—More Than Halfway There
+
+
+
+            Because logophiles regularly ask about the
+progress of the Dictionary of American
+Regional English (familiarly known as DARE), I'd
+like to take the opportunity of VERBATIM's rebirth
+to bring you all up to date.  First, let me answer the
+most frequently asked question, How is Fred
+Cassidy doing?  I'm delighted to say that Frederic G.
+Cassidy, DARE's Chief Editor as well as the founder
+of and inspiration behind the project, shows few signs
+of slowing down as he approaches his ninety-first
+birthday.  His recent return from a trip to Jamaica
+(where he was born and later did the research for his
+books on Jamaican English) and his imminent departure
+for a conference on Caribbean Linguistics in St.
+Lucia should convince you of his good health!
+
+            The second most frequently asked question,
+When will Volume IV be available?  is more difficult
+to answer.  Before I try, let me give a quick synopsis of
+the project for those who aren't already familiar with it.
+
+            The Dictionary of American Regional English is a
+reference tool unlike any other.  Its aim is not to prescribe
+how Americans should speak, or even to
+describe the language we use as cultivated speakers
+and writers.  Instead, it tries to document the varieties
+of English that are not found throughout the country—those
+words, pronunciations, and phrases that
+vary from one region to another, that are learned at
+home rather than at school, or that are part of our oral
+rather than our written culture.  Although American
+English is remarkably homogeneous given the
+tremendous size of the country, there are still many
+thousands of differences that characterize the various
+dialect regions of the United States.  It is these differences
+that DARE records.
+
+            The Dictionary is based both on face-to-face
+interviews carried out in all fifty states between 1965
+and 1970, and on an extensive collection of written
+materials (diaries, letters, novels, histories, biographies,
+newspapers, and government documents) that
+cover our history from the colonial period up to the
+present.  These materials are cited in individual
+entries to illustrate how words have been used from
+the seventeenth century through the end of the twentieth.
+The entries also include pronunciations (if they
+vary regionally or differ from what would be expected),
+variant forms, etymologies (if DARE can add to
+what is already known about a word's history), and
+statements about regional and social distributions of
+words and forms.
+
+            A feature unique to DARE is its inclusion in the
+text of the dictionary of numerous maps that show
+where words were found in the 1,002 communities
+investigated during the fieldwork.  The maps are distorted
+to reflect population density rather than geographic
+area (giving a speaker in small, but densely
+populated Connecticut as much space as a speaker in
+large, but sparsely populated Nevada).  Though the
+maps are disconcerting at first glance, one easily
+learns to translate the state boundaries and make
+sense of the regional patterns.
+
+            Volume I, including extensive introductory matter
+and the letters A-C, was published in 1985 (to the
+acclaim of scholarly and lay reviewers alike, I'm
+pleased to say).  It had gone into a fifth printing within
+a year of publication.  Volume II (D-H) came out in
+1991, and Volume III (I-O) appeared in 1996.  Volume
+IV will include P through the middle of S (we hate to
+divide a letter in the middle, but you all know how big
+S is).  And Volume V will take us through Z.
+
+            To give you a sample of what's to come, let me
+mention a few representative headwords from
+Volume IV—chosen simply because I like them.  (If
+they are strange to you, see below for their meanings.)
+The P's take us from pandowdy to pompey to pudjicky;
+the Q's offer qualmish, quick start, and quiddle;
+in R we find ramstugious, redd up, robin snow, and
+rumpelkammer; and S yields saluggi, say-so, and
+smearcase.  Not to be outdone in creativity, the natural
+science entries offer pollynose, prickly pig, puppy
+toes, Quaker bonnet, railroad Annie, and sac-a-lait,
+among many, many others.
+
+            As you can see from this sample, we are moving
+steadily along through the alphabet.  Our original
+hope had been to publish Volume IV in 2001, with
+Volume V coming out in 2006.  That schedule, however,
+was contingent on our maintaining our earlier level
+of funding, which has become increasingly difficult,
+and, in the last few years, impossible.  In fact, our
+financial woes necessitated a staff reduction last summer,
+and it looks as if Volume IV will not be ready
+before 2002.
+
+            Although the project is located on the campus of
+the University of Wisconsin-Madison, the University
+can provide very limited financial support.  Our funding
+has come primarily from grants from the National
+Endowment for the Humanities, matched by gifts
+from numerous foundations and individuals.  While
+the Andrew W. Mellon Foundation was for many
+years our largest source of private funds, we have
+also received assistance from the Brittingham Fund,
+the Gladys Krieble Delmas Foundation, the Evjue
+Foundation, the Horace W. Goldsmith Foundation,
+the Hillsdale Fund, Inc., and the Grace Jones
+Richardson Trust, among others.
+
+            After helping DARE for nearly twenty years
+(despite its usual limit of ten years), the Mellon
+Foundation has had to move on to other worthy projects.
+So, we must find other friends who can help us
+see that this project reaches the only reasonable conclusion
+for a dictionary—the letter Z.  The single
+bright spot in our funding picture is that the Dean of
+the College of Letters and Science here at the UWMadison
+has provided DARE with a Development
+Specialist for three years.  David Simon has just
+joined our staff, and will be devoting his considerable
+energies to finding new sources of funding for
+DARE.  Although we hope that the National
+Endowment for the Humanities will continue to provide
+us with some support, it is clear that the future
+of the project depends largely on private philanthropy.
+We all know people who know people who
+might be able to help.  If you can be part of our support
+network, or know someone else who can, won't
+you give David a call?  He can be reached at (608)
+265-9836.  Or drop him a note at 6125 Helen White
+Hall, 600 N. Park St., Madison, WI 53706; or send
+him an e-mail at davidsimon@facstaff.wisc.edu.  (While
+you're on line, take a look at our website, at
+http://polyglot.lss.wisc.edu/dare/dare.html. )  We
+invite you to join in our rallying cry—On to Z!
+
+            In case you didn't recognize those Volume IV
+headwords, here they are again:
+
+
+
+pandowdy a deep-dish pie or cobbler
+
+pompey bulging or sagging (used in reference to
+a floor or a surface of ice)
+
+pudjicky sullen, grouchy
+
+qualmish queasy
+
+quick start a sneaker
+
+quiddle to fuss over unimportant matters
+
+ramstugious violent and reckless in behavior
+
+redd up to clean, tidy up
+
+robin snow a light snowfall
+
+rumpelkammer a junk room or storage place
+
+saluggi (spelled in various other ways as well) a
+game intended to torment its victim
+
+say-so an ice-cream cone
+
+smearcase cottage cheese
+
+pollynose a maple seed that one splits apart and
+sticks to the bridge of the nose
+
+prickly pig a porcupine
+
+puppy toes a plant of the genus Euonymous, also
+called cat's paw and burning bush
+
+Quaker bonnet a bluet; also lupine
+
+railroad Annie an orange milkweed
+
+sac-a-lait a white crappie (a fish of the sunfish
+family)
+            
+         
+         
+            Exploring the Lexicon with Natives of North America
+
+
+
+            In August, 1967, at the Dictionary of American
+Regional English (DARE) offices on the University
+of Wisconsin campus, Frederic G. Cassidy assembled
+the third group of dialect fieldworkers he would
+send out in Word Wagons (Dodge vans converted to
+campers) to collect regional words from far-flung
+reaches of the United States.  I was one; the others
+were Tom Clark, Stanley J. Cook, and Patt Van Dyke.
+We went through a week of orientation and instruction,
+getting to know the office staff and operations,
+having our driving and phonetic transcription skills
+checked, and learning to use our camping and
+recording equipment.  Bibliographer Goldye Mohr
+had identified the communities we were to visit.  It
+was up to us to choose an efficient itinerary and
+locate informants—as many as needed, but ideally
+just one in each place—to answer the 253-page
+DARE questionnaire (QR).  We were advised to
+begin each project by notifying the county sheriff,
+town clerk, or other officials, and to ask them for
+leads to good informants.
+
+            The ideal informant (INF) was a native and lifelong
+resident from an old local family, someone without
+much exposure to the outside world, who spoke
+regularly and familiarly with community members of
+all social ranks and occupations, who could remember
+precisely how all of them talked about their
+social, domestic, economic, and natural environments,
+and who would donate ten to twenty hours of
+free time to transmit all this information.
+
+            The ideal fieldworker (FW) was a good listener
+with at least a little linguistic training and a lot of
+Sprachgefühl who knew as much about the world in
+general as the INF knew about the local part of it.
+First, though, the FW had to possess a talent for fitting
+in, so as to make such an impression of integrity
+and worth on local officials that they arranged an
+introduction at once to the ideal INF.  Once the
+interview began, this ideal FW would seem as familiar
+as an old friend, so that the INF always spoke in
+everyday terms instead of bookish formal ones.
+
+            Like all ideals, these remained abstract, and
+DARE had to make do with actual human beings and
+their limitations.  Judging by the quality of the 1,002
+QRs archived in Madison, we—INFs and FWs
+alike—must have compensated for our limitations
+pretty well.
+
+            Of my own limitations, the one I had to compensate
+for most was my ignorance of city life.  I asked Jim
+Hartman, the fieldwork coordinator, not to send me
+on any more urban expeditions than necessary.
+However, since I was the sole FW assigned to
+Louisiana, New Orleans was necessary.  In fact, it was
+necessary twice, because two QRs were allocated in
+the metropolitan area.  To increase coverage, I divided
+one between a white suburban housewife and a
+black gardener from downtown.  For the other I went
+to the Irish Channel, a working-class neighborhood.
+This was the environment I was most ill-suited for.
+
+            I knew how to act in some places.  Growing up in
+the rural Ozarks, I learned early that good country
+people expect visitors to sit and visit a spell before
+bringing up their business.  From dealing with academic
+administrators, I knew to come straight to the point
+with personages who sit behind large desks and have
+their time allocated by secretaries.  One of my teachers,
+a South Carolina native, had taught me that white men
+like me always had to state their business clearly when
+looking for a resident of a black neighborhood; otherwise
+the neighbors would assume they were up to no
+good and pretend not to know the person.  Because my
+city experience was largely limited to student enclaves,
+however, nothing prepared me for establishing turf in
+a working-class urban neighborhood.
+
+            My difficulty was exacerbated by the setting
+where I was introduced by a city councilman: a bar,
+Parasol's, which played a central role in the social and
+cultural life of the Irish Channel.  I could find no one
+INF who would withdraw to a private spot for a quiet
+interview; I just had to show up every afternoon and
+interview whichever authentic old-time Irish Channel
+male residents came in and agreed to talk there in the
+bar.  Women stayed on the restaurant side, and I was
+given to understand it would be presumptuous of me
+to try to interview them.  On the bar side, I was
+expected to buy rounds of drinks when my turn came
+up and to drink the beer served to me when others
+bought rounds.  The regulars came almost every day
+to play out roles (jokester, misanthrope, goosey guy,
+smiley guy, gourmand, and others) in an ongoing plotless
+improvisational drama.
+
+            It was a fun-loving group, and I would have had as
+much fun as anybody if I had not had work to do, but
+keeping the QR going required continual exercise of
+the will.  Normally, with one INF, once we established
+a working relationship, my only strain came from
+making the questions understood and making sure I
+understood the answers.  In Parasol's, though, I had to
+struggle every night to shape and defend my identity
+because it never did settle down to a single role that
+every actor could play to.  To some I was the guy writing
+a book. One fellow always greeted me with,
+Arkansas! Arkansas! Another fixated on Wisconsin
+and repeatedly tried to start friendly arguments about
+the Green Bay Packers.
+
+            A quintessential incident: one night a patron new
+to me came in, noticed me asking questions, and
+began asking some himself.  I explained cordially what
+I was doing and who I worked for.
+
+            He said, Oh, a Yankee, hunh?
+
+            Still cordially, I said, No, I'm not a Yankee.  I just
+work for the University of Wisconsin.  I was born and
+raised in Arkansas.  He sparred with me about what
+the Dictionary would be good for and called me a
+Yankee again.  This time, half for show and half in real
+anger, I stood up, slammed my fist to the table, and
+shouted, God damn it, I'm not a Yankee!
+
+            There were several of us at the table, and every-body's
+beer turned over.  I thought, Uh-oh, now I've
+got a fight on my hands.  Sensing I had to show some
+spunk, but unable to guage it right, I had almost
+shown too much.  He said, Take it easy.  I'm not trying
+to start nothing.  He didn't back off for long; after I
+had bought more beer, he came after me again about
+the Dictionary.  I think, he said, it's a lot of bullshit.
+
+            I answered much the way I had answered more
+delicately phrased objections in Arkansas and north
+Louisiana: I told how, for example, a fisherman would
+be able to check the Dictionary if he caught a mudfish
+in Florida and wanted to find out what the real
+name of it was.  He could find that the mudfish is
+called bowfin in textbooks, that in south Arkansas and
+north Louisiana it is written grindle or grinnel but
+always pronounced [` grinl ]; that in south Louisiana it
+is called green cypress trout, grinnel , and choupique ,
+which in English is pronounced [š]; that in
+northwest Florida the word grindle is sometimes pronounced
+[`grindl].  A person could find similar interesting
+bits of information about every aspect of daily
+life.
+
+            Such explanations had always worked before but
+here I had gauged wrong again.  The people farther
+north had all been earnest Protestants with a utilitarian
+outlook.  This man resided in a Catholic neighborhood
+whose cultural values were epitomized by
+parades: Mardi Gras, St. Patrick's Day, and St.
+Joseph's Day.  Celebrants began planning next year's
+parade the day after this year's was over.  I should
+have known that these interests did not point to a
+utilitarian turn of mind.
+
+            Yeah, he said, but I still think it's a lot of bullshit.
+
+            A few years later I would present a symposium
+paper titled Scholarship as Play, saying academic
+pursuits manifest the human tendency to extend the
+learning activity of play all the way through adulthood
+instead of abandoning it after adolescence, as
+most other mammals do.  Even in 1968, though, I
+had long realized—without thinking the matter
+through so thoroughly as I did for the paper—that
+academic study is not serious in the same sense that
+farming, mining, weaving, and child-rearing are.  I
+had seldom said so openly, but this began to seem
+like a good time.  I grinned and looked the man in the
+eye and said, To tell you the truth, I think it's a lot
+of bullshit myself.  But I really enjoy doing it.
+
+            He looked blank for a moment and then grinned
+back and said, You know something?  I kinda like
+you!
+
+            Fitting in can have its drawbacks.  Another time,
+I was able to keep an informant only because I was
+an outsider; she realized she should make allowances
+for my ignorance.  That story is worth telling, if only
+for the word she made allowances for.
+
+            In introducing myself and DARE to a prospective
+INF in Cameron, LA, I gave examples of what I
+had learned.  Among others, I mentioned the names
+caouane [\?\ka\?\wεn] or [\?\ka\?\wæn], turtle; gros-bec
+[\?\gro(u),bεk], night heron; and bec-scie [\?\bεk\?\si],
+merganser.  She agreed to work with me, but the
+next day she warned me not to say one of the words
+I had used the day before because it was a dirty word
+and I would get in trouble for it.  At the time I could
+not recall any words I had said.  I asked, Which
+one?
+
+            She cast down her eyes and said, I can't tell
+you.
+
+            For a day or two I was almost afraid to speak at
+all, until I narrowed down to the words mentioned
+above.  Just before leaving Cameron, I made an educated
+guess and asked my INF if it was the word for
+turtle that was so bad.  She said it was.
+
+            Hartman had told me to be on the lookout for
+the southeastern turtle name cooter , with the slang
+meaning pudendum.  If that was what caouane
+meant, we had something.  I pursued the investigation
+in a bar, where verbal taboos are often relaxed.
+There was one male customer inside, talking with
+the proprietress.  After I had circumlocuted a while
+to avoid offense to her, she and the customer agreed
+slyly they knew what word I meant.  I learned over to
+the man, cupped my ear, and intoned dramatically,
+Tell me.
+
+            It's caouane [\?\ka\?\wæn], he said, and in French
+it means pussy.  I remained outwardly calm, but I
+could have jumped up and down and shouted.
+
+            I wrote to Cassidy expressing puzzlement.  I
+remembered Thomas Pyles pointing out in class
+once that animal metaphors for this body part name
+cute, furry animals: pussy, beaver, squirrel, monkey,
+cony, and (in France) lapin .  Nothing about a turtle is
+cuddlesome; it does not fit the pattern.  Cassidy
+offered an intriguing explanation:  the metaphor
+probably originated in Caribbean folklore, which has
+it that sea turtles (the referent for caouane in standard
+French dictionaries) copulate for a hundred
+days at a time.  In Louisiana the name was transferred
+to a freshwater turtle with far more modest
+size and amatory tenacity, but the metaphor persisted.
+It pays tribute not to cuteness but to sexual
+power.  It venerates venery.
+
+            I would never have learned all this if my INF
+had not proffered the courtesy owed to an ignorant
+outsider.
+
+            
+               [Textual note] The anecdotes recounted here are
+retellings of my fieldwork journal entries dated Feb. 5
+and Mar. 7, [1968].  The original volumes are in my
+possession; photocopies are archived at the DARE
+office.
+            
+         
+         
+            Ups and Downs
+
+
+
+            Explaining English idioms is tough enough, but
+how do you account for the seemingly contradictory
+ones?  I was in a taxi with a Japanese friend of mine,
+and the driver was cutting through traffic like a
+speedboat through a docking area.  Hey, buddy!  I
+rapped on the divider-glass.  Slow up a little, will
+you?
+
+            This tactic actually worked.  But when we arrived
+at our destination and were safely on the sidewalk, my
+friend murmured, Excuse me, but isn't the proper
+expression slow down?
+
+            Well, yes, I began.  I mean, no.  It's both, really.
+
+            My friend cocked his head as if to say, You
+Occidentals!  I could have said something about
+Japanese—how hai sometimes means yes and sometimes
+means no —but decided not to pursue it further.
+Still, it got me thinking.
+
+            Take a restaurant doing a brisk business: when
+closing time comes around, does it shut up for the
+night, or shut down ?  When your grandmother picked
+all those cherries, did she put up preserves or put
+down canned cherries for the winter?  For proper
+directions, do you go down the road for a mile before
+turning right, or up the road?
+            
+
+            These may seem like imponderables, but we can
+tease out a few differences.  First of all, when an
+establishment shuts up, it simply closes, but when it
+shuts down, it ceases activity.  If this sounds like too
+nice a distinction, consider common usage: factories
+shut down rather than shutting up; conversely, your
+rude brother may ask you to shut up, not shut down.
+Similarly, putting up food often involves sealing it in
+jars later stored on shelves, as opposed to putting
+down a good supply of hay for your livestock.  As for
+which way to go on a road, up is either literally up a
+rise, due north, or just the way the speaker is pointing.
+
+            English has other such ups and downs: ripping up
+a house versus ripping down the same structure, for
+instance, or the hearty  Drink it down!  instead of
+ Drink it up!   If usage is a sundial, the shade of
+meaning alters its angle slightly here.  Ripping up anything
+means destroying it, often by severing the connective
+tissues, from ripping up floorboards to ripping
+up a draft card.  To rip down a building, on the other
+hand, is to raze it.  Break up and break down , like tear
+up and tear down , and cut up and cut down , work
+comparably.  Idiomatic drinking, like drinking itself, is
+a little fuzzier, but two senses coexist: having your
+comrades clap you on the back as you tilt up your beer
+stein, or else downing a draught of nasty medicine
+because the doctor tells you to.
+
+            Of course, most ups and downs function as simple
+opposites, as in uptown versus downtown .  To look up
+a road should be in the opposite direction of to look
+down it, just as to look up to a person you admire is
+the course of to look down on an inferior.  But what
+about expressions that split unevenly?  To sit up is at
+most a slant-opposite of to sit down , since sitting
+down means to sit, whereas sitting up means that you
+were already sitting but are now improving your posture.
+(A sit-up , with a hyphen, exercises your abdominal
+muscles, but a sit-down strike tends to exercise
+the tempers of management.)  And if you happen to
+be sitting already, then you can stand up , but if you're
+asked to stand down , then you're still standing after
+that, just not on the stage or dais.  Of course, if you're
+in the military, to stand down is to be at ease, no
+longer at attention.
+
+            Other uneven splits include hurry up , or to hasten,
+versus hurry down , to hie yourself in a particular
+direction.  You dig up buried treasure but dig down on
+your energy reserves to finish that race.  You can be
+called up for army duty, but in Britain to be called
+down from university is a bit of a disgrace, similar to
+expulsion in the United States.  Why are these ups and
+downs not polar opposites?  If it comes to that, even
+uptown and downtown aren't quite equivalent
+because downtown in many towns is only a few
+blocks.
+
+            After a while, you can see a difference emerging.
+Get up and get down , for instance, could be exact
+antonyms, except that each has one or more secondary
+meaning that leads away from the original
+paired meanings.  Get up may mean to pull yourself
+up from the ground or to arise from bed.  In the nominal
+sense, getup can mean a costume.  Get down ,
+however, besides meaning to alight, also refers to
+loosening up or having sex (from get down to it ), as in
+the refrains of so many funk songs from the 1970's.  To
+throw up a parcel onto the boat may be the opposite
+of to throw down that parcel onto the loading dock,
+but clearly throw up has a regurgitative meaning that
+throw down lacks.  This second meaning forms a slant-opposite.
+Put up and put down , for instance, need not
+refer just to food: you can put up a guest (and put up
+with him, as well) or put down a dying dog (a milder
+form of which applies to making babies sleep).  To
+return to look up and look down , which seemed so
+complementary in terms of location or regard: look up
+has a tertiary meaning, as in looking up a word in the
+dictionary, that look down lacks.
+
+            Thus, pipe up and pipe down are also slantopposites:
+to speak out or to tune a band versus to
+lower your voice.  Keep up means to stay with the
+pace, whereas keep down is to oppress, or not to disgorge.
+When you turn down , are you refusing an
+offer or folding a bedsheet?  You can just as well turn
+up that bedsheet, but when good luck turns up , that
+introduces a new wrinkle.  Maybe one good turn
+deserves its opposite.  As D. H. Lawrence once
+wrote, in an autobiographical poem called Red-Herring:
+
+
+My father was a working man
+and a collier was he,
+at six in the morning they turned him down
+and they turned him up for tea.
+            
+
+            The various senses of both turns show a lot about
+the mining business and what an efficient hell it was.
+
+            In a similar vein: you run up a flag on the pole,
+or run up a gross of a new product, or just run up a
+whopping bill, but you run down a colleague, or a
+truck may run down a man on the street.  And the
+rundown is inside information.  You can touch up a
+paint job, but you touch down on an airfield.  And
+this is not to be confused with the touchdown that
+all American football fans know.  You can stay up as
+in keeping awake, or stay down as in hugging the
+boxing ring mat for fear of your opponent, yet to
+stay up can be the opposite of to stay down—it just
+depends on the context.  (As a linguist friend of
+mine once wearily conceded,  Everything depends
+on the context.)
+
+            You can even apply some ingenious logic to the
+ups and downs: if you want to pack up more in an
+already stuffed suitcase, better first pack down what
+you have in there.  If you live it up too freely, you
+may never live it down .  And crackdowns , done
+while there is still time, may prevent future crackups .
+Or a comeuppance may lead to a bringdown .
+
+            Then there are the single halves.  You can cook
+up a storm, but if you attempt to cook down one,
+leave me out of your dinner invitations.  You can
+catch up to your rival, but who ever heard of catch
+down ?  You can pick up a quart of milk at the supermarket,
+or some information by keeping your ears
+open, but you generally don't pick down anything.
+When you get too rowdy, you may be asked to quiet
+down, never quite up —or, in reverse, clam up but
+never clam down .  Oppositely, you may be asked to
+'fess up or own up, but not in any other direction.
+Facing a rough day ahead, you may want to rest up ,
+but never rest down.  You can't butter down your
+boss.  Your feelings may be pent up inside, not pent
+down.  Scuffing your shoes on the pavement wears
+down the leather, not up .  And how would you ever
+hunker up?
+            
+
+            On the other hand, the lopsided quality of single
+halves has caused a few reparations.  Nowadays,
+the warm up for an athletic meet is paired after the
+event with a warm down.  And the old query
+What's up? has a streetwise counterpart, What's
+going down?  Just as nature is reputed to abhor a
+vacuum, some people can't abide asymmetry.
+
+            Of course, there are other ins and outs to pursue
+here, but in and out just introduce more
+instances of slant usage, from read in and read out
+to——( fill in or fill out the blank).
+
+            Should I go off from here?  Or should I go on?
+         
+         
+            Word Words
+
+
+
+            We need some new words to describe words.
+English already has several well known -onym words
+(from the Greek onyma meaning name), such as
+synonym (same meaning), antonym (opposite meaning),
+and homonym (same sound).
+
+            Less well known is heteronym (same spelling, but
+different sound, e.g., sow meaning pig and sow
+meaning planting seeds).  Heteronyms are also
+called homographs.
+            
+
+            Then there's pseudonym , (false name), eponym
+(named for a person, e.g., sandwich after Lord
+Sandwich), and acronym (formed from the initial letters
+or syllables of a group of words, e.g., snafu meaning
+Situation Normal; All Fouled Up or laser meaning
+Light Amplification Stimulated Emissions
+Radiation).
+
+            It was that word acronym that started me thinking
+about the need for more word words.  The word
+acronym is sometimes used for words formed from
+the first two letters of a group of words.  Soho is the
+area of Manhattan SOuth of HOuston Street.  But is
+Soho an acronym?  Yes, if we accept a definition that
+includes the initial letters.  But can't we be more precise?
+Let's leave acronym for a word formed from the
+first letter of several words.  Then, we'll need a word
+for a word formed from the first two letters of words.
+How about bicronym ?  That captures the initial-letter
+sense of acronym but uses the combining form bi- signifying
+two (from the Latin bi- meaning twice or
+having two).
+
+            What then should we do with Tribeca , the area of
+Manhattan that is the TRIangle BElow CAnal Street?
+Bicronym won't do, because we are using the first
+three letters of triangle.  Tricronym won't do either,
+because we are using only the first two letters from
+below and Canal .  Perhaps the answer is polycronym ,
+still capturing the initial-letter sense of acronym , but
+using the combining form poly- signifying many
+(from the Greek polus meaning much).
+
+            These words, bicronym and polycronym , suggest
+the need for still another word.  The words bicronym
+and polycronym are formed by breaking up the combining
+form acro- (from the Greek acros meaning
+highest) into a- and cro- and combining bi- or poly-
+with cro- .  A word thus formed by breaking up an
+existing combining form, prefix, root, or suffix should
+also have a name.  It could be fractonym, using the
+coined combining form fracto- (from the Latin fractus,
+the past participle of frangire meaning to break).
+
+            Fractonyms existed in English before we had a
+word for them.  A fairly well known example is prequel
+the word that means an episode or a movie that portrays
+events occurring before the events in the original
+episode or movie.  Prequel takes the word sequel
+(Latin sequela meaning what follows), breaks it into
+se- and -quel , and then combines -quel with the prefix
+pre-.  Another current example of a fractonym is
+threepeat , used to describe the feat of a team or individual
+who wins an annual championship three years
+in a row.  The Chicago Bulls were widely reported to
+have achieved a threepeat in professional basketball.
+Repeat was broken into re- and -peat and -peat was
+combined with three. Voilà, another fractonym!
+
+            Then we could have retronym, meaning a word
+formed by reversing the spelling of another word.
+Lord Kelvin is credited with coining mho by reversing
+the spelling of ohm .  An ohm is a unit of electrical
+resistance (named for the German physicist, Georg
+Simon Ohm), and a mho is a unit of conductivity of a
+body whose resistance is one ohm.  We could also call
+mho a backword , but we are better off staying with
+the family of -onyms.  Retronym derives from the
+combining form retro- (from the Latin retro meaning
+backward).
+
+            A related word is needed for a word with two,
+opposite meanings.  Sanction means to forbid and
+also to permit.  Moot means a debate, and a moot
+point originally meant a debatable point and then
+also came to mean a point that was not debatable or
+not worth debating.  Such a perplexing word might
+be called a contronym, using the prefix contra- (from
+the Latin contra meaning against), or possibly a contradictonym.
+            
+
+            
+We also need a word for a word that illustrates its
+own meaning.  Oxymoron means a phrase that contrasts
+opposites for a literary effect, e.g., a deafening
+silence.  Oxymoron derives from the Greek oxymoros
+meaning pointedly foolish, which itself derives from
+oxy- , a combining form meaning sharp (from the
+Greek oxus meaning sharp) and moron (from the
+Greek moros meaning dull).  Oxymoron is an oxymoron.
+But what should we call such an unusual
+word?  One possibility is etymonym (pronounced ehTYM-o-nym),
+using the coined combining form
+etymo- (from the Greek etymon meaning the true
+meaning of a word, which derives from etymos meaning
+true or real).  This is not as rare a category as you
+might think.  Another etymonym is noun (noun is a
+noun).  Prefix almost qualifies; at least it illustrates a
+prefix.
+
+            Then, there should be a word for a word that has
+an etymology that is no longer true.  Atom literally
+means a hypothetical body that is so small that it is
+incapable of being further divided.  Atom derives
+from the combining form a- (from the Greek a
+meaning not and the Greek tomos , meaning cut).
+Of course, in the age of neutrons, protons, electrons,
+and even quarks, we now know that an atom is not a
+particle that cannot be divided into smaller particles.
+So we need a word for outdated etymologies.
+Possibly pseudoetymonym, using the combining
+forms pseudo- and etymo- .  Another possibility is
+gerontoetymonym, (pronounced ger-ON-to-ehTYM-o-nym)
+using the combining forms geronto-
+meaning old (from the Greek gerontos meaning old
+man) and etymo-.  Perhaps better to stay with pseudoetymonym
+and save the prefix geronto- to form
+gerontonym , meaning an old word, especially one
+whose original meaning has been altered, but is not
+necessarily now false.
+
+            The category of eponyms might be subdivided to
+add literatonym (pronounced lit-er-AH-to-nym),
+meaning a word derived from the name of a person
+or place in literature and mythonym , meaning a literatonym
+derived from mythology ( Herculean from
+Hercules, and, less obviously, martial from Mars).  A
+well known literatonym is serendipity, often used
+imprecisely to mean anything found by good luck,
+but precisely meaning something good that is unexpectedly
+found while looking for something else.
+Serendipity was coined by Horace Walpole from the
+fairy tale, The Three Princes of Serendip (the
+ancient name for Ceylon), who often set sail for one
+destination and found something even better, by fortunate
+accident.
+
+            What should be call these new words?
+Neologism is sometimes used, but it means not only
+a new word but also the use of new words.  Besides,
+better to stay with the -onym ending and call such
+words neonyms , using the combining form neo-
+(from the Greek neos meaning new).
+
+            Finally, we need a word for all these words that
+identify a category of words — the existing words
+such as synonym, antonym, and homonym, and the
+suggested neonyms—bicronym, fractonym, etymonym,
+and the others.  The obvious answer is
+nymonyms, or, a bit catchier, nymnyms —word
+words.
+         
+         
+            Mad for Words: A Tale of Murder, Insanity,
+and the Making of the Oxford English Dictionary
+            At the author's party held to launch this book
+in Oxford last spring, the current editors of the OED
+were green with envy.  How could Simon Winchester,
+a journalist best known for travel books, have earned
+a huge publishers advance for this book?  And why
+would the film rights be worth even more—a cash
+payment in the six figures sterling?  It is, after all, a
+description of what they do every day as lexicographers.
+
+            
+The heart of the story concerns two elderly gents
+who copy words out of old books and write about
+them in a dictionary.  It does not seem the sort of
+action-adventure story that would lend itself to film
+treatment.  Much as those of us who love words
+would wish for it, a film biography of Sir James
+Murray isn't the stuff to draw people to the multiplex
+theatres out by the highway.  A fine scholar, a self-educated
+and proud man, but one whose favorite
+recreation was riding a huge tandem tricycle around
+Oxford and the surrounding countryside.
+
+            Hint: it's the other guy.
+
+            The other elderly gentleman with a library of old
+books and the recreation of copying curious words
+out of them was William Chester Minor, M.D., an
+American living in England and one of the most
+faithful and useful of Dr. Murray's volunteer readers.
+Speaking to the Philological Society in 1899, Murray
+declared: So enormous have been Dr. Minor's contributions
+during the past 17 or 18 years, that we could
+easily illustrate the last four centuries from his quotations
+alone.  Minor did little else than make word
+indexes to old books; it was an obsession with him.
+
+            If the filmic possibilities aren't yet clear, we
+should begin with Minor's birth in Ceylon in June
+1834, the child of New England missionaries.
+Winchester invents some luscious women: young,
+chocolate-skinned, giggling naked girls with sleek wet
+bodies and rosebud nipples and long hair and coltish
+legs with scarlet and purple petals folded behind their
+ears, who play in the white Indian Ocean surf and who
+run, quite without shame, along the cool wet sands on
+their way back home (40).  Here, perhaps, the cinematic
+possibilities become a little more obvious.
+
+            These girls are not, perhaps, altogether fictional;
+Minor would later tell people that he began to entertain
+lascivious thoughts about the time he was thirteen.
+And his parents thought it was a good time to
+send him back to New Haven to board with an uncle
+while he got more education than the mission schools
+could provide.  (In a characteristic flight of the travel-writer's
+imagination, Winchester hints that the parents
+were sending him back to Connecticut where frolicsome
+female nudity was, they thought, less common.)
+
+            Minor earned his medical degree from Yale in
+1863 and immediately enlisted in the U.S. Army.  The
+life of an army surgeon in that dismal year was horrifying,
+and Minor could not have felt optimistic since
+neither Vicksburg nor Gettysburg had yet produced
+hope that the union would be preserved.  In May
+1864, he was treating the wounded from the Battle of
+the Wilderness, part of the brutal and grueling campaign
+that would take so many lives in the peninsula
+of Virginia.  But it was not that carnage that so influenced
+Minor's life, in Winchester's view, but the order
+that the doctor brand an Irish deserter on the face
+with a D. Fear of retribution from the unforgiving
+Irish, combined with those Sri Lankan girls, is
+adduced by Winchester as a factor leading to Minor's
+life as a dictionary maker.
+
+            The army eventually recognized that there was
+something badly wrong with Minor, and when he continued
+to serve as a medical examiner after the war, it
+became apparent that he was unfit for his responsibilities
+as a captain in the medical corps.  He was, in
+1868, diagnosed as delusional and taken for treatment
+to a hospital in Washington.  Released at the
+behest of friends, he left for England in October
+1871, with a box of paints, some books, and his gun.
+
+            On February 17, 1872, Dr. Minor shot George
+Merritt, a brewery worker, in the back of the neck as
+Merritt tried to flee.  He killed him, thinking him to
+be an Irishman stalking him and bent on revenge.
+And then, when a constable approached, he admitted
+the shooting.  Minor was tried, found insane, and committed
+to the asylum at Cawthorne—hence the title
+of Winchester's book in Britain: The Surgeon of
+Cawthorne: A Tale of Murder, Madness, and the Love
+of Words.
+            
+
+            Minor eventually learned of Dr. Murray's great
+project and began to copy words from old books.  And
+then, in December 1902, he cut off his penis.
+Winchester would like us to believe that this surprising
+piece of surgery is connected to those lissome
+beauties of Sir Lanka or to intimacies with Eliza
+Merritt, George's widow.  (Though Eliza had visited
+Minor a few times and was grateful for his contributions
+for the upkeep of her children, the idea that they
+had been intimate some fifteen years earlier is utterly
+speculative.  This is one of many flights of fancy during
+which Winchester negotiates among the possible,
+the probable, and the no evidence exists.)
+Consider the movie: what script writer would show us
+Minor copying out words from a 1693 volume called
+the Compleat Woman rather than a remorseful and
+forgiving grapple with a tipsy Mrs. Merritt?
+
+            In April 1910, the British government yielded to
+the importunings of Minor's relatives and let him go
+home.  Cawthorne had cared for him since 1872 and
+now it was time to shift the costs of his upkeep to the
+Americans.  So, in the company of his brother, he went
+to St. Elizabeth's in Washington—Winchester
+reminds us that an anti-Semite American poet and a
+failed assassin of an American president have been
+housed there too.  Minor wasn't quite through,
+though; in 1915, he smacked one of his fellow
+inmates, though he had but little strength to hurt
+anyone. In 1919 his nephew urged that he be moved
+to an asylum in Connecticut.  On March 26, 1920, he
+died—at 85 years and nine months.
+
+            Interspersed in Minor's story is the tale of the
+editing of the OED.  Winchester's story has an abundance
+of mistakes.  Herbert Coleridge, the first editor
+of the Philological Society's dictionary, was not the
+poet's grandson; Elisabeth Murray's biography was
+only taken on by Oxford after Yale University Press
+had turned it into a bestseller and shamed OUP into
+publishing it (OUP having earlier rejected it as
+unworthy).  There are lexical curiosities as well.
+Bugger grips is his intriguing term for what others
+might call muttonchops or burnsides; he believes
+that fulsome means exuberant.
+
+            But these carpings are sour grapes.  Winchester
+is getting very rich from a story pretty well known to
+many people interested in dictionaries—particularly
+Elizabeth Knowles of OUP who unearthed basic
+information and is rightly given, by Winchester, what
+he would call a fulsome accolade.  He discovered a
+Minor descendant and found a trove of correspondence
+that makes the story much richer (and more
+factual) than what was otherwise known.  He seems
+to have overlooked a story in the Springfield Sunday
+Republican headlined A Mad Dictionary Maker
+(July 25, 1915, p. 16).
+
+            Winchester wants the story simple, and cinematic.
+Murray should arrive at the gate of the Asylum
+imagining it is some private residence—alas,
+Winchester tells us, a popular myth. Murray knew
+that Minor was in the asylum; it was as obvious from
+the return address on his letters as Sing Sing would
+have been to an American counterpart.  Minor was so
+guilt-ridden over his prodigious sexual appetites
+that he committed an autopenectomy, reducing his
+organ to a stub that extended about one inch from
+its base.  These are alluring possibilities for film.
+And remarkable accents to a story that is essentially
+about two elderly gentlemen making a dictionary.
+Richard W. Bailey, University of Michigan
+            
+         
+         
+            On the So-called Debate over Black English
+
+
+
+            Perhaps no issue better illustrates the poverty of
+our political and intellectual culture than the so-called
+debate over Black English, or as it has now
+been christened, Ebonics.
+
+            The confusions are many; the emotions are high,
+and the political ramifications obvious.  It may be of
+interest to try to sort some of the issues out.
+
+            
+               Language or Dialect?
+            
+
+            The Oakland School Board proclaimed that
+Ebonics was a language, and that teaching English to
+speakers of Ebonics was an exercise in bilingualism,
+comparable, in principle, to teaching English to
+speakers of Spanish or Vietnamese.  The outcry was
+impassioned and predictably hostile.
+
+            The debate is virtually meaningless.  Most students
+of language understand that whether two varieties
+of speech are considered dialects of one language
+or separate languages is as much a political
+question as it is a linguistic one.  So, for example, the
+varieties of Chinese (Mandarin, Cantonese, etc.) are
+about as different as the Romance Languages
+(Portuguese, Spanish, etc.).  That one group is
+referred to as dialects, and the other group as languages
+has more to do with national boundaries than
+any internal feature of the speech varieties themselves.
+One linguist characterized a language as a
+dialect with an army and navy.
+
+            
+               Bad English
+            
+
+            Much of the debate has been couched in terms
+of lowering standards, the dumbing-down of the
+education system, etc.  For example, in a syndicated
+column, Ellen Goodman (Seattle Times, December
+27, 1996) snidely compared Black English I be
+with French Je suis, and characterized the former
+as merely bad English, as opposed to a valid language.
+
+            Even the most superficial analysis of any speech
+community would reveal that certain varieties of
+speech are prestigious and others are stigmatized,
+and that what determines a particular variety's status
+has virtually nothing to do with the internal features
+of that variety and everything to do with the class,
+and in this case the race, of the speakers involved.  In
+short, the issue is the color of their skin, not the color
+of their vowels.
+
+            But the confusions are deeper, and more insidious.
+I was on a recent talk show, where the host
+referred to speakers of Black English as illiterate
+thugs. The juxtaposition of the two terms is revealing.
+An academic feature, namely literacy, is
+assumed to correlate with a moral one.  In other
+words, bad English is what is spoken by bad people.
+This assumption is pervasive in our society.  Someone
+who speaks a prestigious dialect is thereby thought
+to be honest, clean, trustworthy and admirable.
+
+            A friend of mine used to teach remedial reading
+in the New York public school system.  The class was
+for students who had repeatedly failed, and was
+referred to as the last class before jail. On the first
+day, my friend would tell the class, I'm supposed to
+teach you how to read.  But, let's get one thing
+straight; Hitler knew how to read, and my grandmother
+didn't, and I'll take my grandmother any
+time.  The difference between my New York friend
+and the radio talk show host is crucial.  Schooling and
+morality are not synonymous, and probably show virtually
+no significant correlation.  In the current discussion,
+familiarity with the prestige dialect does not
+correlate with moral virtue.
+
+            
+               Some Basic Linguistics
+            
+
+            On this issue, it is sometimes difficult to know
+who are worse, the intellectuals or the bigots.
+Columnists quote scholars who insist that speakers
+of Black English are careless and lazy and that the
+particular variety of speech involved has no rules.
+That positions such as these are articulated and published
+reflects a level of information analogous to
+arguing that the earth is flat.
+
+            In fact, an example of how rules in Black English
+differ from those of other dialects may be revealing.
+Consider the following data.  (I hesitate to refer to
+dialects as standard or nonstandard, since it seems
+to me to give the game away.)
+
+            In one dialect of English, the plural of nouns is
+formed by adding [s] or [z] or [\?\], resulting in forms
+like [posts] [boyz] and [bus\?\s] for posts, boys and
+buses .
+
+            In my dialect of English, however, the plural of
+post is pronounced something like [poss].  The simplest
+mechanism for accounting for such a pronunciation
+is by adding a phonological rule for the deletion
+of [t] under certain circumstances.  So, for example,
+prints and prince are both pronounced [prins].  The
+rule, in fact, is more general, applying to [d] as well.
+Wines and winds are both pronounced [waynz].
+Notice, however, that the rule for the deletion of [t]
+must follow the rule for forming the plural.
+Otherwise, if [t] deletion preceded plural formation,
+then [post] would become [pos] and the plural would
+be [pos\?\s].  Well, it turns out, that for many speakers
+of Black English, the plural of post is, in fact, pronounced
+[pos\?\s].  Why?  Because they have essentially
+the same rules as I have, but in the opposite order.  In
+other words, there are three dialects:
+
+            Dialect A: Plural formation.
+
+            Dialect B. Plural formation followed by [t] deletion
+
+            Dialect C. [t] deletion followed by plural formation.
+
+            
+               Pedagogy
+            
+
+            Now, imagine the average teacher of reading with
+students representing each of the three speech varieties.
+A student of Dialect A, sees the written word
+posts , and pronounces it [posts].  The teacher beams;
+that child can get to be president.  A student of
+Dialect B sees the written word posts , and pronounces
+it [poss].  The teacher might encourage the
+student to enunciate more clearly.  Such a student
+might not get to be president, but could perhaps
+aspire to be Mayor of New York.
+
+            But now the student of Dialect C sees the word
+written posts and pronounces it [pos\?\s].  The teacher
+is confused Get that student an eye-exam; get that
+student a hot lunch; get that student something.  The
+fact is that such a student has demonstrated the ability
+to read.  What the student needs is a better teacher.
+
+            And, ultimately, that's one thing that the Oakland
+School Board was suggesting: the simple, commonsense
+proposal that teachers might be more effective
+if they knew something about the speech patterns of
+the people they were trying to teach.  Unfortunately,
+that proposal became obscured by the pointless
+debate over whether Black English is or is not a language.
+
+            
+               History
+            
+
+            Another emotional, and largely irrelevant debate
+resulted from the use by the Oakland School Board of
+the word genetic to refer to Black English.  That some
+actually took this to mean that people are born with a
+predisposition to acquire a particular language would
+be laughable if it were not so pernicious.  (Some years
+ago, there was a brief article in the newspaper about
+a woman from Texas who had adopted a Mexican
+infant, and was studying Spanish, so that she would be
+able to speak to the child when it grew up.  She was
+equally misinformed but not as malicious as the current
+critics of the Oakland School Board.)
+
+            In fact, the origin of some of the features of Black
+English is of some theoretical, scholarly interest.
+Slaves in this country were systematically separated
+from their families, and put in situations where they
+could not use their native language.  In such a situation,
+what typically develops is what is referred to as a
+pidgin, based on the language of the environment, in
+this case, English.  The next generation acquires this
+language as a product of their linguistic maturation,
+and this variety is sometimes called a creole.  Over the
+succeeding centuries, this language has undergone a
+process of decreolization for obvious reasons.
+
+            Now, what is of some interest is that because
+slaves in other countries were not systematically isolated,
+there is, as far as I can tell, no such thing as
+Black Portuguese in Brazil, for example.  In other
+words, there is a historical explanation for the emergence
+of Black English, but it surely has little relevance
+to the current educational and pedagogical
+debate.
+
+            It still remains to be seen whether a rational,
+coherent language policy for speakers of Black
+English can evolve in our educational institutions.
+Given the emotional and uninformed reaction so far,
+it is hard to be optimistic.
+         
+         
+            Revising The F-Word
+
+
+
+
+            Writing a book entirely about the word fuck,
+aside from being a good way to guarantee cocktail-party
+chatter, exposes one to numerous criticisms.
+Apart from the tiresome degradation of society
+arguments from the puritanical, everyone is familiar
+with this word in its many forms.  Newspapers coyly
+refer to it with euphemisms and circumlocutions, Tshirt
+vendors stock shirts emblazoned with its many
+parts of speech.  And everyone has a favorite passage,
+unusual compound, or offbeat etymological
+theory to promote.
+
+            The original edition of The F-Word was a successful
+project.  It included almost all of the important
+uses of the word, and the introduction gave a
+good picture of the word's history, both etymological
+and social.  But there is always room for
+improvement, and so when Random House determined
+it was time to reprint, we decided that a
+major revision could be supported.  The revision is
+in progress at the time of this writing, and this is a
+preliminary report on where things stand.
+
+            
+               Historical
+            
+
+            Interest in the historical aspect of the word fuck
+has always been high; most reviewers cited various
+anecdotes from the Introduction.  We have accordingly
+been trying to research and add any relevant
+or interesting story.  The earliest example of fuck,
+appearing in a ciphered version in the fifteenth-century
+poem Flen Flyys, has always been a
+crowd-pleaser, since it is not only in code—suggesting
+that the word was taboo even at that time—but
+describes monks fucking.  (Seemingly a popular subject
+for that era—an early sixteenth century apostil
+refers to the poor scribe's fucking abbot.)  The
+original edition gave sparse details on the background
+of this poem and translated the cipher without
+explaining it; even the mainstream American
+Heritage Dictionary, Third Edition, gave more
+complete treatment.  In the new edition, we will
+give a thorough version of this attestation.
+
+            The date of 1926 for the first openly printed use
+of fuck in America—still the earliest we have discovered—provoked
+the question of the first use of
+fuck in the movies.  We are still researching this, but
+it seems that fuck first appeared in mainstream
+movies around 1970 ( MASH and Myra
+Breckenridge ); it had been used earlier in several
+avant-garde films.  Unlike the literary world, where
+provocative books such as Ulysses or Lady
+Chatterley's Lover led to legal battles over obscenity
+issues, in the movies, no one tried to place fuck onto
+film until the country was ready for it.
+
+            While fuck appeared in popular periodicals such
+as The Atlantic Monthly, Harper's Magazine,
+Playboy , and others by the 1960s, it took a bit more
+time for the word to, um, penetrate the august
+pages of The New Yorker .  The editorship of Tina
+Brown is usually credited—more usually, faulted—
+with that journal's frequent use of the word, and
+though writers did use it frequently under Ms.
+Brown, in fact fuck appeared there, spelled in full,
+in 1985, during the editorship of the puritan William
+Shawn, in a short story by Bobbie Ann Mason:
+Maybe you have to find out for yourself.  Fuck.  You
+can't learn from the past. (June 3, 1985, p. 81).
+
+            The etymology of fuck has never ceased inspiring
+comment.  The various purported acronymic origins
+are still the first thing most people think of; we
+will be expanding our treatment of this, and including
+the first known appearance of an acronymic etymology
+(in New York's underground paper The East
+Village Other), in 1967.  The most striking recent
+development has been the popularity of the pluck
+yew story, which conflates the origin of fuck with
+an earlier piece of folklore about the origin of the
+offensive backhand two-finger gesture.  According
+to the original form of the tale, before the battle of
+Agincourt, immortalized in Shakespeare's Henry V,
+the French taunted the English longbowmen by
+waving two fingers at them, saying that those fingers
+(used to pull back the bowstring) could never
+defeat the mighty French.  After the English annihilated
+the hapless French (10,000 dead French to a
+mere 29 Brits, by Bill S.'s count), the English
+responded by waving their two fingers back at the
+French in the now-familiar gesture (the American
+version limits it to the single middle finger).  The
+recent twist has been to note the fact that longbows
+are traditionally made of yew wood, and claim that
+the act of drawing the bowstring was called plucking
+yew; the victorious English not only waved
+their fingers at the French, but shouted We can
+still pluck yew!  Pluck yew!  at them.  A few convenient
+sound-changes brought us to our familiar
+phrase fuck you.
+
+            This story, totally ludicrous in any version, was
+popularized on the National Public Radio segment
+Car Talk, where it was meant as a joke; many
+unfortunates, particularly on the Internet, have
+taken it seriously.  It will be debunked.
+
+            On the serious side, considerably more etymological
+information will be presented.  The editor is
+grateful to Anatoly Liberman for sharing the entry
+(and bibliography) for fuck from his magnificent
+forthcoming etymological dictionary.  Liberman
+argues convincingly that the word is part of a large
+family of Germanic words having the form f + [short
+vowel] + [stop], having the base meaning to move
+back and forth (not to thrust, as most dictionaries,
+and the original edition of The F-Word, had it).  It is
+probably a borrowing from Dutch, Low German, or
+Flemish, but not a continuation of an Old English
+word.  He finds no Indo-European cognates (of Latin
+futuo he notes It is a strange coincidence that Latin
+futuo is also an f word).
+
+            On the less serious, but still scholarly, side, we
+will refer to the hilarious Studies Out in Left Field:
+Defamatory Essays Presented to James D. McCawley
+On His 33rd or 34th Birthday .  This remarkable collection
+applies the principles of transformational
+grammar to the analysis of sexual and scatalogical
+vocabulary.  Quang Phuc Dong's English Sentences
+Without Overt Grammatical Subject looks at the
+oft-questioned basis of fuck you!, whilst Munç
+Wang's Copulative Sentences in English: A
+Germanic Language Spoken in Northern Delaware
+studies the grammaticality (in the author's idiolect)
+of such sentences as Micky fucked Michelle's cadaver
+in the ass (grammatical), Bret fucked the mannikin
+through the hole he drilled in its throat (of
+questionable grammaticality), and Fred fucked the
+log through a hole that squirrels had made
+(ungrammatical).  The omission of this classic, first
+published in 1971, is unforgivable.
+
+            Least forgivable of all was the omission of Allen
+Walker Read's 1934 classic An Obscenity Symbol,
+the most important article ever written on fuck ,
+despite the absence of that word from the article
+itself (a not uncommon situation in the field, I might
+add).  The decision of the editor (who even now is
+hiding behind this circumlocution, but yes, it was
+me) to forgo a bibliography should not have prevented
+him from acknowledging this indispensable work.
+
+            
+               New Words and Senses
+            
+
+            A moderate number of new words or phrases,
+and a smaller number of new senses, have been
+added.  Several readers suggested the addition of that
+'70s hit, zipless fuck an act of intercourse without an
+emotional connection, coined by Erica Jong in Fear
+of Flying .  We had originally decided to omit it since
+zipless was often used on its own to mean passionate
+but emotionally uninvolved, but it does appear often
+enough as a set phrase to deserve entry.  Arnold
+Zwicky, chief editor of the Studies Out in Left Field
+collection celebrated above, suggested genderfuck
+instance of reversal of normal sex roles; (specifically)
+transvestism, a common term whose absence can
+only be explained using the Johnsonian formula, in
+answer to a woman who has asked him why he
+defined pastern as the knee of a horse, ignorance,
+Madam, pure ignorance.  Thanks to the diligent
+research of friends and colleagues, we have pushed
+this back to 1973 with frequent cites thereafter.
+Another unfortunate omission was fuck buddy a sexual
+partner, esp. a friend with whom one engages in
+casual sex, which we currently have found to 1983
+but have hopes of bettering.  To mercy fuck and sport
+fuck we now add the even less pleasant hate fuck,
+immortalized as the title of the first album of post-punk
+band Pussy Galore in 1987 but found in the
+'70s, and force-fuck, apparently coined because the
+word rape wasn't shocking enough.  The bizarre lesbian
+expression fuckerware party gathering for the
+group use of sex toys seems, contrary to expectations,
+to be real; the definition of fist-fuck, originally
+limited to anal fisting, has been widened (with citations)
+to allow for vaginal fisting as well.  More recent
+additions are a new sense of ratfuck a busy party
+marked by flagrant social climbing; insults such as
+fuckball and fuckrag (popularized in the movie
+Scream ); and a number of marginal uses whose
+admission is being debated, including fuck-trash
+loathsome person and fuck monster promiscuous
+person, esp. a woman.
+
+            British and Australian terms, omitted on policy
+grounds from the first edition, are now being included—and
+why not, with a word this widespread?
+Fuckpig a disgusting person (according to
+Partridge, it dates to the nineteenth century, a claim
+I'd love to be able to verify) is a winner, as is fuckwit
+a fool, fuckwitted stupid, and the absolutely
+delightful contestant from Bridget Jones' Diary:
+fuckwittage stupidity.  Fucktruck a van or car in
+which people engage in sexual activity had been
+mentioned in the introduction as being Australian
+(where it has been used since the 1960s), a statement
+rejected by numerous correspondents who testified
+to their activities in thusly named vehicles in
+the U.S. of A.; two people noted that the word was
+also used for a bus on which one can meet prospective
+sexual partners (both, curiously, referring to a
+shuttle between Wellesley College and the Harvard
+and M.I.T. campuses).
+
+            Many of these new items came from suggestions,
+but most suggestions were ultimately useless.
+Everyone and his or her brother or sister, it seems,
+has a favorite fuck -related usage.  And in most cases,
+these appear to be expressions doomed to the
+nonce world.  The introduction to the first edition
+listed several such words, suggested by colleagues,
+such as clothesfuck difficulty in deciding what
+clothes to wear and fuckbreak leave of absence
+from work in order to get pregnant (two other
+terms from this section, fuckload a large amount
+and fuck-muscle the penis, were omitted for insufficient
+evidence but will now be added).  Publication
+brought a blizzard of ever more outrageous suggestions,
+including (but not limited to) fuckadocio,
+fuck-a-doodle-doo, and fuck-aroni, whose meanings
+can only be guessed at.  Many suggestions also failed
+to respect the nature of the definitions; several
+readers commented on the absence of un-fucking-believable,
+which appears under -fucking-, infix, or
+of fuck book, which is covered by fuck , adj., pornographic;
+erotic.
+
+            
+               Antedatings
+            
+
+            As most users of historical dictionaries know,
+the search for antedatings—citations earlier than
+those previously known for a word or sense—is a
+crucial effort.  Early examples force us to rethink
+what we thought we knew about the historical
+development of language.  The original work for The
+F-Word proved that fuck was used in a variety of
+figurative senses far earlier than had previously
+been believed, and that certain expressions were
+years or decades older than anyone had realized.
+
+            The number of antedatings we have found in
+the last several years has been small, which is both
+good (in validating the quality of our original
+research) and bad (no breakthroughs).  The insulting
+epithets fuckface and fuckhead were originally
+first cited in 1961 and 1962, respectively.  Several of
+the citations referred to World War Two, and a
+euphemistic 1940 example of fuckfaced suggested
+that these terms were in use in the 1940s.  Happily,
+we found solid 1945 citations in an article published
+in this magazine in 1989—an article we had read,
+without catching these cites.  This article also provided
+a significant antedating for N.F.G. no fucking
+good, an abbreviation accidentally omitted from
+The F-Word but included in the book's parent work
+with a first cite from 1977.
+
+            The compound fuck-me intended to invite sexual
+advances, chiefly exemplified by fuck-me
+               [shoes] (with various specific types of shoes), was
+only attested to 1989.  Several reliable sources
+claimed familiarity to the 1960s and 1970s, and we
+were able to confirm this with a 1974 citation from
+the musician David Bowie.  The expression fuck-you
+money, unknown to the editor before a reader letter
+called it to attention, was first cited to 1986,
+thanks to a search of the Nexis database.  A colleague
+subsequently discovered a 1976 example.
+M.F. , a euphemistic form of motherfucker , had been
+attested to 1964; we found a 1959 example buried
+in Robert Gold's excellent Jazz Lexicon.  Finally, the
+best we had been able to do on titfuck was 1986; a
+Nexis search came up with a Playboy example from
+1984, which inspired a check of Robert Wilson's
+1972 Playboy's Book of Forbidden Words, which
+indeed had it.  The second definition of fuckable,
+sexually available, with a single 1977 example, was
+pushed back to 1972 in Bruce Rodgers's Queens'
+Vernacular, which also supplied a first cite for
+mouthfuck, verb.
+
+            An important goal of the revision has been to
+include any famous use of relevant forms of fuck .
+In the original version, we were content to have a
+good smattering of examples from the earliest to
+the most recent, but as long as the examples were
+genuine attestations, we were satisfied.  (Preference
+is given to actual examples in running text, then to
+printed glossarial evidence, and finally to orally collected
+examples.)
+
+            Now we have made an effort to extend our evidence
+from important or interesting sources.  Thus,
+we have added the famous scene in Catcher in the
+Rye, where Holden sees a fuck you graffito and
+muses on his desire to protect his little sister
+Phoebe from seeing such vulgarity.  Another important
+citation is from Allen Ginsberg's Howl, where
+he has seen The best minds in my generation
+destroyed by madness,...who let themselves be
+fucked in the ass by saintly motorcyclists, and
+screamed with joy. Bufu a homosexual man, a
+portmanteau from butt fucker, was already in with a
+first citation from a 1982 Valley Girl dictionary, but
+we have added the use in the defining text of that
+subculture, Frank Zappa's Valley Girl: Like my
+English teacher—He's like Mr. Bufu...He like
+flirts with all the guys in the class.  Under fuck up
+we have added the well-known opening lines to
+Philip Larkin's poem This be the Verse, the only
+use of fuck to be regularly found in dictionaries of
+quotations: They fuck you up, your mum and
+dad. They may not mean to, but they do. And for
+the literal sense, we learn from Liz Phair that I
+want to fuck you like a dog...I'll fuck you till your
+dick turns blue.
+
+            The regular program of gathering new evidence,
+combined with database searches for underattested
+forms, has delivered an impressive return of citations.
+We have four instead of two examples of fubar
+in the secondary sense drunk; up-to-date examples
+for give a fuck, fuck act of sexual intercourse, fuckable,
+fuck-all, fuckboy, fuckfest, and others; a valuable
+third cite for fuck an evil turn of events; more
+florid entries in the stronger, more vivid, or more
+elaborate curses section, and newly fleshed-out
+entries for fuckee in both literal and figurative senses.
+This evidence proves that these terms are all real
+words, still in current use in the English-speaking
+world.
+
+            We have tried to keep deletions to a minimum,
+chiefly by not including marginal terms in the first
+place.  Any item with two or more examples may be
+considered secure; an item from a single non-glossarial
+source that parallels an existing expression may
+also be considered secure; an item with only a single
+glossarial citation would have been kept out unless a
+confirming example could be solicited.  An included
+marginal term, then, would be one from a single oral
+or written source that does not parallel another term
+and appears, in this editor's opinion, to be unlikely.
+Those that are on the ropes for this revision, include
+fuck-plug a contraceptive diaphragm, with a single
+example from a college student in 1984, a term not
+subsequently found despite wide questioning and
+extensive database searching; fuck 5.b. to trifle or
+interfere with (that is, the usual sense of fuck with ,
+but without the with), found in a single example
+from a movie; and friggin in the rigging , a nautical
+expression for loafing on duty, which is too uninteresting
+a figurative sense even if it does have some
+currency beyond the single oral example we have
+found.
+
+            And last of all, but first in the book, we are
+adding something that no book should be without:
+an epigraph.  The easily offended, who nonetheless
+choose to pick up this book, will be faced with this
+before they get to anything juicy:
+
+
+
+Tis needful that the most immodest word
+
+Be looked upon and learned.
+
+—Shakespeare, Henry IV, Part II
+            
+         
+         
+            P.S. As you read through this Directory please
+understand that the committee has worked very hard
+to make it as accurate as possible considering the
+circumstances.  Let's remember To error is human
+and to forgive divine. [From the 
+Southern California Rotary Directory.  Submitted by
+.]
+         
+         
+            Names New and Old: Papers of the Names
+Institute
+            This (second)¹ selection of the papers read at the
+Names Institute covers the last seven years at
+Fairleigh Dickinson University (FDU, 1980-1986)
+but includes some papers read at meetings of the
+Institute since 1986 at John Jay and Baruch Colleges
+(New York).  Dedicated to Margaret M. Bryant
+(1900-1993), the volume has four subdivisions: I.
+Geographic Names; II. Names in Literature; III.
+Personal Names; and IV.  Various Other Names.
+
+            I. Geographic Names is further divided into 1)
+International Names, and 2) Names in the United
+States.  The contributions of three members of the
+US Board on Geographic Names (BGN), namely,
+Richard R. Randall, Meredith F. Burrill and Donald
+J. Orth, give a very good and welcome insight into
+practical aspects of placename-giving.  In Political
+Changes and New Names,  Dr. Randall pays particular
+attention to both the new names of politically
+changed countries and also to the problems arising
+when we try to record native names (as in transcription).
+In Motive in Placenaming Donald Orth discusses
+motivation in naming a location and illustrates
+his point with a very appropriate quote from
+Mysterious Island by Jules Verne.  He mentions, for
+example, names that honor persons, names that have
+a religious background, names that express ego
+gratification and toponymic habituation (in which
+familiar names from the homeland are adopted to
+make a place seem a little less strange), names which
+show evidence of discovery, etc.  He stresses, however,
+that The motives themselves may be explicit or
+subconscious, but their conjunction at a given
+moment is normally unpremeditated.  Even though
+they may be considered separate events, there is a
+direct linkage between the motive to name and the
+name given.  In fact, it is difficult to consider one
+without the other.  They are capable of reinforcing
+one another in a number of ways. (p. 23.)
+
+            Part 2 of the first section opens with a reprint of
+Allen Walker Read's onomastic history of the Rocky
+Mountains, which is followed by a very lengthy
+paper on No Names in the United States.  In the
+latter work Robert M. Rennick professes that it is
+only an introduction to the subject and asks for more
+information so that more extensive research can be
+done.  However, in this work the author is unable to
+convince this reader of the need for more such
+research, and I think the paper would have benefitted
+very much from an abridged presentation.  On
+the other hand, Dr. Burrill's article on Toponomy
+and Cultural History is a very good example of
+how toponomy (and lexicography in general) and
+history can benefit from each other.  Each culture
+group has its own ways of looking at nature, its own
+set of distinctions between things in a general class,
+and its own rigid boundaries to thought that are
+posed by its language.  Including terms for artifacts
+of all kinds that are useful cultural clues, these elements
+are reflected in toponyms. (p. 114-115.)  The
+author describes the use of specific terms and the
+problems associated with them, beginning with the
+word swamp, which is followed by creek, folly,
+tump , and gurnet .  Especially, he says, the comparison
+of the use of these words in the colonies and in
+the respective homelands has promising results.
+
+            Benjamin Nunez's historical study, Proto-Portuguez
+Toponymics on the West African Coast
+in the Fifteenth Century speaks for itself, and the
+same may be said for the optimistic and thoughtful
+remarks of Alan Rayburn's Promoting the Study of
+Names As a Scholarly Discipline in North
+America.
+
+            II.  The editor introduces this section—
+
+            Names in Literature—by stating the purpose of
+it, namely, which is to ask if the study of imaginary
+personages and places does not properly belong to
+onomastics. (p. 127.)  This section contains papers
+about Bret Easton Ellis' Less than Zero (Leonard
+R.N. Ashley); Charlotte Brontë's Jane Eyre (Lynn
+Hamilton); Anna Seghers' Revolt of the Fishers
+(Russell E. Brown), Molière's Le Malade imaginaire
+(Betty J. Davis), Baltasar Gracián's El Criticón
+(Catherine G. Rovira); Trollope's The Warden
+(Vivian Zinkin); and Names Prime Evil: Fictional
+Heroes of Horror and Fear in the work of Sir
+Walter Scott and Barbey d'Aurevilly (Maxine M.
+Bernard).
+
+            One of the most readable of these articles is
+Russell E. Brown's paper on Anna Seghers' Revolt
+of the Fishers, in which he shows how the author
+establishes a certain universality for the uprising:
+accordingly, the names can be attributed to no specific
+place or time.  It seems that the Bretonic language
+is not only the major source of character
+names here, but Low German and Dutch also play
+a part.  Brown emphasizes that the last two languages
+have a lot of names and spellings in common.
+However, the source Brown uses for Dutch
+names is hardly adequate: Van der Aa's biographical
+dictionary only describes well-known Dutch persons
+and isn't meant to be an overview of all the
+surnames in use.  For that information one should
+turn to the Nederlands Repertorium van
+Familienamen edited by P.J. Meertens and others,
+in fourteen volumes (Assen, Van Gorcum 1963-1988).
+Nevertheless, Brown's description of the
+author's choice of a pen name and her symbolical
+use of the name Marie in her novel are excellent
+examples of the relevance of literary name studies.
+
+            The paper of Maxine M. Bernard covers the
+work of two authors, Sir Walter Scott and Barbey
+d'Aurevilly, but because of this broad span her conclusions
+are not always very convincing.  For example,
+this is her interpretation of one of Barbey's religious
+monsters (the seductor and rapist of an innocent
+country girl in A Nameless Story ):  The name
+Riculf seems to be a clever composite of two
+French words: rire, meaning to laugh, comes
+directly from the Latin rictus meaning a mocking
+sneering laughter; and culer meaning to back
+away or go astray.  His persona was just such a type:
+mocking God, leading others astray, scornfully getting
+away. (p. 219.)  She doesn't mention that this
+name is a perfectly normal Germanic name which
+consists of rik- mighty and -ulf, wolf which is
+itself a rather colourful name for a scoundrel.  The
+French connection that Bernard suggests seems to
+me rather farfetched and certainly needs more
+proof, e.g., from significant quotations of the novel
+itself.  I would go no farther than point out a possible
+double meaning, and certainly would not proclaim
+the French interpretation the only one, but
+would mention it only as a possible secondary
+meaning.
+
+            III.  The contributors to Personal Names are
+Kelsie B. Harder, Herbert Barry & Aylene S.
+Harper, A. Ross Eckler, Penelope Scambly Schott,
+and Dorothy E. Litt. Harder's Literary Names
+Mainstreamed As Given Names is very insightful:
+How many parents realize that the currently popular
+Jennifer is derived from Guinevere (King
+Arthur's adulterous queen) or that the name Pamela
+became popular through Samuel Richardson's
+Pamela; or Virtue Rewarded (1740)?  As the author
+states, Naming now seldom reflects reading. (p.
+231) Barry and Harper's article about Sex
+Differences in Linguistic Origins of Personal
+Names is to the point and thorough.  An important
+point they make is that although names nowadays
+are often chosen without knowledge of their linguistic
+roots and meanings, the linguistic background
+nevertheless persists as an important basis for selection:
+books of names generally provide information
+about roots and meanings and as long as these books
+are read and used, the knowledge of these works will
+form part of the choice.  (p. 251.)
+
+            In Eckler's paper on Single-Letter Surnames
+we learn that all letters exist as a surname (and are
+overwhelmingly likely to be held by people of
+Oriental ancestry, p. 264), and only Q is missing.
+The paper by Penelope Scambly Schott, Rosamond:
+Poison and Contamination gives a neat example of
+historical confusion based on the fate of another
+individual with the same name.  Thus, the fair
+Rosamond of English literature—Henry II's mistress
+who died in 1176—was (also said to be) poisoned
+to death in 1592, not in the flesh but on the
+page.
+
+            It isn't clear to this reviewer just what place the
+Litt article, Self-Naming and Self-Defining in
+Subscriptions to Familiar Letters in the English
+Renaissance, is supposed to have in onomastics.
+The author explicitly refrains from examples of
+nomination, in code names, code-numbered names,
+anonyms, pet names, name-changing, and other onomastic
+oddities in this material (p. 285).  Yet these
+elements seem to be more related to onomastics
+than those she has described in this paper and therefore
+make the reader anxious to know more.
+
+            IV.  Various Other Names.  The paper section of
+the book ends with this general category, which
+includes articles by Douglas P. Hinkle, Roger W.
+Wescott, Walter P. Bowman, Thomas L. Bernard,
+and E. Wallace McMullen.  While Dr. Hinkle admits
+he has barely scratched the surface in his article, yet
+in Street-Language Naming Practices in the
+Hispanic Drug and Underworld Subcultures, he
+goes into great detail and tells us quite a bit (e.g.,
+that a snort of cocaine is called a narizón , from the
+Spanish nariz, nose, which compares to English
+slang snootful).  Anyone curious about technical linguistics
+will take delight in Wescott's comments on
+The Phonology of Proper Names in English.  He is
+of the opinion that slang has formal as well as
+semantic peculiarities and that names resemble slang
+in this respect. (p. 301)  Thus, he tells us, names can
+exhibit phonetic alternation.  An example is the
+sequence Jean, Jen(n)y, Jane, Jan(et), John, and Joan
+(ultimately derived from a single Biblical Hebrew
+name meaning Jehovah's mercy).  He also mentions
+the four types of palindromization (two will suffice
+here): progressive additive: pap<pa or paw; and
+regressive additive: Nan<Ann or Anna .  Thus, a
+good number of common changes are explained for
+us.  For example, one extreme lexical transformation
+is the nickname Poll which is derived from Mary, in
+which the m has been both occluded and unvoiced,
+the a has been retracted, the r has been lingualized,
+and the y has been dropped. (p. 306.)
+
+            According to Bowman, Musical Names: The
+Titles of Symphonies is a beginning on an abundant
+onomastic field.  Among those already well-known,
+Berlioz's Symphonie Fantastique appears at first to
+be an instrument of revenge against one heartless
+lady and (using the same title) also a means of admiration
+directed toward his future fiancée.  Bowman
+describes how composers have used placenames to
+express feelings evoked by visits (e.g., Dvorak's
+From the New World), or to express a nationalistic
+or patriotic regard for a homeland (e.g., Hindemith's
+Pittsburgh Symphony).  Personal names as well as
+political events or dates function in symphony titles.
+Also literature has left its mark (e.g., Liszt's Faust).
+Bowman concludes his paper with some fascinating
+oddities.  In Thomas Bernard's Names,
+Nationality, and the Incongruity Factor, our attention
+is called to the fact that a good number of people
+have names that don't seem to correspond with
+their nationality.  One example will suffice: until
+recently one wouldn't assume that someone with the
+name Fujimori would be a Peruvian.
+
+            The last article in the volume is McMullen's
+History of the Names Institute, 1980-86.  A companion
+article, again by the editor, concludes the
+articles in Pubs, Place-Names and Patronymics and
+covers the years 1962-1979.
+
+            But this isn't all: the book has extensive indices,
+e.g., the admirable Index (e) which contains the
+Abstracts (all written by the authors) and Topics of
+the Annual Programs of the Names Institute, 1980-1986.
+In combination, Index (a)—Vitas of the
+Contributors to this volume—in which the editor
+lists information about the careers and research of
+the authors and their mailing addresses, and Index
+(e) form a helpful guide for onomasticians on the
+move who are looking for partners in discussions
+about items of mutual interest.  In brief, then, it is
+my opinion that this neat, hardbound, onomastic
+anthology is indeed very readable.
+
+            ¹The first anthology was entitled Pubs, Place-Names
+and Patronymics: Selected Papers of the
+Names Institute, edited by E. Wallace McMullen
+(FDU, 1980.  Covers 1962-1979.) and is still in
+print.  To order, send a check for $6.00 (made out to
+E. Wallace McMullen) to Prof. Finke.
+
+            Together these two publications include complete
+programs, papers and abstracts, etc., for a
+total of 25 consecutive years, plus the subsequent
+John Jay and Baruch College programs (1987-1998).
+Including the forthcoming 1999 event, these
+annual programs continue to be held at Baruch
+College.
+
+            
+               Karina van Dalen-Oskam, Leiden, Netherlands
+            
+
+            (To order send a check (made out to E.
+Wallace McMullen) to Prof. Wayne H. Finke,
+American Name Society, Dept. of Mod. Langs., Box
+340, Baruch College, 17 Lexington Ave., New York,
+NY 10010; or by fax ++212-387-1591.)
+         
+         
+            Lost and Foundering (Eheu, Jane Ace! May She RIP)
+
+
+
+            Last week, as I was arranging my notes on solecisms
+called from television, radio, and newspapers,
+I suddenly realized that updating the long list, even
+without citing dates and perpetrators, had begun to
+take up too much time.  Of course, as I had been
+telling myself all along, police work is tedious; but
+someone has to do it.  Or so I had always thought.
+Now, however, I paused in my labors after a short
+stint of alphabetizing and partially annotating a few
+recent additions, to wit:
+
+
+
+[Budget] cuts were made all across the border.
+
+[The candidate] must definitive his position.
+
+...a fashion that was dig rigueur...
+
+A storm system is now domineering the weather.
+
+...by one of the foundling fathers of our country...
+
+After reading the glum statistics
+
+Their coffee is grounded daily.
+
+this was hollowed ground.  (Paul Gigot on the
+MacNeil/Lehrer News Hour, 1994.)
+
+Now we are being indulged[deluged] with snow.
+
+[A respected local philanthropist's] name will live in
+infamy.
+
+The dead were interned.
+
+Maybe, as we are about to invoke on a course...
+(U.S. Army chaplain in Vicenza, Italy, addressing troops
+soon to embark for Bosnia.)
+
+A cherished momentum of...
+
+The issue [of the two murders] is a mute point.
+
+He was oustered from the Party.
+
+it piquéd his interest.
+
+Big-Business-bashing ...is nothing but tub-thumping
+popularism.
+
+The attack was provocated by...
+
+This raked havoc with investors.
+
+...rendering the social fabric. (Paul Gigot)
+
+Supplies were replentished...
+
+Women are reticent to buy such clothes...
+
+Pat Buchanan has transpired [transcended?] his early
+reputation.
+
+A prison trustee... (newspaper article)
+
+He waived goodbye. (newspaper article)
+
+The fee was wavered.
+
+Somehow, he wrangled an invitation.
+
+The [victorious] army yielded power harshly...
+            
+
+            It was the last example which gave me pause.
+Perhaps, I thought, the army yielded power harshly
+while wielding a no-iron velvet fist?
+
+            Already, while working my head to the bone 
+               
+on the above examples and others too humorous to
+mention, I had been visited by fond memories of
+Jane and Goodman Ace, those masters of malapropism—though,
+according to an article in The New
+Yorker which I read years ago, Goodman was the
+master; Jane was a real-life Mrs. Malaprop. I had
+made a list of the Jane Aceisms in that article.  I still
+had that list and now, rather than just sitting there
+like a bum on a log, I compared Jane's words with my
+own burgeoning record of unstrung and unlamented
+lapses, many, still to be entered in my trustee notebook.
+
+            When I had at last poured over the two lists—
+the one, so much too brief; the other, so much too
+wrong— you could have knocked me over with a
+fender!  What a disillumining experience!  Entre nous
+and me , until then, I had believed that, in any baffle
+of wits, Jane Ace would have won, thumbs down.  In
+all my bored days, I would never have believed that
+she had not reached the highest pinochle of success.
+Now, I was saddened to see that her words, compared
+with those of today's ragged individualists,
+were thin and emancipated.  No longer was she the
+human domino she had always seemed to me.  Hey,
+you, and a lass, Jane Ace!  Your turkeys have come
+home to roast, with avengings!
+
+            I saw that it was high tide for me to stop wrecking
+my brain looking for more more flies in the oatmeal .
+It was time, too, to remember that words, like
+men, are cremated equal.  In short, if hers was to
+remain the clowning achievement, it was time for me
+to shred my list—and not a moment to swoon.
+            
+               Italicized phrases are Jane Aceisms.  All other anomalies are the author's.
+            
+         
+      
+   

@@ -1,0 +1,620 @@
+
+  
+    
+      
+        Background
+        Mutations in Bruton's tyrosine kinase (Btk) are
+        responsible for the human disease termed X-linked
+        agammaglobulinemia (XLA) (reviewed in reference [ 1]). The
+        B cell antigen receptor (BCR) signaling defect is very
+        severe such that XLA patients have a block in the pro-B to
+        pre-B cell transition and consequently have no mature B
+        cells. The 
+        xid mouse, in which Btk is mutated,
+        and the Btk knockout mouse display similar, although
+        somewhat less severe, phenotypes [ 1]. Btk is the
+        prototypical member of the Tec family of non-receptor
+        protein tyrosine kinases (PTKs) that includes Bmx, Itk, Tec
+        and Txk [ 2, 3]. In addition to a COOH-terminal PTK domain,
+        Btk has an NH 
+        2 - terminal pleckstrin homology (PH)
+        domain, a proline-rich Tec homology domain, a Src-homology
+        3 (SH3) domain and a Src-homology 2 (SH2) domain. Btk was
+        originally identified in B cells but is now known to be
+        expressed in most leukocytes with the exception of T cells
+        and NK cells.
+        Btk is thought to be activated upon BCR cross-linking by
+        a two-step mechanism involving phosphatidylinositol (PI)
+        3-kinase and the Src family PTK Lyn (reviewed in references
+        [ 4, 5, 6]). PI 3-kinase induces Btk membrane targeting by
+        generating phosphatidylinositol 3,4,5-trisphosphate (PIP3)
+        to which the PH domain of Btk binds. Lyn
+        transphosphorylates Btk within the activation loop of the
+        kinase domain, allowing subsequent autophosphorylation of
+        the Btk SH3 domain and full Btk activation. The SH2
+        domain-containing inositol phosphatase (SHIP) downregulates
+        Btk by dephosphorylating PIP3 [ 4, 5, 6].
+        Biochemical studies of Btk-deficient B cells have shown
+        Btk to be necessary for BCR-induced phospholipase C-γ2
+        (PLCγ2) phosphorylation, calcium mobilization,
+        extracellular signal-regulated kinase (ERK) and c-Jun NH 
+        2 -terminal kinase (JNK)
+        mitogen-activated protein kinase (MAPK) activation, NF-κB
+        activation and apoptosis [ 7, 8, 9, 10, 11, 12]. These
+        signaling events are generally not entirely abrogated and
+        kinetic analyses have revealed that the sustained phases
+        are particularly impaired in the absence of Btk [ 8, 9,
+        13]. In contrast, these pathways are completely inhibited
+        in the absence of the Syk/ZAP-70 family tyrosine kinase Syk
+        [ 14]. These data have led to the hypothesis that Btk
+        co-operates with Syk in PLCγ2-dependent BCR signaling and
+        that Btk functions as a signal duration modulator (reviewed
+        in references [ 15, 16]). However, it is not clear if Btk
+        alone is sufficient to mimic aspects of BCR signaling, nor
+        is it known whether all downstream signals mediated by Btk
+        are PLCγ2-dependent. Indeed, additional functions for Btk
+        have recently been proposed, namely in PI 3-kinase
+        activation [ 17], cytoskeletal reorganization [ 18] and DNA
+        transcription [ 19, 20, 21].
+        In this study we have generated a conditional form of
+        Btk by fusing the full length Btk protein with the
+        hormone-binding domain of the estrogen receptor (Btk:ER).
+        We show that Btk:ER activation alone is sufficient to
+        activate multiple downstream signaling pathways in B cells,
+        including calcium mobilization, ERK and JNK MAPK, and
+        apoptosis. Moreover, by analysing Btk:ER function in
+        PLCγ2-deficient cells, we show that PLCγ2 is necessary for
+        Btk:ER to transmit these signals.
+      
+      
+        Results and Discussion
+        
+          Construction of Btk:ER, a conditional form of
+          Btk
+          In order to determine whether Btk activation alone is
+          sufficient to mimic aspects of BCR signaling, we have
+          generated Btk:ER, a novel conditional form of Btk. Btk:ER
+          was constructed such that the hormone-binding domain of
+          the estrogen receptor was fused to the COOH-terminus of
+          full length Btk (Fig 1A). This approach has been
+          successful in producing conditional forms of the Tec
+          family PTK Bmx [ 22], and also the PTKs v-Src [ 23], Hck
+          [ 24] and Abl [ 25], the serine/threonine kinases Raf [
+          26] and Akt [ 27], and the dual specificity protein
+          kinase MEK1 [ 23]. The mechanism of action of ER fusion
+          proteins is not clear, although it appears that upon
+          treatment of cells with estrogen or an estrogen analogue,
+          for example 4-hydroxytamoxifen (4-HT), the biological
+          activities of the proteins are induced. This may involve
+          ER domain dimerization and/or selective stabilization of
+          expression within the cell [ 26]. The ER fusion protein
+          method has been shown to accurately identify downstream
+          substrates and effects of the above mentioned
+          kinases.
+          Two forms of Btk:ER were generated, one using
+          wild-type (WT) Btk and the other using a kinase-inactive
+          (K430E) mutant of Btk as a negative control (Fig 1A). The
+          Btk:ER constructs were transfected into Btk-deficient
+          DT40 chicken B cells and stable clones were selected that
+          expressed equivalent levels of Btk:ER. The DT40 cell
+          system was used because it has proved useful in
+          dissecting B cell signaling pathways through the use of
+          gene knockouts derived by homologous recombination [ 15].
+          Fig 1Bshows that WT Btk:ER was kinase active 
+          in vitro as determined by
+          autophosphorylation and phosphorylation of an exogenous
+          substrate (GST-Igα) in an immune-complex kinase assay.
+          Kinase activity was not detectable for the K430E mutant
+          of Btk:ER (Fig 1B), comparable to control
+          immunoprecipitations from Btk-deficient cells (data not
+          shown). In order to determine if Btk:ER was active 
+          in vivo , cells were treated with
+          vehicle control, 4-HT or anti-μ, and the phosphorylation
+          status of cellular proteins and Btk:ER were analysed by
+          Western blotting (Fig 1C). Upon 4-HT treatment, a
+          discrete set of cellular proteins were inducibly
+          phosphorylated in WT Btk:ER-expressing cells, although
+          their phosphorylation levels and the diversity of
+          proteins phosphorylated were reduced in comparison with
+          BCR cross-linking. As a control, 4-HT treatment did not
+          induce phosphorylation of cellular proteins in parental
+          DT40 cells without Btk:ER (data not shown). Btk:ER itself
+          was inducibly phosphorylated upon 4-HT treatment, as
+          measured by anti-phosphotyrosine blotting and by a
+          phosphospecific antiserum that recognises the Y223 site
+          of Btk autophosphorylation. Surprisingly, the
+          phosphospecific antiserum did not detect Btk:ER Y223
+          phosphorylation in response to BCR cross-linking,
+          suggesting that the observed phosphorylation in this case
+          is largely due to the Y551 Lyn transphosphorylation site.
+          In cells expressing kinase inactive Btk:ER,
+          phosphorylation of Btk:ER was not detected and cellular
+          substrates were not inducibly phosphorylated in response
+          to 4-HT (Fig 1C). These data suggest that WT Btk:ER, but
+          not the kinase inactive form, can be activated 
+          in vivo by 4-HT. The mechanism by
+          which 4-HT activates Btk:ER is not known, but may be
+          different to the mechanism of BCR-induced activation,
+          since the two stimuli induce phosphorylation on different
+          sites.
+          The identity of the cellular proteins phosphorylated
+          downstream of Btk:ER activation (50-79 kD range, top
+          panel, Fig 1C) are not known. These proteins are unlikely
+          to include Lyn or Syk, the two PTKs that are primarily
+          responsible for the BCR-induced tyrosine phosphorylation
+          pattern seen in DT40 whole cell lysates [ 14], since we
+          were unable to detect phosphorylation of Lyn and Syk
+          following specific immunoprecipitations (data not shown).
+          Moreover, the relatively weak phosphorylation of cellular
+          proteins induced by Btk:ER does not suggest that Lyn
+          and/or Syk are becoming activated (Fig 1C). This is
+          consistent with the idea that Lyn and Syk are upstream of
+          Btk activation [ 28].
+        
+        
+          Btk:ER is sufficient to activate the PLCγ2/calcium
+          pathway
+          Btk-deficient B cells are defective in BCR-induced
+          PLCγ2 phosphorylation and calcium mobilization [ 8, 11].
+          In particular, the sustained PLCγ2/calcium responses are
+          impaired. A model has been proposed in which Btk controls
+          calcium influx across the cell membrane by modulating
+          PLCγ2 activity and thus IP3 levels [ 6, 29]. Here we
+          tested whether Btk:ER activation was sufficient to
+          activate the PLCγ2/calcium pathway.
+          Btk-deficient cells expressing either WT or kinase
+          inactive Btk:ER were treated with 4-HT or anti-μ and
+          PLCγ2 phosphorylation was analysed by Western blotting
+          (Fig 2A). Upon treatment with 4-HT, a sustained PLCγ2
+          phosphorylation was induced in cells expressing WT Btk:ER
+          that was not observed in cells expressing kinase inactive
+          Btk:ER (Fig 2A). As a further control, 4-HT treatment of
+          Btk-deficient cells, expressing Btk without the ER
+          domain, did not induce PLCγ2 phosphorylation (Fig 2B,
+          lanes 9-11). This demonstrates that the 4-HT response is
+          specific to Btk:ER. Interestingly, the slow kinetics of
+          PLCγ2 phosphorylation in response to Btk:ER differed
+          markedly from the fast, transient kinetics in response to
+          BCR cross-linking (compare Fig 2A, lanes 6-9, with Fig
+          2B, lanes 5-8). The slow Btk:ER kinetics are consistent
+          with data derived from Btk-deficient cells, in which
+          sustained BCR-induced PLCγ2 phosphorylation, calcium
+          mobilization and MAPK activation are impaired, but the
+          initial responses are relatively normal and appear to be
+          driven by Syk activity (reviewed in reference [ 15]).
+          Additionally, the sustained PLCγ2 phosphorylation induced
+          by Btk:ER is in agreement with the idea that Btk does not
+          activate negative regulatory pathways that turn off the
+          signal; rather it is Lyn that is thought to be largely
+          responsible for this aspect of BCR signaling [ 15].
+          To determine whether Btk:ER is sufficient to induce a
+          calcium flux, cells were loaded with indo 1 and the
+          concentration of intracellular free calcium monitored by
+          FACS analysis. Cells were treated with 4-HT and/or anti-μ
+          as outlined in Fig 2C. Strikingly, upon treatment with
+          4-HT, WT Btk:ER induced a rapid calcium mobilization that
+          was at a low level but sustained (Fig 2C). This pattern
+          differed from that seen in response to BCR cross-linking,
+          where an initial large transient increase in
+          intracellular calcium was followed by lower but sustained
+          levels (Fig 2C). These kinetics are similar to those seen
+          for PLCγ2 phosphorylation (Figs 2A,B), again consistent
+          with the idea that Btk regulates the sustained phase of
+          calcium mobilization. No additive or synergistic effect
+          of both 4-HT and anti-μ was observed (Fig 2C). This data
+          indicates that Btk:ER activation alone can induce
+          intracellular calcium mobilization and is consistent with
+          a previous study that showed cross-linking of a
+          constitutively membrane associated CD16/Btk chimera to
+          induce a calcium flux [ 8].
+          In order to evaluate whether Btk:ER-induced calcium
+          mobilization was due to calcium release from internal
+          stores or calcium influx across cell membrane calcium
+          release activated channels (CRAC), cells were pre-treated
+          with EGTA to chelate extracellular calcium (Fig 2D; note
+          change in scale within Fig. 2Dand compared with Fig 2C).
+          In response to anti-μ treatment of cells expressing WT
+          Btk:ER, the sustained elevation of intracellular calcium
+          was completely blocked in the presence of EGTA, whereas
+          the initial transient increase was only slightly
+          impaired. Similarly, in response to 4-HT treatment, the
+          sustained increase in intracellular calcium levels was
+          abrogated in the absence of extracellular calcium (Fig
+          2D). This suggests that Btk:ER may induce calcium release
+          from intracellular stores which subsequently results in
+          calcium influx across CRAC. Our data is consistent with
+          that of Fluckiger 
+          et al [ 8], who proposed that Btk
+          controls BCR-induced calcium signaling by regulating
+          PLCγ2 activation, IP3 levels and calcium store
+          depletion.
+          Fig 2Cshows that kinase inactive Btk:ER was unable to
+          induce a calcium flux, which, in common with the PLCγ2
+          data (Fig 2A), suggests that kinase activity is required
+          for Btk:ER function. However, in the context of signaling
+          through the BCR, we surprisingly found that kinase
+          inactive Btk:ER could reconstitute calcium mobilization
+          in these Btk-deficient cells (Fig 2C). This was not an
+          artefact of the ER domain, since non-tagged kinase
+          inactive Btk could also restore BCR-induced calcium flux
+          (data not shown). In addition, we have found that kinase
+          inactive Btk can reconstitute BCR-induced ERK MAPK
+          activation, but not PLCγ2 phosphorylation (Tomlinson,
+          Bolen and Johnston, unpublished data). This suggests that
+          Btk can function independently of catalytic activity,
+          perhaps as an adapter protein, and that Btk-induced PLCγ2
+          phosphorylation is not essential for PLCγ2 activation.
+          The mechanism may involve stabilization by Btk of the
+          PLCγ2 complex, or 'signalosome' [ 30], in an optimal
+          conformation or subcellular location. Upon BCR
+          stimulation, Btk is thought to be recruited to PLCγ2 via
+          the adapter protein BLNK, as BLNK can associate with the
+          SH2 domains of both PLCγ2 [ 31, 32] and Btk [ 33].
+          Membrane localization of this complex is required for
+          PLCγ2 activation [ 32], but the mechanism by which this
+          is achieved is presently unknown (reviewed in [ 34]). It
+          is conceivable that a Btk PH domain-PIP3 interaction is
+          important for membrane localization of the complex, and
+          that this function is independent of Btk kinase activity.
+          However, it should be noted that reconstitution of
+          calcium mobilization in Btk-deficient DT40 cells by
+          kinase inactive Btk was not observed in a previous study
+          [ 11]. The reason for this discrepancy is not clear, but
+          may be due to the different mutations that were used to
+          generate kinase inactive Btk in the two studies. In the
+          present study we used a K430E mutation; K430 is the
+          invariant lysine known to be essential for enzymatic
+          activity of protein kinases. In the study of Takata and
+          Kurosaki [ 11], Btk was rendered catalytically inactive
+          by an R525Q mutation. Since K430 is located on the
+          smaller, NH 
+          2 -terminal lobe of the kinase domain,
+          whereas R525 is part of the larger, COOH-terminal lobe,
+          it is possible that the two mutations differentially
+          affect the capacity of kinase inactive Btk to function as
+          an adapter in the activation of PLCγ2.
+        
+        
+          Btk:ER is sufficient to activate ERK and JNK MAPK
+          pathways
+          BCR-induced activation of the ERK and JNK MAPK
+          pathways is impaired in Btk-deficient DT40 cells, but p38
+          MAPK activation is unaffected [ 9]. The precise role of
+          Btk in the activation of MAPK pathways is not clear, but
+          these findings suggest that Btk is required for ERK and
+          JNK activation. We therefore examined whether Btk:ER is
+          sufficient to induce ERK and JNK activity.
+          In Fig 3A, Btk-deficient cells that express either WT
+          or kinase inactive Btk:ER were treated with 4-HT, or PMA
+          as a positive control, and ERK activity was assessed by
+          immune complex kinase assay using MBP as an exogenous
+          substrate. In response to 4-HT, WT Btk:ER, but not the
+          kinase inactive protein, induced ERK activity which
+          increased over the time period examined (Fig 3A). The
+          kinetics were somewhat different to those seen with
+          anti-μ stimulation, where maximal ERK activity is
+          detected within 5-min and is sustained for up to 120-min
+          [ 9]. However Btk:ER was clearly able to induce sustained
+          ERK activity and this, coupled with the findings that in
+          Btk-deficient cells the sustained response is impaired [
+          9], suggest that Btk activation may be responsible for
+          the prolonged ERK activation normally detected following
+          BCR cross-linking. Interestingly, kinase inactive Btk:ER
+          was able to restore ERK activation in the context of
+          anti-μ stimulation (Fig. 3A, lanes 6 and 12). This effect
+          of kinase inactive Btk is consistent with the previous
+          calcium data (Fig. 2C), and supports the idea that Btk
+          can perform a kinase-independent adapter function.
+          In Fig 3B, JNK activity was measured by Western
+          blotting whole cell lysates with phosphospecific JNK
+          antiserum. This antiserum detects phosphorylation of JNK
+          at sites T183 and Y185, which correlates with JNK
+          activation. Addition of 4-HT to cells expressing WT
+          Btk:ER induced JNK phosphorylation to a level that was
+          similar to that seen with anti-μ treatment (Fig 3B, lanes
+          2-4) or with both 4-HT and anti-μ (Fig 3B, lane 5).
+          However we did not detect JNK phosphorylation following
+          4-HT treatment of cells expressing kinase inactive Btk:ER
+          (Fig 3B, lanes 8-9). The weak JNK phosphorylation in
+          cells expressing kinase inactive Btk:ER, in response to
+          anti-μ or both 4-HT and anti-μ (Fig 3B, lanes 10-11),
+          suggests a partial adapter function for Btk. The control
+          treatment with PMA and ionomycin induced JNK
+          phosphorylation in both cell types (Fig 3B, lanes 6 and
+          12). From these data we conclude that Btk:ER is
+          sufficient to activate the JNK pathway in B cells.
+        
+        
+          Btk:ER is sufficient to induce DT40 cell
+          apoptosis
+          A major biological response of B cells to BCR
+          cross-linking is apoptosis, a function that is strongly
+          induced in DT40 cells. The mechanism of apoptosis
+          induction is not clear but is dependent on the expression
+          of Btk [ 12, 13]. We therefore tested whether the
+          conditional form of Btk alone can induce apoptosis in
+          DT40 cells.
+          In Fig 3C, Btk-deficient cells expressing either WT or
+          kinase inactive Btk:ER were treated with 4-HT and/or
+          anti-μ for 24 hours. Apoptosis was quantitatively
+          measured by the TUNEL assay, which detects double
+          stranded DNA breaks that are a hallmark of apoptosis.
+          Remarkably, WT Btk:ER induced apoptosis to a similar
+          extent to that seen with BCR cross-linking (Fig 3C),
+          despite the fact that PLCγ2 phosphorylation, calcium
+          mobilization, ERK and JNK were relatively weakly
+          activated (Figs 2, 3A,B). However, it is clear that the
+          amplitude and duration of signaling responses can control
+          differential activation of transcription factors. For
+          example, in B cells, NF-κB is activated by a large,
+          transient calcium flux, whereas NFAT is activated by a
+          low, sustained calcium plateau [ 35]. Thus in DT40 cells,
+          BCR-induced apoptosis may be largely controlled by
+          transcription factors that are themselves activated by
+          low, sustained signals, which the BCR and Btk:ER can
+          activate equivalently.
+          A functional kinase domain was required for
+          Btk:ER-induced apoptosis, as kinase inactive Btk:ER
+          failed to induce apoptosis in response to either 4-HT or
+          anti-μ stimulation (Fig 3C). Interestingly, a low level
+          of apoptosis was observed in response to both 4-HT and
+          anti-μ in cells expressing kinase inactive Btk:ER (Fig
+          3C). This again suggests an adapter function for kinase
+          inactive Btk which here was facilitated by 4-HT. The PMA
+          and ionomycin control induced apoptosis in both cell
+          types (data not shown).
+        
+        
+          Btk:ER-induced calcium mobilization, ERK and JNK
+          activation, and apoptosis are dependent on PLCγ2
+          Biochemical analyses of Btk-deficient cells have
+          suggested that PLCγ2 is a downstream substrate of Btk [
+          8, 11]. However, the importance of PLCγ2 in Btk signaling
+          has not been explored. In particular, it is not clear if
+          the capacity of Btk to connect to downstream signaling
+          pathways, such as calcium mobilization, MAPK activation
+          and apoptosis, is mediated through PLCγ2 or whether it
+          can occur via other pathways. In particular, recent
+          reports have suggested that in addition to PLCγ2
+          activation, Btk may function in PI 3-kinase activation,
+          cytoskeletal reorganization and DNA transcription. Btk
+          was shown to be required for normal phosphorylation of a
+          novel adapter protein, named BCAP, which couples
+          BCR-activated PTKs to PI 3-kinase activation [ 17]. Btk
+          may also regulate cytoskeletal reorganization by
+          phosphorylating the Wiskott-Aldrich syndrome protein
+          (WASP) [ 18], which plays a role in actin polymerization.
+          Finally, Btk has been reported to shuttle to the nucleus
+          and may function in transcription by binding the
+          transcription factors Bright and BAP-135/TFII-I [ 19, 20,
+          21, 36]. Thus Btk may have multiple targets, and it is
+          not known which Btk-induced signals are transmitted via
+          PLCγ2.
+          To address these questions we have expressed Btk:ER in
+          parental and PLCγ2-deficient DT40 cells. Parental DT40
+          cells were considered a better control than the
+          Btk-deficient cells used previously (Figs 1-3), as both
+          PLCγ2-deficient and parental cells express endogenous
+          chicken Btk. Thus parental and PLCγ2-deficient cells were
+          transfected with kinase active Btk:ER and stable clones
+          selected that expressed equivalent levels of Btk:ER, as
+          measured by anti-Btk Western blotting of whole cell
+          lysates (Fig 4A).
+          To test whether PLCγ2 is required for Btk:ER-induced
+          calcium mobilization, parental and PLCγ2-deficient cells
+          expressing Btk:ER were treated with 4-HT and/or anti-μ,
+          or ionomycin as a positive control (Fig 4B). Btk:ER
+          induced a sustained calcium signal in parental cells but
+          not in PLCγ2-deficient cells (Fig 4B), suggesting that
+          Btk:ER modulates calcium signaling by affecting PLCγ2
+          activity. Consistent with previous data, no calcium
+          mobilization was observed in PLCγ2-deficient cells in
+          response to anti-μ [ 37], but as expected a calcium flux
+          was detected in response to ionomycin, that bypasses
+          receptor-proximal signaling events (Fig 4B). These data
+          argue against the possibility that Btk:ER directly
+          controls a CRAC. Instead, our data are consistent with
+          the model that Btk:ER indirectly controls calcium
+          signaling by regulating PLCγ2 activity and thus IP3
+          levels and calcium store depletion [ 6, 8, 29].
+          In Fig 5we have tested whether PLCγ2 is required for
+          Btk:ER-induced ERK and JNK activation, and apoptosis. Two
+          different BCR signaling pathways can result in ERK
+          activation in DT40 cells, namely a PLCγ2-independent
+          Grb2/Sos pathway and a PLCγ2-dependent pathway that
+          requires protein kinase C [ 38]. In Fig 5Awe found that
+          Btk:ER activated ERK MAPK in parental but not in
+          PLCγ2-deficient cells (lanes 2 and 7). Thus Btk:ER
+          appears to induce ERK activation through its capacity to
+          activate PLCγ2, and not through a Grb2/Sos pathway. In
+          response to a 60-min treatment with anti-μ, ERK
+          activation was detected in parental but not in
+          PLCγ2-deficient cells (Fig 5A, lanes 3-4 and 8-9), but
+          control PMA treatment activated ERK in both cell types
+          (Fig 5A, lanes 5 and 10). Transient ERK activation, 5 to
+          10-min after anti-μ treatment, can be detected in
+          PLCγ2-deficient cells [ 13]. These kinetics are identical
+          to those observed in Btk-deficient cells [ 13]. Together
+          with our Btk:ER data, this suggests that Btk:ER controls
+          sustained ERK activation in B cells by regulating PLCγ2
+          activity.
+          The mechanism by which Btk connects to the JNK pathway
+          is not clear. One possibility is that Btk can directly
+          activate components of the MEKK1/SEK1/JNK signaling
+          cascade. This pathway is controlled by the small
+          GTP-binding protein Rac1 and in DT40 cells Rac1 is
+          essential for BCR-induced JNK activation [ 38]. Thus
+          another possibility is that Btk might directly regulate
+          Rac1 activity. Alternatively, since the combination of
+          protein kinase C and calcium signaling is sufficient to
+          activate JNK [ 9, 38], Btk could activate JNK indirectly
+          through activation of PLCγ2. In Fig 5Bwe show that
+          Btk:ER-mediated JNK activation is dependent on PLCγ2.
+          Upon 4-HT treatment, phosphorylated JNK was detected in
+          parental cells but not in PLCγ2-deficient cells (Fig 5B,
+          lanes 2 and 7). PLCγ2-deficient cells also failed to
+          activate JNK in response to anti-μ treatment or a
+          combination of anti-μ and 4-HT (Fig 5B, lanes 3-4),
+          whereas parental cells did activate JNK following these
+          treatments (Fig 5B, lanes 8-9). In response to PMA and
+          ionomycin, activated JNK was detected in both WT and
+          PLCγ2-deficient cells (Fig 5B, lanes 5 and 10). These
+          data are in agreement with previous reports that document
+          the requirement for PLCγ2 in BCR-induced JNK activation [
+          38]. Moreover, the data suggest that Btk:ER activates JNK
+          by a mechanism that is dependent on PLCγ2, rather than
+          through activation of more downstream elements of the JNK
+          cascade.
+          Apoptosis is a major biological response of B cells to
+          BCR cross-linking and Btk is clearly necessary for this
+          effect in DT40 cells [ 12, 13]. Here we have shown Btk:ER
+          activation to be sufficient to induce apoptosis in DT40
+          cells (Fig 3). In Fig 5Cwe have investigated the
+          mechanism by measuring Btk:ER-induced apoptosis in
+          parental and PLCγ2-deficient cells. Twenty-four hours
+          after 4-HT treatment, apoptosis was detected in WT but
+          not in PLCγ2-deficient cells (Fig 5C). The response of
+          parental cells to 4-HT was consistently lower than in
+          response to anti-μ (Fig 5Cand data not shown). This is in
+          contrast to the Btk-deficient cells analysed earlier (Fig
+          3), where 4-HT and anti-μ yielded an equivalent apoptotic
+          response. This partially impaired function of Btk:ER in
+          parental cells compared to Btk-deficient cells, in
+          eliciting a biological response, may be due to the
+          presence of endogenous chicken Btk that could compete
+          with Btk:ER for optimal subcellular location. Apoptosis
+          was not detected above background levels in
+          PLCγ2-deficient cells that were treated with anti-μ or
+          both anti-μ and 4-HT (Fig 5C). This is consistent with
+          reports that PLCγ2 is necessary for BCR-induced apoptosis
+          [ 37]. Apoptosis was detected in parental and
+          PLCγ2-deficient cells in response to the control PMA and
+          ionomycin treatment (Fig 5C). These data suggest that
+          Btk:ER induces apoptosis in DT40 B cells by a
+          PLCγ2-dependent mechanism.
+          In DT40 B cells, apoptosis induction by Btk:ER may be
+          a consequence of its capacity to activate JNK, since in
+          these cells JNK activation correlates more closely with
+          apoptosis than does ERK activation. In particular, we
+          have found that Btk-deficient DT40 cells reconstituted
+          with Txk, an atypical Tec family PTK, fail to undergo
+          BCR-induced JNK activation (Tomlinson and Johnston,
+          unpublished data) and apoptosis [ 13], but ERK activation
+          is relatively normal [ 13]. In contrast to the
+          pro-apoptotic role for Btk in DT40 cells, Btk appears to
+          play an anti-apoptotic role in mature B cells 
+          in vivo . The mechanism may involve
+          Btk-dependent activation of the transcription factor NF-κ
+          B [ 7, 10] and subsequent upregulation of the
+          anti-apoptotic protein Bcl-X 
+          L [ 39, 40].
+          Previous studies have shown that DT40 cells deficient
+          for Btk and PLCγ2 have similar BCR signaling defects.
+          Readouts have included calcium mobilization and apoptosis
+          [ 11, 37], MAPK activation [ 9, 38] and NF-κB activation
+          [ 41]. In addition, mice deficient for Btk and PLCγ2 have
+          similar defects in B cell development and function
+          (reviewed in [ 30]). These findings have lead to the
+          hypothesis that Btk and PLCγ2 are components of the same
+          signaling unit, or signalosome [ 30]. However, these
+          findings have not proved that Btk connects to the above
+          mentioned pathways via PLCγ2. In the present study, while
+          we cannot rule out the possibility that Btk:ER activates
+          PLCγ2 in combination with other uncharacterized pathways,
+          our data strongly support the Btk/PLCγ2 signalosome model
+          by showing that PLCγ2 is absolutely required for
+          Btk:ER-induced calcium, MAPK and apoptosis responses.
+        
+      
+      
+        Conclusions
+        The Btk mutations found in XLA patients and the 
+        xid mouse show that Btk is required
+        for normal B cell development, but the important pathways
+        activated by Btk have yet to be fully identified. In this
+        paper we show that a conditional form of Btk (Btk:ER) is
+        sufficient to activate many signaling pathways downstream
+        of the antigen receptor, including PLCγ2 phosphorylation,
+        calcium mobilization, apoptosis and ERK and JNK activation.
+        Our findings clearly indicate that all of these
+        Btk:ER-mediated responses require PLCγ2. In future studies,
+        Btk:ER may be a useful tool for the identification of Btk
+        phosphorylation sites on PLCγ2, and for the discovery of
+        novel substrates.
+      
+      
+        Materials and methods
+        
+          Cells
+          DT40 cells were cultured in RPMI 1640 supplemented
+          with 10% fetal calf serum, 1% chicken serum (Sigma),
+          penicillin, streptomycin, glutamine, and 50 μM
+          mercaptoethanol. DT40 cells rendered deficient for 
+          btk and 
+          plcγ2 by homologous recombination
+          were described previously [ 11, 37].
+        
+        
+          Antibodies
+          Anti-chicken μ mAb M4 [ 14], anti-Btk antiserum [ 42]
+          and anti-Btk Y223 phosphospecific antiserum [ 43] were as
+          described. Anti-phosphotyrosine mAbs were 5H1 [ 42] and
+          4G10 (Upstate Biotechnology, NY). Antisera against PLCγ2,
+          ERK1, ERK2 and the hormone-binding domain of the estrogen
+          receptor (ER) were from Santa Cruz Biotechnology (Santa
+          Cruz, CA), and anti-active JNK antiserum was from Promega
+          (Madison, WI).
+        
+        
+          Biochemical analyses
+          Btk:ER proteins were activated with 4-hydroxytamoxifen
+          (4-HT; Research Biochemicals International).
+          Immunoprecipitations, immune complex protein kinase
+          assays, and immunoblotting were as described previously [
+          44]. ERK MAPK assays were as described [ 26]. For JNK
+          assays, cells were resuspended in RPMI 1640 supplemented
+          with 2.5% fetal calf serum, and following stimulation
+          whole cell lysates were analysed by Western blotting with
+          anti-active JNK antiserum.
+        
+        
+          Cloning and transfection of Btk:ER
+          constructs
+          Cloning of mouse Btk was as described [ 42].
+          Kinase-inactive (K430E) Btk was generated by a two-step
+          PCR mutagenesis strategy [ 42]. To generate Btk:ER, DNA
+          sequences encoding full-length mouse Btk were amplified
+          by PCR from Btk cDNA using the following primers: 5'-
+          TAGTAGGGATCCAGGAAGCCATGGCTGCAGTG-3' and
+          5'-TAGTAGGGATCCGCGGATTCTTCATCCATC-3'. The PCR product was
+          cloned into the BamHI site of pBP3:ER (pBabepuro
+          containing the hormone-binding domain of the HE14 allele
+          of the human estrogen receptor) [ 26]. Btk:ER constructs
+          were subcloned from pBP3:Btk:ER into the EcoRI site of
+          the pApuroII vector. DT40 cells were transfected with
+          pApuroII:Btk:ER by electroporation and stable clones
+          selected [ 14].
+        
+        
+          Calcium flux analyses
+          DT40 cells were labeled with 1 μM indo-1 AM (Molecular
+          Probes, Eugene, OR) for 30-min at room temperature. After
+          labeling, cells were washed and resuspended in RPMI 1640
+          supplemented with 1% fetal calf serum and 20 mM Hepes
+          buffer. In some experiments extracellular calcium was
+          chelated by pre-treating the cells with 3 mM EGTA for
+          15-min. Calcium flux was measured using a FACSVantage
+          (Becton Dickinson, Mountain View, CA).
+        
+        
+          Apoptosis assay
+          DT40 cells were treated for 24 h and flow cytometry
+          analyses of apoptotic cells was performed using the TUNEL
+          in situ cell death detection kit (Roche Molecular
+          Biochemicals). Flow cytometry was performed using a
+          FACSCalibur (Becton Dickinson) and analyzed using
+          CellQuest software (Becton Dickinson).
+        
+      
+    
+  

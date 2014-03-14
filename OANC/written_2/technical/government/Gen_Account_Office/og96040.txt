@@ -1,0 +1,193 @@
+
+
+
+
+Office of the General Counsel
+B-274307
+September 12, 1996
+The Honorable Larry Pressler Chairman The Honorable Ernest F.
+Hollings Ranking Minority Member Committee on Commerce, Science,
+and Transportation United States Senate
+The Honorable Thomas J. Bliley, Jr. Chairman The Honorable John
+D. Dingell Ranking Minority Member Committee on Commerce House of
+Representatives
+Subject: Federal Communications Commission: Flexible Service
+Offerings in the Commercial Mobile Radio Services
+Pursuant to section 801(a)(2)(A) of title 5, United States Code,
+this is our report on a major rule promulgated by the Federal
+Communications Commission, entitled "Flexible Service Offerings in
+the Commercial Mobile Radio Services" (WT Docket No. 96-6). We
+received the rule on August 21, 1996. It was published in the
+Federal Register as a final rule on August 29, 1996. 61 Fed. Reg.
+45336.
+Enclosed is our assessment of the Federal Communications
+Commission's (FCC) compliance with the procedural steps required by
+sections 801(a)(1)(B)(i) through
+(iv) of title 5 with respect to the rule. Our review indicates
+that the FCC complied with the applicable requirements.
+In its notice of proposed rulemaking, 61 Fed. Reg. 6189,
+February 16, 1996, the FCC sought comments on proposals for
+expanding permitted offerings of fixed wireless services by
+Commercial Mobile Radio Service (CMRS) providers, as well as
+comments in connection with the regulatory treatment for such
+services. The Executive Summary indicates comments received in
+response to the proposed rulemaking provided strong support for
+allowing the provision of fixed wireless
+GAO/OGC-96-40
+services by the licensees operating on the CMRS bands. The final
+rule amends the FCC rules to allow providers of narrowband and
+broadband CMRS services to offer fixed wireless services (excluding
+broadcast) on their assigned spectrum on a coprimary basis with
+mobile services.
+If you have any questions about this report, please contact Alan
+Zuckerman, Assistant General Counsel for Operations, at (202)
+512-4586. The official responsible for GAO evaluation work relating
+to the Federal Communications Commission is John Anderson,
+Director, Transportation and Telecommunications Issues. Mr.
+Anderson can be reached at (202) 512-8234.
+Robert P. Murphy General Counsel
+Enclosure
+cc: Mr. Andrew S. Fishel Managing Director Federal
+Communications Commission ENCLOSURE
+ANALYSIS UNDER 5 U.S.C. §§ 801(A)(i)(B)(i)-(iv) OF A MAJOR RULE
+ISSUED BY THE FEDERAL COMMUNICATIONS COMMISSION ENTITLED "FLEXIBLE
+SERVICE OFFERINGS IN THE COMMERCIAL MOBILE RADIO SERVICES" (WT
+Docket No. 96-6)
+
+
+
+(i)
+Cost-benefit analysis
+
+The Commission indicated in its submission that it was not
+required to prepare a cost-benefit analysis of the rule
+
+
+(ii)
+Agency actions relevant to the Regulatory Flexibility
+Act, 5 U.S.C. §§ 603-605, 607 and 609
+
+
+Section 603 Initial Regulatory Flexibility Analysis
+Pursuant to section 603 of the Act, the Commission incorporated
+an Initial Regulatory Flexibility Analysis (IRFA) in its Notice of
+Proposed Rulemaking, and written comments were requested. The
+preamble to the rule states that no comments were received
+specifically in response to the IRFA, but that issues were raised
+that might affect small business entities. In particular, a small
+business commenter argued that the proposed flexibility in the use
+of the CMRS bands not be extended to cellular providers initially
+in order to give Personal Communications Service (PCS) licensees an
+opportunity to establish themselves. The Commission also reports
+that it forwarded a copy of its initial regulatory flexibility
+analysis to the Chief Counsel for Advocacy of the Small Business
+Administration (SBA) as required by the Act.
+Section 604 Final Regulatory Flexibility Analysis
+The Commission prepared a Final Regulatory Flexibility Analysis
+pursuant to section 604. That analysis notes that the rule will
+carry out the Congress' intent to establish a consistent regulatory
+framework for all commercial mobile radio services and that the
+rule will assist in the development of competition between wireless
+and wireline services for the benefit of consumers.
+The analysis notes that the rulemaking applies to providers of
+cellular, narrowband and broadband PCS, CMRS, specialized mobile
+radio services, CMRS paging commercial 220 MHz services, and
+for-profit interconnected business radio services.
+Each category of services was analyzed separately.
+GAO/OGC-96-40
+Cellular. In absence of its own standards, the Commission
+defined small business with respect to cellular services by
+utilizing the SBA definition for radiotelephone companies, e.g., an
+entity employing less than 1,500 persons. Because of the absence of
+meaningful data concerning the number of entities which are small,
+the Commission used the 1992 Census of Transportation,
+Communications and Utilities conducted by the Bureau of the Census
+as the most recent information available. That census indicated
+that only 12 of the 1,178 radiotelephone firms had 1,000 or more
+employees. That data does not, however, indicate the number of
+cellular providers among the 1,178 firms. Based on the above, the
+FCC concluded that for the purpose of the final regulatory
+flexibility analysis, all cellular licensees are small businesses
+as defined by the SBA.
+PCS. The FCC (with the approval of the SBA) has defined small
+business in this category to mean businesses who have gross
+revenues not to exceed $40 million per year for the prior 3
+calendar years. Broadband PCS licenses were auctioned for Blocks
+A,B, and C. No auction has been held for blocks D, E and F.
+The FCC asserts that it has insufficient information upon which
+to determine whether any small businesses within the SBA-approved
+definition were successful bidders for blocks A and B. For block C,
+the FCC estimates that 89 of the 90 nondefaulting bidders are small
+businesses.
+For blocks D, E. and F, the FCC has switched from the $40
+million criteria to the under 1,500 employee category. Given that
+nearly all radiotelephone companies have less than 1,500 employees,
+the FCC concludes that all of the 1,479 licenses for these blocks
+will be awarded to small businesses. Because of a similar lack of
+meaningful data, the Commission has concluded that all of the 30
+regional licenses for narrowband PCS and all of the 11 licenses for
+narrowband nationwide PCS licenses have been awarded to small
+business.
+SMR. The FCC has created two tiers of small business for this
+service with the approval of the SBA. Firms with not more than $3
+million gross revenue for each of the three preceding calendar
+years are categorized as very small; with not more than $15 million
+for the same period are small. According to the analysis, 60
+winning bidders for the 900 MHz licenses qualify as small entities
+(no breakdown of small vs. very small). There has been no auction
+for the 800 MHz licenses.
+Interconnected business services. According to the FCC, there is
+no meaningful data as to the number of for-profit interconnected
+business service (IBS) licensees that are small business, although
+the Commission concludes that all of the current license holders
+are small based on the 1,500 employee SBA criteria. The FCC notes
+that while there are in excess of 13,000 for-profit IBS licenses, a
+single licensee may hold multiple licenses so that it is not
+possible to determine the actual number of individual licensees for
+the service.
+The analysis concludes that the rules do not impose additional
+reporting, record keeping, or other compliance requirements.
+Section 605: Avoidance of duplicative or unnecessary
+analysis
+The Commission did not invoke any of the exemptions or special
+procedures authorized by section 605 in preparing its regulatory
+flexibility analysis.
+Section 607: Preparation of Analysis
+Under section 607, the Commission's submission does not
+specifically indicate the potential economic impact on the small
+entities affected. However, the regulatory flexibility analysis
+indicates that the rule will benefit all CMRS small business
+licensees by providing them greater flexibility to determine which
+service they will provide to the public.
+Section 609: Participation by small entities
+Based on the information before us, it appears that there were
+no special efforts made by the Commission to involve small entities
+in the rulemaking process, other than the actions required by 5
+U.S.C. § 553.
+(iii) Agency actions relevant to sections 202-205 of the
+Unfunded Mandates Reform Act of 1995, 2 U.S.C. §§ 1532-1535
+As an independent regulatory agency, the Commission is not
+subject to Title II of the Unfunded Mandates Reform Act of
+1995.
+(iv) Other relevant information or requirements under Acts and
+Executive orders Administrative Procedure Act, 5 U.S.C. §§ 551 et
+seq. The rule was promulgated through the general notice of
+proposed rulemaking
+procedures of the Act, 5 U.S.C. § 553. The Commission afforded
+interested persons the opportunity to comment on the proposed rule,
+and the Commission's Report and Order addresses these comments.
+Paperwork Reduction Act, 44 U.S.C. §§ 3501-3520 The rule does
+not contain either a proposed or modified information collection.
+Statutory authorization for the rule
+The rules are promulgated with the authority provided in the
+Communications Act of 1934, as amended, 47 U.S.C. §§ 154(i),
+154(j), 157(a), 303(b), 303(f), 303(g), 303(r), 332(a), and
+(c).
+Executive Order No. 12866
+As an independent regulatory agency as defined in 44 U.S.C. §
+3502(10), the FCC is not subject to Executive Order No. 12866.
+The Commission did not identify any other statutes or Executive
+Orders imposing requirements relevant to the rule.
+
+
+

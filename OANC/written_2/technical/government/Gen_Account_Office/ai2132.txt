@@ -1,0 +1,1399 @@
+
+
+
+
+May 2000
+Streamlining the Payment Process While Maintaining Effective
+Internal Control
+
+
+GAO/AIMD21.3.2
+Contents
+Preface
+Introduction
+
+Page 1 GAO/AIMD21.3.2 (5/00)
+Contents
+
+Related GAO Products
+Figure Figure 1: Agency Systems Architecture
+Abbreviations
+
+
+
+Preface
+In recent years, agencies have taken advantage of advancing
+technology to streamline operations and reduce costs in financial
+management systems. Specifically, in the payment processing area,
+agencies have redesigned or improved existing systems and have
+formally requested GAO's views on the quality of internal control
+designed into the new or modified systems. As part of GAO's
+responsibility to issue internal control standards and our
+commitment to improve financial management in government, we have
+worked with agencies to assist them in saving millions of dollars
+while ensuring that effective control was also included in the
+systems designs and modifications.
+Many of the agencies' designs and systems modifications have
+been creative and innovative in streamlining payment systems and
+reducing costs. In each case, after working with the agencies, we
+summarized their designs and our positions with regard to the
+internal control in their designs. We have aggregated the views in
+our individual letters into this booklet as a guide to agencies
+which are reengineering their payment systems. Our intentions are
+to (1) assist agencies in maintaining sound internal control and
+(2) help them focus requests for our assistance on the
+effectiveness of planned internal control for revised payment
+systems.
+This guide is divided into four major sections. The first
+section covers background information about traditional payment
+systems and the changes occurring in them. The second section
+focuses on advancing technology and its impact on payment systems.
+The third section deals with streamlining efforts in the payment
+systems involving the purchase of goods and services while the last
+section deals with streamlining efforts in the employee travel
+payment systems.
+Additional copies of this guide can be obtained from the U.S.
+General Accounting Office, 700 4th Street NW, Room 1100,
+Washington, D.C. 20548, or by calling (202) 5126000 or TDD (202)
+5122537. It is also available on the internet on GAO's Home Page
+(www.gao.gov)under "Other Publications."
+
+Jeffrey C. Steinhoff Assistant Comptroller General Accounting
+and Information Management Division
+
+
+Introduction
+This document contains four sections. The first section provides
+an overview of the traditional payment systems to vendors for the
+acquisition of goods and services and to employees as a result of
+government travel. It describes the major processing components of
+the payment system and focuses on the basic internal control that
+should have existed within these traditional systems to emphasize
+that these same control objectives should always be satisfied as
+payment systems change and evolve.
+The second section discusses the role of advancing technology
+and its effect on major changes that have and continue to occur in
+payment systems. The basic internal control discussed in
+traditional payment systems is emphasized as the key ingredient in
+maintaining effective payment systems regardless of the changes
+occurring. Also discussed are advances in technology, which have in
+recent years begun to be used by agencies, but for which wide
+spread application will likely occur in the foreseeable future.
+The third and fourth sections cover details of the numerous
+requests we have received, including a description of agencies'
+systems designs and modifications and our views on the
+effectiveness of the designed internal control in the proposed
+changes. The third section covers payments to vendors for the
+acquisition of goods and services and the fourth section covers
+payments to employees for government travel. The requests and our
+responses focus mostly on internal control regarding the automation
+of payment systems or the conversion from manual to automated
+systems.
+The first appendix covers relevant issues addressed in GAO's
+reports (responses to agency requests). The second appendix
+provides a brief discussion about relevant systems standards issued
+by the Joint Financial Management Improvement Program (JFMIP). The
+last page lists the products that form the basis for this
+document.
+In carrying out our responsibilities to work with agencies, we
+have published and periodically updated GAO's
+PolicyandProceduresManual forGuidanceofFederalAgencies. This manual
+is divided into eight major parts called titles. Title 7, "Fiscal
+Guidance," provides guidance in several areas including areas
+covering our responsibility to settle accounts of accountable
+officers, issue internal control standards, and respond to agencies
+that inquire about these matters. Title 7 contains extensive
+coverage on the payment process, which is the subject of this
+document, and provides the basic concepts and criteria we rely on
+in assisting agencies and responding to their requests.
+
+
+Background
+This section discusses the traditional payment process,
+modifications to the traditional payment process, and the
+importance of internal control in effectively administering the
+payment process. It also provides the basic concepts and criteria
+contained in Title 7, "Fiscal Guidance," of GAO's
+PolicyandProceduresManualforGuidanceofFederalAgencies. Title 7
+provisions form the basis for our positions developed in response
+to agencies' requests for our views on proposed new payment systems
+or modifications to streamline the operations of existing
+systems.
+
+
+Traditional Payment Process
+Title 7 identifies the following steps of the acquisition and
+payment process involving general purchases: (1) purchase
+authorization (the ordering function), (2) receipt and acceptance
+of the items ordered,
+
+
+(3)
+receipt of the invoice, (4) payment approval and
+authorization, and
+
+
+(5)
+actual payment (disbursement of funds). None of the
+requests we received for assistance involved the actual payment
+part of the process, and therefore we are not covering that aspect
+in this document.
+
+
+The purchase authorization portion of the process is the formal
+approval of the purchase by responsible designated officials within
+the agency and usually results in the obligation of budget
+authority. The receipt and acceptance portion generally involves a
+government employee taking possession of the items purchased and
+verifying quantity and quality of the items received. Receipt of
+the invoice or bill from the supplier or vendor represents a claim
+against the government for the items sent or delivered per the
+government's purchase order.
+The payment approval and authorization portions of the process
+can involve a multistep process with administrative approvals being
+first
+Background
+followed by payment authorization.1 An administrative approval
+is generally performed by a responsible official in the unit that
+ordered or received the items purchased. The administrative
+approval normally is based on verification that the items ordered
+were actually received and met the government's specifications, and
+thus validates a vendor's request (invoice) for payment.
+Payment authorization is generally restricted to designated
+persons in the agency. These individuals can be held personally
+liable, under certain circumstances, for authorizations made by
+them. These individuals are responsible for ensuring the legality,
+propriety, validity, and accuracy of all payments they authorize.
+Specifically, they must determine whether:
+
+
+•
+the payment is permitted by law;
+
+
+•
+the appropriation amounts are available at the time and
+are being used for the intended purpose;
+
+
+•
+the goods and services have been received and conform to
+the requirements of the order or agreement;
+
+
+•
+the required administrative approvals have been obtained;
+and
+
+
+•
+the quantities, prices, and calculations are
+accurate.
+
+
+As used in this document, administrative approvals are
+differentiated from payment authorization. Payment authorization
+(also called payment certification) refers to the act of approving
+payment and authorizing Treasury to disburse funds. Agency
+officials designated to be certifying officers (who certify
+payment) must have certain documents on file with Treasury, must
+follow Treasury regulations, and can be held legally liable for
+payments they authorize. Administrative approvals, on the other
+hand, refer to the approval function of various aspects of a
+transaction except for payment authorization. Administrative
+approvals include, but are not limited to, obligation of funds (for
+example, authorizing the purchase of goods, approving employee
+travel, approving contracts on behalf of the agency); accepting
+goods and services delivered to an agency per order or contract;
+and approving travel vouchers for payment scheduling. Agency
+officials authorized to perform administrative approvals are
+generally required to follow agency policies and procedures as
+opposed to statutory requirements and Treasury regulations followed
+by certifying officers.
+Because certifying officers' responsibilities cover the payment
+they authorized, their responsibilities can extend to most aspects
+of a transaction. Officials performing administrative approvals
+usually are responsible for fewer aspects of a transaction. For
+example, the administrative approval of an employee's travel
+voucher (usually performed by the employee's supervisor) generally
+confirms the reasonableness of the claim and that the travel
+actually took place. The certifying officer, however, not only
+verifies that the voucher contains an administrative approval
+ensuring that the travel took place, but also performs numerous
+examination procedures to ensure all claims are within regulations
+and limitations.
+Background
+Traditionally, certifying or disbursing officers2
+responsibilities extended throughout the payment process. They had
+staff assisting them in reviewing each invoice prior to payment
+authorization. This review is referred to as the "prepayment
+examination." The examination consisted of several steps, primarily
+focusing on comparing information on three critical documents-the
+obligation or ordering document, the receiving and inspection
+document (normally called a receiving report), and the invoice. The
+information on the three documents had to be of sufficient detail
+to allow an effective comparison to occur. The information had to
+include specific identification of the good or service (e.g., stock
+numbers, detailed descriptions, grades or quality, and types or
+models); quantities ordered, received, and billed; the quality
+(type, grade, or condition) of the items received; and prices per
+unit. If necessary, the invoice was adjusted to reflect the items
+actually received and accepted. While examining the documents, the
+staff also was required to verify that the documentation had the
+necessary administrative approvals. For example, such approvals
+could be evidenced by purchase orders signed by an authorized
+official or travel orders and vouchers signed by supervisors.
+Once the staff was satisfied that the invoice reflected a legal,
+proper, valid, and accurate amount, the invoice was deemed ready
+for payment. The invoice amount, or an adjusted or modified amount,
+was prepared for payment on a specific form. In the civil agencies,
+payment information (payee and amount) traditionally was entered on
+Treasury Form 1166, Voucher and Schedule of Payments. The specific
+form was forwarded along with the related supporting documents to
+the agency certifying or disbursing officer for review and
+approval. Once approved, by signature, the form without the
+supporting documents was forwarded to Treasury (for civil agencies)
+or another unit under the disbursing officer (for DOD) for actual
+payment.
+Lastly, the hard copy documents (i.e., obligation document,
+receiving report, and the invoice) supporting a disbursement were
+normally filed centrally at the certifying or disbursing officer's
+location for easy access in the event of a management review or
+outside audit of the payment process. The documents had to be
+retained for specified periods and be stored under certain
+procedures in accordance with Title 8, "Records Management," of
+GAO's PolicyandProceduresManual.
+Pursuant to Public Law 104106, National Defense Authorization
+Act for Fiscal Year 1996, DOD was given the authority to have
+certifying officers. Prior to that, disbursing officers usually
+approved vouchers for payment.
+Background
+
+
+Modifications to the Traditional Payment Process
+The traditional payment approval process has been modified over
+the years primarily through the application of statistical sampling
+and "fast pay" procedures, and the widespread use of computer
+technology. (Computer technology is discussed in the next section.)
+Statistical sampling was initially implemented in the 1960s to
+reduce the cost of the payment process while still affording
+confidence that payments were processed accurately. Statistical
+sampling procedures implemented involved a random selection of
+invoices from a known universe of invoices below a certain dollar
+amount (currently set at $2,5003)tobe examined in lieu of examining
+all invoices as would be done under a 100percent examination. Fast
+pay was implemented in the government, in certain circumstances, on
+a larger scale during the 1980s to assist agencies in meeting the
+payment timing requirements of the Prompt Payment Act. It involved
+the examination of invoices after payment in lieu of prepayment
+examination.4
+It should be noted that statistical sampling and fast pay
+procedures neither reduce the need for effective internal control
+nor relieve the certifying/disbursing officer of his or her
+responsibility. They merely provide a mechanism to reduce clerical
+costs and expedite processing while continuing to meet prompt
+payment requirements and maintain effective internal control.
+Statistical sampling allows conclusions to be made about (1) the
+universe of invoices from which the sample was selected and (2) the
+procedures in effect used to process all invoices in the universe.
+Examination of the sample and evaluation of the results permits
+correction of errors and other deficiencies found in the items
+sampled and the procedures and controls directly related to the
+items. It also permits projections as to the quality of all
+invoices in the universe.
+Prior to implementing sampling procedures, a sampling plan
+should be developed. The plan should include (1) a definition of
+the universe of invoices to be examined, (2) the size and selection
+method of the sample based on the risks of the invoice processing
+system, (3) procedures to analyze the results of the sample, and
+(4) methods to document the plan and the analysis.
+3Title 7 of GAO's PolicyandProceduresManual,section 7.4.E.
+4
+OMB Circular A125 (revised 12/12/89) PromptPayment, which
+provided guidance on the Prompt Payment Act, permits under certain
+conditions, the use of fast pay procedures to pay vendor invoices
+without evidence of receipt and acceptance at the time of
+
+certification and payment. (See footnote 5.)
+Background
+Compared to the prepayment examination of all invoices,
+implementing sampling procedures increases the risks of
+overpayments occurring and going undetected. This risk can be
+acceptably mitigated if the plan calls for invoice examination to
+be commensurate with the risk to the government. The plan should
+convincingly demonstrate that statistical sampling procedures would
+produce administrative savings while adequately protecting the
+interests of the government. Savings would be achieved if the
+combined costs of (1) examining the sample and (2) projected losses
+due to undetected errors on invoices not examined are less than the
+administrative cost of examining all invoices.
+Effective control over disbursements ordinarily requires
+examination of invoices before they are approved for payment.
+However, fast pay procedures typically entail payment authorization
+without evidence of receipt and acceptance, provided that
+subsequent to payment authorization, receipt and acceptance is
+verified. Under fast pay, examination of the invoice subsequent to
+payment authorization is sometimes referred to as "post payment
+examination." OMB Circular A125 PromptPayment,5 the Prompt Payment
+Act, and the Federal Acquisition Regulation (FAR), part 13 provide
+guidance on implementing fast pay. Based on that guidance, fast pay
+is currently subject to a limitation of $25,000 per invoice and the
+following conditions: (1) geographical separation and lack of
+communication facilities make it impractical to make timely
+payments based on evidence of acceptance, (2) suppliers who will be
+paid under the procedure have agreed to repair, correct, or replace
+goods or services not conforming to requirements, and (3) and it is
+limited to suppliers who have had and continue to have a good
+ongoing business relationship with the agency.
+Normally, under fast pay procedures, all invoices are examined
+subsequent to payment authorization. However, combining statistical
+sampling with fast pay procedures is permitted under appropriate
+circumstances. Although such a combination increases the risks of
+overpayments occurring, the risks can be effectively mitigated if
+the sampling plan developed ensures that projected savings exceed
+estimated costs.
+OMB revised the circular effective October 29, 1999. The
+requirements and the guidance in the circular were then placed in
+the Code of Federal Regulations (5 C.F.R. part 1315, "Prompt
+Payment") and the circular was rescinded.
+Background
+
+
+Importance of Effective Internal Control and Financial
+Management Systems
+Each agency's internal control over the payment process should
+be based on the operating needs of the agency. In particular, the
+units that process payments under the direction of the certifying
+and disbursing officers should have in place effective internal
+control activities6 to ensure payments are legal, proper, valid,
+and accurate and that duplicate payments are avoided.
+Under traditional payment processes, certifying officers
+reviewed all invoices they authorized for payment. Although the
+certifying officers are primarily responsible for payments
+authorized, the volume of transactions, the geographic dispersion
+of activities, and the emphasis on prompt payment make it virtually
+impossible for these individuals to review all invoices before
+authorizing payment. Consequently, in fulfilling their
+responsibilities, these officers must rely on the systems, internal
+controls, and personnel that process the transactions. As a result,
+payment process oversight has generally shifted from individual
+transaction reviews to reviews of internal control over systems
+that process the transactions.
+This shift in emphasis from approval of individual transactions
+to evaluations of the adequacy of systems and the internal control
+environment has been reflected in law and in policy for numerous
+years. The Federal Managers' Financial Integrity Act of 1982
+requires agency management to annually assess and report on the
+adequacy of internal control. The guidance needed to comply with
+this act is contained in GAO's
+StandardsforInternalControlintheFederalGovernment7 and OMB Circular
+A123 (revised June 21, 1995), Managementand
+AccountabilityControl.
+The Federal Financial Management Improvement Act of 1996
+requires, among other things, that agencies implement and maintain
+financial management systems that substantially comply with federal
+financial management systems requirements. These system
+requirements are detailed in the Financial Management Systems
+Requirements series issued by the Joint Financial Management
+Improvement Program (JFMIP) and OMB Circular A127 (revised June 10,
+1999), FinancialManagement Systems. JFMIP requirements documents
+include (1) a framework for financial management systems, (2) core
+financial management systems
+6
+Examples of internal control include separation of duties,
+limited access to assets and information, clear documentation of
+all transactions and events, and the timely recording of
+transactions and events.
+
+7StandardsforInternalControlintheFederalGovernment(GAO/AIMD99.21.3.1)
+was revised in November 1999, and is available on the Internet, GAO
+home page (www.gao.gov) under "Other Publications." It is also
+available in hard copy by calling (202) 5126000 or at Room 1100,
+700 4th Street NW (corner of 4th and G Sts. NW, Washington, DC.
+Background
+requirements, and (3) requirements for 16 other systems that
+support agency operations. (See appendix II for a further
+description of the JFMIP systems requirements series.)
+While new technologies and reengineering of business processes
+may change how certifying and disbursing officers operate, their
+basic responsibilities and accountabilities remain unaltered.
+Consequently, these officers must have valid and documented
+assurances that the systems and key controls on which they rely for
+authorizing payments are working as intended and remain intact and
+effective over time. This confidence in the systems and control
+should be based on several factors; among the most significant are
+the following:
+
+
+•
+A welldefined organizational structure and flow of work,
+appropriate separation of responsibilities, and clearly written
+policies and procedures governing purchase authorization, receipt
+of goods and services, and examination and approval of invoices for
+payment.
+
+
+•
+Effective application of available technology for
+efficient and effective acquisition of goods and services and
+processing of payment authorization.
+
+
+•
+Review of the invoice examination process in sufficient
+scope, depth, and frequency to provide reasonable assurance that
+systems and controls are working as intended and are
+reliable.
+
+
+
+
+Advancing Technology
+The repetitive nature of processing most transactions and the
+uniform examination procedures applied to invoice processing
+usually permit extensive automation of these processes. In lieu of
+the traditional practice of performing a 100percent manual
+prepayment examination of invoices, agencies today process large
+volumes of transactions in highly automated systems with automated
+controls, electronic data interchange, and computer assisted
+examination techniques.
+Data entry edits to ensure accurate and reliable data processing
+are relatively simple to develop and use. Edits are programmed to
+perform various comparisons, verifications, and calculations to
+produce outputs that effectively replace many of the manual invoice
+processing and examination procedures. As the sophistication and
+the number of edits continue to evolve and become more widely
+applied throughout the government, agencies have been revising
+their automated payment processes to reflect these improvements
+while at the same time making their systems more efficient.
+Hard copy documentation that is necessary to support invoice
+examination and payment authorizations is giving way to electronic
+forms which reduce retention and storage costs while concurrently
+enhancing access capabilities. Today's proper application of
+available technology makes it possible to perform the required
+prepayment examination without assembling hard copy records from
+diverse locations as in the past. With today's technology,
+personnel can extract data from hard copy source records, input the
+information into the automated system through computer terminals,
+and forward the data through communications networks to a
+centralized location for further online processing, examination,
+and payment authorization. However, implementation of available
+technologies does not change the requirement that audit trails of
+transactions and authorizations be maintained or the rigors of
+examination of invoices not be compromised.
+Although automation of payment processes helps streamline
+operations, the basic responsibilities of the certifying and
+disbursing officers remain the same. These officers must have
+sufficient knowledge of the automated systems in order to carry out
+their responsibilities effectively. They are still responsible for
+making sure that they can rely on the quality of the automated
+systems to ensure that invoices authorized for payment are legal,
+proper, valid, and correct.
+The quality of the automated systems is to a large extent based
+on the effectiveness of internal control. Internal control over
+automated systems can be grouped into general control and
+application control. General
+
+
+Electronic Signatures
+Advancing Technology
+control applies to all information systems-mainframe,
+minicomputer, network, and enduser environment. Application control
+is designed to cover the processing of data within application
+software.8 To ensure the quality of the automated systems,
+management must provide the environment for effective
+implementation of general and application controls.
+Automated environments naturally require various levels of
+access in order to permit data entry, appropriate data manipulation
+(i.e., calculations, summarization, and reporting), program
+modifications, and data review and approval. Generally, access,
+authorization, and approvals are permitted through various controls
+and electronic symbols or programmed data elements. The degree of
+control over access to automated systems for data entry,
+examinations, reviews, and approvals will vary. User identification
+codes and passwords provide less control over data than do
+electronic signatures. An electronic signature is a method of
+signing an electronic message that (1) identifies and authenticates
+a particular person as the source of the electronic message and (2)
+indicates such person's approval of the information contained in
+the electronic message.9
+An electronic signature is a data authentication process, which
+when effectively implemented, provides assurance that data
+associated with the signature has not been altered or changed.
+Traditional user identification codes and passwords, while
+permitted under certain circumstances, do not. To be effective, GAO
+recommends that electronic signatures be
+(1) unique to the signer, (2) under the signer's sole control,
+and (3) capable of verification. In addition, the signature should
+be linked to the data in such a manner that if the data are
+changed, the signature is invalidated. The National Institute of
+Standards and Technology (NIST)10 has established procedures for
+the evaluation and approval of certain automated signature
+techniques11 to ensure data integrity and consistency with
+previously mentioned criteria.
+8
+General and application control is discussed further in the
+StandardsforInternalControl intheFederalGovernment, November 1999
+(GAO/AIMD0021.3.1), pp. 1618.
+9
+The Government Paperwork Elimination Act, section 1710(1).
+10
+Under the requirements of the Computer Security Act, NIST is
+responsible for establishing standards for federal computer systems
+that process sensitive but unclassified information.
+11
+These procedures are contained in the Federal Information
+Processing Standards (FIPS PUB 186).
+Advancing Technology
+
+
+Enhancing Internal Control and Data Integrity
+In developing electronic data authentication systems, Title 7
+recommends that agencies follow NIST guidance for payment approval
+(payment certification). Automated approvals, when the risks
+associated with automated records and approvals warrant it, might
+necessitate electronic signatures that follow NIST guidance. The
+Government Paperwork Elimination Act requires OMB to issue guidance
+to agencies regarding automated systems that maintain electronic
+information as a substitute for paper and use electronic
+signatures. OMB's published guidance12 states that an agency should
+perform an assessment to evaluate the suitability of electronic
+signature alternatives for a particular application. Among other
+things, the assessment should develop strategies to mitigate risks
+and maximize benefits in the context of available technologies, and
+the relative total costs and effects of implementing those
+technologies.
+In its FrameworkforFederalFinancialManagementSystems, JFMIP
+envisioned automated systems with standardized information and
+electronic data exchange to eliminate manual processes, reduce the
+risks of data loss or errors, and eliminate manual reentry and
+interpretation. Title 7 states that agencies should endeavor to
+establish automated techniques, including data interchange, and
+control whenever feasible so long as the interests of the
+government are protected.
+Although many current payment systems are highly automated, the
+technological changes envisioned by JFMIP have not yet been fully
+realized. There are several major areas in the payment process
+where technological advances have had and will continue to have a
+substantial impact. Three of these areas include: (1) the
+automation of receipt and acceptance, (2) electronic signatures,
+and (3) statistical sampling regarding examination of claims in the
+payment process.
+Although some agencies have automated part of the receipt and
+acceptance function, widespread application has not yet occurred.
+As the application of advancing technology continues, systems will
+be able to directly transmit receipt and acceptance data from
+points of purchase to central locations for invoice examination and
+payment authorization. Transmissions of receipt and acceptance data
+will come from multiple locations and possibly from vendor
+locations where, for example, a government employee transmits data
+electronically from a fueling dock and from agencies' remote
+locations, including field offices and sea vessels. Electronically
+submitted data will alleviate many of the current
+12See OMB's
+ImplementationoftheGovernmentPaperworkEliminationAct, May 2, 2000,
+at its internet address http://www.whitehouse.gov/OMB/, under
+"Information and Regulatory Policy."
+Advancing Technology
+problems agencies face in locating hard copy receiving reports
+and manually reconciling receipt data to invoice amounts.
+Once the electronic data are received centrally, the examination
+process could be more automated. Receipt and acceptance data could
+be compared electronically to the ordering and the invoice
+information to help ensure that payment authorization is valid and
+at the same time reduce the risk of errors in the process. Also,
+the cost of the examination process would be reduced due to the
+elimination of manual reconciliation procedures. The time and
+effort needed to locate receiving reports would also not exist, and
+prompt payment requirements (taking advantage of discounts and
+avoiding late payment fees) could more easily be met.
+The OMB guidance states that automated techniques should depend
+upon risks, benefits, and cost effectiveness associated with the
+automated applications. Agencies should determine whether any
+electronic signature alternative, in conjunction with appropriate
+process controls, represents a practicable tradeoff between
+benefits on the one hand and cost and risk on the other. Electronic
+signatures meeting the aforementioned criteria, however, can
+provide the necessary data integrity for highly automated systems
+because the signature "seals" the data once it is applied. Any
+subsequent alterations to the data can be readily detected. Because
+of the nature of electronic data, it is sometimes difficult to
+ascertain whether the data have been altered or manipulated unless
+the signature is linked to the data in such a way that the
+signature verification process can detect data changes. Passwords
+and identification codes generally do not provide this detection
+capability.
+Although implementation of electronic signatures meeting the
+NIST criteria may not currently be costeffective in all cases, or
+may not be needed because the electronic data application is low
+risk, technological advances will continue to occur, making the
+signatures more affordable and widespread in the future. Combining
+the automation of the receipt and acceptance process with the
+widespread use of electronic signatures could be a major move
+towards full automation.
+With full automation, statistical sampling of invoices prior to
+payment to make inferences about the universe would no longer be
+necessary since the system would perform a 100percent verification
+of receipt and acceptance. Statistical sampling would only be
+needed for monitoring the system operations through periodic
+testing. Aspects of the system that could be tested through
+sampling might include verifying that the electronic recording of
+receipt and acceptance was supported by other sources.
+Advancing Technology
+Also, under full automation, fast pay could be eliminated in
+most situations. Since the system would automatically verify all
+receipts and acceptances prior to invoice payment authorization,
+there would be no need to authorize payment prior to verification
+of receipt. Moreover, systems could be designed and operated to
+contain specific control mechanisms to prevent payment
+authorization either manually or in an automated environment prior
+to confirmation of receipt and acceptance.
+
+
+Streamlining the Payment Process- Acquisition of Goods and
+Services
+Verification of Receipt and Acceptance After Payment
+Authorization (Fast Pay)
+In an effort to streamline operations and reduce costs while
+taking advantage of currently available technology, many agencies
+have redesigned or modified their payment systems. Several agencies
+have requested opinions from us on whether proposed new payment
+system designs or proposed system modifications conform to the
+requirements of Title 7 internal controls. Agencies' specific
+questions regarding their payment systems for the acquisition of
+goods, along with our responses, are organized into the following
+six sections. Since we did not test the proposed changes, our
+responses only addressed agencies' proposals conceptually.
+Several agencies asked whether certain changes to their existing
+payment process complied with the internal control requirements of
+Title 7. At the time of the request, their procedures required the
+verification of receipt and acceptance prior to authorization of
+payment. The proposed changes would allow payment on invoices under
+$25,000 prior to verification of receipt and acceptance of the
+items purchased.
+GAO Response Payment authorization prior to verifying receipt
+and acceptance is a common process referred to as "fast pay." Since
+specific authority to implement a fast pay process for the
+acquisition of goods and services at agencies exists as set forth
+in OMB Circular A12513 and FAR, our permission is not necessary.
+However, we responded to agency requests for assistance in
+designing and implementing effective internal controls.
+In responding to these agencies' requests, we verified that
+their designs met the fast pay requirements previously discussed
+(limitation of $25,000, geographical separation, ongoing
+relationship with suppliers, and methods to identify suppliers
+abusing fast pay). If the designed procedures met the requirements,
+we did not object to the implementation of fast pay. In keeping
+with the fast pay requirements, we also suggested that the system
+designs include procedures to identify first time vendors and
+vendors with a history of abusing fast pay.These vendors would not
+be eligible to participate in fast pay until the agency had
+satisfied itself that those vendors were worthy businesses that
+could be paid under fast pay.
+In each case, we further suggested that, as part of its required
+FMFIA review of its internal controls, special emphasis be given to
+testing controls of the new processes to help ensure effective
+implementation.
+13See footnote 4.
+
+
+Combining Statistical Sampling With Fast Pay
+The agencies requesting guidance on internal controls when
+implementing fast pay have also designed procedures to verify
+receipt and acceptance of goods ordered on an afterthefact sampling
+basis rather than on the basis of a 100percent postpayment
+verification as is traditionally done. We reviewed the proposals
+involving the statistical sampling verification procedures.
+
+GAO Response
+Title 7 limits statistical sampling to invoices under $2,500.
+Combining statistical sampling with fast pay procedures increases
+the risks that overpayments would occur and go undetected compared
+to a 100percent verification of receipt and acceptance. These risks
+would be acceptably mitigated if the statistical sampling plan
+provided for (1) the scope or extent of invoice examination to be
+commensurate with the risk to the government,14 (2) sampling from
+the universe of all invoices under $2,500 not subject to complete
+examination, (3) effective monitoring to ensure that the plan is
+effectively implemented and the risks to the government remain
+within tolerable limits, and (4) a continuing relationship with the
+vendor so that the risk of loss is minimized. We did not object to
+implementing sampling so long as the plan included these four
+items.
+In a variation of the preceding, one agency proposed to
+implement a statistical sampling process where the sample
+limitation was increased from $2,500 to $25,000, the same
+limitation for fast pay. The agency would require the purchasing
+office to notify the central office (where payment certification
+took place) within 20 days of the receipt of the invoice only in
+instances where the actual receipt of goods differed from the
+order, thus affecting payment.
+The agency would limit the use of this process to vendors with
+whom it had an ongoing satisfactory relationship. To ensure that
+the purchasing offices compared invoices to receiving reports
+subsequent to payment authorization, the agency would regularly
+examine statistical samples of paid invoices, provide adequate
+training for personnel, and regularly review implementation of
+controls. Our response was that if the agency followed through with
+its proposed controls and that the benefits derived exceeded the
+cost, the modifications would be in accordance with Title 7. As
+with other requests, we recommended that the agency's
+subsequent
+14
+In developing a sample plan, agencies should make sure that
+their proposed procedures would produce savings while adequately
+protecting the government's interest. Savings, as defined by Title
+7, would be achieved when the combined cost of (1) examining the
+sample and (2) projected losses due to undetected errors on
+invoices not examined are less than the cost of examining all
+vouchers. Through analysis, the plan must develop and identify a
+tolerable error rate (the point at which, or below which, savings
+should occur), the number of vouchers to select for examination,
+and the selection method.
+
+
+
+Fast Pay Combined With Statistical Sampling When Weak Internal
+Controls Exist
+FMFIA reviews specifically emphasize testing the effectiveness
+of the controls over its fast pay procedures and related
+statistical sampling.
+In the previous discussions, agencies requesting our assistance
+had designed but not yet implemented fast pay. However, one agency,
+where fast pay procedures had been implemented for the acquisition
+of certain goods, was moving toward verifying receipt and
+acceptance of invoices on a sampling basis. The agency's Office of
+Inspector General (OIG) had asked us whether the agency's fast pay
+procedures combined with statistical sampling was permissible. The
+OIG reported that, over a 5month period, 10 per cent of the
+invoices paid under the fast pay process had incorrect or missing
+support. That review and process uncovered missing or inaccurate
+data on order forms and receiving reports. The errors occurred
+because poor controls existed in the review and processing of
+invoices for payment.
+Also, during our discussions with agency officials, we were told
+that many invoices processed for payment were likely to exceed the
+$25,000 limitation of fast pay.
+
+GAO Response
+We responded to the request by stating that although fast pay is
+permitted under certain criteria, the purchases under the process
+inquired about would not meet the criteria (1) where the purchase
+exceeds $25,000 or
+(2) if the 10percent error rate is considered by management and
+the IG office to be above the tolerable acceptable error rate.
+Regarding sampling of invoices after payment authorization to
+verify receipt and acceptance, we pointed out that Title 7 limits
+sampling to invoices under $2,500. Without a specific request to
+raise the limitation,15 we stated that verification of receipt and
+acceptance would be required for all invoices equal to or greater
+than $2,500. In addition, we stated that sampling should not be
+implemented if the 10percent error rate is considered above the
+acceptable error rate.
+15
+In the preceding section on the discussion of combining
+statistical sampling with fast pay, one agency had proposed a
+design under which sampling would be done for all invoices $25,000
+or less. GAO responded to that agency's proposal as to whether it
+could raise the $2,500 limitation to $25,000. However, in this
+request, we were not provided a design nor asked if the limitation
+could be raised.
+
+
+
+Processing Payment Without an Invoice
+One federal entity asked GAO whether it would be permissible to
+make purchase order or contract payments (without a vendor's
+invoice) solely on the basis of a receiving report or other
+documentary evidence showing receipt and acceptance. This entity
+had designed a payment system whereby the acquisition of certain
+goods and services made under maintenance contracts and purchase
+orders would not require an invoice to generate a payment.
+
+GAO Response
+We reviewed the proposed payment processes and responded by
+stating that Title 7 identifies three typical steps to ensure
+proper payment is authorized: (1) the acquisition of goods and
+services was properly authorized as evidenced by an approved
+purchase order or contract,
+
+
+
+(2)
+the goods and services ordered have been delivered and
+accepted, evidenced by a receiving and inspection report, and (3) a
+claim has been made against the government as evidenced by receipt
+of an invoice or bill. Vendor's billing and government payment
+systems have been traditionally designed and operated with the
+invoice being the primary document initiating the payment process.
+Title 7, however, does not preclude payment from being authorized
+without an invoice if adequate internal controls exist to protect
+the government's interest.
+
+Three specific areas where internal control should be given
+special attention when authorizing payments without invoices are:
+(1) payment is initiated only after receipt and acceptance of
+ordered goods and services and is authorized only after matching
+the types and quantities received with those on the purchase order
+or contract,16 (2) controls exist to insure against duplicate
+payment should a vendor mistakenly seek payment for goods or
+services for which payment has already been made, and
+
+
+(3)
+payments are made to coincide with the due dates to take
+advantage of discount terms or avoid late payment penalties.17 The
+proposed design contained sufficient control in these three areas
+to protect the government's interest. We did not object to the
+system design so long as steps were taken to ensure effective
+implementation.
+
+
+
+
+
+Record Retention at Field Offices or Sites
+Two of the agencies requesting our assistance on designing and
+implementing fast pay also asked if the key documents (i. e.
+purchase order, receiving report, and invoice) could be retained in
+the field offices
+16
+A purchase order or contract should contain details of the type
+or quality of goods or services (e.g. model, stock number,
+quantity, per item price, discount, and payment due date).
+17
+The annual blanket contracts should stipulate discount terms and
+late payment dates.
+
+GAO Response
+or sites where the purchase was initiated. Instead of sending
+supporting documentation to the finance center for payment
+certification, a purchase log or other summary information would be
+maintained and all pertinent data would be entered into it, signed
+by the purchaser and approving official, and sent to the finance
+center for payment authorization. Periodically, samples of all paid
+invoices would be selected and the supporting documentation
+reviewed to verify the validity of the payment. Field offices and
+sites would then be required to forward the related documentation
+for all the transactions selected in the sample.
+We stated that, although supporting documents are traditionally
+maintained at the certifying/disbursing officer's location, Title 7
+did not preclude the documents being retained at the field offices
+or sites. However, we emphasized that employees responsible for
+maintaining the documents must be familiar with the retention and
+storage requirements set forth in Title 8, "Records Management," of
+the GAO Policyand ProceduresManualand that they might be requested
+to forward the documents for review by the certifying officer or
+auditors.
+We suggested that agencies inform the field office staff that
+random samples of all payment transactions would be selected for
+the purpose of verifying the validity of the payments and that they
+would be required to forward all documents related to the selected
+transactions to the certifying officer's location for review. We
+also suggested that the agencies provide the field office staff
+with training to familiarize them with the retention and storage
+requirements. We did not object to retaining documents at field or
+site locations provided the suggestions we made were
+implemented.
+Electronic Imaging One agency asked us if electronic images
+(i.e.,an electroniccopyor image of a paper document) constituted an
+acceptable record. This agency's plan was to convert financial
+paper records (such as payment vouchers and related supporting
+documents) into electronic records. After the conversion, the paper
+documents would be destroyed and the electronic records would
+become the official records of the agency.
+GAO Response GAO has long recognized that agency records need
+not be maintained in their original paperbased form. For example,
+we have found that microfilm and similar technologies are
+acceptable methods for storing data originally on paper. Electronic
+technology that allows data to be examined in human readable form,
+as on a monitor, stored in electronic
+Page 21 GAO/AIMD21.3.2 (5/00)
+media, recalled from storage, and reviewed in human readable
+form can provide data integrity that is equal to that of a paper
+document.
+Any system, regardless of the technology used, must incorporate
+adequate controls to ensure the integrity of the data. Internal
+control must ensure that (1) the digital images accurately
+represent the corresponding paper document, (2) any changes to the
+original digital image can be detected,
+(3) access to the images is limited to authorized personnel for
+authorized purposes, and (4) the digital images are not destroyed,
+but remain accessible until the applicable retention period
+expires. Although authorized changes to an image may need to be
+made, the unaltered copy of the original image should be maintained
+to facilitate adequate audit trails.
+We did not object to the agency's electronic imaging plan so
+long as internal control was implemented to ensure that the
+criteria in the preceding paragraph were met.
+
+
+
+Streamlining the Payment Process- Employee Travel Claims
+Electronic Vouchers, Electronic Edits, and Authorizing Payment
+BasedonElectronic Validation
+In an effort to streamline operations and reduce costs while
+taking advantage of currently available technology, many agencies
+have redesigned or modified their employee travel claim payment
+systems. Several agencies have requested our opinion on whether
+newly designed systems or modified ones conform to the requirements
+of Title 7 regarding internal control. Agencies' specific questions
+regarding these systems along with our responses are organized into
+the following seven sections.
+While the General Services Administration (GSA) is responsible
+for issuing federal travel regulations, which are published in the
+Code of Federal Regulations (41 C.F.R. 301), we have provided our
+views on the internal control considerations in agencies' system
+designs pursuant to our authority to issue internal control
+standards. Since we did not test agencies' proposals, our responses
+only address agencies' proposals conceptually.
+In streamlining their employee travel systems, several agencies
+designed automated systems containing electronic travel vouchers
+and requested our assistance in interpreting Title 7 requirements
+and assessing their designed internal controls.
+While each of the designs had minor differences, they generally
+called for a commercial software package modified to fit specific
+agency needs. The software contained a travel voucher form in two
+parts, a summary of the claims, and related detail supporting
+amounts. After completing the travel, the traveler completed the
+forms and signed the voucher electronically. The electronic forms
+contained the same information as the standard government hard copy
+travel voucher. After the voucher was completed, the traveler's
+supervisor reviewed it. During the review of the voucher, the
+supervisor could ask for supporting hard copy documents (e.g.,
+hotel receipts) if additional detail was needed to verify any of
+the claims on the voucher. The supervisor would then approve the
+voucher electronically. The approval signified reasonable assurance
+that the travel actually took place and that the claimed amounts
+were reasonable.
+The supervisory approved voucher would then be forwarded
+electronically to the certifying or payment officer for approval of
+payment. Numerous electronic edits would be applied to the voucher
+at the certifying or payment officer's location prior to payment
+authorization. The edits could, for example, verify that the travel
+has been authorized and compare information on the voucher to
+information on master files to test the validity of the claims
+(i.e., that the claims were proper, legal, and accurate).
+Information to be compared could include, for example, data on the
+traveler (e.g., name, employee or social security number, etc.) and
+limitations such as per diem amounts allowed in the city where the
+traveler stayed. If the edits did not uncover any discrepancies,
+the voucher would be approved for payment.
+Subsequent to payment, the designs called for a review of the
+supporting documentation related to the travel vouchers. Those
+vouchers which would be reviewed included (1) all vouchers
+exceeding $2,500 and (2) a random sample selected from all vouchers
+for $2,500 or less. The supporting documents would be examined to
+help verify the validity of the claims and the effectiveness of the
+system.
+Title 7 does not require payment approval of travel vouchers to
+be based solely on the traditional review of supporting
+documentation if adequate controls compensate for not reviewing
+such documentation. In addition to the traditional supervisors'
+review and approval of the voucher, the primary compensating
+controls designed were the automated edits and computations to
+ensure that the travel claims complied with all requirements.
+Although automated edits assist in determining the validity of a
+claim, they cannot determine whether the claim was properly
+documented nor can they fully replace the role of a human reviewer.
+The plan to test vouchers on a sample basis after payment
+authorization for vouchers $2,500 or less should give further
+assurances that the claims are valid. The sample should follow a
+plan that provides for voucher examination against hardcopy
+documents to be commensurate with the risk to the government and a
+sample from the universe of all vouchers not subject to complete
+examination.
+We did not object to the implementation of the automated travel
+systems, but suggested that, to help ensure effective
+implementation, each agency emphasize testing controls in its new
+designs during its annual review of internal control as required by
+the FMFIA.
+
+GAO Response
+
+
+
+Travelers Retaining Supporting Documentation
+Each agency designing automated employee travel voucher systems
+discussed in the previous section also asked us if the traveler
+could retain the supporting hardcopy documentation. These agencies
+stated that part of the streamlining effort would include reducing
+the time, effort, and cost of moving paper documents through a
+manual system, reviewing and approving the documents, and filing
+the documents at the certifying or payment officer's location.
+Reducing the paper flow would also result in faster payments since
+the system would not be relying solely on hard copy documents.
+Regarding employees that either retire or leave the agency prior
+the expiration of the retention period, the designs called for an
+employee checkout procedure whereby clearance from their travel
+unit (as well as other units within the agency) is required prior
+to receiving their last salary payment.
+Traditionally, hardcopy documents have been retained at the
+certifying or payment officer's location for ease in accessibility.
+However, Title 7 does not preclude the documents from being
+maintained at the traveler's location. Nevertheless, we emphasized
+that the travelers must retain the documents in accordance with the
+requirements of Title 8, "Records Management," of the GAO
+PolicyandProceduresManual.
+We suggested that agencies inform all travelers that random
+samples of payment transactions would be selected for the purpose
+of further verifying the validity of the payments and, for those
+selected transactions, travelers would be required to forward all
+related documents to the certifying or payment officer's location
+for review. We also suggested that the agencies provide travelers
+with training to familiarize them with the retention and storage
+requirements. We did not object to travelers retaining supporting
+hardcopy documents so long as the suggestions we made were
+effectively implemented.
+
+GAO Response
+
+
+
+Electronic Signatures
+Several of the agencies designing automated employee travel
+voucher systems discussed in the previous sections did not indicate
+how the data would be secured from unauthorized access and
+manipulation. Two agencies requested our views on whether the
+electronic signatures proposed in their designs provided sufficient
+control to ensure the integrity of the data on the vouchers after
+being completed by the traveler and approved by the supervisor.
+
+GAO Response
+Regarding those agencies that did not disclose the type of
+signature in their proposals, we pointed out that the degree to
+which data on electronic vouchers are secured depends upon the type
+of automated signature used. Electronic signatures meeting the
+criteria previously discussed may be used to secure data on the
+voucher when the traveler and the supervisor electronically sign
+the voucher.
+Page 25 GAO/AIMD21.3.2 (5/00)
+After our responses, the Government Paperwork Elimination Act
+(GPEA) became effective, requiring OMB to issue guidance to
+agencies for using and accepting electronic documents and
+signatures. OMB's guidance states that an agency should determine
+whether an electronic signature alternative, in conjunction with
+appropriate process controls, represents a practicable tradeoff
+between benefits, costs, and risks; and if so, determine and
+document which signature alternative is the best one to use for a
+particular application.
+Regarding the two agencies requesting our views on the
+signatures proposed in their designs, we stated that their
+signatures must meet the aforementioned criteria. These agencies
+were working with their contractors (who provided the electronic
+applications for the automated employees travel system) in moving
+towards meeting the criteria. We did not object to their system
+being pilot tested at limited locations so long as they continued
+to move toward meeting the criteria. The agencies agreed to follow
+up by requesting our views on full implementation when the
+signatures at the pilot locations were implemented.
+One of the agencies planning the implementation of an electronic
+travel claim system asked us if travelers could be reimbursed on a
+flatrate basis for lodging (the maximum allowed at the city where
+the travel took place), under the same concept of the per diem rate
+allowed for meals and related incidental amounts. The agency
+believed that a flatrate would reduce the administrative effort
+needed to separately record all actual lodging costs incurred,
+retain and submit the receipts when requested, and examine the
+lodging costs on the voucher.
+
+
+
+FlatRate Lodging Reimbursement
+
+GAO Response
+The GAO PolicyandProceduresManualdoes not address lodging
+reimbursement on a flatrate basis. GSA is responsible for setting
+the maximum allowable amount for a particular locality. However, we
+provided the requester our views on internal control when
+considering the implementation of flatrate lodging policy.
+Going to a flatrate lodging basis poses a risk that the
+government would incur more cost than it would otherwise. Travelers
+who incur minimal lodging costs by staying at a government
+facility/military base or low cost lodging would, in many
+instances, receive excessive travel stipends under the proposal,
+especially if they stay at a location for an extended period.
+We believe the agency should analyze the costs and benefits of
+going to a flatrate basis for lodging before a decision is made to
+implement it. The
+
+
+
+Validating Travel Claims After Payment Authorization
+analysis should include consideration of the costs to process
+travel vouchers as well as a review of past travel authorizations
+and claims by employees compared to the maximum amounts allowed. If
+the difference were minimal, justification would exist for going to
+such a rate, providing GSA approved. If the difference is material,
+the agency should reconsider going to such a rate or establish
+procedures to ensure travelers incur at least a significant portion
+of the flatrate amount or, if not, are reimbursed at the actual
+costs incurred.
+Another one of the agencies planning the implementation of an
+electronic travel claim system believed that about 10 percent of
+the travel claims would continue to come from small, isolated
+offices (where personnel spend most of the time out of the office)
+where obtaining and operating computer facilities are not
+costeffective. Travel vouchers for staff at those locations were to
+continue to be completed and processed in hardcopy paper documents
+under a manual system. To reduce the cost of processing such
+hardcopy documents, the agency designed procedures whereby travel
+vouchers would be certified for payment prior to the review of
+supporting documentation. After completing and signing the voucher,
+it would be approved by the supervisor, then forwarded to the
+certifying officer's location, certified for payment, and payment
+made to the traveler. After payment, a test of the validity of the
+payment would be made on a sample basis by obtaining the supporting
+documentation from the traveler (where it would be retained) and
+reviewing information in the documents to ensure the validity of
+the claim. The sampling methodology would follow the sampling
+requirements contained in Title 7.
+The agency believed that the risks to the government from
+implementing such a design were minimal based on an analysis it had
+performed under its current system. The analysis revealed that very
+low error rates were found during its prepayment testing of
+vouchers and that collecting overpayments from employees, by virtue
+of their relationship with the agency, would be easily done.
+Nevertheless, to ensure that overpayments were collected, the
+agency would take the most expedient of the three following options
+to recover funds: (1) obtain reimbursement from the traveler, (2)
+make deductions from other travel payments due the traveler, or (3)
+initiate action for payroll deductions from the traveler's
+salary.18 The agency's goal was to
+18
+The agency's attorneys had provided clearance to the financial
+office regarding authority to make payroll deductions from
+employees for overpayment of travel claims.
+
+GAO Response
+recover overpayments, using one of the three collection options,
+within 60 days of discovering the overpayment.
+
+The type of postpayment validation procedures the agency
+proposed to implement is analogous to the form of payment known as
+"fast pay," available for the purchase of goods and services. In
+assessing the agency's design, we applied the fast pay criteria.
+Fast pay is permitted primarily where there is a continuing
+relationship with reliable vendors and a geographical separation
+exists between the payment authorization office and the location
+where goods and services are received.
+We believed the two criteria were met; however, we offered four
+suggestions to the agency. First, the sampling plan should be
+designed to ensure that the risks of overpayments are within
+tolerable thresholds. Second, the agency should formally
+communicate to its employees who prepare these vouchers the process
+for recovering overpayments. Third, the agency should establish a
+mechanism to identify employees who make repeated errors, so their
+vouchers could receive prepayment validation until such time as the
+errors are eliminated or reduced to an acceptable level. Finally,
+during the initial period of implementation, the agency should
+emphasize its review of the new process during the agency's annual
+internal control review under FMFIA.
+We did not object to this portion of the agency's new employee
+travel system, provided our suggestions were effectively
+implemented.
+
+
+
+Omitting Supervisory Approval of Travel Claims
+Two agencies planning the implementation of an electronic travel
+claim system designed systems in which the supervisor's approval of
+travel vouchers would not be needed. The agency would rely on the
+supervisor's approval of the travel order (i.e., the obligating
+document authorizing travel to be taken), the electronic edits, and
+the review of supporting documents after payment certification. The
+review of supporting documents to fully validate the automated
+edits would be done on a statistically generated sample from the
+universe of all vouchers.
+
+GAO Response
+The primary purpose of the supervisor's approval of staff's
+travel vouchers is to help the certifying officer ensure that all
+claims are valid when certified. Generally, the supervisor's
+approval serves two main purposes for the certifying officer: (1)
+to indicate the claims on the voucher are reasonable and (2) to
+verify that the travel actually took place. While the first purpose
+would be achieved through the electronic edits proposed in
+Page 28 GAO/AIMD21.3.2 (5/00)
+the design, we were concerned that payment would be authorized
+before verifying that the travel actually took place.
+We believe there are several alternative procedures available to
+verify that travel actually took place without requiring the
+supervisor's approval. For example, employees could be required to
+use the agencydesignated charge card for hotel and certain other
+costs. When the travel voucher is being processed, the automated
+system could compare the information on the actual charges
+processed by the charge card company with those claimed on the
+voucher. When a "match" occurs for hotel and certain other charges,
+a verification of the actual trip would be made. Where no match is
+found, the travel office (or certifying officer) could request the
+hotel receipts to verify outoftown lodging costs. Properly
+implemented, this approach provides reasonable assurance that a
+trip occurred.
+We did not object to the implementation of the agency's proposal
+so long as procedures were implemented to verify that authorized
+trips were actually taken by employees prior to payment
+authorization and that for the first year the system was
+operational, assessment of internal control in the system was
+emphasized during the annual FMFIA review.
+One agency intended to implement an employee travel claim
+procedure allowing travelers, with certain exceptions, to merely
+list an aggregate amount of all expenses that individually cost $75
+or less.19 At thetimeof the request, GSA required all travel
+expenses to be listed on the voucher; however, it granted the
+requester a waiver of the requirement to itemize expenses costing
+$75 or less as long as we concurred.
+
+
+
+Summarizing Expenses of $75 or Less
+
+GAO Response
+Since Title 7 requires the validity of travel claims to be
+established prior to certification for payment, we believe that
+listing all expenses individually on the travel voucher helps
+satisfy this requirement. Such a list provides the official
+administratively approving the voucher (usually the traveler's
+supervisor) and the certifying officer additional evidence for
+determining the reasonableness of the claims. It also reduces the
+risks of errors or fraud occurring and going undetected.
+Our response contained a simple example of an error occurring
+that would not be detected if all expenses $75 or less were merely
+listed in the aggregate on the voucher. If the traveler
+inadvertently summarized taxi
+19
+At the time of our response to this agency, GSA required the
+traveler to obtain receipts for all expenses individually costing
+$75 or more.
+fares costing $17.99 as $71.99 on the voucher by transposing the
+seven and the one, the approving official and the certifying
+officer, who might generally expect much lower taxi fares, would
+have no basis to assess the reasonableness of the claim. Both
+officials would lose the capability to determine whether claims
+under $75 were reasonable under the circumstances.
+We suggested that the agency modify its proposal to require
+travelers to list each expense individually on the travel
+voucher.
+
+
+
+Relevant Issues Addressed in GAO Reports
+
+
+
+
+Financial Management System Standards Issued by JFMIP
+The Joint Financial Management Improvement Program (JFMIP) is a
+joint cooperative undertaking of the Office of Management and
+Budget, the General Accounting Office, the Department of Treasury,
+and the Office of Personnel Management, working in cooperation with
+each other and with operating agencies to improve financial
+management practices throughout the government. The program was
+initiated in 1948 by the Secretary of the Treasury, the Director of
+the Bureau of the Budget (now OMB), and the Comptroller General and
+was given statutory authorization in the Budget and Accounting
+Procedures Act of 1950. The Civil Service Commission, now the
+Office of Personnel Management (OPM), joined JFMIP in 1966.
+The Federal Financial Management Improvement Act (FFMIA) of 1996
+requires, among other things, that agencies implement and maintain
+financial management systems that substantially comply with federal
+financial management systems requirements. These system
+requirements are detailed in the Financial Management Systems
+Requirements series issued by JFMIP and Office of Management and
+Budget (OMB) Circular A127, FinancialManagementSystems. JFMIP
+requirements documents identify (1) a framework for financial
+management systems, (2) core financial systems requirements, and
+(3) 16 other financial and mixed systems supporting agency
+operations, not all of which are applicable to all agencies. Figure
+1 is the JFMIP model that illustrates how these systems interrelate
+in an agency's overall systems architecture.
+Systems standards are important for agencies streamlining
+operations by redesigning or modifying systems to take advantage of
+technological advances. The standards provide the criteria to help
+ensure that the systems include effective internal control and meet
+the requirements imposed for central reporting and complying with
+laws and regulations.
+Appendix II Financial Management System Standards Issued by
+JFMIP
+Figure 1: Agency Systems Architecture
+
+Source: JFMIP Core Financial System Requirementsdocument.
+To date, JFMIP has issued (1) the FrameworkforFederalFinancial
+ManagementSystems(not shown in Figure 1) and (2) systems
+requirements for the core financial system and 7 of the 16 other
+systems identified in the architecture. (See figure 1.)20
+Thus far, the series includes the (1)
+FrameworkforFederalFinancialManagement Systems,(2)
+CoreFinancialSystemRequirements,(3)
+InventorySystemRequirements,
+
+
+(4)
+Seized/ForfeitedAssetSystemRequirements,(5)
+DirectLoanSystemRequirements,
+
+
+(6)
+GuaranteedLoanSystemRequirements,(7)
+TravelSystemRequirements,(8)Human
+Resources&PayrollSystemsRequirements,and (9)
+SystemRequirementsforManagerial CostAccounting. In early 1998,
+JFMIP decided to initiate projects to update system requirements
+documents that were not current with regulations and legislation.
+JFMIP also planned to initiate projects to complete the remaining
+systems requirements where none currently exist.
+
+
+
+
+Related GAO Products
+
+(922280)
+
+Ordering Information
+The first copy of each GAO report is free. Additional copies of
+reports are $2 each. A check or money order should be made out to
+the Superintendent of Documents. VISA and MasterCard credit cards
+are accepted, also.
+Orders for 100 or more copies to be mailed to a single address
+are discounted 25 percent.
+
+Orders by mail:
+U.S. General Accounting Office
+P.O. Box 37050 Washington, DC 20013
+Orders by visiting: Room 1100 700 4th St. NW (corner of 4th and
+G Sts. NW)
+U.S. General Accounting Office Washington, DC
+Orders by phone: (202) 512-6000 fax: (202) 512-6061 TDD (202)
+512-2537
+Each day, GAO issues a list of newly available reports and
+testimony. To receive facsimile copies of the daily list or any
+list from the past 30 days, please call (202) 512-6000 using a
+touchtone phone. A recorded menu will provide information on how to
+obtain these lists.
+Orders by Internet: For information on how to access GAO reports
+on the Internet, send an e-mail message with "info" in the body
+to:
+info@www.gao.gov
+or visit GAO's World Wide Web home page at:
+http://www.gao.gov
+
+
+Contact one:
+
+
+
+To Report Fraud,
+• Web site: http://www.gao.gov/fraudnet/fraudnet.htm
+
+
+Waste, or Abuse in
+
+• e-mail: fraudnet@gao.gov •
+1-800-424-5454 (automated answering system)
+
+
+
+
+
+

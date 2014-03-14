@@ -1,0 +1,205 @@
+
+
+
+
+Office of the General Counsel
+B-271810.3
+May 24, 1996
+The Honorable Frank H. Murkowski Chairman The Honorable J.
+Bennett Johnston Ranking Minority Member Committee on Energy and
+Natural Resources United States Senate
+The Honorable Thomas J. Bliley, Jr. Chairman The Honorable John
+D. Dingell Ranking Minority Member Committee on Commerce House of
+Representatives
+Subject: Open Access Same-Time Information System and Standards
+of Conduct
+Pursuant to section 801(a)(2)(A) of title 5, United States Code,
+this is our report on a major rule promulgated by the Federal
+Energy Regulatory Commission (Commission), Department of Energy,
+entitled "Open Access Same-Time Information System and Standards of
+Conduct" (Docket No. RM95-9-000; Order No. 889). The Commission
+issued the final rule on April 24, 1996, and we received it on
+April 25, 1996. The final rule was published in the Federal
+Register on May 10, 1996. 61 Fed. Reg. 21737.
+A companion rule entitled "Promoting Wholesale Competition
+Through Open Access Non-Discriminatory Transmission Services by
+Public Utilities; Recovery of Stranded Costs by Public Utilities
+and Transmitting Utilities" (Docket Nos. RM95-8-000 and RM94-7-001;
+Order No. 888) was also published in the Federal Register on May
+10, 1996. 61 Fed. Reg. 21540. Today, we are issuing a separate
+report, captioned B-271810.4, GAO/OGC-96-13 on the companion rule.
+On May 1, 1996, Representative Bob Franks introduced a joint
+resolution to disapprove both final rules pursuant to section
+802(a) of title 5. 142 Cong. Rec. H4397.
+This rule would require each public utility that owns, controls,
+or operates transmission facilities used for transmitting electric
+energy in interstate commerce to create or participate in an open
+access same-time information system (OASIS).
+GAO/OGC-96-12 The OASIS would provide potential customers with
+information needed to obtain the open access non-discriminatory
+service required by the Commission's companion rule. This rule
+would also require public utilities to implement standards of
+conduct to functionally separate transmission and wholesale power
+merchant functions.
+Enclosed is our assessment of the Commission's compliance with
+the procedural requirements referred to in sections 801(a)(1)(B)(i)
+through (iv) of title 5 with respect to the rule. Our review
+indicates that the Commission complied with the applicable
+requirements.
+If you have any questions about this report, please contact
+Helen T. Desaulniers, Senior Attorney, at (202) 512-4740. The
+official responsible for GAO's work related to the Commission is
+Victor S. Rezendes, Director for Energy, Resources, and Science
+Issues. Mr. Rezendes can be reached at (202) 512-3841.
+Robert P. Murphy General Counsel
+Enclosure
+cc: The Honorable Elizabeth A. Moler Chair Federal Energy
+Regulatory Commission
+Page 4 GAO/OGC-96-12
+ENCLOSURE
+ANALYSIS UNDER 5 U.S.C. §§ 801(a)(1)(B)(i)-(iv) OF A MAJOR RULE
+ISSUED BY THE FEDERAL ENERGY REGULATORY COMMISSION ENTITLED "OPEN
+ACCESS SAME-TIME INFORMATION SYSTEM (OASIS) AND STANDARDS OF
+CONDUCT" (DOCKET NO. RM95-9-000; ORDER NO. 889)
+
+
+
+(i)
+Cost-Benefit Analysis
+
+The Commission indicated in its submission to us that it was
+not required to prepare and did not prepare a cost-benefit analysis
+of the rule.
+
+
+(ii)
+Agency Actions Relevant to the Regulatory Flexibility
+Act, 5 U.S.C. §§ 603-605, 607 and 609
+
+
+Section 603: Initial Regulatory Flexibility Analysis
+The preamble to the proposed rule stated that the entities that
+would be required to comply with the rule are public utilities and
+transmitting utilities that do not fall within the Regulatory
+Flexibility Act's definition of small entity.1 60 Fed. Reg.
+66197-8. Accordingly, the Commission certified, pursuant to 5
+U.S.C. § 605(b), that the rule would not have a significant
+economic impact on a substantial number of small entities and did
+not prepare an initial regulatory flexibility analysis. 60 Fed.
+Reg. at 66198. Section 605(b) states that the certification and
+explanatory statement shall be provided to the Chief Counsel for
+Advocacy of the Small Business Administration (SBA). In response to
+our inquiry, Commission officials explained that the Commission did
+not provide a separate certification and statement to SBA because
+it considers publication of the certification in the Federal
+Register to be notice to SBA. An SBA official has confirmed that
+some agencies follow this practice, and SBA has not objected to
+it.
+Section 604: Final Regulatory Flexibility Analysis
+1Section 601(3) of title 5, United States Code, provides that
+the term "small business" generally has "the same meaning as the
+term 'small business concern' under section 3 of the Small Business
+Act." Section 3 of the Small Business Act defines a "small business
+concern" as a business which is independently owned and operated
+and which is not dominant in its field of operation. 15 U.S.C. §
+632(a).
+GAO/OGC-96-12 In the preamble to the final rule, the Commission
+reiterated that the rule would only apply to public and
+transmitting utilities and again certified that the rule would not
+have a significant economic impact on a substantial number of small
+entities within the meaning of the Regulatory Flexibility Act. See
+61 Fed. Reg. 21762. Therefore, the Commission did not conduct a
+final regulatory flexibility analysis under 5 U.S.C. § 604(a). One
+commenter expressed concern that the Commission would extend the
+requirement for an open access same-time information system (OASIS)
+to nonpublic, not-for-profit cooperative utilities and stated that
+the Commission would then be required to analyze the requirement's
+effect on those utilities. In response, the Commission emphasized
+that the rule would only apply to public utilities that own,
+operate, or control transmission facilities subject to the
+Commission's jurisdiction. See 61 Fed. Reg. at 21763. By letter of
+May 9, 1996, the Commission informed SBA of its certification.
+In light of the Commission's determination that the rule would
+not have a significant economic impact on a substantial number of
+small entities, sections 605(a) and (c), 607, and 609 are
+inapplicable.
+(iii) Agency Actions Relevant to Sections 202-205 of the
+Unfunded Mandates Reform Act of 1995, 2 U.S.C. §§ 1532-1535
+As an independent regulatory agency, the Commission is not
+subject to title II of the Unfunded Mandates Reform Act of
+1995.
+(iv) Other Relevant Information Under Acts and Executive
+Orders
+Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.
+The Commission promulgated the OASIS rule under the notice and
+comment procedures of 5 U.S.C. § 553. A notice of proposed
+rulemaking was published on December 21, 1995. 60 Fed. Reg. at
+66182. The Commission received comments on the proposed rule from
+104 commenters. In the preamble to the final rule, the Commission
+responded to issues raised during the comment period.
+Paperwork Reduction Act, 44 U.S.C. §§ 3501-3520
+The rule requires public utilities to create or participate in
+an OASIS designed to provide potential customers with information
+by electronic means about available transmission capacity and
+prices. According to the preambles to the proposed and final rules,
+the Commission reviewed its proposed information collection and,
+among other things, assessed the need for the information, how the
+information would be used, and the associated burden. 60 Fed. Reg.
+at 66184, 66198; 61 Fed. Reg. at 21739, 21763.
+Page 4 GAO/OGC-96-12 In addition, the Commission solicited and
+evaluated comments on the proposed information collection. The
+Commission specifically solicited public comments on the need for
+and utility of the information; the accuracy of the burden estimate
+contained in the preamble to the proposed rule; ways to enhance the
+quality, utility, and clarity of the information to be collected;
+and suggested methods for minimizing the burden. See 60 Fed. Reg.
+at 66184. In the preamble to the final rule, the Commission
+responded to comments on various aspects of the OASIS requirement.
+The Commission also adjusted its burden estimate in response to
+issues raised by commenters. See 61 Fed. Reg. at 21739, 21763.
+Consistent with the requirements of the Paperwork Reduction Act,
+the preambles to the proposed and final rules set forth significant
+information about the proposed collection of information. Among
+other things, the preambles included a title and reasons for the
+information collection, the proposed use for the information, a
+description of the respondents, and the frequency of responses. 60
+Fed. Reg. at 66198; 61 Fed. Reg. at 21763. The preambles also cited
+OMB's clearance requirements, though not specifically 44 U.S.C. §
+3507. 2 60 Fed. Reg. at 66198; 61 Fed. Reg. at 21763.
+At the same time as it requested public comments, the Commission
+submitted its proposed collection of information and certification
+under 44 U.S.C. § 3506(c)(3) to the Office of Management and Budget
+(OMB). See 60 Fed. Reg. at 66184. In response to our inquiry,
+Commission staff advised that OMB approved the information
+collection requirement. OMB also asked that the Commission examine
+the burden associated with "third party reporting" and ensure that
+this burden was reflected in the Commission's final rule. The
+Commission also submitted the final rule to OMB. See 61 Fed. Reg.
+at 21763. On May 3, 1996, the Commission again certified to OMB
+that the information collection complied with each of the
+objectives identified in 44 U.S.C. § 3506(c)(3).
+Statutory Authorization for the Rule
+In the preambles to the proposed and final rules on the open
+access nondiscriminatory tariff and "stranded costs," the
+Commission explained that sections 205 and 206 of the Federal Power
+Act, 16 U.S.C. §§ 824d and 824e, require it to ensure that, with
+respect to any transmission in interstate commerce or any sale of
+electric energy for resale in interstate commerce by a public
+utility, no person is subject to any undue prejudice or
+disadvantage. 60 Fed. Reg. at 17664; 61 Fed. Reg. at 21541. In the
+preamble to the final OASIS rule, the Commission explained that
+2Section 3506(c)(1)(B) requires each agency to establish a
+process to ensure that each information collection indicates the
+collection is in accordance with the clearance requirements of
+section 3507.
+Page 4 GAO/OGC-96-12
+the information access requirement embodied in the OASIS rule is
+necessary to meet the requirements of the open access rule. 61 Fed.
+Reg. at 21739-40.
+The Commission did not identify any other statute or executive
+order imposing procedural requirements relevant to the OASIS
+rule.
+Page 4 GAO/OGC-96-12
+
+
+

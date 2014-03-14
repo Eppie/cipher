@@ -1,0 +1,660 @@
+
+  
+    
+      
+        Background
+        The dihydropyridine receptor (DHPR) of skeletal muscle
+        consists of α 
+        1S , α 
+        2 , β 
+        1a and γ 
+        1 subunits [ 1 ] . The α 
+        1 subunit is a large four-repeat
+        transmembrane protein of ~220 KDa that contains the basic
+        functional elements of the L-type Ca 2+channel, including
+        the Ca 2+selective pore and S4 "voltage-sensing"
+        transmembrane segments in each of the four internal repeats
+        [ 2 ] . β subunits are ~65 kDa cytosolic proteins essential
+        for membrane trafficking, modulation of channel kinetics,
+        and for excitation-contraction (EC) coupling [ 3 4 ] . The
+        α 
+        2 subunit is a highly glycosylated ~175
+        kDa protein formed by two disulfide-linked peptides [ 5 ] ,
+        whereas the γ 
+        1 subunit is a ~32 kDa skeletal
+        muscle-specific protein of four presumptive transmembrane
+        domains with almost unknown function [ 6 7 ] .
+        Skeletal muscle cells utilize the voltage sensors formed
+        by the S4 segments to trigger a rapid elevation of
+        cytosolic Ca 2+, thus coupling membrane excitation to
+        muscle cell contraction. Subsequent to charge movements in
+        the voltage sensors, a conformational change in the DHPR is
+        transmitted to the ryanodine receptor (RyR1), presumably,
+        via protein-protein interactions [ 8 ] . Ultimately, there
+        is a brief opening of the RyR1 channel resulting in the
+        release of Ca 2+from the sarcoplasmic reticulum (SR).
+        Numerous observations have lent support to this view, and
+        especially significant are the functional expression
+        studies in dysgenic myotubes lacking α 
+        1S . The dysgenic myotube is devoid of
+        L-type Ca 2+current, charge movements and EC coupling. All
+        three are restored in the dysgenic myotube by expression of
+        α 
+        1S [ 9 10 11 ] . These results
+        corroborated the essential role of α 
+        1S in the mechanism of EC coupling of
+        skeletal muscle cells.
+        The mechanism by which the DHPR signals the RyR1 is
+        poorly understood [ 12 13 ] . Domains in the cytoplasmic
+        linker between repeats II and III have been clearly
+        implicated [ 14 15 16 17 18 19 ] , and some regions such as
+        Thr671-Lue690 were suggested to trigger RyR1 opening by
+        binding to RyR1 [ 15 ] . However, extensive deletions
+        within the II-III linker that eliminate the RyR1 binding
+        region, and other suggested signaling regions in the II-III
+        loop [ 16 ] , do not entirely eliminate EC coupling [ 20 21
+        ] . Hence additional domains of α 
+        1S and/or other DHPR subunits appear to
+        be engaged by the voltage sensor and contribute to an EC
+        coupling signal. In this respect, the contribution of the
+        β1a subunit of the DHPR to EC coupling in skeletal muscle
+        cells has been extensively documented [ 4 22 23 24 ] .
+        In the present report, we characterized a frame-shift
+        mutant of α 
+        1S that expresses two complementary
+        fragments of α 
+        1S . Complementation between the two α 
+        1S fragments produced recovery of EC
+        coupling in dysgenic muscle cells lacking α 
+        1S . The results suggest the EC coupling
+        voltage sensor of skeletal muscle is modular in function
+        and can be assembled from separate hemi-Ca 2+channel
+        fragments.
+      
+      
+        Results and Discussion
+        
+          Expression of a frame-shift mutation of α 1Sin
+          dysgenic myotubes
+          Primers for the frame-shift mutant, fs-α 
+          1S , were originally designed to
+          delete the 20-mer Thr671-Leu690 in the cytosolic loop
+          between repeats II and III of α 
+          1S and to generate a full-length α 
+          1S carrying this internal deletion. A
+          proofreading error during a PCR reaction resulted in an
+          amplified DNA with the desired deletion but also
+          containing an additional thymidine following the TTG
+          codon for Leu670 (Fig. 1A). The one-base shift in reading
+          frame introduced a serine at position 671 followed
+          immediately by a stop codon (Fig. 1B). This frame-shift
+          mutation was re-ligated into an otherwise full-length α 
+          1S , subcloned into the mammalian
+          expression vector pSG5, and transfected into dysgenic (α 
+          1S null) myotubes. Fs-α 
+          1S was abundantly expressed in primary
+          dysgenic myotubes in culture (Fig. 1C) and produced the
+          expected truncated α 
+          1S protein (Fig 1D). Western blots
+          using N-terminus T7-tagged fs-α 
+          1S and T7-tagged full-length α 
+          1S showed that the expressed
+          full-length α 
+          1S protein migrated with an apparent
+          molecular weight of approximately 185 KDa under reducing
+          conditions. This result is consistent with the mobility
+          of the native purified skeletal muscle α 
+          1S subunit [ 25 ] . The fs-α 
+          1S migrated with a molecular weight of
+          approximately 90 KDa which is entirely consistent with
+          the theoretical molecular weight of the expressed
+          fragment which was 85.6 KDa. Furthermore, 5-fold
+          overloading of the SDS-PAGE gel failed to detect any
+          fragment of a size comparable to full-length α 
+          1S (not shown).
+        
+        
+          Recovery of EC coupling by the frame-shift a
+          1ScDNA
+          EC coupling was investigated in voltage-clamped
+          myotubes with simultaneous monitoring of intracellular Ca
+          2+using confocal fluorescence of fluo-4 [ 26 ] . Controls
+          shown in Fig. 2Aindicated that the overwhelming majority
+          of non-transfected dysgenic muotubes (13 of 15 cells) did
+          not produce detectable Ca 2+transients (<0.1 ΔF/Fo) or
+          Ca 2+currents (<20 pA/cell) in response to
+          depolarization under voltage-clamp. This is shown in the
+          line-scan images of fluo-4 fluorescence in Fig. 2Aand the
+          corresponding traces of ICa 2+during a 50-ms
+          depolarization to +30 mV and +90 mV delivered at the
+          start of the line scan in the same cell. However, in two
+          cells (2 of 15 cells) we observed Idys, the low-density
+          endogenous Ca 2+current previously described in dysgenic
+          myotubes [ 27 28 ] . The reason for the low abundance of
+          this current in these cultured myotubes is unknown. Ca
+          2+currents and stimulated fluorescence for one of the
+          cells expressing Idys is shown in Fig. 2B. We observed a
+          peak ICa 2+density of approximately 0.8 pA/pF and a
+          barely detectable fluorescence signal which in Fig. 2Bis
+          indicated by the arrow in the trace of integrated
+          fluorescence at +30 mV. This small fluorescence signal
+          disappeared entirely at +90 mV, suggesting it might be
+          contributed directly by Idys or might be due to SR Ca
+          2+release induced by Idys. The voltage dependence of the
+          fluorescence signal and ICa 2+are compared in Fig. 2Cfor
+          the two cells expressing Idys and for the vast majority
+          of cells which altogether did not express intracellular
+          Ca 2+transients or ICa 2+. The maximum fluorescence
+          signal contributed by Idys, when Idys was present, was
+          <0.2 ΔF/Fo units. Furthermore, the shape of the
+          fluorescence vs. voltage relationship was bell-shaped and
+          a mirror image of the ICa 2+vs. voltage curve. These
+          controls indicated that non-transfected dysgenic myotubes
+          are low-background cells that do not express
+          voltage-activated Ca 2+signals of major consequence for
+          the present studies.
+          Fig. 3shows that fs-α 
+          1S recovered a significant fraction of
+          the voltage-activated Ca 2+transient compared to that
+          express by full-length wt-α 
+          1S . The magnitude of the fluorescence
+          signal expressed by fs-α 
+          1S was approximately 5-fold larger
+          than the largest Ca 2+transient detected in
+          non-transfected myotubes expressing Idys, >20-fold
+          larger than the average Ca 2+transient detectable in
+          non-transfected cells, and about 1/3 of the maximum SR Ca
+          2+release expressed by the control wt-α 
+          1S construct. Thus, we are confident
+          that the voltage-evoked Ca 2+transient in cells
+          transfected by fs-α 
+          1S cells was a direct consequence of
+          the expressed protein. Also shown in Fig. 3is ICa
+          2+activated by the 50-ms depolarization used to activate
+          the Ca 2+transient. fs-α 
+          1S did not express L-type Ca 2+current
+          even though it was consistently able to activate the Ca
+          2+transient in 15 of 15 cells. Absence of ICa 2+was
+          further verified using longer 500-ms depolarizing pulses
+          (not shown). The skeletal nature of the EC coupling
+          expressed by fs-α 
+          1S is shown in Fig. 4A. The peak Ca
+          2+vs. voltage relationship expressed by fs-α 
+          1S , like that of wt-α 
+          1S , was sigmoidal in shape reaching a
+          maximum at large positive potentials (>50 mV), a range
+          in which ICa 2+is progressively small. The line scans of
+          Fig. 4Bfurther confirmed that a Ca 2+transient of similar
+          shape and magnitude was observed in a fs-α 
+          1S transfected myotube in the absence
+          of external Ca 2+. Hence the signaling mechanism, like
+          that reported in normal myotubes and dysgenic myotubes
+          expressing wt-α 
+          1S , was Ca 2+entry independent [ 29 ]
+          . We also expressed fs-α 
+          1S in cultured myotubes from two
+          available gene knock-out (KO) mice, lacking the
+          endogenous β1a isoform of the skeletal muscle DHPR [ 30 ]
+          and lacking RyR1 [ 31 ] . As shown in Fig. 4B, we failed
+          to detect EC coupling in these KO cells transfected with
+          fs-α 
+          1S . In summary, the EC coupling
+          expressed by fs-α 
+          1S is strictly skeletal-type and
+          requires RyR1 and DHPR β1a.
+        
+        
+          fs-α 1Sexpresses two complementary protein
+          fragments
+          The EC coupling recovered by fs-α 
+          1S could be due either to the activity
+          of the N-terminal half of α 
+          1S alone or to protein-protein
+          complementation between the N-terminal half and a
+          fragment expressing the C-terminal half of α 
+          1S . The C-terminal half of α 
+          1S could have been translated by the
+          fs-α 
+          1S expression vector if the ATG codon
+          (Met701), which is downstream from the TGA termination
+          codon and is in-frame with the wild-type message (Fig 1B)
+          served as open reading frame for translation of the
+          second half of the wt message. Although this would be
+          unusual, the fact that the codon for Met701 is only 25
+          bases downstream from the termination codon could have
+          substantially increased the possibility of a re-start of
+          the translation of the second half of the message at
+          Met701. This phenomenon has been described in eukaryotic
+          cells and in viral-infected mammalian cells and is known
+          as translation by leaky ribosomal scanning [ 32 33 ] . To
+          test this explanation, the presumptive restart condon,
+          Met701, was mutated to Ile701 in the fs-α 
+          1S template. If fs-α 
+          1S recovered EC coupling by virtue of
+          expressing a single protein fragment, then fs-α 
+          1S M701I should also recover EC
+          coupling since the mutation was introduced downstream
+          from the stop codon. Fig. 5shows that this was not the
+          case. Fs-α 
+          1S M701I did not recover Ca
+          2+transients in 9 of 9 tested cells, consistent with
+          leaky ribosomal scanning. As a positive control, we
+          coexpressed fs-α 
+          1S M701I and the C-terminus half of α 
+          1S , namely α 
+          1S Δ1-700, cloned into a separate pSG5
+          vector. The results in Fig. 5indicated that α 
+          1S Δ1-700 alone was inactive. However,
+          when myotubes were cotransfected with fs-α 
+          1S M701I and α 
+          1S Δ1-700, each in a separate pSG5
+          vector, there was a robust recovery of Ca 2+transients in
+          5 of 5 cells. Fig. 6Ashows fluorescence vs. voltage
+          relationships for the fs-α 
+          1S M701I mutant and for this mutant
+          coexpressed with α 
+          1S Δ1-700. The combined expression of
+          the two complementary fragments of α 
+          1S resulted in a robust recovery of EC
+          coupling with sigmoidal Ca 2+release vs. voltage
+          characteristics. A summary of the maximum fluorescence
+          during the Ca 2+transient in response to a depolarization
+          to +90 mV is shown in Fig. 6B. The magnitude of the Ca
+          2+transient expressed by fs-α 
+          1S M701I + α 
+          1S Δ1-700 was indistinguishable from
+          that of wt-α 
+          1S (t-test significance p = 0.671, see
+          figure legend). To confirm expression of the C-terminus
+          half of α 
+          1S in cells transfected with fs-α 
+          1S , we used the II-III loop
+          polyclonal antibody SKI [ 34 ] directed against epitope
+          Ala739-Ile752 which is downstream from Met701. Fig.
+          6Cshows that the II-III loop antibody recognized the
+          C-terminus half when cells were transfected with fs-α 
+          1S but not when myotubes were
+          transfected with fs-α 
+          1S M701I. The C-terminal protein
+          migrated with a molecular weight of approximately 126 KDa
+          which is consistent with the theoretical molecular weight
+          of 132 KDa. Finally, Fig. 6Dshows that fs-α 
+          1S M701I was abundantly expressed in
+          myotubes in the absence or presence of the C-terminal
+          fragment. This indicated that the absence of EC coupling
+          observed in myotubes expressing fs-α 
+          1S M701I was not due the production of
+          a labile protein. In summary, the recovery of EC coupling
+          by coexpression of two functionally inactive proteins
+          (Fig. 5) taken together with the immunoblots (Fig. 6C)
+          favor the explanation that 1) fs-α 
+          1S recovers DHPR function by virtue of
+          expressing two complementary fragments of α 
+          1S and 2) the expression of the
+          C-terminal half of α 
+          1S by fs-α 
+          1S is likely to occur by leaky
+          ribosomal scanning.
+        
+        
+          Implications for EC coupling in skeletal
+          myotubes
+          Except for the magnitude, the SR Ca 2+release signal
+          expressed by fs-α 
+          1S was entirely typical of skeletal
+          myotubes with sigmoidal voltage-dependence, proceeding in
+          the absence of external Ca 2+and requiring RyR1. A
+          comparison of the maximum fluorescence (ΔF/Fo max) at +90
+          mV (Fig. 6B) shows that the signal generated by fs-α 
+          1S was significantly smaller than that
+          generated by the control construct (wt-α 
+          1S vs. fs-α 
+          1S t-test significance p = 0.014) and
+          smaller than that generated by the two coexpressed
+          fragments (fs-α 
+          1S vs. fs-α 
+          1S M701I + α 
+          1S Δ1-700 t-test significance p =
+          0.013). These observation suggests that the magnitude of
+          the Ca 2+release appears to be limited by the low yield
+          of expression of the C-terminal fragment achieved by
+          leaky ribosomal scanning of the second half of the fs-α 
+          1S message. To test this explanation
+          further, we coexpressed fs-α 
+          1S and the C-terminal half of α 
+          1S each in a separate pSG5 vector. We
+          found that fs-α 
+          1S and α 
+          1 SΔ1-700 together expressed Ca
+          2+transients with a ΔF/Fo max similar to wt-α 
+          1S control (not shown). Thus we are
+          certain that the EC coupling expressed by fs-α 
+          1S is mechanistically similar to
+          control skeletal-type EC coupling but limited in
+          magnitude by a comparatively lower density of functional
+          DHPRs that are assembled in cells expressing fs-α 
+          1S . It is conceivable that the
+          functional integrity of the fragmented α 
+          1S protein is maintained in part by
+          the β subunit of the DHPR which spans both halves of the
+          α1 pore subunit by binding to the I-II loop and the
+          C-terminus [ 35 36 ] . Consistent with this explanation,
+          we failed to detect EC coupling recovery when fs-α 
+          1S was expressed in β1-null
+          myotubes.
+          Earlier studies in the voltage-gated Na +channel had
+          shown that pore function was not compromised when the
+          II-III linker or III-IV linker was cut and the two
+          fragments were coexpressed each in a separate vector [ 37
+          ] . We would thus conclude that in the case of the Ca
+          2+channel, an intact II-III loop is essential for this
+          function since neither fs-α 
+          1S nor the combined expression of the
+          two truncated fragments (not shown) was able to rescue Ca
+          2+current. This result is entirely consistent with the
+          identification of the II-III loop as critical for
+          enhancement of L-type Ca 2+current expression by the RyR1
+          [ 38 ] . However EC coupling, per se, can clearly proceed
+          with a cut in the II-III loop. This was shown here by the
+          behavior of the fs-α 
+          1S construct and elsewhere by
+          expressing the N-terminal half (α 
+          1S 1-670) and the C-terminal half (α 
+          1S 701-1873), each with entirely wt
+          sequence and each in a separate expression vector [ 20 ]
+          . The fact that Thr671-Leu690 region known as Peptide A [
+          15 ] is missing in fs-α 
+          1S suggests this 20-mer domain is not
+          critical for the conformation change transmitted from the
+          DHPR to the RyR1. To test this further, we generated an
+          in-frame deletion of this region, as originally intended,
+          that showed normal function [ 20 ] . Another domain
+          critical for EC coupling is Csk35 downstream from Peptide
+          A (Leu720-Gln765). This region was identified using
+          chimeras of α 
+          1S and α 
+          1C [ 16 ] . Since Csk53 is present in
+          α 
+          1S Δ1-700 and was detected by the
+          II-III loop antibody which is directed against the center
+          portion of Csk53 [ 34 ] , the participation of this
+          domain in the EC cannot be ruled-out.
+          In eukaryotic cells, translation starts at the AUG
+          codon nearest to the 5' end of the mRNA, and this
+          initiator site is found by sequential ribosomal scanning
+          in the 5' to 3' direction [ 32 ] . However, translation
+          initiation at internal AUGs due to leaky ribosomal
+          scanning has been documented, especially for mRNAs
+          consisting of a short leader ORF upstream from the main
+          ORF. In some cases, reassembly of a new ribosomal
+          initiation complex after the terminator codon of the
+          leader ORF serves to re-initiate translation at the
+          initiator AUG codon for the main ORF, and thus two
+          proteins are generated [ 39 ] . In other cases, leaky
+          scanning by the ribosomal initiation complex bypasses the
+          5'-located leader ORF entirely, and only the "internal"
+          ORF is translated [ 32 ] . In the case of fs-α 
+          1S , we are not entirely certain which
+          mechanism best applies. A bypass of the ORF at the 5' end
+          of the α 
+          1S mRNA in favor of a presumed ORF at
+          Met701 is unlikely because a C-terminal fragment of the
+          size expressed by α 
+          1S Δ1-700 has not been detected in
+          skeletal muscle with the SKI antibody [ 34 ] or other
+          antibodies [ 25 ] . Thus Met701 is not an internal
+          initiation site under normal circumstances. Entry of a
+          new ribosomal complex at Met701 seems a more likely
+          explanation. However, re-initiation after a stop has only
+          been described for cases in which the leader ORF is no
+          longer than 30 codons because initiation factors fall off
+          shortly after recognition of the initiator AUG [ 32 ] .
+          In the case of fs-α 
+          1S , what can be considered the
+          "leader" ORF encodes for a protein of 671 residues. Hence
+          we are not certain if re-initiation of translation after
+          a stop signal, as currently described in the literature,
+          would apply here. At the same time, it is important to
+          point out that in the present studies, fs-α 
+          1S expression is under the control of
+          a viral promoter and that in this hybrid viral-mammalian
+          expression system, the rules pertaining to leaky
+          ribosomal scanning may be different. The mechanism of
+          translation of the fs-α 
+          1S clearly deserves closer scrutiny in
+          the future.
+        
+      
+      
+        Conclusions
+        The present studies show EC coupling recovery by a
+        frame-shift mutant of α 
+        1S due to protein-protein
+        complementation of the N-terminal and C-terminal halves of
+        α 
+        1S . The N-terminal half houses repeats
+        I and II with the adjoining cytosolic loop and the
+        C-terminal half houses most of the II-III loop, along with
+        repeats III and IV with the adjoining loop. Protein-protein
+        complementation between the N-terminal and C-terminal
+        fragments produced a DHPR capable of functioning as EC
+        coupling voltage sensor, thus suggesting the presence of at
+        least two functional modules within α 
+        1S . Recent evidence suggests that the
+        four internal repeats of the voltage-gated Na +channel,
+        which is closely related to the L-type Ca 2+channel encoded
+        by the DHPR, have non-equivalent functional roles because
+        the S4 segments of repeats I and II move much faster than
+        those of repeats III and IV [ 40 ] . By analogy, the
+        "fast-moving" module of the DHPR would be represented by
+        the N-terminal fragment and the "slower-moving" module by
+        the C-terminal fragment. Interactions between these two
+        modules are likely to be critical for intramembrane charge
+        movements in the assembled four-repeat channel and for
+        coupling the movement of the S4 gating charges to the
+        opening of the RyR1 channel. Future studies of gating
+        currents in each hemi-Ca 2+channel fragment should provide
+        valuable information on how the "fast" and "slow" gating
+        modules interact during EC coupling in skeletal muscle.
+        The C-terminal fragment was generated by an unusual
+        restart of translation of the fs-α 
+        1S message at M701, presumably by leaky
+        ribosomal scanning, and was eliminated by a M701I mutation.
+        Hence, a premature stop codon in the II-III loop upstream
+        of M701 may not necessarily cause a loss of DHPR function
+        because in these cases, function would be recovered by
+        complementation between protein fragments expressed by the
+        same cDNA. From a methodological perspective, leaky
+        scanning could be further used as a means to control
+        protein expression to desired levels, since restart of
+        translation after a premature stop codon is sensitive to
+        the number of nucleotides separating the stop and restart
+        codons [ 39 ] . By changing the position of the restart
+        methionine relative to the premature stop codon, it might
+        be possible to significantly change the level of expression
+        of the distal protein fragment and hence functional protein
+        as a whole. Thus, leaky scanning remains as an attractive
+        possibility for boosting or depressing protein levels in a
+        transfected cell.
+      
+      
+        Materials and Methods
+        
+          Primary cultures of mouse myotubes
+          Primary cultures were prepared from hind limbs of day
+          18 embryos (E18) as described previously [ 23 ] . cDNAs
+          of interest and a separate expression vector encoding the
+          T-cell membrane antigen CD8 were subcloned into the
+          mammalian expression vector pSG5 (Stratagene, CA) and
+          were mixed and cotransfected with the polyamine LT-1
+          (Panvera, WI). Whole-cell recordings and immunostaining
+          were done 3-5 days after transfection. Cotransfected
+          cells were recognized by incubation with CD8 antibody
+          beads (Dynal, Norway). The coincidence of expression of
+          CD8 and a cDNA of interest was >85%.
+        
+        
+          α 1ScDNA constructs
+          
+            pSG5 wt-α 1S
+            A unique silent 
+            HindIII site was introduced by
+            PCR at nt 2228 in the full-length α 
+            1S template and cloned into the T7-α
+            
+            1S pSG5 vector using 
+            AgeI and 
+            XhoI sites. The 
+            HindIII-XhoI fragment (nt 2228 to
+            nt 2878) encompasing the II-III loop was subcloned into
+            pCR 2.1 TOPO TA (Invitrogen, CA) and this plasmid was
+            further used for PCR reactions.
+          
+          
+            pSG5 fs-α 1S
+            PCR reactions for deletion of residues 671-690,
+            consisted of 10 nanograms pCR 2.1 TOPO/ 
+            HindIII-XhoI insert, 15 pmoles of
+            each primer, 0.5 mM dNTPs, 1X cloned 
+            Pfu buffer (Stratagene) and 2.5 U
+            cloned 
+            Pfu DNA polymerase (Stratagene).
+            The antisense primer was complementary to nt 2202 to nt
+            2235 and the sense primer was nt 2296 to nt 2326.
+            Amplification was carried out for 30 cycles at 95°C for
+            45 seconds, 60°C for 2 minutes and 72°C for 2
+            minutes/kb of plasmid. The PCR reaction was treated
+            with 10 U of 
+            DpnI (Stratagene) and
+            recircularized with T4 DNA ligase (Stratagene). Once
+            amplified by PCR, the 
+            HindIII-XhoI digest was ligated
+            into the T7-α 
+            1S pSG5 vector using the same
+            restriction sites.
+          
+          
+            pSG5 fs-α 1SM701I
+            The construct was produced by a two-step PCR
+            reaction using fs α 
+            1S as template. Using conditions as
+            above, the sense primer (nt 1932 to nt 1959) was paired
+            with antisense primer
+            5'TCCAGCTTCTTGGCGATCACAGACTTCTCC3' carrying the point
+            mutation. In a seperate reaction, sense primer
+            5'GGAGAAGTCTGTGATCGCCAAGAAGCTGGA3' was paired with
+            antisense primer (nt 3100 to nt 3081). The two PCR
+            products were diluted 1:500 in ddH 
+            2 O and then hybridized to each
+            other for 2 minutes at 95°C, 1 minute at 43°C and 1
+            minute at 72°C for 4 cycles. 15 pmol of nt 1932 to nt
+            1959 primer and 15 pmol of nt 3100 to 3081 primer were
+            added and further cycled for 4 minutes at 95°C, then
+            30X of 2 minutes at 95°C, 1 minute at 60°C, 1 minute at
+            72°C and finally 10 minutes at 72°C. The PCR product
+            was then cloned into the fs α 
+            1S construct using 
+            HindIII and 
+            XhoI sites.
+          
+          
+            pSG5 a 1SΔ1-700
+            The construct was produced by cutting pSG5 fs α 
+            1S with 
+            AgeI and 
+            HindIII enzymes and filling-in
+            the overhangs with klenow fragments. The plasmid was
+            religated using DNA T4 ligase.
+          
+        
+        
+          Whole-cell voltage-clamp
+          Whole-cell recordings were performed as described
+          previously [ 22 ] using an Axopatch 200B amplifier (Axon
+          Instruments, Foster City, CA). All experiments were
+          performed at room temperature. Patch pipettes had a
+          resistance of 1-2 MΩ . The external solution was (in mM)
+          130 TEA-Methanesulfonate, 10 CaCl 
+          2 , 1 MgCl 
+          2 , 10 HEPES-TEA(OH), pH 7.4. The
+          pipette solution was (in mM) 140 Cs-aspartate, 5 MgCl 
+          2 , 0.1 EGTA (for Ca 2+transients) or
+          5 EGTA (for Ca 2+current), 10 MOPS-CsOH, pH 7.2. The
+          voltage dependence of peak intracellular Ca 2+(ΔF/Fo) was
+          fitted according to a Boltzmann distribution (Eqn. 1) A =
+          A 
+          max /(1+exp(-(V-V 
+          1/2 )/k)). A 
+          max is ΔF/Fo 
+          max ; V 
+          1/2 is the potential at which A = A 
+          max /2; and k is the slope factor.
+          ΔF/Fo=(F-Fo)/Fo where F is the fluorescence during a Ca
+          2+transient and Fo is the resting fluorescence of the
+          cell immediately before the stimulation.
+        
+        
+          Confocal fluorescence microscopy
+          Line-scans were performed as described [ 26 ] in cells
+          loaded with 4 mM fluo-3 AM (fluo-3 acetoxymethyl ester,
+          Molecular Probes, OR) for ~30 minutes at room
+          temperature. Cells were viewed with an inverted Olympus
+          microscope with a 20X objective (N.A. 0.4) and a Fluoview
+          confocal attachment (Olympus, NY). Excitation light was
+          provided by a 5 mW Argon laser attenuated to 20% with
+          neutral density filters. For immunofluorescence, confocal
+          images had a dimension of 1024 by 1024 pixels (0.35
+          microns/pixel) and were obtained with a 40X oil-immersion
+          objective (N.A. 1.3).
+        
+        
+          Immunostaining
+          Cells were fixed and processed for immunofluorescence
+          as described [ 4 20 ] . The N-terminal fragment expressed
+          by fs-α 
+          1S or wt-α 
+          1S was identified with a mouse
+          monoclonal antibody against a T7 epitope fused to the
+          N-terminus of α 
+          1S . The anti-T7 antibody (Novagen,
+          WI) was used at a dilution of 1:1000. Secondary
+          antibodies were a fluorescein-conjugated goat anti mouse
+          IgG (Boehringer Mannheim, IN) used at a dilution of
+          1:1000 and a fluorescein-conjugated donkey anti-rabbit
+          IgG (Chemicon, CA) used at a dilution of 1:1000.
+        
+        
+          Western blots
+          The C-terminal fragment was identified with SKI, a
+          rabbit polyclonal antibody against the II-III loop of α 
+          1S (Ala739-Ile752) previously
+          characterized [ 34 ] . Cells were scrapped from tissue
+          cultures dishes with cold PBS plus protease inhibitors
+          and spun in a cold table-top centrifuge. Cells were
+          homogenized in a glass-teflon homogenizer in a minimal
+          volume of PBS and diluted 1:1 (vol:vol) with SDS-gel
+          loading buffer composed 100 mM Tris-Cl (pH 6.8), 200 mM
+          dithiothreitol, 4% SDS, 0.2% bromophenol blue and 20%
+          glycerol. Samples were incubated at 100°C for 20 minutes.
+          Approximately 10 mg of total protein was applied to a
+          5-15% SDS polyacrylamide gel and electrophoresed for 2
+          hours at 40 mA. Proteins were transferred to PVDF
+          membranes and analyzed with either anti-T7 or SKI
+          antibodies and the appropriate secondary antibodies. The
+          subunits were visualized using SuperSignal ECL reagent
+          (Pierce, Rockford, IL). The images were captured on a
+          Chemi-Imager (Alpha Innotech, San Leandro, CA) set to a
+          level just below saturation.
+        
+      
+      
+        Abbreviations
+        DMSO (dimethyl sulfoxide); EGTA (ethylene glycol bis-α
+        minoethylether tetraacetic acid); HEPES (2-hydroxylethyl
+        piperazine 2-ethane sulfonic acid); MOPS
+        (3N-Morpholino-propane sulfonic acid); PVDF (polyvinylidene
+        difluoride); TTX (tetrodotoxin); TEA (tetraethylamonium);
+        ORF (origin of replication).
+      
+    
+  

@@ -1,0 +1,513 @@
+
+  
+    
+      
+        Background
+        Malignant tumor cells frequently show deregulation and
+        hyperactivation of signalling pathways, one of which is
+        represented by the TGFβ signal transduction pathway [ 1 ] .
+        TGFβ has been shown to potently inhibit proliferation of
+        most epithelial, endothelial and hematopoietic cells [ 2 ]
+        . However, during tumor progression malignant cells may
+        become refractory to TGFβ-mediated cell cycle arrest. In
+        later stages of tumorigenesis, TGFβ can act as a stimulator
+        of invasion and metastasis [ 3 ] acting directly on the
+        tumor cells or inducing angiogenesis and facilitating local
+        and systemic immunosuppression, respectively [ 4 ] . For
+        example, TGFβ may stimulate the expression of proteases
+        such as uPA, MMP-3 or MMP-9, enzymes frequently
+        overexpressed in invasive tumor cells [ 5 6 ] .
+        TGFβ signals through a heteromeric receptor complex of
+        type II and type I receptor serine-threonine kinases, which
+        activates the downstream Smad signal transduction pathway [
+        7 ] . After TGFβ binding to the receptor complex, the TGFβ
+        type II receptor kinase phosphorylates TGFβ type I receptor
+        which inititates the downstream response by phosphorylating
+        receptor-regulated Smads (R-Smads), such as Smad2 and
+        Smad3. By forming a multimeric complex with the Co-Smad
+        Smad4, activated R-Smads translocate to the nucleus and
+        induce transcriptional modulation of target genes [ 8 ]
+        .
+        Breast cancer cells frequently metastasize to bone
+        causing bone destruction and hypercalcemia [ 9 ] .
+        Parathyroid hormone-related protein (PTHrP), secreted by
+        these cells, is a major mediator of the osteolytic process
+        [ 10 ] . Osteolysis leads to the release of TGFβ which, in
+        turn, further induces PTHrP expression [ 11 ] . Other
+        tumor-relevant genes, such as 
+        pai-1 or 
+        upa , can also be activated by
+        TGFβ.
+        Hence, downregulation of TGFβ mediated gene expression
+        may counteract malignancy of cancer cells. In this study,
+        we investigated whether two small molecules, SB-203580 and
+        SB-202190, could be used to downmodulate TGFβ-induced
+        transcriptional activation of TGFβ target genes. In the
+        past, these compounds have been widely used as specific p38
+        inhibitors [ 12 ] and their inhibitory action has been well
+        documented [ 13 14 15 ] . However, recent results show
+        that, in a comparable concentration range they inhibit the
+        serine/threonine kinase activity of TGFβ type I receptor
+        preventing phosphorylation of R-Smads [ 16 17 18 ] .
+        Here we show that, in the highly invasive breast cancer
+        cell line MDA-MB-231, the SB-202190 and SB-203580
+        inhibitors negatively altered Smad3 nuclear entry upon TGFβ
+        stimulation. This resulted in a reduced response of
+        TGFβ-inducible genes to TGFβ. The degree of inhibition
+        varied tremendously depending on the particular gene
+        analyzed.
+      
+      
+        Results
+        
+          SB-202190 and SB-203580 downregulate transcription
+          from TGFβ-responsive genes
+          Plasminogen activator inhibitor-1 (PAI-1) and PTHrP
+          are known target genes of TGFβ signalling. We have
+          previously demonstrated that TGFβ upregulates PTHrP and
+          PAI-1 RNA levels in MDA-MB-231 cells [ 19 ] . TGFβ
+          affected PTHrP expression primarily by increasing the
+          level of the promoter P3-specific transcript [ 19 ] .
+          Quantitative PCR analysis using primers allowing the
+          detection of PTHrP P3 and PAI-1 transcripts indicated
+          that incubation of MDA-MB-231 cells with SB-202190 and
+          SB-203580 greatly inhibited TGFβ-induced increase in
+          PTHrP and, to a lesser extent, PAI-1 mRNA levels (Fig.
+          1A,1B).
+          Next, we examined whether inhibitory effects of these
+          compounds can also be seen on the PAI-1 promoter in
+          transient transfection assays. By using 3TP-Luc as a
+          reporter plasmid we observed that TGFβ increased the
+          activity of 3TP-Luc by approximately 3.5-fold (Fig.
+          1C,1D). Preincubation with the SB inhibitors reduced this
+          activation almost to basal levels.
+          These data suggest that SB-202190 and SB-203580
+          inhibit TGFβ-stimulated gene expression at least in part
+          by downregulating transcription.
+        
+        
+          SB-202190 and SB-203580 deregulate TGFβ-induced
+          Smad3 nuclear accumulation
+          It has recently been shown that SB-202190 and
+          SB-203580 are able to inhibit TGFβ-induced
+          phosphorylation of Smad3 by the TGFβ-receptor I kinase
+          (ALK5) and to interfere with nuclear localization of
+          Smad3 [ 17 ] . Nuclear translocation of Smad3 results
+          directly from TGFβ-induced Smad3 phosphorylation and is,
+          therefore, a measure of the activation status of ALK5. We
+          wanted to know to what extent SB-202190 and SB-203580
+          interfere with TGFβ-dependent Smad3 nuclear import in the
+          invasive MDA-MB-231 breast cancer cell line. We prepared
+          nuclear and whole cell extracts from cells treated with
+          TGFβ with or without preincubation of one of the SB
+          inhibitors and analyzed those extracts for reactivity to
+          a Smad2,3-specific antibody by Western blot analysis.
+          This antibody primarily interacts with Smad3, but, to
+          some extent, it is also able to recognize Smad2. Based on
+          Northern blot hybridization data, Smad3, but not Smad2,
+          is expressed in MDA-MB-231 cells [ 21 ] . Hence, the data
+          presented in Fig. 2show the abundance of Smad3 in the
+          nuclear and in the whole cell extracts. We found that
+          preincubation of cells with either SB-202190 or SB-203580
+          decreased the level of nuclear Smad3 in the presence of
+          TGFβ (Fig. 2A), whereas the total Smad3 protein level, as
+          assayed in whole cell extracts, was not altered.
+          Next, we studied the time-course of TGFβ-induced Smad3
+          nuclear entry in the presence or absence of SB-203580.
+          MDA-MB-231 cells were stimulated with TGFβ and harvested
+          after various time points. Nuclear extracts were prepared
+          and subjected to Western blotting analysis using an
+          anti-Smad3 antibody. Stimulation of the cells with TGFβ
+          led to a rapid increase in nuclear Smad3 protein within
+          15 minutes and this level remained constant for 2 hours.
+          Thereafter it started to decrease. However, pretreatment
+          of the cells with 20 μM SB-203580 perturbed Smad3 nuclear
+          accumulation, reducing the amount of Smad3 entering the
+          nucleus and shifting the peak level of nuclear Smad3 to a
+          later time point.
+        
+        
+          Other kinase inhibitors fail to inhibit TGFβ
+          mediated Smad3 nuclear entry
+          We next explored the possibility that the MEK1/2
+          inhibitor PD98059 and the Rho-associated kinase inhibitor
+          Y-27632 might also interfere with Smad3 nuclear entry.
+          However, both agents failed to reproduce the effect of
+          the SB inhibitors as TGFβ-induced nuclear accumulation of
+          Smad3 was not affected by these inhibitors (Fig. 2C). We
+          also used the protein kinase C (PKC) activator
+          phorbol-12-myristate-13-acetate (PMA) (Fig. 2C), which
+          appeared to enhance the amount of both basal and
+          TGFβ-induced nuclear Smad3, a phenomenon that has been
+          reported earlier [ 22 ] .
+        
+        
+          TGFβ target genes respond differentially to
+          inhibition of Smad3 nuclear import
+          The delayed TGFβ-mediated entry of Smad3 into the
+          nucleus in the presence of SB-203580 prompted us to
+          examine the effect of SB-203580 on TGFβ-induced gene
+          expression in a time-course experiment. We isolated total
+          RNA from the same cell suspension that was used to
+          prepare nuclear extracts for time-course analysis in Fig.
+          2B. cDNA was synthesized and subjected to quantitative
+          RT-PCR in order to measure the transcript levels of
+          several TGFβ target genes. The genes being examined were
+          divided into two groups: I, known TGFβ target genes: 
+          pai-1, smad7, c-myc, upa and
+          pthrp (Fig. 3A,3B,3C,3D,3E) and II, ets family genes:
+          
+          ets-1, ets-2 and ese-1/esx . Smad7
+          was of particular interest as it belongs to the
+          inhibitory Smads, which can counteract TGFβ-induced gene
+          activation [ 23 ] . The response of the 
+          smad7 gene to TGFβ is unusually
+          rapid [ 24 ] which is believed to stem from the peculiar
+          nature of the Smad7 promoter that contains a "perfect"
+          Smad binding site [ 25 ] . Another inhibitory Smad
+          protein is Smad6. We have not analyzed the expression of
+          this protein, since it preferentially inhibit bone
+          morphogenetic protein (BMP)-induced expression [ 26 ] .
+          In addition, Smad6 shows varying effects on TGFβ
+          signalling [ 27 ] . Nor were TGFβ-responsive genes, such
+          as p21, studied that are involved in cell cycle
+          regulation. Such genes are important targets at
+          early-stage carcinogenesis, where TGFβ has a
+          tumor-suppressive rather than a tumor-promoting function
+          [ 28 ] . In addition, e.g. p21 protein is not dectable in
+          MDA-MB-231 cells [ 29 ] .
+          Of group I, 
+          pai-1 , 
+          pthrp and 
+          upa mRNAs were induced upon TGFβ
+          treatment reaching maximum activation within three hours.
+          As expected, the 
+          smad7 transcript was fully
+          upregulated much earlier, after approximately 60 min. The
+          
+          c-myc gene has been reported to be
+          unresponsive to TGFβ signal transduction in MDA-MB-231
+          cells [ 24 ] . We also measured the effect of TGFβ on 
+          c-myc RNA and confirmed these
+          results as SB-203580 or control treatment failed to
+          significantly modulate 
+          c-myc transcript levels. The
+          inhibitory effect of SB-203580 showed remarkable
+          variation among the genes examined. The rapid induction
+          of 
+          smad7 mRNA was basically unaffected
+          by SB-203580; this could possibly explained by a lower
+          amout of Smad3 necessary to activate the Smad7 promoter.
+          TGFβ induced 
+          pai-1 mRNA was reduced to
+          approximately 50% by the SB inhibitor, whereas
+          TGFβ-mediated expression of PTHrP and uPA was highly
+          sensitive to SB-203580 treatment. SB-203580 downmodulated
+          expression of the latter genes to almost basal levels.
+          Two 
+          ets genes, 
+          ets1 and 
+          ets2 , were also affected by TGFβ
+          and SB-203580 (Group II, Fig. 3F,3G). We observed that 
+          ets1 and 
+          ets2 transcript levels were
+          slightly upregulated when cells were incubated with TGFβ
+          and that this increase was partly inhibited by SB-203580.
+          The other 
+          ets gene that we tested was 
+          ese-1/esx , a recently
+          characterized member of the 
+          ets gene family, originally
+          identified in epithelial cells [ 30 ] . Ese-1/Esx has
+          been found to regulate the expression of TGFβ type II
+          receptor [ 31 ] . We could show for the first time that
+          the level of the Ese-1/Esx transcript was strongly
+          downregulated in the presence of TGFβ. The negative TGFβ
+          effect on Ese-1/Esx expression could not be inhibited by
+          SB-203580.
+        
+      
+      
+        Discussion
+        Evidence has been accumulated that TGFβ promotes
+        late-stage tumorigenesis by stimulating angiogenesis and
+        invasive behaviour of tumor cells, enhancing
+        immunosuppression and supporting epithelial-mesenchymal
+        transition of cancer cells [ 4 ] . Furthermore, TGFβ is
+        believed to be part of a vicious circle in bone metastases
+        as it gets released from osteoclast-degraded bone substance
+        and subsequently stimulates PTHrP gene expression in nearby
+        metastatic cancer cells which in turn leads to an
+        activation of osteoclastic bone resorption [ 11 ] .
+        Therefore, it is of great interest to understand in more
+        detail the molecular aspects of TGFβ-mediated gene
+        expression in metastatic breast cancer cells and to explore
+        ways to interfere with this tumorigenic signalling.
+        Here we report that two small molecules, SB-202190 and
+        SB-203580, diminished TGFβ-induced expression of TGFβ
+        target genes which was accompanied by a perturbation of
+        TGFβ-mediated Smad3 nuclear accumulation, a crucial step in
+        TGFβ signal transduction. Using SB-203580, we found that
+        not only was the total level of nuclear Smad3 in the
+        presence of TGFβ reduced, but also that the nuclear entry
+        of Smad3 was delayed and less prolonged. Interestingly,
+        treating cells with TGFβ for 60 min yielded a similar
+        amount of Smad3 in the nucleus, irrespective of whether
+        SB-203580 was present or not. However, when the time of
+        TGFβ treatment was reduced to 15 min or prolonged to 180 or
+        240 min, SB-203580 had a tremendous effect on Smad3
+        translocation to the nucleus. The altered kinetic of
+        TGFβ-dependent Smad3 nuclear entry as induced by SB-203580
+        coincided with the efficacy by which this agent repressed
+        the activity of the different TGFβ target genes. Fast TGFβ
+        responder genes, such as 
+        smad7 , whose maximum activation by
+        TGFβ was reached after 60 min, was only slightly affected
+        by SB-203580, while slow responders, such as 
+        pai-1, pthrp or 
+        upa , that showed peak activation
+        after 180-240 min, were very sensitive to the repressive
+        effect of SB-203580. The strongest effect of SB-203580 was
+        found on the TGFβ-dependent expression of 
+        pthrp and 
+        upa . In these cases, the inhibitor
+        completely eliminated responsiveness to TGFβ.
+        How could these differential effect of SB-203580 on
+        TGFβ-induced gene expression be explained? It is clear that
+        the 
+        smad7 gene expression is regulated by
+        TGFβ in a Smad3/4-dependent manner [ 32 ] as it was found
+        for the 
+        pthrp and the 
+        pai-1 gene [ 19 33 ] . However, the
+        Smad3 responsive elements are different. The 
+        smad7 gene contains a perfect
+        palindromic Smad binding element (GTCTAGAC) while the 
+        pai-1 and the 
+        pthrp promoters harbor AGAC tandem
+        repeats [ 19 33 ] which binds Smad proteins less
+        efficiently [ 34 ] . The 
+        upa gene contains only an AP1-binding
+        site which resembles the Smad3/4-responsive AGAC motif [ 35
+        ] . A weaker binding site could require Smad3 to be present
+        at higher concentrations for efficient binding and would
+        make TGFβ-dependent transcription from a gene more
+        vulnerable to reduced nuclear accumulation of the Smad3
+        protein. TGFβ-induced stabilization of the mRNA may also be
+        important for the sensitivity to SB-203580. TGFβ has been
+        shown also to stabilize the mRNA of the 
+        smad7 gene [ 25 ] , while
+        stabilization of RNA does not play a major role in
+        regulation of the 
+        pthrp gene in MDA-MB-231 cells [ 19 ]
+        . In addition, SB-203580 also inhibits p38 activity which
+        has been shown to play a role in TGFβ signalling [ 36 37 38
+        39 40 41 ] . Hence, several factors could be responsible
+        for the differential sensitivity of TGFβ-responsive genes
+        to SB-203580.
+        Members of the Ets family of transcription factors share
+        a unique DNA binding domain, the Ets domain, and have been
+        shown to activate a large number of genes [ 42 43 ] and to
+        be involved in a number of physiological and
+        pathophysiological processes [ 44 ] . There has been
+        accumulating evidence that Ets proteins play an important
+        part for the invasive program of cells, particularly by
+        stimulating the expression of protease genes [ 45 46 ] .
+        Ets1 and Ets2 are overexpressed in a variety of tumors,
+        including breast carcinomas ( [ 44 ] and references
+        therein). Furthermore, our previous work has shown that, in
+        invasive breast cancer cells, Ets proteins activate the
+        PTHrP P3 promoter in cooperation with Smad3 [ 19 ] . In
+        this context it is interesting to note that TGFβ signalling
+        seemed to target the 
+        ets-1 and 
+        ets-2 gene (Fig. 3F,3G). Analysis of
+        the human ets-1 promoter sequence revealed that it contains
+        elements similar to TGFβ-responsive sites in other
+        promoters (R. Lindemann, unpublished observation).
+        We present data showing that TGFβ downregulated the
+        Ese-1/Esx transcript, a novel and yet unpublished finding.
+        Ese-1/Esx is a member of the Ets transcription factor
+        family and is expressed mainly in epithelial tissue [ 30 ]
+        . Its expression has been detected during mammary gland
+        development and breast tumorigenesis [ 47 48 ] . It is
+        noteworthy that Ese-1/Esx is a potential transcriptional
+        regulator of the TGFβ type II receptor [ 31 ] and
+        overexpression of Ese-1/Esx in non-invasive cells leads to
+        a reduction in cell growth in the presence of TGFβ,
+        presumably because of an increased TGFβ type II receptor
+        level [ 49 ] . It is interesting that TGFβ-dependent
+        downregulation of Ese-1/Esx is not affected by SB-203580.
+        It is possible that TGFβ does not require Smad3/4 or p38 to
+        inhibit Ese-1/Esx-expression. Alternatively, inhibitory
+        Smad7, whose expression was increased by TGFβ but not
+        affected by SB-203580, may be involved in this process. One
+        way by which Smad7 can inhibit TGFβ-dependent gene
+        expression is by blocking phosphorylation, and, hence,
+        nuclear import of Smad3 and Smad2 [ 23 ] . More recent data
+        showing that Smad7 is able to interact with histone
+        deacetylases suggest an additional role for Smad7 as a
+        transcriptional co-repressor [ 50 ] . Thus, Smad7 might
+        interfere directly with Ese-1/Esx gene transcription.
+        However, TGFβ downregulated Ese-1/Esx mRNA levels faster
+        than it upregulated Smad7 expression excluding the
+        possibility that Smad7 mediates the TGFβ effect on
+        Ese-1/Esx, at least at the initial phase. Another candidate
+        that could be responsible for this process is c-Jun
+        N-terminal kinase (JNK). JNK has been described to drive
+        TGFβ-dependent fibronectin synthesis independent of Smad4
+        and p38 [ 51 ] . In contrast to Smad3, JNK is activated by
+        the TGFβ receptor I in a way that does not require the
+        kinase domain [ 52 ] . This supports the notion that
+        activation of Smad3 and JNK by TGFβ are independent events.
+        It is remarkable that a constitutively active form of JNK
+        activator MKK and Smad7 are able to cooperatively
+        downregulate TGFβ-responsive promoters [ 53 ] . It is quite
+        possible that a Smad7/JNK synergistic interaction is
+        involved in the TGFβ-dependent downregulation of Ese-1/Esx
+        expression, where JNK alone might mediate the initiation of
+        the TGFβ-induced repression.
+      
+      
+        Conclusions
+        We demonstrate that treatment of invasive MDA-MB-231
+        breast cancer cells with SB-202190 and SB-203580 interferes
+        with TGFβ-induced Smad3 nuclear accumulation and that this
+        is paralleled by a differential transcriptional response of
+        TGFβ target genes. Strikingly, SB-202190 and SB-203580
+        suppressed TGFβ-dependent activation of those genes that
+        are important for the acquisition of invasive behavior,
+        while having no effect on the expression of the natural
+        TGFβ inhibitor Smad7. This suggests that these compounds
+        may be useful to interfere with malignant behavior of
+        cancer cells. Furthermore, we show for the first time that,
+        in breast cancer cells, the Ese-1/Esx mRNA is downregulated
+        by TGFβ.
+      
+      
+        Methods
+        
+          Cell lines, plasmids and chemicals
+          MDA-MB-231 breast cancer cell line was maintained in
+          Dulbecco's modified Eagle's medium (Invitrogen)
+          supplemented with 10% fetal calf serum (Invitrogen). The
+          plasmid 3TP-Luc was kindly provided by Y. Sun. TGFβ1 was
+          purchased from R&D Systems and dissolved in 1 mg/ml
+          bovine serum albumine in 4 mM HCl as recommended by the
+          manufacturer. The inhibitors PD-98059, Y-27632, SB-202190
+          and SB-203580 were obtained from Calbiochem and dissolved
+          in dimethyl sulfoxide.
+        
+        
+          Transient transfections and luciferase assay
+          Transient transfection of MDA-MB-231 breast cancer
+          cells has been described previously [ 19 ] . Briefly, 2
+          μg 3TP-Luc together with 0.3 μg β-galactosidase
+          expression plasmid were transfected into cells grown to
+          70-80% confluency in 6-well plates using LipofectAMINE
+          reagent (Invitrogen) following the manufacturers
+          protocol. TGFβ stimulation of cells (5 ng/ml) was
+          performed 15 hours after transfection for the indicated
+          times with or without preincubation with the respective
+          inhibitors. Control cells were treated with the
+          equivalent amount of TGFβ dissolving buffer (1 mg/ml
+          bovine serum albumine in 4 mM HCl). Cells were lysed and
+          assayed for luciferase activity as described in
+          Blumenthal et al [ 20 ] . For calculation of relative
+          promoter activity, luciferase activity was normalized
+          against β-galactosidase activity.
+        
+        
+          Preparation of nuclear and whole cell
+          extracts
+          Nuclear extracts were obtained as described elsewhere
+          [ 19 ] . Briefly, detached cells were resuspended in
+          buffer A (10 mM Hepes pH 7.9, 10 mM KCl, 0.1 mM EDTA, 0.1
+          mM EGTA, 1 mM dithiothreitol, 0.5 mM phenylmethylsulfonyl
+          fluoride) and cells were lysed with Nonidet P-40. After
+          centrifugation at 13000 rpm for 1 min, nuclei were
+          extracted by addition of buffer C (20 mM Hepes pH 7.9,
+          0.4 M NaCl, 1 mM EDTA, 1 mM EGTA, 1 mM dithiothreitol,
+          0.5 mM phenylmethylsulfonyl fluoride). Whole cell
+          extraction was performed by lysis of cells in 250 mM
+          Tris-Cl pH 7.5, three cycles of freezing and thawing and
+          a subsequent centrifugation step for 5 min at 13,000 rpm
+          at 4°C. Total protein amount in the extracts was
+          determined using the Bio-Rad Bradford reagent.
+        
+        
+          Western Blot Analysis
+          Cell extracts were analysed by Western Blotting
+          analysis as reported previously [ 19 ] . Mouse anti-Smad3
+          (H-2) and rabbit anti-PKC alpha (C-20) were purchased
+          from Santa Cruz Biotechnology and diluted 1:1000.
+          Visualization of protein bands was carried out using
+          anti-IgG horseradish peroxidase and ECL plus reagents
+          from Amersham Pharmacia Biotech.
+        
+        
+          Quantitative Real-Time RT-PCR
+          Isolation of total RNA and synthesis of cDNA were
+          performed as previously described [ 19 ] . RT-PCR
+          reactions of cDNAs were conducted in a total volume of 15
+          μl with 2 × Taqman Master Mix (Applied Biosystems) and
+          primers at optimized concentrations. Thermal cycler
+          parameters included 2 min at 50°C, 10 min at 95°C, and 40
+          cycles involving denaturation at 95°C for 15 s and
+          annealing/extension at 60°C for 1 min. Relative
+          quantitation of gene expression was determined using the
+          comparative C 
+          T method following the manufacturers
+          guidlines. To determine the relative RNA levels of a
+          particular gene, each C 
+          T value was normalized against the C 
+          T value of a reference RNA (18S rRNA).
+          The following primers were used:
+          
+          Ets-1 : forward 5' CGTACGTCCCCCACTCCT
+          3'
+          reverse 5' TCCCATAGCAATGTCTAATTAATCTGG 3'
+          
+          Ets-2 forward 5'
+          TTTCTCATGACTCCGCCAACT 3'
+          reverse 5' GGCTTGACTCATCACAGCCTT 3'
+          
+          Ese-1/ Esx forward 5'
+          CAGGGCAGCTTGGAAGAG 3'
+          reverse 5' AAAAGCTTCTTGAAAGGAGACTTCTGT 3'
+          
+          PTHrP Exon 2 forward 5'
+          AGGAGGCGGTTAGCCCTG 3'
+          reverse 5' TCCCATAGCAATGTCTAATTAATCTGG 3'
+          
+          c-myc forward 5' GTGCCACGTCTCCACACATC
+          3'
+          reverse 5' GCAGCAGGATAGTCCTTCCG 3'
+          
+          Smad 7 forward 5' AAGGTGCGGAGCAAAAT
+          3'
+          reverse 5' TGTACACCCACACACCATCCA 3'
+          
+          uPA forward 5' CTGCAGGAACCCAGACAACC
+          3'
+          reverse 5' GGACAAGCAGCTTTAGGCCC 3'
+          
+          PAI-1 forward 5'
+          GGCCATGGAACAAGGATGAGA 3'
+          reverse 5' GACCAGCTTCAGATCCCGCT 3'
+          
+          18S rRNA forward 5'
+          CGGCTACCACATCCAAGGAA 3'
+          reverse 5' GCTGGAATTACCGCGGCT 3'
+        
+      
+      
+        Authors' contributions
+        Author 1 (RKL) carried out the experiments. Author 1
+        (RKL) and Author 3 (JD) drafted the manuscript. Authors 1
+        (RKL) and Author 3 (JD) have conceived and coordinated the
+        study. Author 2 (AN) participitated in coordination. All
+        authors read and approved the final manuscript.
+      
+    
+  

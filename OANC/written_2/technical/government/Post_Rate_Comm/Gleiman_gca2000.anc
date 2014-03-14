@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-11-07" version="1.0.4" xmlns="http://www.xces.org/schema/2003">
+    <encodingDesc>
+        <tagsDecl>
+            <tagUsage gi="NounChunk" occurs="1406"/>
+            <tagUsage gi="VG" occurs="646"/>
+            <tagUsage gi="body" occurs="1"/>
+            <tagUsage gi="cesDoc" occurs="1"/>
+            <tagUsage gi="div" occurs="4"/>
+            <tagUsage gi="head" occurs="4"/>
+            <tagUsage gi="item" occurs="34"/>
+            <tagUsage gi="label" occurs="34"/>
+            <tagUsage gi="list" occurs="7"/>
+            <tagUsage gi="p" occurs="70"/>
+            <tagUsage gi="s" occurs="290"/>
+            <tagUsage gi="text" occurs="1"/>
+            <tagUsage gi="tok" occurs="5196"/>
+        </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+        <textClass>
+            <domain>World Affairs</domain>
+            <subdomain>Government</subdomain>
+            <audience>adult</audience>
+            <medium>web</medium>
+        </textClass>
+        <annotations>
+            <annotation ann.loc="Gleiman_gca2000.txt" type="content">Text content</annotation>
+            <annotation ann.loc="Gleiman_gca2000-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="Gleiman_gca2000-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="Gleiman_gca2000-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="Gleiman_gca2000-np.xml" type="np">Noun chunks</annotation>
+            <annotation ann.loc="Gleiman_gca2000-vp.xml" type="vp">Verb chunks</annotation>
+        </annotations>
+    </profileDesc>
+</cesHeader>

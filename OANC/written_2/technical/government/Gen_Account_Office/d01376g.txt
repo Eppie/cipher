@@ -1,0 +1,2860 @@
+
+
+
+
+United States General Accounting Office
+Executive Guide
+GAO
+
+February 2001
+
+
+
+Maximizing the Success of Chief Information Officers
+
+Learning From Leading Organizations
+
+
+GAO-01-376G
+
+
+Preface
+Information technology (IT) has become integral to providing
+government services, and the management of information in the
+federal government has moved out of the back office and off the
+mainframe into the home and office and onto the Internet. As the
+federal government fully embraces e-commerce and other leading-edge
+implementations of IT that benefit citizens, leadership in managing
+the government«s information resources becomes of paramount
+importance. The development of new service approaches and the
+enhancement of old ones in this new information era require the
+active participation of information management organizations from
+the beginning.
+The efficient, effective, and innovative use of information
+technology requires a level of leadership and focus that goes
+beyond what would be provided in a technical support function.
+Congress recognized the need for greater leadership in information
+management and technology in the Clinger-Cohen Act of 1996, which
+mandated the position of chief information officer (CIO) for
+executive departments and agencies. This act and other laws define
+the general responsibilities of the CIO and many of the processes
+required to manage information in the federal government.
+Virtually all of the major executive agencies have appointed
+CIOs, and many have taken positive steps toward the implementation
+of important information management processes specified by law. To
+reap the full benefits of information management reform, federal
+agencies must utilize the full potential of CIOs as information
+management leaders and active participants in the development of
+agency strategic plans and policies. The CIOs themselves must meet
+the challenges of building credible organizations, and developing
+and organizing information management capabilities to meet agency
+mission needs.
+This guide is intended to assist federal agencies in maximizing
+the success of CIOs. Principles and practices gleaned from the case
+studies presented in our guide offer concrete suggestions on what
+agency executives can do to ensure the effectiveness of their CIO
+organizations. The guide does not address all of the
+responsibilities which fall to federal agency CIOs - only those
+which have parallels in the private sector. Moreover, we find that
+practices used by federal agency CIOs tend to differ from those
+used by leading organizations. We did not study the reasons for
+these deviations specifically, but they likely result from the
+context in which federal CIOs operate. Both operational and
+structural aspects of the CIO«s environment can vary significantly
+in the federal sector versus the private sector. Rather than dwell
+on differences, our study shows that there is much common ground
+between public and private CIO organizations on which to build
+efforts for improvement. The specific key conditions and strategies
+described in this guide can be used as suggestions for federal CIOs
+to apply or adapt to their environments, where appropriate.
+We would like to thank the Private Sector Council and the
+leading practice organizations we selected for our study, which are
+listed on page 59, for providing us with the information about
+their practices and assisting us in producing this executive guide.
+We would like to thank members of GAO«s Executive Council on
+Information Management and Technology for their comments and
+suggestions in the development of this guide. We would also like to
+thank the individuals who provided helpful comments on the exposure
+draft of this guide.1
+This guide was prepared under the direction of Lester Diamond,
+Assistant Director, Information Technology Management Issues, who
+can be reached at (202) 512-7957 or DiamondL@GAO.GOV. Key
+contributors were Tamra Goldstein, Sondra F. McCauley, and Tomas
+Ramirez.
+
+David L. McClure Director, Information Technology Management
+Issues
+1 Executive Guide: Maximizing the Success of Chief Information
+Officers (Exposure Draft) (GAO/AIMD-00-83, March 31, 2000).
+Contents
+Page
+
+
+
+Federal Information Management Reform
+The rapid pace of technological change and innovation in the
+current information age poses wide-ranging opportunities for
+improved information management2 and enhanced performance in
+achieving agency missions and goals. At the same time, however, the
+proliferation of technology has brought with it a range of thorny
+issues surrounding managing and integrating complex processes,
+computer equipment, and telecommunications networks. In its
+oversight role, Congress has established a series of laws to define
+the role of information management in government and to mandate
+basic processes to manage the government information technology
+(IT) investment. This section provides a brief overview of that
+legislative history.
+The federal government«s management of its information resources
+to date has produced mixed results. Consistent with reform
+legislation, agencies have taken constructive steps to implement
+modern IT strategies, systems, and management practices and
+policies directed toward achieving cost savings, increasing
+productivity, and improving the timeliness and quality of federal
+service delivery. To the extent that the nearly $27 billion in
+annual planned obligations for information technology can be
+invested and managed more wisely, federal programs will operate
+more effectively and at less cost.
+For years, Congress has been working to increase the
+effectiveness of information and technology management in the
+federal government. An early effort was the Brooks Act, enacted in
+1965, which called for centralized oversight of federal information
+technology acquisitions by the General Services Administration
+(GSA). The Paperwork Reduction Act of 1980 (PRA) applied life cycle
+management principles to information management and focused on
+reducing the government«s information-collection burden. To help
+accomplish this, PRA designated senior information resources
+manager positions in the major departments and agencies with
+responsibility for a wide range of functions including information
+resource planning, budgeting, organizing, controlling, training,
+and ensuring the absence of duplication in information systems. PRA
+also created the Office of Information and Regulatory Affairs
+within the Office of Management and Budget (OMB) to provide central
+oversight of information management activities across the federal
+government.
+In the 1990s, Congress enacted additional laws holding agencies
+accountable for effective management of public information
+resources. In particular, the Chief Financial Officers (CFO) Act of
+1990 and the Government Management Reform Act of 1994 spelled out
+an ambitious agenda to remedy the government«s lack of useful,
+relevant, timely, and reliable financial information. For the
+government«s major departments and agencies, these laws
+(1) established senior-level CFO positions, (2) required annual
+financial statement audits, and (3) set expectations for more
+modern systems to support integrated management of budget,
+accounting, and program information. The Government Performance and
+Results Act of 1993√ commonly known as GPRA or the Results Act
+√required that agencies set strategic goals, measure performance
+toward those goals, and report on their progress. Effective
+implementation of the Results Act hinges on agencies« ability to
+produce meaningfully integrated information to manage performance
+and measure results.
+In this guide, information management refers to all aspects of
+the management of all information resources, including technology,
+funds, human capital, and management processes, as well as the
+underlying information. IT refers to technology used to support the
+management of information.
+Further, amendments to the PRA in 1995 required that agencies
+indicate in strategic information resources management plans how
+they are applying information resources to improve the
+productivity, efficiency, and effectiveness of government programs,
+including improvements in the delivery of services to the
+public.
+With this increased focus on agency accountability also came
+recognition of the need to elevate the agencies« information
+management positions to more strategic, executive, levels,
+comparable to the CFO positions created in 1990. The Clinger-Cohen
+Act of 1996 amended the PRA, renaming and elevating former
+information resources manager positions to executive-level CIOs who
+report directly to the agency head and have information management
+as a primary responsibility. The new information management leaders
+are accountable for not only the range of information management
+activities outlined in the PRA, but also for more strategic IT
+functions such as developing architectures, managing portfolios,
+and measuring the performance of information technology
+investments. Among other things, the Clinger-Cohen Act also (1)
+required senior executive involvement in IT decision-making, (2)
+imposed much-needed discipline in acquiring and managing technology
+resources, (3) called for the redesign of inefficient work
+processes before investing in technology, and (4) repealed the
+Brooks Act, eliminating GSA«s central acquisition authority.
+Primary procurement responsibility now rests directly with federal
+agencies.
+Together with a number of other laws enacted over the past
+several years to foster improvements in such areas as financial
+management, acquisition, and computer security, this legislation
+discussed above composes a statutory framework for achieving
+performance-based management and accountability in not just
+information management, but overall federal management.3 (Appendix
+I provides a list of these key federal laws affecting information
+management.) As the executive leaders for information and
+technology management, federal CIOs have a key role in helping
+their agencies fulfill many of the provisions embodied in this
+management reform framework.
+Even with the guidance provided by OMB for establishing the new
+information technology management leadership positions, agencies
+face distinct challenges in effectively positioning federal CIOs
+and supporting organizations to ensure that information management
+adds value in their business/mission performance .4 CIOs in the
+federal sector face structural and cultural hurdles generally not
+found elsewhere. Some of these additional challenges are described
+in the final section of this guide.
+3
+Managing for Results: The Statutory Framework for
+Performance-Based Management and Accountability
+(GAO/GGD/AIMD-98-52, January 28, 1998) and Managing for Results:
+The Statutory Framework for Improving Federal Management and
+Effectiveness (GAO/T-GGD/AIMD-97-144, June 24, 1997).
+4
+OMB guidance on implementing federal CIO positions includes
+Memorandum for the Heads of Executive Departments and
+Establishments, ƒImplementation of the Information Technology
+Management Reform Act of 1996,≈ M-96-20, April 4, 1996; and
+Memorandum for the President«s Management Council, ƒWhat Makes a
+Good CIO?,≈ June 28, 1996.
+
+
+Overview of Fundamental Principles
+The basis for this guide is the belief that federal agencies
+could benefit from examples set by a few leading organizations
+whose CIO organizations have gained a reputation for outstanding
+information management in their enterprises. This work is intended
+to provide pragmatic guidance that federal agencies can consider in
+determining how best to integrate CIO functions into their
+respective organizations. Our target audience includes senior
+federal executives and managers, although our observations can also
+provide insights for senior information management officials
+throughout the public and private sectors. (Appendix II provides
+more details on the objectives, scope, and methodology of our
+work.) Based on interviews with private-sector and state CIOs and
+other research, we have developed a framework of critical success
+factors and leading principles. The balance of this guide describes
+this framework and its application to CIOs in the federal
+government.
+CIOs of leading organizations we interviewed described a
+consistent set of key principles of information management that
+they believed contributed to the successful execution of their
+responsibilities. These principles touch on specific aspects of
+their organizational management such as formal and informal
+relationships among the CIO and others, business practices and
+processes, and critical CIO functions and leadership activities.
+The specific nature of these principles varied depending on the
+organization«s mission, size, culture, and other factors, but each
+underlying key principle was consistently observed.
+The CIOs interviewed considered these principles instrumental
+because they address critical organizational and operational
+aspects of the CIO«s role. Notably, the principles address senior
+executives« responsibility for creating an effective management
+context for their CIOs, as well as the CIOs« responsibilities for
+building credibility and organizing information technology and
+management to meet business needs. The practices are not new ideas
+in the general management of organizations, but rather are the
+application of well-founded principles in the maturing area of
+information technology and management.
+These principles are most effective when implemented together in
+a mutually reinforcing manner. As ad hoc efforts, each individual
+principle addresses a single aspect that is necessary, but is not
+sufficient for success by itself. The failure to execute a single
+principle may render the others less effective. Further, although
+there is no precedence among the principles, organizational
+conditions may make it more feasible to address one principle
+before another. For example, the chief executive officer (CEO) may
+ƒposition the CIO for success≈ in advance of hiring a new CIO while
+the other principles await the CIO«s attention.
+Figure 1 illustrates the six fundamental principles described by
+the CIOs interviewed during the development of this guide. In
+addition, for each principle, several key characteristics of
+organizations that successfully execute these principles are
+listed. These key characteristics can provide insights into what
+constitutes successful CIO organizations.
+Figure 1: Six Principles and Key Characteristics of CIO
+Management in Leading Organizations
+
+Evaluating the intent of the six principles, we observed that
+they naturally fell into three distinct sets, which we refer to as
+critical success factors. Figure 2 illustrates the six principles
+and their relationship with the three critical success factors and
+their respective organizational foci.
+Figure 2: Critical Success Factors and Organizational
+Relationships
+Critical Success Factors
+
+Principles
+
+Organizational Foci
+
+
+a COO-Chief Operating Officer
+Understanding the six principles in terms of critical success
+factors is particularly useful because of characteristics that are
+shared by principles within the same success factor. Following is a
+brief description of each critical success factor.
+Align Information Management Leadership for Value Creation
+The principles under the first critical success factor, ƒAlign
+Information Management Leadership for Value Creation,≈ advocate the
+need to recognize the role of information management in creating
+value and positioning the CIO for success; both of these principles
+address issues of senior executive support. Both principles require
+that the leaders of the enterprise embrace the critical role
+information management can play in the success of the organization
+and the leadership role the CIO must play in order for information
+technology and management to meet its potential. The first
+principle addresses the acceptance of this premise by senior
+executive management, and the second ensures that the CIO has the
+organizational legitimacy to execute his or her role.
+Promote Organizational Credibility
+While the first success factor refers to legitimacy at a
+strategic planning level, this success factor addresses a more
+operational level. The principle that addresses the need to ensure
+the credibility of the CIO organization and the principle that
+encourages measuring success and demonstrating results, if executed
+successfully, will lead to the confidence of those with operational
+responsibility in the enterprise. Without credibility, the CIO
+organization will struggle to be accepted as a full participant in
+the development of new organizational systems and processes.
+Execute CIO Responsibilities
+The last critical success factor, ƒExecute CIO Responsibilities≈
+addresses the need to organize information resources to meet
+business needs and to develop the associated human capital. These
+two principles provide the foundation for the CIO«s effectiveness
+in carrying out the CIO organization«s specific responsibilities.
+Once executive management endorses the centrality of the CIO
+organization and becomes a partner in the development of new
+systems, the CIO organization must execute its responsibilities
+successfully.
+The last section in figure 2, ƒOrganizational Foci,≈ illustrates
+how both principles within a single critical success factor require
+the same organizational units to collaborate in their execution.
+Both principles within a critical success factor also focus on the
+same organizational units as targets of their implementation. For
+example, in the case of, ƒPromote Organizational Credibility,≈ both
+principles rely on the collaboration of senior executives and
+division heads for success and have as their target the senior
+management of the enterprise.
+The common features within a critical success factor can become
+especially significant as the CIO, and other players, plan the
+execution of the six principles described in this guide. As this
+group plans its strategy, it can utilize the commonality among
+principles to link initiatives and utilize the synergy between
+related efforts. For example, while organizing information
+resources to meet enterprise needs and developing human capital are
+distinct initiatives, they share extensive areas of commonality.
+Executing both principles in
+Page 10 GAO-01-376G CIO Executive Guide
+conjunction with each other can create opportunities for
+efficiency and effectiveness not otherwise available.
+Finally, the organization of principles into critical success
+factors illustrates the extent to which the work of a successful
+CIO must extend throughout the enterprise. In particular, the role
+that the CEO and other senior managers play in ensuring the success
+of the CIO should be noted. While it is the responsibility of the
+CIO to execute the specific responsibilities of his or her
+position, it became clear to us during our case studies that the
+successful CIO relies extensively on both vertical and horizontal
+relationships within the enterprise in order to carry out these
+responsibilities.
+This executive guide includes examples from our case study
+organizations as well as information from selected federal
+organizations, which helped us confirm the applicability of our
+findings to federal government experience. At the conclusion of
+each principle, we provide a case study to describe the principle
+in practice at one of the organizations we visited, as well as
+strategies to consider when implementing the principle. Although
+this guide focuses on fundamental practices rather than detailed
+guidance, the examples illustrate and complement much of the
+specific guidance contained in similar and related GAO documents
+cited in appendix III.
+
+
+The Federal CIO Environment Today
+The CIO position in the federal government is still evolving.
+Agencies are learning how a CIO can help improve effectiveness and
+efficiency and better realize the benefits of their information
+resources. Current federal CIOs are learning how to carry out their
+responsibilities in the federal environment with all of the
+incumbent expectations and constraints. Both the agencies and the
+CIOs are working to meet the letter and intent of the Clinger-Cohen
+Act and associated legislation effectively. The principles offered
+in this guide are intended to provide insight into what CIOs at
+leading organizations consider critical to their success, and
+provide advice to federal CIOs and senior agency management as they
+work to improve the use of information technology and management in
+the federal government.
+The federal CIO faces an environment that includes many of the
+elements encountered by CIOs interviewed for this guide. At the
+same time, the federal CIO faces additional challenges as a result
+of specific legislative responsibilities (e.g., records management
+and defined contracting requirements). The federal CIO is also
+subject to a funding process that is more complex and uncertain
+than in most other organizations. The effect of the appropriations
+process and the highly distributed management structures found in
+several federal agencies tend to move some of the control of
+processes having to do with information management away from the
+CIO. Together, these characteristics, among others, differentiate
+the federal CIO environment from other environments. These
+differences, and their impact on the framework developed in this
+guide, will be discussed in the ƒUsing this Guide≈ section. The
+following discussion focuses on the common elements among the
+private, state, and federal sectors, and the application of the
+framework across all three.
+In a series of one-on-one interviews with half of the Federal
+CIO Council, we found that federal organizations face many of the
+same issues as their private-sector and state government
+counterparts. Specifically, federal organizations must overcome the
+challenges of effectively linking information technology and
+management to agency missions, positioning and legitimizing
+information management leadership, measuring performance, and
+building capabilities and skills. Our meeting with five members of
+the Federal Small Agency CIO Council and a number of independent
+studies provide similar conclusions.5 The six principles that
+emerged from our discussions with private-sector and state
+government CIOs also describe the general areas that federal CIOs
+agreed needed to be addressed. However, the specific approaches to
+executing those principles tended to differ among the various
+sectors.
+The Federal Chief Information Officer: Third Annual Top Ten
+Challenges Survey, Association for Federal Information Resources
+Management, November, 1998; Implementing Best Practices, Capital
+Planning and IT Investment Committee, Federal CIO Council, June
+1998; The Impact of Change: Clinger-Cohen Act Implementation,
+Laying the Foundation for Year 2000 and Beyond, Eighth Annual ITAA
+Survey of Federal CIOs, Grant Thornton LLP, December 1997; and
+IAC/CIO Task Force Draft Report, Federal Chief Information
+Officer«s Working Group and Industry Advisory Council, July 9,
+1996.
+In three of the principle areas, the level to which practices of
+leading private versus federal organizations have evolved is
+significantly different. For example, in principle I, while leading
+organizations generally include their CIOs in executive business
+decisionmaking, in the federal government setting information
+management is still often viewed as a support function rather than
+a strategic activity. Leading organizations also consider various
+leadership models and position their CIOs at a clear, executive
+level, as in principle II. In contrast, federal CIO implementation
+is in more nascent stages, lacking criteria for matching CIO types
+with organizational needs. Further, in principle V, while leading
+organizations are flexible in reassigning staff and structuring
+capabilities across business and technology lines, federal staffing
+practices and organizational structures are less flexible in
+nature.
+Performance measurement (principle IV) and information
+management human capital development (principle VI) are two areas
+that private, state, and federal CIOs all agreed must be addressed
+in order for the CIO and the supporting organization to be
+successful. Practices used by both the private and public sectors
+in the area of performance measurement are still evolving. In both
+performance measurement and human capital development, practices
+used by the federal CIOs differed from those of CIOs in leading
+organizations, though federal CIOs were actively trying to address
+the issues. Differences in the approaches used probably resulted
+from specific constraints in the federal CIO environment, including
+a focus on nonfinancial program benefits, rather than financial
+return on investments.
+Credibility building, principle III, is the one area in which
+CIOs in both the public and private sector have all adopted similar
+practices. The precise application of the practices depended on the
+specific contexts of their organizations, but the approaches were
+consistent. It may be noted that this is one of the few principles
+that CIOs may address themselves, without regard to organizational
+constraints or CEO support. Of course, as stated earlier, the
+effectiveness of this principle is moderated by the extent to which
+the other principles have been implemented.
+The following table summarizes the practices of our sample
+organizations in each principle area and compares them with
+practices in the federal CIO environment.
+Table 1: Comparison of Leading Practices and Federal CIO
+Management Practices
+
+In terms of critical success factors, federal CIO organizations
+tend to trail the CIOs interviewed for this guide in the ƒAlign
+Information Management Leadership for Value Creation≈ and ƒExecute
+CIO Responsibilities≈ factors. The successful execution of these
+two critical success factors depends to a great extent on officials
+other than the CIO. In the first success factor, the CIO depends to
+a great extent on the other senior executive officers to support
+the inclusion of the CIO in critical strategic discussions. In the
+other factor, the federal CIO tends to be constrained by
+organizational attributes typical of the federal sector. These
+attributes include, but are not limited to, relatively little
+flexibility in financial reward systems and highly distributed
+organizational structures in a number of federal agencies.
+This is not to say that there are no examples of progress in the
+federal sector in either of these two success factors. The federal
+response to the year 2000 computing challenge created an
+opportunity in many agencies for CIO and program organizations to
+partner in responding to specific agency mission needs. This
+partnering took place at the senior executive level and contributed
+to the success of the federal Y2K effort. In addition, the CIO
+Council, the Office of Personnel Management, and individual
+agencies have been working together to develop new approaches to
+compensating and retaining information technology and management
+workers.
+It is interesting to note that the remaining critical success
+factor, ƒPromote Organizational Credibility,≈ is executed about the
+same within all sectors, since all sectors approach principle III
+similarly, and no sector executes principle IV well. As noted, it
+is within this critical success factor that the CIO is able to
+operate with the greatest individual flexibility.
+Table 1 indicates that a gap exists between the practices of
+federal CIOs and CIOs of leading organizations. Areas in which gaps
+exist should be examined carefully to understand the basis for the
+differences as well as opportunities for greater implementation of
+the principles. It is possible that the business context for
+federal CIOs is sufficiently different from that of CIOs in leading
+organizations that lessons learned may not be applicable. Some of
+these differences are described in the final section of this guide.
+At the same time, an understanding of the information technology
+and management practices of leading organizations could contribute
+to the development of improved CIO management practices in the
+federal sector.
+The following sections describe each of the general principles
+and practices discovered in our work with leading CIO
+organizations.
+Critical Success Factors
+
+Principles
+Organizational Foci
+
+
+
+
+Critical Success Factor 1: Align Information Management
+Leadership for Value Creation
+
+The CIO and supporting organization must have active support and
+commitment at the very top of the enterprise or they will remain
+limited and tangential to the business, despite their potential
+contribution to mission accomplishment. This first critical success
+factor focuses on the role of the senior executive of the
+enterprise in developing a culture that includes the CIO in
+senior-level decision making and that assumes the potential of IT
+in creating value for the enterprise. Executive leadership is
+essential to the successful execution of this factor.
+A common theme among the CIOs we interviewed was that the
+message of the importance of IT to the organization must be
+communicated at the highest levels. Senior executives must embrace
+the central role of technology, and the CIO must be a full
+participating member at the table with them as business strategy is
+discussed. This behavior begins with the CEO, who sets the example
+for senior and mid-level executives and, through them, the rest of
+the organization. In addition, the participation of the CIO in
+long-range strategic planning is necessary to take full advantage
+of the opportunities IT can provide and to ensure that the
+technology infrastructure is in place as business strategies
+develop.
+
+Principle I: Recognize the Role of Information Management in
+Creating Value
+ƒThe CIO«s ability to add value is the biggest single factor in
+determining whether the organization views IT as an asset or a
+liability.≈
+
+Instituting an effective CIO organization does not start with
+selection or placement of an information technology and management
+leader, nor does it begin with establishing a structure for
+managing information resources and activities. Rather, it begins
+with consideration on the part of executive-level managers of the
+role of IT and how vital it is to accomplishing mission objectives.
+It also entails thinking about ways to incorporate the information
+technology and management leader in the executive-level management
+structure and create an environment that facilitates
+business/technology sharing and exchange of ideas. Moreover, CEOs
+and governors can set powerful examples through their own strong
+relationships with CIOs. Such relationships symbolize the
+importance of information technology and management within their
+organizations.
+
+Key Characteristics
+Senior executives have primary responsibility for setting the
+business context for their CIOs and formulating strategies for
+integrating information technology and management into their
+business operations. Executives of leading organizations no longer
+regard technology management as a separate support function and
+instead strive to understand how investments in information
+resources are made and how they integrate with other investments
+and the overall business vision. These executives also increasingly
+focus on the management, operations, program and service delivery
+benefits, and performance of their major strategic information
+systems. CEOs have a key role in setting the example for the rest
+of the agency to follow in seeking to understand information
+technology and management concepts and appreciating the strategic
+role that information technology and management can play in helping
+to accomplish business objectives. Viewing information and
+technology not just as assets to manage, these CEOs assign their
+information technology and management leaders a prominent role in
+business decision making. Recognizing the business transformation
+potential of IT, these executives also position their CIOs as
+change agents with responsibility for applying technology to
+achieve major improvements in fundamental business processes and
+operations. With CEO support, the CIOs are in a good position to
+have significant impact on not just IT, but the entire business
+enterprise.
+Following the CEO«s lead, members of the senior executive team
+learn to value the advice of the CIO in setting business directions
+and developing strategies for improving organizational capabilities
+and competitiveness. They seek to embrace fundamental information
+technology and management principles and work with their CIOs to
+develop a shared vision of the role of IT within the business
+context. They engage in dialogue on
+Page 18 GAO-01-376G CIO Executive Guide
+ways that technology can be incorporated to improve business
+processes, outputs, and outcomes. They incorporate information
+management as an intrinsic part of their business planning and
+decision making processes, discussing the benefits and risks
+associated with specific strategies for improving service, reducing
+cycle time, or reducing costs.
+In leading organizations, senior managers make joint decisions
+on information resources, formulate business plans, and set
+performance expectations. Increasingly, managers make IT investment
+decisions based on the value of the investments to their
+enterprises, not just to a specific business unit or function. By
+asking strategic and operational questions at the beginning of the
+planning and evaluation period, senior managers gain a better
+understanding of the potential benefits and value of IT.
+Information and technology managers in leading organizations are
+also adopting processes that help them quantify and align projects
+with their organizations« business planning and measurement
+processes. They produce plans that link to overall business plans
+and assign managers to act as liaisons between business units and
+CIO organizations. Increasingly, managers also focus on measuring
+reliability, responsiveness, and customer satisfaction, which in
+the eyes of senior management are just as important as strictly
+financial measures.
+Leading organizations work to create environments that are
+conducive to sharing ideas on how information technology can
+support the businesses and vice versa. They adopt formal mechanisms
+and structures that facilitate the ability of their businesses and
+information technology and management leaders to understand and
+communicate one another«s issues and work together to accomplish a
+shared business vision. These mechanisms and structures include
+forums, councils, and boards for discussion and exchange on
+business and technology issues. Such forums help promote
+organizationwide perspective and facilitate the ability to achieve
+consensus or stakeholder buy-in to business/technology directions.
+For example, one state has a strategic planning forum that brings
+together major stakeholders statewide to identify strategic and
+tactical issues, including IT issues confronting the state. The
+state prepares a strategic planning document based on this
+stakeholder input. This process has helped to integrate information
+management into overall business planning by aligning IT products
+and services with business functions and linking technology to the
+state«s overall strategic direction.
+To further support the business/technology collaboration,
+leading organizations adopt a common business language, skillfully
+avoiding technical jargon and instead using language that general
+managers and legislatures can understand. They use analogies,
+terminology, and processes that help fuse business and technology
+interests and ideas together. Other strategies for
+business/technology learning include informal activities such as
+newsletters, presentations, reports, and service-level results
+placed in common areas to communicate the effectiveness of their
+CIO organizations. Leading organizations further the two-way
+exchange of ideas and perspectives by bringing in experts from the
+field to advise or educate managers on recent trends and
+developments in both the business and technology arenas. Realizing
+that attitudes, expectations, and culture seldom change quickly,
+they plan for whatever time and resources are necessary to create a
+common ground and organizational cohesiveness. Their efforts go a
+long way in shoring up commitment from across the organization to
+strategies for achieving common goals.
+Leading organizations also focus on hiring managers who bring a
+hybrid of business and technical expertise to the organization. One
+large multinational corporation uses ƒtechnical facilitators≈ to
+support its initiatives. In the past, this company had experienced
+problems in sharing information resources. Managers in the
+different lines of business were unwilling to share information
+resources because each felt his or her particular line of business
+was unique. Because technology was becoming critical to future
+success in this business sector, top managers were increasingly
+assigned to support and manage the company«s internal information
+management functions. Several of the managers assigned had both
+business and technology acumen and had the ability to raise
+business issues from a technical perspective in a nonthreatening
+manner. In resolving business issues, they were sometimes able to
+identify more efficient technical opportunities.
+
+Case Study: Recognizing the Role of Information Management in
+Creating Value
+Due to changes in market conditions and requirements for
+increased productivity through using common components, a large
+manufacturing company decided that it needed to make major changes
+in the way it managed IT to support the business. The company had
+outsourced its information management function, but lacked the
+infrastructure to provide strategic direction, discipline, and
+overall management of information management to ensure optimal
+implementation and cost. Given this situation, the company was
+faced with a proliferation of legacy systems and inefficient
+business processes built around them. The company also met with
+bureaucratic business resistance to change to a common information
+systems environment.
+By way of improvement, senior executives adopted a new IT
+strategic direction and focus that tracked back to the company«s
+business priorities¬ ƒcommon, lean and fast, global, and growth.≈
+Senior management then hired a CIO as a change agent, reporting to
+the Vice Chairman and the company«s senior decision making council,
+and gave him responsibility for transforming the IT function,
+thereby making him an enabler of the function and an integral part
+of the business strategy.
+The CIO recruited an IT management team that understood both the
+business and technical sides of the enterprise. He instituted a
+matrix management organization, creating a leadership structure
+that provided flexibility for meeting future information management
+needs as well as maintaining existing IT systems. The new IT
+organization became responsible for such strategic activities as
+participating in the development of overall business strategies;
+prioritizing IT requirements; generating IT business plans; setting
+technical and architectural standards; managing user interfaces,
+outsourcing contracts, suppliers, and systems engineering; and
+allocating IT resources. To assess performance, the IT organization
+instituted several sets of measures that link directly to the
+business objectives and priorities defined by the CEO in the
+company«s strategic plan.
+The major steps that the company took to improve, are
+illustrated in figure 3, below.
+Figure 3: Steps for Transforming Business Operations Using
+Information Management
+
+
+
+•
+Defined strategic business priorities including Common,
+Lean, Fast, Global and Growth
+
+
+•
+Executive team shared a challenging vision of the role of
+IT
+
+
+•
+Implemented a matrix IT organization (functional and
+operational alignment)
+
+
+•
+Established virtual organizational structure for
+flexibility and responsiveness
+
+
+
+
+
+
+
+Strategies to Consider
+Instituting information technology and management as a support
+function separate from the business is an ineffective and outdated
+model. Leading organizations recognize the role of IT in supporting
+mission accomplishment and seek to integrate it with business
+operations. The following outlines the strategies that senior
+executives in leading organizations commonly use to promote
+information management leadership involvement in business decision
+making and maximize the benefits from their IT investments.
+Focus on efforts to incorporate the CIO organization into the
+overall business by
+
+
+•
+ensuring executive leadership and commitment for the CIO
+organization, both at the career and political levels;
+
+
+•
+embracing the CIO as a full participant of the executive
+management team;
+
+
+•
+developing structured approaches for exploring the broad
+range of opportunities and strategies in information technology
+available to enhance the business; and
+
+
+
+•
+focusing technology initiatives on creating value and
+providing the information needed by internal and external
+customers.
+
+Provide an atmosphere that supports executive understanding of
+IT by
+
+
+•
+creating and using formal and informal executive
+communication channels to make the business case for integrating
+information management into organizationwide decision-making;
+and
+
+
+•
+emphasizing returns and metrics that clearly link
+information management with an organization«s business
+needs.
+
+
+
+
+
+Principle II: Position the CIO for Success
+ƒThere is no cookie-cutter approach, so knowing what fits in an
+organization is key to finding the right CIO to match with the
+organization.≈
+
+There is no one right way to establish a CIO position.
+Diversities in corporate missions, structures, cultures, and
+capabilities prohibit a prescriptive approach to information
+management leadership. There are nonetheless a number of practices
+and alternative strategies that senior executives in leading
+organizations use to help define and institute their CIO positions
+to effectively meet business needs. This section examines those
+practices, providing pragmatic guidance that other organizations
+can also consider in determining how best to integrate CIO
+functions into their respective organizations.
+
+Key Characteristics
+Senior executives in leading organizations recognize that a
+one-size-fits-all solution to establishing information management
+leadership does not exist. Rather, they take responsibility for
+ensuring that their CIO models are consistent with the business,
+technical, and cultural contexts of their enterprises. Executives
+do so by examining their internal environments and asking a series
+of questions about the problems that need fixing, how information
+technology and management can help, and how a CIO might best fit
+within their management structures to guide technology solutions.
+The answers to these questions help them choose from a range of
+alternative CIO approaches.
+Specifically, by defining mission improvement objectives, senior
+executives determine whether their organization needs a CIO who is
+a networking/marketing specialist, business change agent,
+operations specialist, policy/oversight manager, or any combination
+thereof. Studying existing IT capabilities helps define the
+structure and responsibilities of the new CIO organization.
+Considering the centralized or decentralized nature of the
+enterprise helps determine the corporate CIO«s authority level and
+how the CIO shares responsibility with other managers across the
+agency. Further, appreciating organizational culture and change
+readiness helps define the pace and extent to which CIOs can
+accomplish business transformation.
+Business executives keep in mind that initial CIO models adopted
+should not be set in stone, but may have to be adjusted over time
+as their enterprises grow or mature. For example, while a company
+may need a business strategist to build a new IT capability, over
+time another type of CIO may be better suited to sustaining
+operations. This evolution in the CIO role is also reflected by the
+introduction of variant leadership positions in information
+management (i.e., chief knowledge officers or chief technical
+officers) that diffuse responsibility across several senior-level
+managers. For example, one industry organization that we visited
+has multiple product line CIOs. The most senior information
+management executive positioned at a level above these CIOs asserts
+that he is not the ƒcorporate CIO≈ and does not want to be. With
+the belief that one person cannot embody all the knowledge needed
+to effectively direct information technology and management in an
+organization, this executive uses an executive-level technology
+committee as a forum for building consensus for IT initiatives.
+In conjunction with determining their CIO models, senior
+executives clearly define up front the roles, responsibilities, and
+accountability of their CIOs for enterprisewide information
+management, better enabling their CIOs to operate effectively
+within the parameters of their positions vis-à-vis those of their
+senior management counterparts (i.e., CFO, COO). Typically, CIOs
+serve as a bridge between top managers, IT professionals, and end
+users. CIOs provide leadership and vision, focusing senior
+executives on highvalue information technology issues, investments,
+and decisions. They may also serve as business change agents,
+challenging conventional approaches and developing new methods and
+systems for delivering mission benefits. The case study at the end
+of this section provides an example of a CIO hired specifically to
+help transform information management and business operations.
+In this strategic capacity, CIOs take the lead role in
+integrating information and technology management and performance
+across the entire information life cycle. They are responsible for
+such activities as planning, setting standards and policies, and
+designing and managing architectures to guide introduction of
+technology products and services. While not all CIOs necessarily
+have hands-on responsibility, their purview may also incorporate
+any or all of the operational elements of information and
+technology management, such as data processing, infrastructure
+management, and systems acquisition.
+Senior executives provide their CIOs with the authority they
+need to effectively carry out their diverse responsibilities.
+Executives ensure this by giving the CIO a key role in IT
+investment decision-making, providing budget control, or ensuring
+leadership backing for information technology and management
+programs and initiatives. Formally documenting or, in the case of
+public-sector organizations, legislating, CIO roles and
+responsibilities can help in managing performance and expectations
+of both the enterprise and the CIO. For example, the position of
+one state government CIO that we interviewed was based on a
+specific statute establishing the CIO at the cabinet level and
+assigning clear-cut responsibilities for funding and overseeing IT
+operations statewide.
+While there is no single template for doing so, senior
+executives in leading organizations apply consistent criteria in
+selecting their CIOs. The most obvious criterion is relevant IT
+expertise. Rather than being technical experts specifically, their
+CIOs intuitively understand IT principles and trends and act as
+strategists, applying technology and approaches skillfully to help
+resolve or overcome daunting business challenges. But even while IT
+expertise is important, their CIOs are business managers as well,
+with experience in administrative, financial, and corporate
+management. Such experience better enables the CIOs to work with
+business managers to build a shared vision for meeting mission
+needs. For instance, one state government CIO attributed his
+success to his breadth of experience across a variety of financial,
+retail, and IT units, which facilitates his ability to
+Page 24 GAO-01-376G CIO Executive Guide
+get buy-in from stakeholders in the state. Additional
+proficiencies critical to CIO success include leadership ability,
+innovation and flexibility, effective communications skills,
+interpersonal skills, and political astuteness. The weight that
+senior executives assign to each of these criteria in selecting a
+CIO depends on the information management leadership model and the
+needs of the enterprise.
+CIOs are no longer tied to a single functional unit√i.e., the
+ƒIT shop.≈ Instead, they are positioned as senior executives with
+the ability to strategically view and apply IT to the best
+advantage of the enterprise. CIOs generally report to and partner
+with their agency heads, forging relationships that ensure high
+visibility and support for far-reaching information management
+initiatives. As active members of the CEOs« executive teams, these
+CIOs are well situated to provide advice and direction, integrate
+IT with the business vision, and take part in high-level
+decision-making. Active participation in executive processes and
+committees facilitates the CIOs« ability to build effective
+executive-level working relationships.
+
+Case Study: Positioning the CIO for Success
+In 1996, this manufacturing company instituted a CIO position to
+help build its information management capability after deciding to
+split its former internal IT service provider off as an independent
+business. For years, the manufacturing company had relied on a
+wholly owned subsidiary to provide IT products and services. With
+minimal IT talent left in the company following the split-off, the
+CIO had to create a new IT leadership staff.
+The company used a consultant to search for a CIO to build the
+in-house information management capability. Essentially, the
+company wanted a CIO with IT expertise, strong management skills,
+and background experience in managing large, centralized companies.
+The current CIO exceeded their requirements. He came highly
+recommended due to his prior success in transforming two other
+companies and his skill in outsourcing, which would be needed to
+manage the manufacturer«s continued reliance on information
+technology contract services. The CIO accepted the position only
+after obtaining senior executives« commitment to his vision for
+transforming not just information technology and management, but
+processes in the entire company.
+Senior executives set the CIO up to succeed. They positioned him
+as a member of the senior decision-making board, reporting to the
+Vice-Chairman of the company. They gave him the flexibility to
+bring in managers from the outside and set up a matrix management
+organization consisting of multiple business sector CIOs aligned
+with functional CIOs across the company, all reporting to the
+corporate CIO. They required that any IT initiative include
+collaboration between a sector CIO and a process-responsible CIO,
+as illustrated in figure 4. Senior executives also made the CIO the
+final authority on all IT budget, operations, and process
+management issues. During the period from 1996 through 1999, the
+CIO has been effective in lowering projected annual IT costs, for
+1999 the total reduction was over $450 million, when taking into
+account both cost avoidance and cost reduction, while enhancing the
+provision of IT services to the company.
+Figure 4: Matrix Management Organization in a Leading
+Organization
+
+
+Global Processes and Systems
+
+
+
+Strategies to Consider
+In the absence of a single model for instituting a CIO, senior
+executives take precautions to ensure that their information
+management leadership positions are appropriately defined and
+implemented to meet their unique business needs. The following is
+an outline of the strategies that senior executives in these
+organizations use to determine the types of CIOs they need, select
+individuals to carry out these roles, and position them as
+effective and influential members of the senior executive
+decision-making team.
+Determine the CIO model by
+
+
+•
+examining the current environment and identifying what
+the enterprise expects to accomplish through information management
+before establishing a CIO position to lead improvements;
+and
+
+
+
+•
+making the CIO type (i.e., business strategist, marketing
+specialist, policy and oversight manager, operations specialist,
+etc.) consistent with the enterprise«s mission, history, current
+environment, culture, and change readiness.
+
+Define clear roles and accountability for the CIO by
+
+
+•
+delineating CIO roles and responsibilities vis-à-vis
+those of other senior managers;
+
+
+•
+ensuring that the CIO has the authority needed to be
+effective; and
+
+
+
+•
+documenting CIO roles, responsibilities, and
+accountabilities to help manage expectations and
+performance.
+
+Select a CIO with the right skills set by
+
+
+•
+choosing someone with information technology and
+management expertise and the potential to help in business
+transformation, consistent with the CIO model selected;
+and
+
+
+
+•
+ensuring that the individual also has the leadership and
+communications skills and other proficiencies needed to effectively
+carry out the CIO position.
+
+Make the CIO a business partner by
+
+
+•
+having the CIO partner with other senior executive
+managers,
+
+
+•
+empowering the CIO to work with other senior executives
+to discuss and decide among alternative IT products and strategies
+for meeting business needs, and
+
+
+•
+ensuring that the CIO is involved in strategy discussions
+at the highest levels so that he or she can lead the enterprise in
+using information management to corporate advantage rather than
+merely responding to client requests.
+
+
+Critical Success Factors
+Principles
+
+Organizational Foci
+
+
+
+
+
+
+Critical Success Factor 2: Promote Organizational
+Credibility
+The second critical success factor focuses on the CIO«s ability
+to establish the CIO organization as a central player in the
+enterprise. The legitimacy of the CIO and the CIO organization must
+be developed for the CEO«s message of information technology and
+management«s central role to be accepted and for the CIO
+organization to become a full participant in formulating corporate
+strategy.
+Both principles in this critical success factor pertain to the
+demonstration of the CIO organization as an entity that can
+complete critical projects successfully and contribute to the well
+being of the enterprise. This effort is largely the responsibility
+of the CIO, and the focus is lateral and downward. The CIO must
+create an environment in which the ability of the CIO organization
+to contribute to the success of the enterprise is recognized.
+Success, to be appreciated, has to be demonstrable and measurable.
+If the CIO is not able to demonstrate that he or she deserves the
+support of the CEO and makes a valuable contribution to the
+corporate mission, the CIO will not be effective as a full
+participant in the corporate decision-making process.
+
+Principle III: Ensure the Credibility of the CIO
+Organization
+ƒWhile placement of the CIO position at a high level within the
+organization may carry some weight, the CIO generally must earn
+credibility by making things happen.≈
+
+Instituting a CIO position consistent with organizational needs
+and finding a capable leader to fill the job are no guarantee of
+CIO success. Rather, the burden of ensuring information technology
+and management effectiveness shifts from senior executives to the
+CIO and his or her supporting organization. Given the relative
+newness of the position vis-a-vis the rest of the business, the CIO
+is faced with having to gain the attention and respect of managers
+at all levels across the organization and build the support and
+cooperation needed to effectively execute the information
+management leadership role. The following is a discussion of the
+strategies that CIOs in leading organizations use to legitimize
+their roles and successfully collaborate with their business
+counterparts to guide IT solutions to meet mission needs.
+
+Key Characteristics
+CIOs in leading organizations recognize that providing effective
+information management leadership and vision is a principal means
+of building credibility for their CIO positions. CIOs do this in a
+number of ways. Foremost, they do not manage IT in a vacuum, but
+rather make sure that the information management program is well
+integrated with what senior executives want to accomplish. CIOs
+work with their executive peers to jointly produce a vision
+educating senior managers on the strategic value of IT, providing
+advice and direction, and setting expectations of what can be
+achieved. CIOs express this vision in business rather than
+technical terms, and in such a manner as to generate enthusiasm,
+buy-in, and motivation for managers to strive together toward the
+achievement of common goals. Further, CIOs participate on executive
+committees and boards that provide forums for promoting and
+building consensus for IT strategies and solutions. We found this
+to be true for each of the case study organizations that we
+visited. Having achieved senior management interest and backing,
+CIOs can leverage this support as needed to help ensure cooperation
+for carrying out information technology and management and business
+change initiatives across the enterprise.
+Effective CIOs, and their supporting organizations, do not set
+out to force their ideas and solutions on their business
+counterparts. Instead, they seek to bridge the gap between
+technology and the business by networking informally, forming
+alliances, and building friendships that help ensure support for
+information technology and management. CIO organizations then work
+with rather than for the businesses, getting them involved in
+projects and driving ownership and accountability to line
+management, rather than to the IT shop. For example, in one case
+study, the state legislature placed the CIO organization in charge
+of managing the planning, funding, and implementation of a project
+to develop a single telecommunications network to serve the state«s
+entire education community. Rather than a technical challenge, the
+project has been a huge coordination effort, requiring that the CIO
+organization overcome rivalries and achieve the commitment and
+cooperation of traditionally autonomous education sectors.
+CIOs retain the support of their business colleagues by
+following through on commitments to effectively lead business
+transformation projects, provide needed IT products and services,
+and train and educate the user community. Through it all, CIOs
+strive to maintain open communications and build trust. They do so
+by being accessible to the businesses, listening to user feedback,
+and focusing on user needs.
+CIOs recognize that balancing short-term successes with
+longer-term business change initiatives is key to keeping their
+business customers satisfied. In the initial months of tenure, CIOs
+set out to understand their enterprises« needs and tackle tough
+issues (i.e., runaway projects and crisis situations such as year
+2000 management) that demand immediate attention or could pose
+immediate obstacles to success. In the short term, they also focus
+on building relationships, addressing business imperatives (i.e.,
+process streamlining and consolidation), and demonstrating success
+by promptly providing highimpact products and services (i.e.,
+commercial off-the-shelf software and desktop equipment) that allow
+them to achieve positive and visible accomplishments fairly
+quickly. CIOs recognize that showing interim results concurrent
+with more protracted efforts such as multiyear systems
+developments, ƒbig-ticket≈ infrastructure projects, or business
+process reengineering can have significant positive impact on CIO
+credibility.
+Often, CIOs outline plans of attack or roadmaps to help guide
+them in effectively implementing their short- and long-term
+strategies. Documenting their courses of action helps them manage
+schedules and expectations and provides baselines against which to
+assess progress and performance. These CIOs are careful not to get
+caught in the cycle of continual planning, but take steps to ensure
+effective progression from planning to implementation. They return
+to their plans iteratively, updating them as progress is made and
+business needs evolve.
+Finally, CIOs in leading organizations recognize that there is
+too much going on in the area of information technology and
+management for them to absorb all of the issues alone. Rather than
+allowing their technology ideas and programs to stagnate, they keep
+abreast of changes in the fast-paced environment that might be
+applied to enhance capability and improve mission performance in
+their own organizations. They do so through avid reading, working
+with vendors, and following market directions. CIOs also benchmark,
+partner with, or seek advice from successful peers and competitors
+on initiatives that provide opportunities for exchanging ideas,
+sharing capability and expertise, and achieving mutual benefits in
+the larger information technology and management community. For
+example, one state CIO with whom we met said that he values the
+
+GAO-01-376G CIO Executive Guide Page 31
+guidance received from a CIO advisory board of private industry
+representatives, convened by the governor to facilitate learning
+from business organizations. This CIO also partners with a major IT
+corporation on a project to acquire standard desktop equipment for
+all agencies under the governor«s purview. Participation in key
+councils, advisory groups, and government, trade, and professional
+associations such as the Industry Advisory Council and the National
+Association of State Information Resource Executives is also useful
+for exchanging ideas, sharing information, and identifying new ways
+to meet common challenges.
+
+
+Case Study: Ensuring the Credibility of the CIO
+Organization
+This state«s Justice Network (JNET) illustrates how
+implementation of many of the practices discussed in this section
+has enhanced the credibility of the CIO and his supporting
+organization. JNET is a highly successful project started by the
+CIO organization enabling agencies to jointly develop a single,
+secure, web-based system to support administration of criminal
+justice across the state. The project responds to the governor«s
+priority for consolidated agency projects, thereby ensuring
+high-level support for CIO efforts. The CIO organization conceived
+the idea for JNET after receiving multiple requests from criminal
+justice agencies for funding to develop redundant systems. The
+organization identified the joint project as a good opportunity to
+save on costs, share information, and reduce redundancy and errors
+by making it possible to enter new offender information only once
+as subjects proceed through the criminal justice process.
+Historically, the state«s justice agencies have been highly
+autonomous and distrustful of outsiders. Prior attempts to get the
+agencies to work together failed. IT managers recognize that
+success with the current initiative goes a long way in increasing
+CIO credibility with the state agencies.
+The CIO organization launched JNET by bringing together
+stakeholders from across the state in a series of meetings over the
+course of 2 months to establish a vision for a shared system that
+would also meet individual justice agency information needs. Under
+executive order, a senior-level leadership committee, including the
+CIO, is responsible for establishing JNET policy, direction, and
+standards and for authorizing the release of JNET funds. A steering
+committee consisting of justice agency representatives works with
+information management professionals and consultants to refine
+project details. Its biweekly meetings provide a good opportunity
+for the CIO organization to build relationships with the state
+agencies and for agency representatives to get acquainted and learn
+about one another«s operations and data resources. With central
+responsibility for controlling contracts and funding drawn from the
+agencies« budgets, the CIO organization is credited with being the
+ƒglue≈ that holds JNET together. A JNET office, established to
+administer the project on a day-to-day basis, also reports directly
+to the CIO.
+Under CIO guidance, JNET has been planned as a multiphase,
+multiyear development effort with interim products and results. The
+CIO organization has helped agencies successfully complete a pilot
+phase to prototype initial JNET content and applications, also
+demonstrating the CIO organization«s ability to help deliver on
+commitments. Three additional phases involve testing the system«s
+basic data-sharing function and adding new capabilities such as
+data importing, on-line processing, and document management.
+Initially, the justice agencies thought JNET was a bad idea; agency
+representatives were pessimistic and merely went through the
+motions of working together. They posed such resistance that at one
+point, the CIO had the lieutenant governor make a surprise visit to
+a steering committee meeting to oversee project progress,
+demonstrate senior management support, and ensure agency
+cooperation toward meeting common objectives. Once the agencies saw
+the operational prototype and the project«s potential, they
+realized that their individual sacrifices had paid off.
+Today, JNET continues to grow in scope and popularity. Along
+with it, CIO credibility has increased. The CIO organization is
+currently working with several counties to help link them with
+JNET. Next steps include instituting JNET at the local level and
+ultimately partnering with other states to construct a nationwide
+justice network. JNET«s success has served to legitimize and
+increase the value of the CIO function to its business
+counterparts. Now, other agencies, including the departments of
+Health and Public Welfare, also want to work with the CIO
+organization on similar cross-functional information management
+initiatives.
+
+
+
+Strategies to Consider
+While senior executives are responsible for creating the
+environments and positions likely to ensure CIO success, it is the
+responsibility of the CIOs themselves to make that success a
+reality. Regardless of all the promising skills, strategies, and
+technologies they may bring to bear, no CIO can be effective
+without first building credibility with business executives, IT
+professionals, and user communities alike to ensure commitment and
+support for their information management leadership and
+initiatives. The following practices, commonly used by CIOs in
+leading organizations to build credibility, can also be considered
+and applied by CIOs in federal departments and agencies to better
+legitimize their positions and help ensure success in their
+individual business/cultural environments.
+Provide information management leadership and vision by
+
+
+•
+ensuring that the vision encompasses senior management
+priorities,
+
+
+•
+educating top managers on the value of information
+technology and management in helping to accomplish mission
+objectives,
+
+
+•
+articulating the vision in business terms to facilitate
+line management understanding and achievement of buy-in,
+and
+
+
+
+•
+using senior management discussion and decision-making
+forums as opportunities to build consensus for IT programs and
+initiatives.
+
+Establish effective working relationships by
+
+
+•
+networking informally and forming alliances with other
+senior managers to help defuse potential opposition and build
+commitment to new technology directions;
+
+
+•
+getting managers from the business side of the enterprise
+involved and accountable for information management
+projects;
+
+
+•
+fulfilling commitments to provide effective IT goods and
+services; and
+
+
+
+•
+establishing open communications and feedback mechanisms,
+such as surveys and questionnaires, as a way to build
+trust.
+
+Balance quick successes with long term impact by
+
+
+•
+setting priorities and distinguishing between short term,
+high-impact initiatives and longer term objectives that require
+more vested interest; and
+
+
+• outlining a plan or strategy for accomplishing these
+priorities in an efficient and effective manner.
+Leverage external information technology and management
+expertise by
+
+
+•
+keeping abreast of technological change and incorporating
+new products and strategies in the enterprise«s IT program as
+appropriate,
+
+
+•
+forming partnerships and building off of the success and
+expertise of external CIO peers, and
+
+
+•
+networking and participating in forums in the larger
+community to debate and identify ways to address common information
+technology and management issues and concerns.
+
+
+
+
+
+Principle IV: Measure Success and Demonstrate Results
+ƒMeasurement determines what one pays attention to. The things
+that are measured become relevant; the things that are omitted are
+out of sight and mind.≈
+
+In many organizations the value of information technology and
+management is considered intangible¬difficult to measure and mired
+in terms of ƒsoft dollars≈ or ƒstrategic assets.≈ For this reason,
+in the past, few organizations embarked on programs to measure the
+effectiveness of IT systems. However, it has become increasingly
+evident that without a measurement process where results can be
+demonstrated, not only is information management at a disadvantage
+when competing for scarce resources, but also when making its case
+in support of efficiency and effectiveness initiatives. For the CIO
+organization to be viewed as part of the business, a structured
+process needs to be in place to measure success and demonstrate
+results to the organization. This section discusses the approaches
+that leading organizations use to measure performance and
+results.
+
+Key Characteristics
+While there is no standardized approach to performance
+measurement, leading organizations strive to understand and measure
+what drives and affects their businesses and how to best evaluate
+results. These organizations have generally struggled with
+identifying and adopting measures to assess the value of IT, but
+have been able to put some measures in place to help demonstrate
+performance. They use measures for a variety of purposes. The
+measures are a vehicle for communicating with senior management and
+stakeholders in the areas the organization deems important.
+Measures also serve as vital management and decision-making tools,
+providing information that can be used to make improvements in
+business outcomes and service delivery.
+Many managers told us that the measures that capture the most
+attention from senior management are simple ones¬or at least simple
+in terms of how they are expressed. In a number of instances, the
+organizations we visited used uncomplicated terms to communicate
+measures, but the underlying concepts were quite involved and
+required a good understanding of IT and business fundamentals.
+These organizations collapsed a lot of information into a form that
+effectively communicated the success or failure of information
+technology and management activities and, in the case of the
+latter, expanded on the issues and supplied additional information.
+For example, one international organization, involved in several
+product lines, measures its performance in line with the following
+organizational business priorities:
+
+
+•
+Maximize performance (i.e., improve service and reduce IT
+and management costs)
+
+
+•
+Improve business processes (i.e., IT projects and
+E-commerce)
+
+
+•
+Increase team contributions
+
+
+•
+Create a leading-edge electronic communications
+process
+
+
+Even though these measures seem simple, a considerable amount of
+time, effort, and data are involved in amassing and assessing the
+results tied to these business priorities.
+To establish joint ownership for performance management,
+organizations strive to construct measures jointly with their
+stakeholders, customers, managers, and CIO staff. They work
+together to achieve a common understanding of goals, metrics, and
+anticipated outcomes that are easy to understand but are aimed at
+adding value. Managers told us that performance measurement systems
+work best when combined with established measures that reflect
+customer/stakeholder needs and the activities of employees that are
+directly involved in information management. The CIO organization«s
+responsibility does not end with the establishment of measures, nor
+does the CIO organization have sole responsibility for
+technological success. As a practical matter, those responsible for
+judging the success of programs and their supporting functions
+should agree on the measures used and become involved in monitoring
+the outcomes.
+Although approaches vary, leading organizations develop measures
+with a focus toward improving not only internal IT performance but
+also external relationships with technology users and the overall
+business. Organizations balance various technical measures to
+ensure that IT products and services are deployed in the most
+effective and efficient ways and lead to desired business results.
+They focus on monitoring short- and long-term IT measures that
+directly affect business activities and produce real business
+value. This means that IT activities must be directly related to
+company relationships with customers, clients, and suppliers, and
+also affect business results, such as direct costs or market
+share.
+Leading organizations use performance measures that focus on
+business outcomes such as customer satisfaction levels, service
+levels, and in some instances total requests satisfied. For
+example, one state agency commissioner requires that his
+departments develop tactical plans for all areas, not just IT. All
+executives participate in the planning process. The performance
+measures are broken down to meaningful levels as a way of holding
+the ƒIT shop≈ and other departments accountable for the services
+they provide. IT goals and objectives are incorporated into the
+plans and IT performance outcomes are provided to the commissioner
+and his executive staff on a quarterly basis. This exercise has
+served to build credibility and help demonstrate the value that IT
+adds to the organization. The existence of performance measures has
+also made a difference in how agencies behave because the
+documentation they provide serves to make them accountable.
+To properly collect and analyze information, leading
+organizations develop measurement systems that provide insight into
+their IT service delivery and business processes. The establishment
+of an information feedback system allows organizations to link
+activities and functions to business initiatives and management
+goals. This feedback, in turn, leads to increased IT productivity
+and organizational effectiveness. One state we visited established
+an information services board to develop statewide policy standards
+and to monitor projects as part of its portfolio management
+process. The board, however, has
+Page 36 GAO-01-376G CIO Executive Guide
+increasingly become more involved in monitoring and making
+recommendations on troubled IT projects. Some of the lessons
+learned from the board«s project reviews are that:
+
+
+•
+the board needs to get involved early in monitoring and
+overseeing projects before considerable funds are spent on the
+projects;
+
+
+•
+long-term, high-cost projects are no longer sustainable
+because sponsors tend to be unable to sustain long-term
+support;
+
+
+•
+projects are best managed in a limited-commitment, phased
+approach; and
+
+
+•
+projects should quickly demonstrate results.
+
+
+Once planning and decision-making structures are in place and
+performance results can be used as part of the decision-making
+process, organizations are in a better position to ensure that
+goals and objectives clearly link and align with IT performance
+measures. Leading organizations also assess the readiness of their
+organizations to use IT measures and their receptiveness to data
+collection, measurement, and analysis. Further, they nurture a
+philosophy that is positive toward performance management and
+measurement, and they view measures as a way to focus on business
+value and customer satisfaction.
+In summary, managers at the organizations we studied cautioned
+that IT performance measurement is in its infancy and measurement
+techniques are still evolving, partly due to changes in technology.
+Most of the organizations are continually looking for ways to
+improve their IT measurement systems as a means of supporting
+achievement of organizational goals.
+
+Case Study: Measuring Success and Demonstrating Results
+To measure its information technology (IT) and management
+initiatives, one state instituted a performance measurement process
+(illustrated in figure 5) that is driven by an IT strategic plan.
+The plan sets forth the goals and strategies needed to support the
+state«s entities in developing IT plans, in using information
+resources, and in defining IT performance measures. The IT
+strategic plan also aligns very closely with the state«s strategic
+plan, that sets forth four broad goals for the use of IT within the
+state: (1) improve service delivery; (2) make information more
+accessible; (3) use IT to improve productivity; and (4) invest in
+people, tools, and methods. The IT strategic plan also incorporates
+stakeholder involvement by including perspectives by state agency
+executives, legislators, educators, and other stakeholders on the
+use of the state«s IT resources. Also included in the plan is
+information from the state«s biennial IT performance report. This
+report evaluates the state«s progress toward meeting the last
+biennium«s IT Strategic Plan goals and includes a summary of
+strategic and operational performance measures. These measures, in
+part, are the result of the state«s previous IT strategic plan and
+are meant to measure how well IT resources are being used to
+achieve the state«s overall strategic goals and operational
+(technical) objectives. These results are published in the State«s
+Biennial IT Performance Report and are used to benchmark the
+state«s information management services. The state legislature also
+uses this information to allocate future funding.
+Figure 5: Performance Measurement Framework
+
+measured and monitored
+
+
+Strategic Performance Measures
+Operational Performance Measures
+• Progress made in deploying the state« s Educational
+• Number of workload transactions completed and
+Telecommunications network
+telephone lines installed
+• Increase in state«s use of Internet resources
+• Number of driver«s licenses issued for specific periods
+• Increase in the number of courts having access to state«s
+Justice Information Network.
+
+Information from the Biennial IT Performance Report is used to
+develop the IT Strategic Plan
+
+
+
+
+Strategies to Consider
+Performance measurement is a critical step in ensuring results
+and success from any project, but especially from information
+technology and management initiatives whose value is often
+difficult to capture. While performance measurement is still
+evolving in principle and in practice, leading organizations have
+pinpointed a number of strategies that have proven useful in
+gauging the impact and benefits of their IT investments. These
+strategies are discussed below.
+Engage internal and external stakeholders in defining and
+managing IT performance by
+
+
+•
+ensuring that mission delivery and IT performance
+measures are integral to strategic management and decision-making
+processes; and
+
+
+
+•
+establishing internal and external customer groups to
+periodically review, validate, and accept IT performance
+measures.
+
+Ensure that processes are in place to balance business and
+technical measures by
+
+
+•
+developing specific technical performance measures for IT
+products and services and balancing them with business-driven
+measures, and
+
+
+
+•
+demonstrating that the performance measurement data
+generated are reliable and useful.
+
+Establish an effective data collection and performance feedback
+process by
+
+
+•
+developing well-designed performance data collection
+methods;
+
+
+•
+establishing a limited set of outcome-based performance
+measures that link to mission outputs and outcomes; and
+
+
+•
+utilizing concise, understandable performance reporting
+tools and techniques and conducting performance measurement
+reviews, as needed.
+
+
+Critical Success Factors
+
+Principles
+Organizational Foci
+
+
+
+
+
+
+Critical Success Factor 3: Execute CIO Responsibilities
+The CIO and supporting organization are ultimately responsible
+for successfully executing their role in the enterprise«s mission.
+How central this role is to the strategic plans of the enterprise
+will depend on each of the first two critical success factors, but
+support from the top and all efforts to build credibility will be
+futile unless the CIO organization is run effectively. If the CIO
+organization is not able to execute its responsibilities, and if it
+is not able to play the critical role for which it has been
+developed, the corporation will learn to work around it, or it will
+be replaced.
+There are many aspects to successfully organizing and running a
+CIO organization. However, this critical success factor, as well as
+the underlying principles, focuses on the elements that leading
+organizations believe are most central to the CIO«s responsibility.
+Determination of the CIO organization structure must fall to the
+CIO, as he or she is the senior executive of that unit. Aligning
+the CIO organization with the needs of the enterprise is critical
+to the satisfaction of those needs. Communicating enterprise
+requirements to staff and making appropriate decisions to meet the
+needs of the enterprise are the responsibility of the CIO. As the
+CIO organization«s representative in strategic decision-making
+forums, the CIO must be the translator of those strategies into CIO
+organization initiatives.
+Along with technology, human capital is the central resource the
+CIO has to execute his or her responsibilities. While the CIO is
+accountable for and reviews technology decisions, staff from
+business areas may develop most of the investment proposals. Human
+capital plans for the information management and technology area
+are seen as the particular responsibility of the CIO. In the
+current IT environment, technology has become a commodity. The
+human capital involved in applying that technology to achieve the
+mission of the enterprise is a resource that requires the CIO«s
+attention. The hiring, retention, and training of information
+management and technology personnel is seen by leading
+organizations as a fundamental principle of good CIO practice.
+
+Principle V: Organize Information Resources to Meet Business
+Needs
+ƒWhile the CIO is important, it is the operating environment for
+the entire organization that will make it successful.≈
+
+Developing a CIO organization is an ongoing process that demands
+a clear understanding of the organization«s responsibility for
+helping meet business needs. This responsibility, along with parent
+business processes, market trends, internal legacy structures, and
+available IT skills, drives decisions as to the structure of the
+CIO organization and how the organization is aligned with the rest
+of the enterprise. Ultimately, the CEO controls the assignment of
+information technology and management functions to the CIO, the CIO
+organization, and other organizational units. Once these decisions
+are made, the CIO organization must provide effective, responsive
+support through efficient allocation of resources and the
+day-to-day execution of its responsibilities. This principle
+examines the practices that leading organizations commonly use in
+establishing CIO organizations to effectively meet their mission
+needs.
+
+Key Characteristics
+It is the duty of a CIO to manage expectations and help ensure
+that all members of a CIO organization have a clear understanding
+of their responsibilities. In leading organizations, evolving
+business processes play a key role in determining how these
+information management responsibilities are structured and adapted
+to meet changing needs. We found that leading organizations quickly
+reallocate and make information resources available on a routine,
+sometimes daily or hourly basis to address changes in business
+processes. External factors, such as market trends, changing
+technology, and available skills as well as internal legacy
+structures and corporate ventures, also influence how a CIO
+organization is formed, aligned, and adjusted to help support the
+rest of an enterprise. For example, one organization that we
+studied had experienced two mergers that required the company to
+quickly integrate the new businesses and restructure to meet
+growing business needs. Human resources systems were consolidated
+and new corporate structures were quickly defined to ensure
+continued support to the enlarged customer base. The company
+remains prepared to restructure to meet ever-changing business
+requirements.
+In lieu of establishing either completely centralized or
+decentralized CIO organizations, leading organizations manage their
+information resources through a combination of such structures. In
+this hybrid, the CEO assigns central control to a corporate CIO and
+supporting CIO organization, while delegating specific authority to
+each business unit for managing its own unique information
+management requirements. The corporate CIO and supporting CIO
+organization centrally formulate policies and standards for all
+IT-related activities. They also centrally manage architectures and
+a core set of infrastructure components to provide common IT
+services to the entire corporation. The corporate CIO works with
+CIOs or other information managers in each of the business units to
+ensure efficient, reliable, and interoperable technology for the
+entire corporation. The following figure illustrates traditional
+centralized and decentralized organizational structures, in
+comparison with the hybrid combination used by leading
+organizations today.
+Figure 6: Comparison of Decentralized, Centralized, and Hybrid
+Structures
+
+Leading organizations decide, as part of a sourcing strategy,
+whether to provide specific information technology and management
+services with in-house staff or external providers. An
+organization«s sourcing strategy is part of a larger human capital
+development strategy, which is discussed in principle VI. The
+shortage of skilled IT workers in the current market environment is
+often a major reason for leading organizations to outsource. The
+CIO and decision-making authorities decide what type of work is
+appropriate to outsource and what type of work is best performed
+internally. Typically, leading organizations cultivate long-term
+skills such as contract management, project management, and
+security management, while outsourcing short-term skills such as
+application development. For example, one state capital that we
+visited is home to over 600 software companies. IT skills are in
+great demand which made hiring by the state difficult, so this CIO
+looked for alternatives to in-house software development and
+management. It made sense for the state to outsource tactical
+functions such as help desks and mainframe management.
+On the other hand, there are responsibilities such as IT
+planning and oversight that must remain in-house. As the state
+contracts out more of its information technology and management
+functions, it is also essential that it have good contract
+management expertise.
+Along with effective allocation of available resources, leading
+organizations execute their information management responsibilities
+reliably and efficiently. Technology is highly integrated with the
+business processes in these organizations because technology is
+viewed as an enabler for the business, not just a tool. The
+organizations make IT investment decisions based on business case
+analyses and return-on-investment projections. Consistent with a
+fundamental strategic information management approach, the
+organizations also focus on continuous process improvement. The
+organizations provide reliable information management capabilities
+on a daily basis, but also look to the future by pursuing new
+initiatives that show how technology can improve the business of
+tomorrow. For example, one state CIO that we interviewed said that
+his role was to identify enterprisewide and strategic initiatives
+to improve state information management. One initiative involved
+establishing strategic direction, guidelines, and standards for
+instituting electronic commerce in the state government. Electronic
+commerce was to be used for such activities as renewing licenses
+and paying taxes.
+Leading organizations simplify projects by producing incremental
+deliverables that quickly show success and demonstrate the impact
+of effective CIO management while still focusing on long-term
+objectives. As discussed in principle III, carrying out successful
+projects is expected in leading organizations, and adds to the
+credibility of the CIO and the CIO organization.
+
+Case Study: Organizing Information Resources to Meet Business
+Needs
+Implementing a combination of centralized and decentralized
+information management enables leading organizations to effectively
+support their business operations. One leading organization
+implements a combination of centralized and decentralized IT and
+structures to best meet the needs of its three diverse lines of
+business√an international services division, an international
+industry division, and a retail division. The organization uses a
+centralized IT infrastructure with decentralized development
+efforts to provide efficiency and security for its corporate
+customers. Efficiency is the number one priority of the
+organization in terms of dollars spent as well as technology
+performance.
+The organization has CIOs in each of its three business units.
+Each business unit makes IT investment decisions based on business
+requirements and the technology available to support those
+requirements. For example, desktop platforms and software vary
+among business units depending on the unique needs of each business
+area. The work in the business units is all performed in-house and
+is not outsourced, as business expertise is considered a core
+competency. The business CIOs work together to determine how IT can
+be used to reach customers across business lines. The international
+services and international industry divisions have some common
+requirements based on the international nature of the two
+divisions. The international industry division and the retail
+division have common requirements based on the specific industry.
+The CIOs of these divisions work together, leveraging opportunities
+for shared IT products and services so that each unit can invest
+fewer dollars to accommodate common needs.
+The corporate IT organization«s role is to aggregate needs
+across business units and provide solutions that can be integrated
+to serve the entire corporation. Common components of each business
+area include data centers, human resources, payroll, a financial
+architecture, and a common desktop environment. Standard processes
+and tools, such as contingency planning, interdependency
+identification, protocols, and risk management, are used to
+coordinate multiple business areas. These standard utilities
+evolved through two corporate mergers and are now institutionalized
+across the corporation. The mergers required that the organization
+quickly adopt new organizational structures and address new
+business requirements. The standard processes and policies
+developed, applied, and improved as a result of the mergers provide
+this organization with the flexibility it needs to adapt to future
+changes in responsibility.
+This organization is constantly looking to improve its IT
+investment processes. All technology investments are justified
+using business case analyses. The decision-making process for
+establishing business cases recently evolved to include competitive
+needs. Competitive needs were not considered when this organization
+initially postponed electronic commerce initiatives due to low
+return-on-investment projections. The organization fell behind the
+competition in providing this service and the delay may have cost
+it customers. As a result, competitive needs are now considered
+part of the decision-making process.
+
+
+
+Strategies to Consider
+An effective CIO organization is a dynamic structure, responding
+not only to business, mission, and cultural requirements, but also
+to rapidly changing technologies, elusive skills, and competing
+resources in the external market environment. Leading organizations
+recognize the myriad forces driving their IT capabilities. The
+following is an outline of the strategies that these organizations
+consider in deciding how to effectively structure, source, and
+execute their technology management operations.
+Create a clear understanding of responsibilities within the
+organization by
+
+
+•
+articulating a common description of responsibilities to
+all levels of the CIO organization, and
+
+
+
+•
+assigning responsibilities to parts of the organization
+based on skills and organizational structure.
+
+Use a combination of centralized and decentralized
+organizational structures by
+
+
+•
+centrally formulating policy and standards for all
+IT-related activities, and providing common IT services through a
+centrally managed infrastructure; and
+
+
+
+•
+delegating authority to the business units to manage
+individual information management requirements.
+
+Create an adaptable organizational structure by
+
+
+
+•
+redeploying internal resources to quickly address
+changing business and customer requirements.
+
+Select appropriate sourcing strategies by
+
+
+•
+considering outsourcing noncore responsibilities to
+address the shortage of skilled IT workers in the current market
+environment, and
+
+
+
+•
+keeping core competencies in-house.
+
+Execute CIO responsibilities efficiently by
+
+
+•
+providing reliable and efficient IT services and
+products,
+
+
+•
+making IT investment decisions based on business case
+analyses and return-on-investment, projections, and
+
+
+•
+producing incremental deliverables to demonstrate results
+while still focusing on longterm objectives.
+
+
+
+
+
+Principle VI: Develop Information Management Human Capital
+ƒProviding good benefits packages and building core competencies
+are other ways of attracting, stimulating, and retaining IT
+workers¬ especially among today's Δself-preservation-minded
+generation-Xers.«≈
+
+As is true with the other principles, the business requirements
+of an enterprise drive decisions related to the specific types of
+resources needed to implement technology successfully. External
+market forces and internal legacies influence the types of skills
+available to a CIO organization. Given these realities, the CIO
+organization must provide an effective, responsive IT workforce to
+help accomplish missions and goals. This principle discusses the
+strategies that leading organizations use to assess their skill
+bases and attract, recruit, and retain IT professionals.
+
+Key Characteristics
+Leading organizations develop human capital strategies to assess
+their skill bases and recruit and retain staff who can effectively
+implement technology to meet business needs. Figure 7 provides an
+overview of the strategy that leading organizations use to secure
+information management human capital.
+Figure 7: Strategy for Securing Human Capital in Leading
+Organizations
+Training
+it
+
+u
+Outsource
+Leading organizations assess their IT skills on an ongoing basis
+to determine what expertise is needed to meet current
+responsibilities and support future initiatives. They can evaluate
+the skills of their employees using methods provided by entities
+such as Carnegie Mellon University«s Software Engineering
+Institute6 and the Information
+Curtis B. Hefley, W.E. & Miller, S. (1995). People
+Capability Maturity Model. [Technical Report CMU/SEI-95-MM-02].
+Pittsburgh, PA: Software Engineering Institute, Carnegie Mellon
+University.
+
+GAO-01-376G CIO Executive Guide Page 47
+Technology Association of America. Needed skills are compared
+with existing capabilities in the organization to determine gaps in
+the IT skills base. For example, the state university at one of our
+case study locations had conducted a study revealing continuing
+gaps in the state«s ability to recruit and retain IT workers
+vis-à-vis industry. In response to the governor«s initiative to
+expand the state«s IT workforce, proposals were made for a program
+to recruit and fund college and university students willing to
+study technology management as a prelude to becoming part of the
+state government«s labor force. Strengthening the skills and
+capabilities of IT professionals through training and innovative
+hiring practices is part of a formula for building information
+technology and management capabilities.
+Leading organizations sometimes use surveys that compare missing
+capabilities with market availability to determine what skills to
+acquire through hired professionals. When professionals with the
+necessary skills cannot be hired, these organizations supplement
+the existing workforce with external information resources. More
+specifically, they cultivate expertise in their internal
+workforces, while outsourcing skills that are available from
+multiple sources at lower cost. Leading organizations may even
+choose to replace labor with technology when they cannot hire the
+skilled professionals they need. Core information management
+functions include project management, security management, and
+contract management practices that can apply to a variety of
+projects. The various staffing and sourcing strategies provide
+leading organizations with dynamic workforces that can quickly
+carry out these functions to meet changing business needs.
+Studies forecast an ever-increasing shortage of IT
+professionals, presenting a great challenge for both industry and
+the federal government. Organizations are finding it difficult to
+retain staff when their competitors can always offer higher
+salaries. For example, one state government CIO organization that
+we studied experienced a 22 percent turnover in IT professionals.
+Despite having higher technology wages than any other state in the
+country, the state remains at a disadvantage in competing with
+industry and must rely on alternative strategies and incentives to
+attract and retain skilled workers.
+While benefits, recognition, and challenging responsibilities
+are also useful in securing staff, leading organizations identify
+training as a major nonsalary incentive for attracting and
+retaining skilled IT professionals. Leading organizations dedicate
+an increasing percentage of their IT budgets to training. Sometimes
+such funds are devoted to retraining existing nontechnical
+personnel to supply them with IT expertise. For example, one
+industry case study organization sponsors a 3-month course to
+retrain about 2,000 legacy employees in project management skills.
+The company also offers a range of formal classroom training, less
+formal workshops, and informal mentoring programs. Given the change
+management environment for IT in this company, staff always wants
+and needs to be in a learning mode. Similarly, another industry CIO
+told us that he provides IT training through a program that pays
+new employees 50 percent of their salaries while they attend
+school. Upon completion of training, the employees each earn 75
+percent of their salary during an initial performance evaluation
+period, and full salary at the end of that period.
+While managers in leading organizations are accountable for
+creating opportunities for their employees« training, individual
+staff are responsible for taking advantage of those opportunities.
+In general, leading organizations provide training as part of a
+changing high-tech work environment that includes state-of-the-art
+tools and methods allowing skilled IT workers to perform their jobs
+to the best of their ability.
+We identified additional strategies that leading organizations
+use to enhance their information management workforces.
+Specifically, these organizations bring in employees with desirable
+skills from across the enterprise to work in conjunction with IT
+professionals, thereby maximizing the capability of their technical
+resources. These employees make up cross-functional teams that
+provide an appropriate mix of business expertise and IT skills to
+accomplish the various tasks of a project. Working together, the
+members reflect the interests of not just information technology
+and management, but the user community and the project«s
+stakeholders, and provide a holistic blend of technical, project
+management, value management, budget, finance, and procurement
+skills and capabilities to meet mission needs.
+
+
+Case Study: Developing Information Management Human
+Capital
+Using a variety of staffing and sourcing strategies provides
+leading organizations with dynamic workforces that can quickly meet
+changing business needs. One leading company«s CIO said that
+recruiting information management workers with special skills in
+areas such as data networks and systems administration is extremely
+competitive. To be successful in recruiting, his organization has
+devised different offer packages to attract employees. A package
+might include accelerated salary schedules or stock options. Once
+hired, the company sends these employees back to college for IT
+training and invests in them. This CIO acknowledges, however, that
+his company does not spend enough on training. Currently,
+approximately 1 percent of the IT operating budget is devoted to
+training.
+This organization also provides training to new employees
+through a program that pays 50 percent of the employee«s salary
+while he or she attends school. Upon completion of training, the
+employee enters a performance evaluation period during which the
+employee earns 75 percent of his or her salary. After successfully
+completing the performance evaluation period, the employee then
+begins earning a full salary.
+The organization increased its salary base to compete with other
+companies in retaining and attracting talented information
+management workers. Besides salaries, company managers view a good
+working environment and awards and recognition as essential for
+retaining employees. Recently, the CIO took over 400 employees and
+guests to a five-star hotel for an evening out to celebrate the
+group«s accomplishments. When senior managers appreciate business
+accomplishments, they are willing to spend funds for staff
+recognition. This CIO admits that his IT workers are constantly
+asked to work long hours and undergo a lot of stress though they
+get little in return for the amount of work they do.
+This CIO believes that money is not the only motivator for IT
+staff. He feels that an important element to managing staff is
+finding ways to recognize individuals and say ƒthank you.≈ When the
+thank you comes from inside the organization, it goes a long way.
+The CIO uses different means to show his appreciation. For
+instance, his staff publishes a monthly appreciation newsletter
+through the Intranet. The CIO believes there is big payoff in these
+types of activities and the costs are minimal, if any. The CIO also
+views time off as a good incentive bonus because it does not cost
+the company very much. Other incentives his group has undertaken
+include taking staff out for lunch or handing out $100 American
+Express checks. In today«s environment, organizations have to be
+creative. One of the managers created a thank you toolkit to show
+her appreciation to her staff. The CIO states, ƒIf you don«t have a
+lot of money to spend, you have to ask yourself, what are the
+little things you can do to show your appreciation.≈
+
+
+
+Strategies to Consider
+Given the increasing shortage of IT professionals in the current
+market environment, securing an effective, responsive technology
+management workforce is a challenging task for both business and
+government organizations alike. Leading organizations have
+identified the following strategies that help in assessing their IT
+skills and recruiting, retaining, and utilizing talent to meet
+their business needs. These organizations consider and apply the
+various strategies as appropriate within the organizational,
+financial, and cultural parameters of their individual business and
+government enterprises.
+Assess the skill base by
+
+
+•
+determining expertise needed to perform information
+management responsibilities, and
+
+
+
+•
+identifying gaps between skills available and skills
+needed.
+
+Identify innovative ways to attract talent by
+
+
+•
+providing good benefits packages, and
+
+
+
+•
+building core competencies.
+
+Provide training, tools, and methods to help retain expertise,
+including
+
+
+•
+directing an increasing percentage of the budget to fund
+training,
+
+
+•
+evaluating staff to make sure they are achieving the
+desired technical skills,
+
+
+•
+holding managers accountable for providing training
+opportunities for their staffs, and
+
+
+
+•
+providing a high-tech environment of tools and
+methodologies for skilled IT professionals.
+
+Employ alternative methods and sources for supplying talent,
+including • outsourcing and supplementing the existing workforce
+with external expertise,
+
+
+•
+bringing in employees with desirable skills from across
+the enterprise to work with and help maximize the capability of
+information technology and management professionals, and
+
+
+•
+replacing labor with technology.
+
+
+
+
+
+
+Using This Guide
+The principles and practices we developed based on our
+interviews with leading organizations in the private sector and
+state government have enabled us to construct a framework to guide
+federal CIO organizations. In our discussions with about half of
+the CIOs of major federal departments and agencies and five CIOs of
+small federal agencies, we found that they generally agree with the
+leading organizations on the fundamental management principles for
+information management and technology. At the same time, we found
+that the practices used by federal CIOs tend to differ from those
+used by leading organizations. We did not study the reasons for
+these deviations specifically, although some likely result from the
+context in which federal CIOs operate. Both operational and
+structural aspects of the CIO«s environment can vary significantly
+between the public sector and the private sector.
+Rather than dwell on differences, it is more useful to focus on
+the considerable common ground between public and private CIO
+organizations to build efforts for improvement. The specific key
+conditions and strategies described in this guide can be used as
+suggestions for federal CIOs to apply or adapt to their
+environments, as appropriate. More generally, the key conditions
+and strategies can be thought of as addressing specific aspects of
+the six primary principles, which CIOs from all sectors agree are
+critical to the successful execution of their responsibilities and
+realization of the potential benefits of information technology
+investments. Taken as areas of focus, these aspects may be
+evaluated by federal CIO organizations and tackled using techniques
+suited to their situations. Recognition of the differences
+described above, as well as others, should influence the
+application of advice provided in this guide. But the advice of
+CIOs of leading organizations should remain relevant regardless of
+the specifics of the situation.
+The ideas presented in this guide may also provide the
+foundation for further discussion within the federal CIO community.
+Many federal CIOs, in the normal course of their own efforts, have
+already begun working along the lines of the advice provided in
+this guide. These CIOs have gained valuable insights into applying
+the practices of leading organizations to the federal sector. The
+CIO Council, or other organizations of federal CIOs, can create an
+opportunity for sharing these experiences, using the principles
+described in this guide as an organizing framework. The challenge
+of understanding how the federal context influences the
+effectiveness of the principle may be best met with support from
+managers who work in the same context.
+In addition, the specific key conditions and strategies
+described in this guide will provide insight when considering areas
+of future study. For example, specific principles may be
+investigated more deeply and strategies for implementing a
+principle, such as developing information technology human capital,
+may be proposed in more detail. Or those aspects of the federal CIO
+environment that constrain the federal CIO flexibility and hinder
+the ability to perform effectively may be examined more closely,
+and specific strategies to cope with those aspects may be proposed.
+Understanding how CIOs of leading organizations approach their
+work, and acknowledging those aspects of the federal CIO
+environment that limit the ability to implement similar strategies,
+may prompt congressional and executive board discussions about the
+need for future legislation and policy changes.
+A few dimensions in which the federal and private sector can
+differ are described below. These examples largely stem from the
+nature of the public sector in which federal CIOs operate. Many of
+these examples were mentioned by federal CIOs interviewed for this
+guide. However, the extent to which the differences create
+additional constraints on the CIOs depends on how they and agency
+leaders respond to them.
+
+
+•
+Senior executive management in the federal sector can
+differ significantly from the private sector. The agency head is a
+political appointee who often is more focused on policy issues than
+on internal management and operations. This can deny the CIO the
+ƒCEO≈ support that is so critical for the successful integration of
+information technology into business or mission
+functions.
+
+
+•
+The budget decision-making process used for information
+technology projects can present particular challenges for the
+federal CIO not found in the private sector. For example,
+legislative actions, such as tax law changes and Medicare payment
+process changes, may require extensive system modifications, and
+the CIO does not have the flexibility to decide whether or not to
+pursue them. This ties up resources that might otherwise have been
+expended differently. In fact, mandated projects often must be
+funded by money that had been planned for other projects. Long-term
+investment strategies are difficult because agencies are asked to
+put together funding requests 1824 months in advance of funding
+availability. In addition, IT funds may be contained within the
+appropriations for a specific program or an overall administrative
+budget, making them less visible and, if part of discretionary
+spending, more subject to volatile changes in the federal budget.
+As a result, the CIO may not have control or direct oversight over
+much of the IT funding within the agency.
+
+
+•
+Personnel decisions in the federal sector are often
+constrained due to work rules or organizational factors. Current
+information management job descriptions do not match the
+occupations recognized in the industry today. Training funds are
+often limited due to larger budget considerations. Recently, the
+Office of Personnel Management (OPM) found salaries in the federal
+government to be lower than in the private sector. On November 3,
+2000 OPM implemented a governmentwide policy increasing salaries in
+several IT categories in an effort to make federal employment more
+competitive. Because this policy was recently implemented, we
+cannot yet assess the impact of these changes on federal employment
+practices.
+
+
+•
+The federal CIO may direct an organizational structure in
+which duties that would typically be a CIO«s responsibility in the
+private sector are not under his or her direction at all. For
+example, some federal CIOs are in charge of large policy and
+oversight functions with little operational responsibility. While
+this may be an appropriate model, it is critical that any model be
+matched with the overall needs of the agency in mind.
+
+
+•
+The range of responsibilities, as defined by legislation,
+that accrue to the CIO are very broad in the federal sector,
+including areas such as records management and Freedom of
+Information Act requirements, for which there is little parallel in
+the private sector. While federal CIOs often may not have
+operational authority for the full range of responsibilities in the
+legislation, they and their agencies are still subject to oversight
+by the Congress in many of these areas.
+
+
+Though the environment faced by a CIO in the federal sector
+clearly differs from that of CIOs in other contexts, the principles
+that form the basis for this guide remain relevant. The underlying
+principles were observed consistently in our sample of leading
+organizations, and were cited as being critical to the success of
+their CIOs. Federal CIOs can learn from the successes of these
+leading organizations and can apply the principles as appropriate
+in their own organizations. In addition, agency heads and other
+senior leaders in the federal government can gain an understanding
+of their roles in executing the critical success factors that must
+be addressed as CIOs work to meet the letter and intent of the
+Clinger-Cohen Act and related legislation.
+
+Appendix I Federal Legislation Affecting Information
+Management
+Federal Financial Management Improvement Act of 1996 (Public Law
+104-208) ¬ This Act requires that agency financial management
+systems comply with federal financial management system
+requirements, applicable federal accounting standards, and the U.S.
+Government Standard General Ledger (SGL) in order to provide
+uniform, reliable, and more useful financial information. The act
+requires that auditors for each of the 24 departments and agencies
+named in the CFO Act report, as part of their annual audits of the
+agencies« financial statements, whether the agencies« financial
+management systems comply substantially with federal financial
+management systems requirements, applicable federal accounting
+standards, and SGL at the transaction level. The act also requires
+that GAO report on its implementation annually.
+Clinger-Cohen Act of 1996 (Public Law 104-106) ¬ This law is
+intended to improve the productivity, efficiency, and effectiveness
+of federal programs through the improved acquisition, use, and
+disposal of IT resources. Among other provisions, it (1) encourages
+federal agencies to evaluate and adopt best management and
+acquisition practices used by both private and public sector
+organizations,
+(2) requires agencies to base decisions about IT investments on
+quantitative and qualitative factors associated with the costs,
+benefits, and risks of those investments and to use performance
+data to demonstrate how well the IT expenditures support
+improvements to agency programs, through measurements such as
+reduced costs, improved employee productivity, and higher customer
+satisfaction, and (3) requires executive agencies to appoint CIOs
+to carry out the IT management provisions of the act and the
+broader information resources management requirements of the
+Paperwork Reduction Act. The Clinger-Cohen Act also streamlines the
+IT acquisition process by eliminating the General Services
+Administration«s central acquisition authority, placing procurement
+responsibility directly with federal agencies, and encouraging the
+adoption of smaller, modular IT acquisition projects.
+Paperwork Reduction Act (PRA) of 1995 (Public Law 104-13) ¬ PRA
+applies life cycle management principles to information management
+and focuses on reducing the government«s information-collection
+burden. To this end, PRA designated senior information resources
+manager positions in the major departments and agencies with
+responsibility for a wide range of functions. PRA also created the
+Office of Information and Regulatory Affairs within the OMB to
+provide central oversight of information management activities
+across the federal government.
+Government Management Reform Act of 1994 (Public Law 103-356) ¬
+This legislation expands the requirement for a fully audited
+financial statement under the CFO Act to 24 agencies and components
+of federal entities designated by the Office of Management and
+Budget. The act requires the Department of the Treasury to produce
+a consolidated financial statement for the federal government,
+which GAO is to audit annually.
+Federal Acquisition Streamlining Act of 1994 (FASA) (Public Law
+103-355) ¬ This law requires agencies to define cost, schedule, and
+performance goals for federal acquisition programs (to include IT
+projects) and monitor these programs to ensure that they remain
+within prescribed tolerances. If a program falls out of tolerance,
+FASA requires the agency head to review, take necessary actions,
+and, if necessary, terminate the program.
+Government Performance and Results Act (GPRA) of 1993, Public
+Law 103-62 ¬ GPRA requires agencies to prepare multiyear strategic
+plans that describe mission goals and methods for reaching them.
+The act requires agencies to develop annual performance plans that
+OMB uses to prepare a federal performance plan that is submitted to
+the Congress along with the President«s annual budget submission.
+The agency plans must establish measurable goals for program
+activities and describe the methods by which performance toward
+those goals will be measured. The act also requires agencies to
+prepare annual program performance reports to review progress
+toward annual performance goals
+Chief Financial Officers (CFO) Act of 1990 (Public Law 101-576)
+¬ The CFO Act provides a framework for improving federal government
+financial systems. It centralizes within OMB, through the Deputy
+Director for Management and the Office of Federal Financial
+Management, the establishment and oversight of federal financial
+management policies and practices and requires OMB to prepare and
+submit to Congress a governmentwide, 5-year financial management
+plan. The act also requires the 24 major agencies to have CFOs and
+deputy CFOs and lays out their authorities and functions. Further,
+the act sets up a series of pilot audits under which certain
+agencies are required to prepare agencywide financial statements
+and subject them to audit by the agencies« inspectors general.
+Computer Security Act of 1987 (Public Law 100-235, as amended by
+Public Law 104106) ¬ This law addresses the importance of ensuring
+and improving the security and privacy of sensitive information in
+federal computer systems. The act requires that the National
+Institute of Standards and Technology develop standards and
+guidelines for computer systems to control loss and unauthorized
+modification or disclosure of sensitive information and to prevent
+computer-related fraud and misuse. The act also requires that all
+operators of federal computer systems, including both federal
+agencies and their contractors, establish security plans.
+Federal Managers« Financial Integrity Act (FMFIA) of 1982
+(Public Law 97-255) ¬FMFIA requires agencies to establish internal
+accounting and administrative controls in compliance with standards
+established by the Comptroller General. The act also requires that
+OMB establish, in consultation with the Comptroller General,
+guidelines that the agencies shall follow in evaluating their
+systems of internal accounting and administrative controls.
+Government Information Security Reform (P.L. No. 106-398, Div.
+A, Title X, subtitle G) -This legislation amends 44 U.S.C. Chapter
+35 by enacting a new subchapter on "Information Security." The
+Security Act requires the establishment of agencywide information
+security programs, annual agency program reviews, annual
+independent evaluations of agency programs and practices, agency
+reporting to OMB, and OMB reporting to Congress. The Act covers
+programs for both unclassified and national security systems, but
+exempts agencies operating national security systems from OMB
+oversight. The Security Act is to be implemented consistent with
+the Computer Security Act.
+Government Paperwork Elimination Act (GPEA) (P.L. No. 105-277,
+Div. C, Title XVII) -GPEA requires that by 2003 federal agencies
+provide, where practicable, for the option of submitting,
+maintaining, or disclosing information in electronic form as a
+substitute for paper, and for the use and acceptance of electronic
+signatures.
+Privacy Act of 1974 (Public Law 93-579) ¬ The Privacy Act
+protects the privacy of individuals identified in information
+systems maintained by federal agencies by regulating the
+collection, maintenance, use, and dissemination of information by
+such agencies.
+Freedom of Information Act of 1966 (Public Law 89-554) ¬ This
+law established the right of public access to government
+information by requiring agencies to make information accessible to
+the public, either through automatic disclosure or upon specific
+request, subject to specified exemptions.
+
+
+Appendix II Objectives, Scope, and Methodology
+The objective of our research was to determine how several
+leading organizations have implemented their CIO positions and
+supporting management infrastructures. We were interested in
+identifying effective CIO management practices used across a
+variety of organization types and structures. In doing so, we also
+sought to develop specific case study information on how CIOs have
+helped improve the effectiveness of their organizations« business
+operations. We have used this information to develop suggested
+guidance to assist federal agencies in effectively integrating
+newly created CIO functions into their respective
+organizations.
+We synthesized a great deal of literature and research on CIO
+organizations to provide ideas on effective practices in
+information technology and management. This body of knowledge
+served as a foundation for designing our project approach. We then
+conducted case studies at a number of private and public
+organizations. We have found that case studies provide an abundant
+source of information describing management practices and the
+intellectual background that led to the development of those
+practices. Case studies also provide the flexibility to pursue
+particularly rich avenues of inquiry as they develop during
+interviews. Finally, they are also an excellent means of
+communicating the essence of practices that have worked well by
+capturing the context as well as the specific practice.
+We identified candidate organizations for our study based on
+awards and recognition from professional organizations and
+publications over the past several years. We conducted multi-day
+visits to organizations that agreed to participate in our study to
+learn
+
+
+•
+each organization«s approach to selecting, positioning,
+and defining the roles and responsibilities of its CIO;
+
+
+•
+techniques for instituting IT policies and standards,
+managing technical personnel and financial resources, building
+customer/supplier relationships, and measuring the performance of
+IT organizations in meeting business needs; and
+
+
+
+•
+strategies for promoting and facilitating business and
+organizational change through IT.
+
+We visited three private and three public sector organizations
+recognized as leaders in successfully managing information and
+technology investments to create value and improve business
+performance. We selected private organizations across a range of
+dimensions, including type of business, number of employees, and
+revenues. All private organizations contacted had received
+recognition by professional organizations and publications,
+corporate executives, or independent researchers. Our selection of
+state organizations was based on recognition by professional
+publications, state CIOs, and the National Association of State
+Information Resource Executives (NASIRE). In particular, NASIRE
+awards recognition to states whose systems have made important
+contributions to the operations of state governments. The following
+organizations participated in our study:
+
+
+•
+Commonwealth of Pennsylvania
+
+
+•
+State of Texas
+
+
+•
+State of Washington
+
+
+•
+Chase Manhattan Bank
+
+
+•
+General Motors Corporation
+
+
+•
+J.C. Penney
+
+
+We also interviewed the former CIO of the state of California
+and the current CIO at U.S. West Communications, although we did
+not conduct comprehensive case studies at these entities.
+We conducted site visits to each participating organization and
+obtained supporting documentation, illustrations, and examples.
+During the visits, we interviewed the CIO, members of the senior
+executive team, IT managers, and other officials as identified by
+the host organization, to obtain their individual perspectives on
+information and technology management issues. Based on the
+documentation and interviews obtained from our site visits, we
+compared practices across organizations to identify innovative
+practices used by individual organizations as well as common
+practices used across the variety of organizations participating in
+our study.
+We subsequently interviewed 50 percent of the Federal CIO
+Council members as a means of comparing federal CIO practices with
+our case study results and ensuring that practices used in the
+industry and state organizations also addressed the challenges
+found in the federal government. We selected a mix of federal
+organizations to visit, taking into consideration their various
+mission types (civilian, military, or regulatory), centralized and
+decentralized structures, and prior GAO study results. Further, we
+met with a panel of CIOs from five small federal agencies to
+determine whether the practices identified are also applicable
+across diverse organizational sizes (based on dimensions such as
+budget, personnel, etc.). These discussions, which are summarized
+in the section entitled ƒCurrent Federal CIO Environment,≈ helped
+us identify similarities and differences in the CIO management
+practices of federal versus leading organizations. The discussions
+have also enabled us to pinpoint areas where federal agencies can
+benefit from integrating the practices of such leading
+organizations in their respective organizations.
+Our research was conducted from March through October 1999 and
+culminated in the issuance of an exposure draft in March 2000.
+Since March 2000 we received comments from a variety of
+organizations and individuals. Based on suggestions from the
+general public we have considered and made changes to the text
+where appropriate. General consensus of those providing input was
+that the CIO Guide represented leading practices and that the
+document was insightful and valuable.
+
+
+Appendix III Related GAO Documents
+Information Security Risk Assessment: Practices of Leading
+Organizations
+(GAO/AIMD-00-33, November 1, 1999).
+Executive Guide: Creating Value Through World-class Financial
+Management
+(GAO/AIMD-99-45, Exposure Draft, August 1999).
+Executive Guide: Leading Practices in Capital Decision-Making
+(GAO/AIMD-99-32, December 1998).
+Executive Guide: Information Security Management: Learning From
+Leading Organizations (GAO/AIMD-98-68, April 1998).
+The Results Act: An Evaluator«s Guide to Assessing Agency Annual
+Performance Plans
+(GAO/GGD-10.1.20, Version 1, April 1998).
+Executive Guide: Measuring Performance and Demonstrating Results
+of Information Technology Investments (GAO/AIMD-98-89, March
+1998).
+Agencies' Annual Performance Plans Under the Results Act: An
+Assessment Guide to Facilitate Congressional Decisionmaking
+(GAO/GGD/AIMD-10.1.18, Version 1, February 1998).
+Business Process Reengineering Assessment Guide (GAO/AIMD
+10.1.15, Version 3, May 1997).
+Agencies« Strategic Plans Under GPRA: Key Questions to
+Facilitate Congressional Review (GAO/GGD-10.1.16, Version 1, May
+1997).
+Assessing Risks and Returns: A Guide for Evaluating Federal
+Agencies' IT Investment Decision-Making (GAO/AIMD-10.1.13, Version
+1, February 1997).
+Executive Guide: Effectively Implementing the Government
+Performance and Results Act
+(GAO/GGD-96-118, June 1996).
+Strategic Information Management (SIM) Self-Assessment Toolkit
+(Exposure Draft, Version 1.0, October 28, 1994).
+Executive Guide: Improving Mission Performance Through Strategic
+Information Management and Technology (GAO/AIMD-94-115, May
+1994).
+Meeting the Government«s Technology Challenge: Results of A GAO
+Symposium
+(GAO/IMTEC-90-23, February 1990).
+
+
+Appendix IV Selected CIO Resources
+
+Professional Organizations
+Association for Federal Information Resources Management:
+www.affirm.org Chief Financial Officers Council: www.financenet.gov
+Federal Chief Information Officers Council: www.cio.gov Government
+Information Technology Services Board: www.gits.gov Industry
+Advisory Council: www.iaconline.org Information Systems Audit and
+Control Association and Foundation: www.iasca.org Information
+Technology Association of America: www.itaa.org Information
+Technology Resources Board: www.itrb.gov International Federation
+of Accountants: www.ifac.org National Association of State
+Information Resource Executives: www.nasire.org Society for
+Information Management: www.simnet.org
+
+
+Publications
+Beyond Computing: www.beyondcomputingmag.com CIO Magazine:
+www.cio.com Federal Computer Week: www.fcw.com Government Computer
+News: www.gcn.com Government Executive: www.govexec.com
+InformationWeek: www.informationweek.com
+International Data Group: www.idg.com Sloan Management Review:
+www.mitsloan.mit.edu/smr/index.html
+
+GAO-01-376G CIO Executive Guide Page 61
+
+
+
+Research Organizations
+Forrester Research, Inc.: www.forrester.com Foundation for
+Performance Measurement: www.fpm.com Gartner Group: www.gartner.com
+GIGA Information Group: www.gigaweb.com International Data
+Corporation: www.idc.com IT Governance Institute:
+www.itgoverence.org/itgi META Group Inc.: www.metagroup.com Yankee
+Group: www.yankeegroup.com
+
+
+Federal Resources
+Federal Acquisition Regulation: www.ARNet.gov/far/ Critical
+Infrastructure Assurance Office: www.caio.gov Federal Computer
+Incident Response Capability: www.fedcirc.gov Federal Information
+Processing Standards: www.itl.nist.gov General Accounting Office:
+http://www.gao.gov/ GSA«s Policyworks: www.policyworks.gov IT
+Policy On-Ramp: www.itpolicy.gsa.gov National Partnership for
+Reinventing Government: www.npr.gov Office of Management and Budget
+Homepage: www.whitehouse.gov/omb
+
+
+Other Resources
+Chief Information Officer ¬ Treasury Board of Canada:
+http://www.cio-dpi.gc.ca/home_e.html
+
+
+
+Appendix V Selected Books and Articles
+ƒBest Practices in Improving IT Staff Competencies,≈ GIGA
+Information Group, December 1998.
+Blodgett, Mindy, ƒThe CIO Starter Kit: Ten Tools Every New CIO
+Needs to Succeed,≈ CIO Magazine, May 15, 1999.
+Boar, Bernard H., Practical Steps for Aligning Information
+Technology with Business Strategies: How to Achieve a Competitive
+Advantage (John Wiley & Sons, Inc., New York, New York,
+1994).
+Boar, Bernard H., Strategic Thinking for Information Technology
+(John Wiley & Sons, Inc., New York, New York, 1996).
+Bryson, John M., Strategic Planning for Public and Nonprofit
+Organizations: A Guide to Strengthening and Sustaining
+Organizational Achievement (Jossey-Bass Publishers, San Francisco,
+California, 1991).
+Camp, Robert C., Benchmarking: The Search for Industry Best
+Practices That Lead to Superior Performance (ASQC Quality Press,
+New York, New York, 1989).
+Cortada, James W., Best Practices in Information Technology
+(Prentice Hall PTR, Upper Saddle River, New Jersey, 1998).
+Earl, Michael J., and Feeny, David F., ƒDoes the CIO Add Value?≈
+Informationweek, May 30, 1994.
+Ferris, Nancy, ƒCIOs on the Go,≈ Government Executive, March
+1999.
+Government Executive Magazine/Price Waterhouse, The Manager«s
+Edge (National Journal Group, Washington, D.C., 1998).
+Hubbard, Douglas, ƒThe IT Measurement Inversion,≈ CIO
+Enterprise,≈ April 15, 1999.
+Mayor, Tracy, ƒMaking a Federal Case of IT,≈ CIO Magazine, July
+1, 1999.
+Morin, Therese; Devansky, Ken; Little, Gard; and Petrun, Craig,
+Information Leadership: A Guide for Government Executives
+(PricewaterhouseCoopers, LLP, 1999).
+Stephens, Charlotte S., The Nature of Information Technology
+Managerial Work: The Work Life of Five Chief Information Officers
+(Quorum Books, Westport, Connecticut, 1995).
+Stuart, Anne, ƒThe CIO Role: The New IS Role Models,≈ CIO
+Magazine, May 15, 1995.
+Tapscott, Don and Caston, Art, Paradigm Shift ¬ The New Promise
+of Information Technology (McGraw-Hill, Inc., New York, New York,
+1993).
+Wakin, Dr. Edward, ƒThe Multifaceted CIO,≈ Beyond Computing, May
+1995.
+Wang, Charles B., Techno Vision II: Every Executive«s Guide to
+Understanding and Mastering Technology and the Internet
+(McGraw-Hill, Inc., New York, New York, 1997).
+Weill, Peter and Broadbent, Marianne, Leveraging the New
+Infrastructure: How Market Leaders Capitalize on Information
+Technology (Harvard Business School Press, Boston, Massachusetts,
+1998).
+Woldring, Roelf, ƒChoosing the Right CIO,≈ Business Quarterly,
+Spring 1996.
+Wreden, Nick, ƒExecutive Forum: Proving the Value of
+Technology,≈ Beyond Computing, July/August 1998.
+
+
+Appendix VI Selected Information Management Reports and
+Guidance
+An Analytical Framework for Capital Planning and Investment
+Control for Information Technology, U.S. General Services
+Administration, Office of Policy, Planning and Evaluation, Office
+of Information Technology, May 1996.
+ƒBest IT Practices in the Federal Government,≈ CIO Council and
+IAC, October 1997.
+Capital Programming Guide, Version 1.0, Supplement to Office of
+Management and Budget Circular A-11, Part 3: Planning, Budgeting,
+and Acquisition of Capital Assets, July 1997.
+Evaluating Information Technology Investments: A Practical
+Guide, Version 1.0, Office of Information and Regulatory Affairs,
+Information Policy and Technology Branch, Office of Management and
+Budget, November 1, 1995.
+Federal Enterprise Architecture Framework, Version 1.1, Federal
+CIO Council, September 1999.
+Federal Information Technology, Executive Order on ITMRA, The
+White House, July 17, 1996.
+Federal IRM Training Roadmap: A Guide for Federal CIOs, (Draft),
+Federal CIO Council, Education and Training Committee, January
+1999
+Funding Information Systems Investments, M-97-02, Office of
+Management and Budget, October 25, 1996.
+IAC / CIO Task Force Draft Report, Industry Advisory Council,
+July 9, 1996.
+Implementing Best Practices: Strategies at Work, Federal CIO
+Council, Capital Planning and IT Investment Committee, June
+1998.
+Implementing Capital Planning and Information Technology
+Investment Processes: An Assessment, Federal CIO Council, Capital
+Planning and IT Investment Committee, Best Practices Subcommittee,
+May 29, 1998.
+ƒMajor System Acquisitions,≈ Circular No. A-109, Office of
+Management and Budget, April 5, 1976.
+Management of Federal Information Resources, Circular No. A-130,
+Revised, Office of Management and Budget, February 8, 1996.
+Meeting the Federal IT Workforce Challenge, Federal CIO Council,
+Education and Training Committee, June 1999.
+Preparation and Submission of Budget Estimates, Circular No.
+A-11, Revised, Office of Management and Budget, June 23, 1997.
+ROI and the Value Puzzle, Federal CIO Council, Capital Planning
+and IT Investment Committee, April 1999.
+Strategic Plan, Federal CIO Council, Fiscal Year 2000.
+The Federal Chief Information Officer: Fourth Annual Top Ten
+Challenges Survey, Association for Federal Information Resources
+Management, December 1999.
+The Impact of Change: Clinger-Cohen Act Implementation, Laying
+the Foundation for Year 2000 and Beyond, Eighth Annual ITAA Survey
+of Federal CIOs, December 1997.
+
+
+Appendix VII Project Adviser Acknowledgments
+We would like to acknowledge the following individuals whose
+advice and assistance throughout this project have been
+invaluable.
+Dr. Lynda McDonald Applegate Professor of Business
+Administration Harvard Business School
+Thomas V. Fritz President & Chief Executive Officer Private
+Sector Council
+Laraine Rodgers Vice President Emerald Solutions
+Paul Rummell Senior Partner KPMG Consulting
+(310400)
+
+Ordering Information
+The first copy of each GAO report is free. Additional copies of
+reports are $2 each. A check or money order should be made out to
+the Superintendent of Documents. VISA and MasterCard credit cards
+are accepted, also.
+Orders for 100 or more copies to be mailed to a single address
+are discounted 25 percent.
+
+Orders by mail:
+U.S. General Accounting Office
+P.O. Box 37050 Washington, DC 20013
+Orders by visiting: Room 1100 700 4th St. NW (corner of 4th and
+G Sts. NW)
+U.S. General Accounting Office Washington, DC
+Orders by phone: (202) 512-6000 fax: (202) 512-6061 TDD (202)
+512-2537
+Each day, GAO issues a list of newly available reports and
+testimony. To receive facsimile copies of the daily list or any
+list from the past 30 days, please call (202) 512-6000 using a
+touchtone phone. A recorded menu will provide information on how to
+obtain these lists.
+Orders by Internet: For information on how to access GAO reports
+on the Internet, send an e-mail message with "info" in the body
+to:
+info@www.gao.gov
+or visit GAO's World Wide Web home page at:
+http://www.gao.gov
+
+
+Contact one:
+
+
+
+To Report Fraud,
+• Web site: http://www.gao.gov/fraudnet/fraudnet.htm
+
+
+Waste, or Abuse in
+
+• e-mail: fraudnet@gao.gov •
+1-800-424-5454 (automated answering system)
+
+
+
+
+
+
+

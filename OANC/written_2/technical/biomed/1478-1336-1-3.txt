@@ -1,0 +1,416 @@
+
+  
+    
+      
+        Introduction
+        Steroid hormone receptors (SHRs) are members of a family
+        of ligand-activated transcription factors that regulate
+        many biological processes, including metabolism,
+        reproduction, and development. In the absence of ligand
+        such as androgen, glucocorticoid, progestin, and
+        mineralocorticoid, the SHR maintains a cytosolic inactive
+        state by association with heat shock proteins and/or other
+        proteins such as corepressors. Upon ligand binding, the SHR
+        undergoes conformational changes that involve releas e from
+        the repressor proteins, and translocation to the nucleus
+        where it can bind to specific hormone responsive sequences
+        in the DNA of genes regulated by steroid hormones [ 1 2 ] .
+        The mechanism by which SHRs affect the rate of RNA
+        polymerase II-directed transcription likely involves the
+        interaction of receptors with components of the
+        transcription preinitialization complex. This interaction
+        may be direct, or it may occur indirectly through the
+        action of coactivators, which act as bridging factors. To
+        date, numerous coactivator molecules have been isolated and
+        characterized, encompassing several different families [ 3
+        4 ] . Most of these cofactors are expressed in a wide
+        variety of cell types and can interact with more than one
+        type of nuclear receptor. The recent findings that members
+        of the several different families of coactivators possess
+        intrinsic histone acetyltransferase activity suggests that
+        activated SHRs, and nuclear receptors in general, may also
+        recruit these cofactors to remodel chromatin structure for
+        better accessibility of the transcriptional machinery to
+        DNA [ 5 6 ] .
+        The JAK/STAT signaling pathway is involved in many
+        cytokines, hormones, and growth factors mediated signaling
+        pathways to regulate a variety of biological responses,
+        including development, cell differentiation, proliferation
+        and survival [ 7 8 ] . Once STAT proteins are activated by
+        tyrosine-phosphorylation, form homo or heterodimers that
+        are translocated to the nucleus, where they can bind to
+        specific sequences in the DNA, thereby stimulating gene
+        transcription. Similarly to nuclear receptors and to other
+        transcription factors, STAT proteins can interact with
+        coactivators to modulate their transcriptional activity [ 9
+        10 11 12 ] . Other reports have shown direct interactions
+        between several members of the JAK/STAT signaling pathway
+        with SHRs [ 13 14 15 16 ] . Stat3 is one of the seven
+        members of the STAT family of proteins that has been shown
+        to modulate the expression of several genes related to
+        control cell cycle, proliferation and apoptosis, such as
+        Cyclin D1, c-myc, and Bcl-xL, respectively [ 17 ] .
+        Accordingly, alterations in the activity of STAT3 have been
+        associated with cell transformation and cancer progression
+        [ 18 19 20 ] .
+        Prostate cancer is the most commonly diagnosed cancer,
+        and the second leading cause of death from cancer in North
+        American men. Prostate cells are dependant on androgen to
+        keep their normal functions. Activation of androgen
+        receptor (AR) in prostate cells is a key step in developing
+        and progression of prostate cancer. Most patients respond
+        initially to androgen deprivation or antiandrogen
+        regiments, but eventually the tumor relapses in an
+        androgen-independent stage with a poor outcome. Several
+        possible mechanisms have been suggested to explain this
+        activation of AR, including mutations in the gene encoding
+        AR that alter the specificity for androgens, overexpression
+        of the AR protein itself, cross-talk to other signal
+        transduction pathways, and altered levels or activity of
+        coactivators [ 21 22 23 ] . Several groups including ours
+        have demonstrated a role of activated Stat3 in the
+        proliferation and survival of prostate cancer cells by a
+        mechanism that involves the AR [ 24 25 26 27 28 ] .
+        In this study, we examined how Stat3 activates the SHRs
+        including AR. We studied whether Stat3, a transcription
+        factor itself, could act as a coactivator for AR and for
+        other SHRs. We report here that a constitutively active
+        form of Stat3 stimulates transcriptional activity of SHRs
+        in a hormone-dependent manner. We also report that active
+        Stat3 can act synergistically with other coactivators to
+        stimulate SHRs transcriptional activity. Moreover, while
+        Stat3 did not affect specificity of AR to other steroid
+        hormones rather than androgen, or binding of AR to other
+        HREs, Stat3 significantly increased the sensitivity of AR
+        to androgen. These results can add more light to the
+        mechanism by which SHRs, and AR in particular, regulate
+        gene expression.
+      
+      
+        Results
+        
+          Effect of Stat3 on AR-mediated transcriptional
+          activity
+          Stat3 has been shown to enhance AR-mediated PSA
+          expression and AR transcriptional activity in prostate
+          cancer cells [ 16 25 28 ] . We used two
+          well-characterized androgen-responsive luciferase
+          reporter plasmids to study the effect of Stat3 on
+          AR-mediated transcriptional activity. Both reporter
+          plasmids contain several AREs that are required for
+          androgen induction. As comparison, we used a saturating
+          dose, 10 nM, of a synthetic androgen, R1881. CV-1 cells
+          do not express endogenous AR, therefore, all experiments
+          were performed in the presence of ectopic wild-type human
+          AR. CV-1 cells showed a strong response to R1881 compared
+          to vehicle-treated cells with both androgen-responsive
+          reporters used (Fig. 1). Cotransfection of a plasmid
+          expressing a constitutively active mutant Stat3, Stat3C,
+          that forms homodimers and translocates to the nucleus
+          without tyrosine phosphorylation, affected AR
+          transcriptional activity in a dose-response manner (Fig.
+          1A) but only in the presence of hormone (Fig. 1Band 1C).
+          Constitutively activated Stat3 also activates another
+          androgen-responsive reporter contained the fragment
+          -286/+28 of the rat Probasin (PB) promoter (Fig. 1C).
+          Wild-type Stat3, that is in a latent cytosolic state
+          without tyrosine phosphorylation nor dimerization, showed
+          no additional stimulatory effect over the
+          androgen-treated cells (Fig. 1)
+        
+        
+          Effect of STAT3 on transcriptional activity of
+          other SHRs
+          Having demonstrated that Stat3 enhance AR-mediated
+          gene transcription, we next investigated the role of
+          Stat3 on transcriptional activation with other SHRs. For
+          GR and PR, we used the same reporter plasmid as for AR,
+          ARE-TATA-luciferase, since it shows promiscuous response
+          to all three SHRs [ 30 ] . For ER, we used
+          ERE-TATA-luciferase reporter that is specific for
+          estrogen. CV-1 cells were also cotransfected with
+          plasmids expressing ectopically GR, PR or ER. Like the
+          AR, Stat3 enhances all three other SHRs tested in the
+          presence of the corresponding hormone (Dex for GR, R5020
+          for PR, or E 
+          2 for ER) (Fig. 2). Taken together,
+          Stat3 enhances four different SHRs transcriptional
+          activity in the presence of their corresponding ligand,
+          suggesting that active Stat3 acts as a coactivator for
+          nuclear receptors.
+          We next compared the coactivator activity of Stat3 to
+          that of other known coactivators for AR. CV-1 cells were
+          transfected with the same amount (2 μg) of plasmid
+          expressing Stat3C, SRC-1, CBP/p300, TIF-2 or P/CAF,
+          respectively. Cells transfected with either coactivator
+          or Stat3C showed comparable and higher luciferase
+          activity in response to R1881 than cells treated with
+          hormone alone in the presence of empty vector (Fig. 3).
+          None of the coactivators tested showed any luciferase
+          activity in the absence of hormone (data not shown).
+          Stat3 is comparable to other coactivators on AR
+          transcriptional activity: SRC-1, CBP/p300, TIF2,
+          P/CAF.
+          It has been reported that coactivators in combination
+          can enhance transcriptional activity of SHRs compared to
+          when they are delivered to cells individually [ 29 30 ] .
+          Recently, Giraud et al [ 12 ] reported a direct
+          interaction of Stat3 with SRC-1 and CBP/p300. We
+          determined whether Stat3 could act in a
+          synergistic/additive way when administered to cells
+          simultaneously to other coactivators. As Fig. 3shows,
+          coexpression of active Stat3C simultaneously to SRC-1,
+          CBP/p300, TIF-2 or P/CAF, resulted in a more efficient
+          enhancement of the reporter transcription activity driven
+          by AR as compared with any of the coactivators expressed
+          separately. A similar enhancement in luciferase activity
+          with simultaneous delivery of coactivators was observed
+          with PR and ER (data not shown).
+        
+        
+          Stat3 did not affect the specificity of AR for
+          non-androgen steroid hormones or non-AREs
+          Altered responses of AR include activation by
+          non-androgen ligands or recognition of other hormone
+          responsive elements different from AREs [ 22 23 ] . We
+          studied if active Stat3 could be responsible for this
+          behavior of AR. CV-1 cells were cotransfected with a
+          reporter plasmid responsive to androgen
+          (ARE-TATA-luciferase) in the presence or absence of AR
+          and constitutively active Stat3C (Fig. 4top) and cells
+          were treated with different steroid hormones. Stat3C did
+          not alter the specificity of AR for other steroid
+          hormones, since it showed transcriptional activity only
+          in response to androgen but not to Dex, R5020 or E 
+          2 (Fig 4, top).
+          To test whether Stat3 could alter the specificity of
+          AR to other HREs, CV-1 cells were cotransfected with
+          reporter plasmids responsive to androgen
+          (ARE-TATA-luciferase) or to estrogen
+          (ERE-TATA-luciferase), in the presence or absence of AR
+          and constitutively active Stat3C (Fig. 4bottom). With
+          ARE-TATA-luciferase reporter, luciferase activity was
+          dependent on the presence of AR and androgen, without any
+          effect of Stat3C on the basal levels of transcription
+          (Fig 4, bottom left). Stat3C did not modify the
+          sensitivity of AR for other hormone responsive elements,
+          since there was no response on the AR transcriptional
+          activity when we used an estrogen-specific responsive
+          reporter plasmid, ERE-TATA-luciferase (Fig 4, bottom
+          right).
+        
+        
+          Stat3 does not prevent inhibition of AR by the
+          antiandrogen flutamide
+          Another altered response of AR is manifested in the
+          so-called "flutamide withdrawal syndrome" or more
+          recently broadened to "antiandrogen withdrawal syndrome".
+          In this condition, it is shown a decrease in serum levels
+          of PSA after removal of flutamide or other antiandrogens
+          from the treatment regiment [ 33 ] . We studied if active
+          Stat3 could be involved in this paradoxical effect of
+          antiandrogens. CV-1 cells cotransfected with an androgen
+          responsive reporter plasmid (ARE-TATA-luciferase), AR, in
+          the presence or absence of constitutively active Stat3C,
+          were treated with androgen and flutamide (Fig. 5). As
+          expected, flutamide blocked substantially the induction
+          of ARE-TATA-luciferase activity by R1881 in the absence
+          of active Stat3C. Similarly, the inhibitory effect of the
+          antiandrogen on AR was not prevented by the presence of
+          constitutively active Stat3C.
+        
+        
+          Stat3 affects sensitivity of AR for androgen
+          Other mechanism by which AR could show an altered
+          response results from an increase in its sensitivity to
+          very low levels of androgen [ 22 23 ] . We tested the
+          role of active Stat3 in this possibility cotransfecting
+          CV-1 cells with an androgen responsive reporter
+          (ARE-TATA-luciferase), AR, in the presence or in the
+          absence of constitutively active Stat3C. Cells were then
+          treated with different doses of androgen. Maximal
+          transcriptional activity of AR was at 1 nM R1881 both in
+          the presence and absence of Stat3C (Fig. 6). Stat3C
+          enhanced luci ferase activity driven by AR even at the
+          minimal dose of R1881 tested, 10 pM, which showed no
+          luciferase activity in the absence of Stat3C.
+        
+      
+      
+        Discussion
+        Regulation of gene transcription mediated by
+        hormone-activated SHRs involves interaction with components
+        of the transcription complex. Coactivators are members of
+        the transcription complex, which act as bridging factors to
+        achieve optimal transcription activity. Coactivators are
+        probably present in the nucleus in preassembled
+        multicomplex units ready to associate to activated SHRs.
+        The role of the coactivators could be just as bridging
+        factors, although some of the members of the p160 family
+        and CBP/p300 present histone acetyltransferase activity [
+        34 35 ] . Stat3 is a member of the JAK/STAT signaling
+        pathway, which is a transcription factor itself that after
+        activation binds to specific sequences in DNA to regulate
+        expression of genes related to proliferation,
+        differentiation and cell survival. Constitutive activation
+        of Stat3 has been associated with cell transformation and
+        cancer progression. Previous data including from our group
+        showed activation of AR in prostate cancer mediated by
+        activation of Stat3 [ 24 25 26 27 28 ] .
+        Here we show that constitutively active Stat3 enhances
+        transcriptional activity of SHRs, AR, GR, PR, and ER, in a
+        comparable extent to the stimulation elicit by other
+        coactivators, and even more, in a synergistic manner to
+        these other coactivators. This stimulation is independent
+        of the DNA binding activity of Stat3, since none of the
+        luciferase reporters responsive to SHRs used throughout
+        this report contain the DNA sequence responsive to Stat3 [
+        7 ] . We cannot rule out, however, that Stat3 is affecting
+        an independent event that in turn activates SHR
+        transcriptional activity. Nevertheless, direct
+        protein-protein interaction has been documented by
+        coimmunoprecipitation experiments between Stat3 and AR [ 16
+        25 ] , GR [ 13 14 ] , PR [ 36 ] , and ER [ 37 ] ,
+        suggesting that Stat3 might be involved directly in
+        transcriptional activity elicit by SHRs. Moreover, Stat3
+        has also been directly associated with several
+        coactivators, such as SRC-1 and CBP/p300 [ 9 12 ] .
+        Recruitment of coactivators to nuclear receptors takes
+        place via a common motif in the coactivators containing a
+        core consensus sequence LXXLL (L, leucine; X, any
+        aminoacid) [ 38 ] . Most of the coactivators contain more
+        than one of these motifs, raising the question regarding
+        specificity of these motifs to specific activating domains
+        in the nuclear receptors. Stat3 also contains in its
+        N-terminus one of this motifs ( 221LAGLL 225) [ 39 ] .
+        Moreover, Stat3 also presents a Ser at -2 position of the
+        LXXLL sequence, which in the case of the coactivator TRBP
+        defines selectivity for nuclear receptors [ 40 ] .
+        Phosphorylation of Stat3 has been reported to occur only in
+        705Tyr and in 727Ser, allowing dimerization and full
+        transactivating activity [ 41 ] . Whether this 219Ser next
+        to the LXXLL motif is involved in the coactivator activity
+        of Stat3, and the interaction of Stat3 with other
+        coactivators only takes place in the context of Stat3
+        transcription factor activity or also can be part of the
+        general mechanism of the transcription complex formation
+        requires further studies.
+        Activation of AR is a driving force in development and
+        progression of prostate cancer. Several mechanisms could be
+        involved in this AR activation [ 21 22 23 ] . Changes in
+        the specificity of AR broadening the responsive spectrum to
+        other steroid hormones different to dihydrotestosterone,
+        can be caused by genetic mutations affecting different
+        regions of AR. We studied if active Stat3 could be
+        sufficient to alter the specificity of a wild-type AR to
+        non-steroid hormones. Our results indicate that native AR,
+        with no mutations, is responsible only to androgens, being
+        Stat3 not sufficient to alter this feature of AR. Activated
+        Stat3 d oes not affect the specificity of AR to bind to
+        other HREs different form ARE. Other altered response of
+        mutated AR is the paradoxical agonistic effect of
+        antiandrogens. Also in this case, Stat3 could not reverse
+        the antagonistic activity of flutamide on a wild-type AR.
+        These results point to mutations in AR as a necessary step
+        in some of the altered responses of AR seen in advanced
+        prostate cancer.
+        Another possible mechanism by which a prostate cancer
+        circumvents the low levels of androgens resulting from
+        androgen ablation therapy is by increasing the sensitivity
+        of AR to very low levels of androgens [ 42 ] . Stat3
+        increased the sensitivity of AR to a dose of androgen that
+        showed no activity in the absence of Stat3, in the absence
+        of a mutated AR. The constitutive activation of Stat3 found
+        in prostate cancer [ 27 43 ] could be an initial step in
+        the clonal selection of malignant cells affecting not only
+        Stat3-regulated genes but also AR, as part of the
+        transcription complex recruited in response to activated
+        AR. Recently, overexpression of SRC-1 and TIF-2 has been
+        found in prostate cancer recurrence after androgen
+        deprivation therapy [ 44 ] , providing a molecular basis
+        for AR activation that could be similar to the one
+        displayed by Stat3 in its role as coactivator.
+        In conclusions, we report here that: 1) a constitutively
+        active form of Stat3 stimulates transcriptional activity of
+        SHRs in a hormone-dependent manner; 2) active Stat3 can act
+        synergistically with other c oactivators to stimulate SHRs
+        transcriptional activity; 3) Stat3 did not affect
+        specificity of AR to other steroid hormones different than
+        androgen, or binding of AR to other HREs; 4) Stat3
+        increases the sensitivity of AR to androgen. These results
+        can help to elucidate the mechanism by which SHRs in
+        general, and AR in particular, regulate gene
+        expression.
+      
+      
+        Methods
+        
+          Plasmids
+          Luciferase reporter plasmids containing specific
+          responsive elements for AR, GR, and PR
+          (GRE-TATA-luciferase) and ER (ERE-TATA-luciferase) have
+          been described elsewhere [ 29 30 ] ; another
+          androgen-responsive reporter contained the fragment
+          -286/+28 of the rat Probasin (PB) promoter, and was
+          obtained from Dr. R. Matusik, Vanderbilt University, TN [
+          31 ] . An expression plasmid for wild-type hAR was kindly
+          provided by Dr. C. Chang, University of Rochester, NY.
+          Expression plasmids for hGR, hPR α and ER have been also
+          described [ 29 30 ] . Wild-type inactive form of Stat3
+          (pCAGGS-HA-Stat3) was from Dr. T. Hirano, Osaka
+          University, Japan [ 32 ] . The plasmid expressing a
+          constitutively active form of Stat3 (Stat3C-Flag) was
+          obtained from Dr. J. Darnell, jr. [ 18 ] . This
+          constitutively activated Stat3 (a mutant produced by
+          substitution of the cysteine residues within the
+          COOH-terminal loop of the SH2 domain of Stat3) induces
+          cellular transformation and tumor formation in nude mice
+          [ 18 ] . The plasmids to express other coactivators
+          (SRC-1, CBP/p300, TIF2 and PCAF) have been described
+          elsewhere [ 29 30 ] .
+        
+        
+          Cells and transfections
+          CV-1 cells were maintained in 10% fetal bovine serum
+          (Bio-Whittaker, Walkersville, MD), 100 u/ml penicillin,
+          100 μg/ml streptomycin in DMEM. Twenty four hours before
+          transfection, cells were plated in 12 well plates (1.2 ×
+          105 per well) in 5% charcoal stripped serum (Hyclone,
+          Logan, UT), antibiotics, and 2 mM L-glutamine in phenol
+          red-free DMEM. For transfections, we used (per well) 0.2
+          μg reporter, 0.2 μg receptor, and 2 μg coactivator or
+          empty vector. In experiments studying synergy of
+          coactivators, the total amount of DNA was kept constant
+          at 4.4 μg per well. Transfections were performed with
+          Superfect reagent according to the manufacturer's
+          protocol (Qiagen, Valencia, CA). Three hours after
+          transfection, medium was removed and hormones added in
+          phenol red-free DMEM containing 5% charcoal stripped
+          serum and antibiotics. Dihydrotestosterone (DHT),
+          dexamethasone (Dex), estradiol (E 
+          2 ), and the synthetic anti-androgen
+          flutamide were from Sigma (Saint Louis, MO). The
+          synthetic analogs of androgen and progesterone, R1881 and
+          R5020, respectively, were from New England Nuclear
+          (Boston, MA).
+        
+        
+          Luciferase activity
+          Thirty six hours after incubation with hormones,
+          luciferase activity was determined in cell extracts
+          according to manufacturer's suggestions (Promega,
+          Madison, WI). Luciferase activity was normalized per μg
+          protein, determined by Bradford assay (Coomasie Plus,
+          Pierce, Rockford, IL). Data are presented as a
+          representative experiment, which was independently
+          repeated at least three times.
+        
+      
+      
+        Authors' Contributions
+        DeMiguel and Lee carried out the entire experiments.
+        Onate and Gao conceived of the study, and participated in
+        its design and coordination.
+      
+    
+  

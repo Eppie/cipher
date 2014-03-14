@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-09-05" version="1.0.4" xmlns="http://www.xces.org/schema/2003">
+    <fileDesc>
+        <titleStmt>
+            <title>Investigations : Chapter 8</title>
+        </titleStmt>
+        <sourceDesc>
+            <biblStruct>
+                <monogr>
+                    <title>Investigations</title>
+                    <author>Stuart Kauffman</author>
+                    <imprint>
+                        <publisher>Oxford University Press</publisher>
+                        <pubDate>2000</pubDate>
+                        <pubPlace>USA</pubPlace>
+                        <idno type="ISBN">019512104X</idno>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <textClass>
+            <domain>Natural Science</domain>
+            <subdomain>Biology</subdomain>
+            <subject>General biology</subject>
+            <audience>Adult</audience>
+            <medium>Book</medium>
+        </textClass>
+        <annotations>
+            <annotation ann.loc="ch8.txt" type="content">Text content</annotation>
+            <annotation ann.loc="ch8-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="ch8-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="ch8-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="ch8-vp.xml" type="vp">Verb chunks</annotation>
+            <annotation ann.loc="ch8-np.xml" type="np">Noun chunks</annotation>
+        </annotations>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <changeDate>2005-03-29   </changeDate>
+            <respName>Keith Suderman</respName>
+            <item>Updated to v1.0.4 with complete standoff markup</item>
+            <item>Added Hepple part of speech tags</item>
+            <item>Fixed sentence boundaries</item>
+            <item>Added noun and verb chunks</item>
+        </change>
+    </revisionDesc>
+</cesHeader>

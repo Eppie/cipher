@@ -1,0 +1,583 @@
+
+  
+    
+      
+        Background
+        Opioid receptors (ORs), like many other G
+        protein-coupled receptors (GPCRs), are capable of
+        signalling via the family of mitogen activated protein
+        kinases (MAPKs). It has been postulated that activation of
+        these kinases allows GPCR agonists to modulate such diverse
+        molecular events as cell proliferation, differentiation,
+        and survival [ 1 ] . To date, all three cloned opioid
+        receptor types (μ,δ, κ) and the closely related nociceptin
+        receptor have demonstrated the ability to signal through
+        their heterotrimeric G proteins (G 
+        i or G 
+        o ) to at least one type of MAPK [ 2 3 4
+        ] . Among the members of this family that are activated by
+        opioids, are the two extracellular signal-regulated protein
+        kinases (p44 MAPK(ERK 1) and p42 MAPK(ERK 2)) [ 5 ] and the
+        p38 protein kinase [ 3 ] . However, the precise mechanism
+        by which OR stimulation produces an increase in MAPK
+        activity is still unknown and under investigation.
+        While receptor, cell, and tissue-specific differences
+        almost certainly exist and appear to make any single
+        mechanism of ERK activation unlikely, certain generalities
+        have begun to emerge. For example, ERK activation by GPCRs
+        is predominantly a Ras-dependent event, one that utilizes
+        many of the upstream protein intermediates (i.e. Shc, Gab1,
+        Grb2, mSOS, and MAPK kinase (MEK-1)) known to be used by
+        single-transmembrane receptor tyrosine kinases (RTKs) like
+        the epidermal growth factor receptor (EGFR) (for a review
+        see [ 6 ] ). When ERKs are activated after EGFR
+        stimulation, an essential event is the sequential tyrosine
+        phosphorylation of these intermediate proteins and their
+        binding to the tyrosine phosphorylated EGFR before the
+        GTP-loading of Ras. For the GPCR model, the tyrosine
+        kinase(s) involved and the site of this multi-protein
+        complex formation is less clear. For a number of GPCRs,
+        including the lysophosphatidic acid (LPAR) [ 7 ] ,
+        β-adrenergic 
+        2 (β 
+        2 -AR) [ 8 ] and μ- and δ-OR receptors [
+        9 ] , the activation of a non-receptor tyrosine kinase of
+        the Src or focal adhesion kinase (FAK) [ 10 ] families are
+        involved. However, the question of what plasma
+        membrane-spanning protein serves as the scaffold for Shc
+        binding and beyond remains to be answered.
+        Two possibilities have emerged as potential sites of
+        tyrosine phosphorylation and subsequent scaffold building
+        in response to GPCR stimulation, which results in ERK
+        activation: the GPCR, itself, or a co-expressed RTK (i.e.
+        the EGFR) that would act as a surrogate. We and others and
+        we have reported that μ- and δ-opioid receptors become
+        tyrosine phosphorylated after agonist-stimulation [ 11 12 ]
+        . Tyrosine phosphorylation of a membrane-bound protein is
+        an essential step in ERK activation, because it creates
+        SH2-binding domains that allow Shc and other proteins to
+        associate into a multi-protein signalling complex. The
+        mutation of one of the tyrosines (Y318F) in the δ-OR or the
+        presence of the Src inhibitor, PP1, significantly reduces
+        tyrosine phosphorylation of this receptor and its ability
+        to activate ERKs [ 11 13 ] . However, a small degree of
+        δ-OR agonist-mediated ERK activation remained in cells
+        expressing the Y318F mutant receptor, suggesting that a
+        second mechanism or an additional tyrosine could be
+        involved. These data suggest that the tyrosine
+        phosphorylation of GPCRs may allow them to signal ERKs in
+        the absence of RTK or FAK phosphorylation by acting as
+        their own scaffolds.
+        However, the majority of the published studies have
+        focused on the hypothesis that GPCRs must work in
+        cooperation with RTKs (i.e. the EGFR) to produce ERK
+        activation. Studies by Daub et al., [ 7 ] and Luttrell et
+        al., [ 14 ] have demonstrated that stimulation of LPAR (G 
+        i/q -coupled) and β 
+        2 -ARs (G 
+        s -coupled), respectively, results in
+        the "transactivation /transphosphorylation" of co-expressed
+        EGFRs. For example, both EPA and isoproterenol increase the
+        tyrosine phosphorylation of the EGFR, which appears to be
+        required for ERK activation since the presence of
+        kinase-deficient EGFR mutants or the kinase inhibitor,
+        AG1478, prevents both responses. It is hypothesized that
+        trans-tyrosine phosphorylation of the EGFR creates protein
+        phosphotyrosine binding sites that act as a surrogate
+        scaffold for ERK activation [ 7 ] . Since ORs share many
+        similarities with LPAR and β 
+        2 -ARs in the way they activate the ERK
+        pathway [ 9 15 ] , we chose to examine whether RTK
+        transactivation occurs and is a necessary aspect of
+        δ-opioid-mediated ERK activation.
+      
+      
+        Results
+        
+          DSLET and EGF induce ERK phosphorylation in
+          δ-OR-expressing HEK-293 cells
+          We have shown that δ-opioids increase the
+          phosphorylation of ERKl/2 in HEK-293 cells when the mouse
+          wild type (WT) δ-OR is stably expressed [ 11 13 ] . The
+          concentrations required to observe DSLET-mediated ERK
+          phosphorylation (EC 
+          50 = 10 nM; Figure 1a) are consistent
+          with those reported for other δ-OR-mediated events,
+          including G protein activation and adenylyl cyclase
+          inhibition [ 16 17 ] . Moreover, no change in total ERK
+          expression was observed, concomitantly, with ERK
+          phosphorylation in any of our experiments (data not
+          shown). Pretreating the cells with PTX (100 ng/ml), or
+          the specific δ-OR antagonist, naltrindole (10 μM),
+          completely blocked the DSEET-induced increase in ERK
+          phosphorylation (Figure 1b). These results suggest that
+          DSLET utilizes a G 
+          i -coupled δ-OR to stimulate ERK 1 and
+          2. We then took advantage of the HEK-293 cell line's
+          endogenous expression of the EGFR to examine this
+          receptor's ability to activate ERKs. Similar to DSLET,
+          EGF (5 ng/ml) produces a robust activation of ERKs in
+          δ-OR-expressing HEK-293 cells after a 5 minute treatment
+          (Figure 2a). PTX did not attenuate EGF-mediated ERK
+          activation (Figure 2a), although this response was
+          completely blocked by the EGFR kinase inhibitor, AG1478
+          (1 μM) (Figure 2a). Conversely, DSLET-induced ERK
+          activation was unaffected by AG1478, suggesting that
+          different tyrosine kinases are involved in opioid- and
+          EGF-dependent MAPK activity (Figure 2b). DSLET-mediated
+          ERK activation was significantly inhibited by the Src
+          kinase inhibitor, PP1 (10 μM) (Figure 3). PP1 also had a
+          significant inhibitory (75% reduction) effect on MAPK
+          activation by EGF (Figure 3).
+        
+        
+          DSLET-induced ERK activation does not produce
+          hyper-phosphorylation of the EGFR
+          Our next experiments were designed to examine whether
+          the EGFR becomes tyrosine phosphorylated during ERK
+          activation by DSLET. As stated in the introduction,
+          several GPCRs (including the EPAR, β 
+          2 -AR, and substance P (SP-R)) [ 14 18
+          19 20 ] increase EGFR phosphorylation during the course
+          of ERK activation, and it is believed, that in these
+          instances, this event is an initial step in the
+          progression of the MAPK cascade. Our laboratory has
+          previously reported [ 11 13 ] that 5-opioids induce
+          tyrosine phosphorylation of the δ-OR, and it appears that
+          this is catalyzed by the non-receptor tyrosine kinase
+          Src. However, transphosphorylation of the EGFR after OR
+          activation has not been reported. WT-δ-OR-expressing
+          HEK-293 cells were exposed to increasing concentrations
+          of either DSLET (1-1000 nM) or EGF (0.1-100 ng/ml) for
+          five minutes to induce ERK activation. As stated earlier,
+          either DSLET or EGF increased the appearance of
+          phosphorylated ERK in a time and concentration dependent
+          manner. A portion of the lysates used to measure ERK
+          activation was used to immunoprecipitate the EGFR or δ-OR
+          to determine their degree of tyrosine phosphorylation.
+          After immunoprecipitation of the FLAG-tagged δ-OR or the
+          EGFR with the appropriate antibodies, we found that only
+          DSLET induced tyrosine phosphorylation of the δ-OR,
+          whereas only EGF potentiated EGFR phosphorylation (Figure
+          4). 1 μM DSLET-induced tyrosine phosphorylation of the
+          δ-OR was inhibited by naltrindole, PP1, but not by AG1478
+          (Figure 5). These results suggest that transactivation of
+          the EGFR does not play a role in δ-OR phosphorylation or
+          ERK activation by δ-opioids.
+        
+        
+          Determining whether a co-expressed RTK is
+          structurally necessary for δ-OR-mediated ERK
+          activation
+          
+            EGFR down-regulation does not affect
+            DSLET-mediated ERK activation in HEK-293 cells
+            Despite the lack of direct evidence that DSLET
+            induces the transactivation of co-expressed RTKs, it is
+            possible that the EGFR, in some way, contributes to ERK
+            activation by opioids. It is possible that RTKs and
+            GPCRs share important protein intermediates that are
+            required during ERK activation. Therefore, we wished to
+            determine what effects the down-regulation of the EGFR
+            would have on ERK signalling via the δ-OR. HEK-293
+            cells expressing the WT-δ-OR were exposed to EGF (100
+            ng/ml) for 24 hours in order to down-regulate and
+            desensitize the endogenous EGFR. After chronic EGF
+            treatment, the cultures were washed with serum-free
+            media and then exposed acutely (5 minutes) to either
+            EGF (10 ng/ml) or DSLET (1 μM) to stimulate ERK
+            phosphorylation. In EGF pre-treated cultures, acute EGF
+            (10 ng/ml) was unable to increase the expression of
+            phospho-ERKs compared to media-exposed controls (Figure
+            6). This lack of response appears to be due to the
+            down-regulation of EGFRs from these cells as confirmed
+            by immunoblots using the anti-EGFR antibody (data not
+            shown). However, DSLET-mediated ERK activation was
+            unaltered in identically pretreated cultures.
+            In cells pretreated with DSLET (10 μM; 24 hours) to
+            induce down-regulation of δ-ORs [ 21 ] , DSLET (1 μM)
+            was no longer able to activate the ERK cascade, but the
+            ERK response to acute EGF (10 ng/ml) was unchanged
+            compared to medium-treated controls (Figure 6). These
+            results indicate that a reduction in the function and
+            density of endogenous EGFRs has little effect on
+            opioid-mediated MAPK cascades, and suggests that the
+            enzyme cascades that control δ-OR- and EGFR-mediated
+            ERK activation are separate.
+          
+          
+            DSLET activates ERK even in a cell line devoid of
+            the EGFR
+            C6 glioma cells have been used as host cells for the
+            transfection of several GPCR types, and have the
+            advantage of expressing high levels of ERK, while being
+            devoid of the EGFR. In C6 glioma cells that express the
+            mouse δ-OR, DSLET produced a concentration-dependent
+            increase in the appearance of phospho-ERK 1 and 2.
+            DSLET-mediated ERK activation in C6-δ-OR cells was
+            completely inhibited by either pre-treatment with PTX
+            or naltrindole (data not shown). In contrast, EGF was
+            unable to elicit ERK activation, at any concentration
+            tested, up to 1 μM (Figure 7). Furthermore, the EGFR
+            antagonist, AG1478, had no effect on DSLET-mediated ERK
+            activation, which eliminated the possibility that these
+            antagonists produced non-specific, inhibitory effects
+            (Figure 7).
+          
+          
+            Potential of endogenously expressed insulin
+            receptors (IR) and PDGFR to act as surrogate protein
+            scaffolds during ERK activation by δ-opioids
+            However, C6 glioma cells express additional RTKs
+            including insulin (IR) and platelet-derived growth
+            factor (PDGFR) receptors. It is possible that these
+            sites can be used as surrogate scaffold proteins during
+            ERK activation, and we explored the possibility that
+            δ-opioids induce the transphosphorylation of these two
+            RTKs. At concentrations of 10 μM, neither DSLET, DADLE,
+            nor DPDPE were found to increase the tyrosine
+            phosphorylation of the IR or the PDGFR, whereas insulin
+            (100 ng/ml) or PDGF (50 ng/ml) induced significant
+            tyrosine phosphorylation of these sites (Figure 8).
+            Moreover, we pre-treated C6-δ-OR cells with the IR
+            antagonist, hydroxy-2-napthalenylmethylphosphonic
+            acid-tris acetoxymethylester (HNMPA-(AM) 
+            3 ; 100 μM), or the PDGFR
+            antagonist, (tyrosphostin 9; 100 μM) before the
+            addition of DSLET (1 μM). Despite the presence of these
+            catalytic RTK inhibitors, δ-opioid-mediated ERK
+            activation was not significantly altered in comparison
+            to untreated cultures (Figure 9). Furthermore,
+            immunoprecipitation of the δ-OR, followed by
+            immunoblotting using anti-phosphotyrosine antibodies,
+            revealed that these inhibitors did not attenuate
+            tyrosine phosphorylation of δ-ORs after DSLET treatment
+            (Figure 9). The results presented, herein, strongly
+            suggest that transactivation of RTKs does not make a
+            significant contribution to DSLET-induced ERK
+            activation in at least two different cell lines.
+          
+        
+      
+      
+        Discussion
+        With the first evidence that GPCRs could signal via the
+        MAPK cascade, many investigators have looked for a common
+        mechanism of activation that could be applied across
+        receptor types. Unlike the better understood mechanism
+        whereby single-transmembrane RTKs (e.g. EGFR, IR, or PDGFR)
+        stimulate ERKs [ 22 23 ] , no single sequence of events
+        appears to hold among GPCRs, even when they are expressed
+        in the same cell line. For instance, studies from two
+        laboratories reported marked differences in the way the β 
+        2 -adrenergic receptor (β 
+        2 -AR) activates ERK 1 and 2 in HEK-293
+        cells. In one study, the β 
+        2 -AR activates ERK through it's
+        coupling to a PTX-sensitive G 
+        i protein and subsequent Ras activation
+        [ 24 ] , while, in another, ERK phosphorylation occurred in
+        a PTX-independent and a G 
+        s - and cAMP-dependent fashion [ 25 ] .
+        Furthermore, these studies indicate that the same receptor
+        may activate ERKs via one mechanism when it is endogenously
+        expressed and via another when it is transfected into a
+        cell line [ 25 ] .
+        Despite numerous reported differences, it does appear
+        that diverse GPCRs share common mechanistic themes during
+        ERK stimulation, including the tyrosine-phosphorylation of
+        Shc and its complexing with Grb2, mSOS recruitment, the
+        GTP-loading of Ras, and Raf-1 activation leading to MEK-1
+        phosphorylation [ 1 ] . However, the progression of each of
+        these downstream events after GPCR stimulation depends
+        first on the tyrosine phosphorylation of a membrane-bound
+        protein that will be used as a scaffold, which will bind
+        the other proteins (e.g. Shc, Grb2, Gab1, mSOS.... etc...)
+        [ 7 ] . Moreover, the exact identity of the tyrosine
+        kinase(s) involved in this initial step appears to vary
+        among receptor types, with RTKs, non-receptor protein
+        tyrosine kinases (PTKs), or FAKs being involved in
+        particular instances [ 26 ] .
+        In this report, we questioned whether the EGFR acts as a
+        surrogate scaffold during ERK activation through the δ-OR,
+        as it appears to do for several other GPCRs [ 7 ] . To act
+        as a surrogate-binding site for complex formation, the
+        literature states that this protein must first become
+        tyrosine-phosphorylated [ 7 ] . Tyrosine phosphorylation of
+        the EGFR is apparent after agonist stimulation of the α 
+        2 -AR (COS-7), β 
+        2 -AR (COS-7), insulin-like growth
+        factor (IGF-1; COS-7), substance P, and the
+        lysophosphatidic acid receptor (LPAR) [ 7 ] . In addition,
+        each of the aforementioned ligands also increases ERK
+        phosphorylation when the proper receptor is expressed in
+        these cell lines. ERK activation and EGFR phosphorylation
+        via each of these receptors was inhibited by prior exposure
+        to the EGFR kinase inhibitor, AG1478.
+        However, the Src inhibitor, PP1 or the expression of a
+        dominant-negative Src mutant, will reduce GPCR-mediated
+        transphosphorylation of the EGFR and GPCR-mediated ERK
+        activation to varying degrees (partial to total),
+        suggesting that at least two different tyrosine kinases can
+        be involved [ 18 ] . Src was found to co-immunoprecipitate
+        with the phosphorylated EGFR in COS-7 cells exposed to
+        either LPA or EGF [ 14 ] . These authors reported that the
+        autophosphorylation of Y350 in the EGFR does not occur
+        after LPA exposure, suggesting that c-Src is the principal
+        tyrosine kinase in this instance and not the EGFR's
+        intrinsic tyrosine kinase. Src has also been found to
+        co-immunoprecipitate with the agonist-stimulated β 
+        2 -AR during the period of ERK
+        activation [ 8 ] . Our previous work [ 11 13 ] suggested
+        that a Src-like protein tyrosine kinase was primarily
+        responsible for tyrosine phosphorylation of the δ-OR and
+        ERK activation induced by DTLET when the receptor was
+        expressed in CHO or HEK-293 cells, because both responses
+        were blocked by the presence of 50 μM PP1. The seemingly
+        dominant role of Src in opioid-mediated ERK stimulation is
+        strengthened in the present report because of considerable
+        evidence that the EGFR antagonist, AG1478, was unable to
+        reduce DSLET-mediated ERK activation. This suggests that
+        the EGFR has minimal, if any, involvement in the
+        opioid-activated ERK cascade. It is possible, that the dual
+        coupling of the LPAR to both inhibitory (G 
+        i ) and stimulatory (G 
+        12/13 and G 
+        q ) G proteins is a reason for these
+        differences.
+        In this report, we have presented considerable evidence
+        that δ-ORs and EGFRs activate ERKs, independently, without
+        the need for transphosphorylation of a co-expressed RTK. We
+        used C6 glioma cells, transfected to stably express the
+        mouse δ-OR, to examine ERK activation by δ-opioids in a
+        line that does not express the EGFR to confirm our results
+        obtained in the receptor down-regulation experiments. We
+        observed that DSLET activated p42 mapkand p44 mapkvery
+        robustly in this cell line. C6 glioma cells do express
+        growth factor receptors that bind PDGF and insulin.
+        However, neither of these proteins has been reported to act
+        as a surrogate scaffold during ERK activation by non-opioid
+        GPCRs [ 27 ] . In the present report, DSLET-mediated ERK
+        phosphorylation was unaltered by the presence of the IR or
+        PDGFR antagonists, HNMPA-(AM) 
+        3 and tyrosphostin 9, respectively. It
+        is probable that the δ-OR in C6 glioma cells also acts as
+        its own platform for the binding of Shc, etc., since the
+        δ-OR also undergoes agonist-mediated tyrosine
+        phosphorylation in this particular cell line (Kramer et
+        al., unpublished observations), similar to what we
+        previously reported for the δ-OR expressed in Chinese
+        hamster ovary or HEK-293 cells [ 11 13 ] . Thus, in at
+        least two different cell lines, HEK-293 and C6 glioma, we
+        have significant evidence that transactivation of an
+        endogenously expressed RTK is not required for ERK
+        activation through opioid receptors.
+        While the EGFR does not appear to be phosphorylated
+        during DSLET-mediated ERK activation, it is possible that
+        the EGFR is somehow involved in this response when it is
+        present. Buist et al., [ 27 ] reported that
+        endogenously-expressed LPA and endothelin-1 (ET-1)
+        receptors in SK-N-MC cells do not activate ERKs unless the
+        EGFR is co-expressed, although each GPCR is functional as
+        evidenced by their ability to increase intracellular [Ca
+        2+]. In the presence of the EGFR, ligand activation of LPA
+        and ET-1 receptors did not increase EGFR phosphorylation
+        even though both the LPA and ET-1 receptors stimulated ERK
+        activity by 10-fold over basal [ 27 ] . Specifically, key
+        protein intermediates may be physically associated with
+        endogenous RTKs in HEK-293 cells, and therefore,
+        down-regulation of the EGFR may negatively affect ERK
+        phosphorylation by opioids. To examine this, we induced
+        significant down-regulation of EGFR density and function by
+        exposing δ-OR-HEK-293 cells to 100 ng/ml EGF for 24 hours.
+        Functionally, these cells are no longer capable of
+        activating ERK 1 or 2 in response to 10 ng/ml EGF (Figure),
+        whereas this concentration produces a strong effect in
+        non-pretreated cells. Conversely, DSLET-mediated ERK
+        phosphorylation is actually greater in chronically-treated
+        EGF cultures to that observed in cells not previously
+        exposed to high EGF concentrations. This may represent a
+        compensatory effect to counteract the loss of function of
+        an important growth factor receptor. In a similar
+        experiment, a 24-hour exposure to DSLET (10 μM) induced
+        significant δ-OR down-regulation and an almost complete
+        loss of DSLET-mediated ERK phosphorylation. MAP kinase
+        activation by a 5 minute exposure to EGF was unaffected by
+        δ-OR down-regulation. These results, taken together,
+        suggest that GPCRs and RTKs can act as independent
+        regulators of MAP kinase cascades, although interactions
+        between the two receptor types may exist in certain
+        cases.
+        In conclusion, we report that the δ-OR agonist, DSLET,
+        induces significant ERK activation in the absence of any
+        increase in phosphorylation of the co-expressed EGFR in
+        HEK-293 cells. HEK-293 cells endogenously express the EGFR,
+        and EGF produces robust ERK activation concomitant with
+        EGFR tyrosine phosphorylation. Immunoprecipitation studies
+        showed that the δ-OR becomes tyrosine phosphorylated after
+        exposure to DSLET, but not to EGF. These studies were
+        repeated in δ-OR-transfected C6 glioma cells, which do not
+        express the EGFR. In these cells, DSLET was still able to
+        induce ERK activation. Additional studies showed that the
+        two RTKs, which are present in C6 glioma cells, IRs and
+        PDGFRs, had no apparent role on ERK activation by a
+        δ-opioid agonist. Furthermore, inducing down-regulation of
+        either the EGFR or δ-OR by chronic agonist treatment has
+        little effect on ERK activation by the other receptor in
+        HEK-293 cells, suggesting that these pathways are distinct.
+        These results demonstrate that opioid-mediated ERK
+        activation occurs independently of EGFR
+        transphosphorylation, and that the tyrosine-phosphorylated
+        δ-OR may serve as the primary scaffold.
+      
+      
+        Materials and Methods
+        
+          Drugs and compounds
+          All chemicals used for these studies were of reagent
+          grade and obtained from the following sources. The Src
+          inhibitor, 4-amino-5-(4-methylphenyl)-7-(t-butyl)pyrazolo
+          [3,4-d]pyrimidine (PP1), was purchased from Calbiochem
+          (La Jolla, CA). The EGFR antagonist, AG1478
+          (4-(3-chloroanilino)-6,7-dimethoxyquinazoline), the
+          insulin receptor antagonist,
+          hydroxy-2-napthalenylmethylphosphonic acid-tris
+          acetoxymethylester (HNMPA-(AM) 
+          3 ), and the PDGFR antagonist,
+          tyrosphostin, 9 were purchased from Biomol (Plymouth
+          Meeting, PA). The opioid agonist,
+          [D-Ser-Leu-enkephalin-Thr (DSLET), was received from the
+          National Institute of Drug Abuse (NIDA, Baltimore, MD)
+          and the antagonist, naltrindole, was purchased from
+          Research Biochemicals, Inc., (Natick, MA). Pertussis
+          toxin (PTX) was purchased from Sigma Chemical Co. (St.
+          Louis, MO). Insulin was obtained from University Hospital
+          of New York University and PDGF was purchased from Biomol
+          (Plymouth Meeting, PA). All other compounds were obtained
+          from the sources listed under the individual methods.
+        
+        
+          Cell transfection and culture
+          C6 glioma cells were stably transfected with the cDNA
+          encoding the epitope-tagged (FLAG) mouse δ-opioid
+          receptor (C6-δOR) and were created in our laboratory
+          using the Flp-In transfection method. HEK-293 cells were
+          transfected, in house, with the cDNA encoding the
+          FLAG-tagged wild-type (HEK-δOR) mouse δ-OR. Complete
+          methods for the stable transfection of HEK-293 cells to
+          express the wild type receptor can be found in a previous
+          report [ 13 ] . Both cell lines were seeded in 6-well
+          dishes at an initial cell density of 1 × 10 6cells/well
+          and were maintained in Dulbecco's modified Eagle's medium
+          (DMEM; GibcoBRL) supplemented with 2 mM L-glutamine, 5%
+          fetal bovine serum (FBS) (Gemini Bio-Products, Calabasas,
+          CA), and 100 μg/ml gentamycin sulfate (Gemini
+          Bio-Products, Calabasas, CA). Selection pressure was
+          maintained by the presence of 1 mg/ml G418 sulfate (Life
+          Technologies, Inc.) in the culture media, which was kept
+          at 37°C in 7% CO 
+          2 /humidified air and was changed
+          every 3-4 days.
+        
+        
+          Cell treatment and the immunoprecipitation (IP) of
+          the δ-OR or the EGFR
+          C6-δOR or HEK-δOR cells were not treated until they
+          reached 80-90% confluency. Relative levels of receptor
+          expression were continuously measured among cell types by
+          radioligand binding assays [ 28 ] to insure that all
+          cells used expressed 1-2 pmol/mg protein of
+          3H-diprenorphine ( 3H-DIPR; 3H-DIPR, 54 Ci/mmol,
+          Amersham; 0.1-1.5 nM) binding. Sixteen hours before the
+          addition of drugs, the culture medium was removed and
+          replaced by fresh serum-free DMEM. All
+          inhibitors/antagonists were added at least thirty minutes
+          before opioid agonists or EGF. After a five-minute opioid
+          or EGF incubation, the cell monolayers were rinsed twice
+          with ice cold phosphate-buffered saline (PBS), and the
+          cells were solubilized by the addition of 300 μl of
+          solubilization buffer (50 mM Tris-HCl/Base (pH7.4), 1 %
+          Triton X-100, 10% glycerol, 1.5 mM MgCl 
+          2 , 1.0 mM CaCl 
+          2 , 300 mMNaCI, 1 mM NaVO 
+          3 , and the protease inhibitors
+          leupeptin (100 μg/ml), PMSF (100 μM), and aprotinin (100
+          μg/ml)) for 60 minutes at +4°C. Soluble proteins were
+          isolated by centrifugation at 30,000 g for ten minutes at
+          +4°C. Primary cell lysates were analyzed for protein
+          concentration using the Bio-Rad method. A mouse
+          monoclonal antibody raised against the FLAG-epitope
+          (Flag-M 
+          1 antibody (2-5 μg/μl), Sigma
+          Chemical, St. Louis, Mo.) was used to immunoprecipitate
+          the tagged δ-OR from the cell lysates, and a murine
+          anti-EGFR antibody ((5 μg/μl) clone LA22; Upstate
+          Biotechnology, Lake Placid, NY) was used to
+          immunoprecipitate out the EGFR. Antibodies to the insulin
+          (C-19 epitope-β subunit; rabbit polyclonal IgG (5 μg/μl))
+          and PDGF receptor (C-20 epitope; rabbit polyclonal IgG (5
+          μg/μl)) were purchased from Santa Cruz Biotechnology
+          (Santa Cruz, CA). Immunoprecipitation of all receptor
+          types was performed using magnetic Dynabeads (Dynal
+          Bioscience, Lake Success, NY) coated with anti-mouse or
+          anti-rabbit IgG and used according to the manufacturer's
+          instructions. Proteins were prepared for SDS-PAGE by
+          boiling them in 2 × Lammeli's sample buffer and stored at
+          -70°C until used.
+        
+        
+          Immunoblotting for the presence of phosphorylated
+          MAPK (ERK1/2) and phosphorylated tyrosines
+          SDS PAGE and immunoblotting (IB) were performed
+          following the methods contained in a previous report [ 11
+          ] , and all procedures were performed at room temperature
+          unless otherwise noted. Proteins (5-20 μg/lane) were
+          separated by using 10-20% acrylamide gels, and
+          electroblotted onto nitrocellulose membranes.
+          Non-specific binding sites were blocked by incubating the
+          nitrocellulose for 60 minutes in blocking buffer (25 mM
+          Tris-HCl/Base, 150 mM NaCl, 0.05% Tween-20, and 3% nonfat
+          dry milk). For the identification of the activated form
+          of ERK (pERK) from primary cell lysates, we used an
+          antibody raised against pERK-1/2 (1:5,000 dilution in
+          blocking solution, Santa Cruz Biotechnology, Santa Cruz,
+          CA). Total MAPK levels were quantified using the ERK-1
+          antibody (C-16 epitope; 1:5,000 dilution in blocking
+          solution), which was also obtained from Santa Cruz
+          Biotechnology (Santa Cruz, CA). Mouse monoclonal
+          antibodies raised against phosphorylated tyrosines (clone
+          PY20 (1:2,000 dilution), Santa Cruz Biotechnology, Santa
+          Cruz, CA) were used to identify tyrosine phosphorylated
+          EGFR or δ-ORs. Incubation with all primary antibodies was
+          carried on overnight at +4°C. Membranes were then
+          incubated for 60 minutes in the presence of a
+          goat-anti-mouse secondary antibody linked to
+          horseradish-peroxidase (1:2,000) at room temperature.
+          Immunoreactive proteins were visualized using a
+          horseradish peroxidase-sensitive ECL chemiluminescent
+          Western blotting (WB) kit (Pierce).
+        
+        
+          Data Analysis and statistical methods
+          Radioligand binding curves (to determine k 
+          D and B 
+          max ) were generated, and all
+          regression analyses were performed using the LIGAND
+          curve-fitting program [ 29 ] . Graphs were produced using
+          Sigmaplot for Windows (version 4.0). Images of
+          immunoreactive bands were captured on x-ray film and
+          analyzed using the MCID morphometric system (Imaging
+          Research Inc., Ontario, Canada). All immunochemical
+          assays were performed at least three times, although
+          results from a single experiment are sometimes shown for
+          clarity. One-way and two-way analyses of variance (ANOVA)
+          and the post-hoc Tukey test were used for multiple
+          comparisons at a minimum significance level of p ≤ 0.05.
+          Student's t-test was substituted for the ANOVA for simple
+          two-sample tests at the same significance level.
+          Statistical data are expressed as mean ± standard error
+          (SE) of the indicated number of observations.
+        
+      
+    
+  

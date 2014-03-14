@@ -1,0 +1,2255 @@
+
+   
+      
+         
+            Redundancy in Natural Languages
+
+
+
+            In this fast-paced age when information is digitized,
+faxed, uplinked, and downloaded, it is appropriate
+to consider natural languages from the
+point of view of information theory.  That is, we examine
+the information content of text or messages
+and the efficiency with which that information is
+represented.  The idea here is not to convert language
+into some sort of highly efficient, but inhuman,
+stream of ones and zeroes!  That type of efficiency
+is fine for computers, but not for human
+beings.  In fact, as we shall see, natural languages
+contain a fair amount of redundancy.  While this
+does not provide us with the most concise form of
+communication possible, it is a form that is ideally
+suited to human experience, which, after all, is why
+it came to be as it is.
+
+            It cannot be denied that some words are simply
+longer than they strictly need to be.  This is perhaps
+more noticeable in German than in English.  In German,
+as new words are needed, they are often
+formed from smaller words already existing.  Thus,
+we have the words Haupthandelsartikel , meaning
+`staple,' and Autoreparaturwerkstatt , meaning `garage.'
+If we were to construct a new vocabulary
+from scratch from the point of view of an extremely
+orderly, but over-zealous, cataloguer, we might
+have as the first two words in our dictionary AAAA
+and AAAB.  We would continue in this manner until
+we reached our last two words, ZZZY and ZZZZ .
+Our dictionary would contain 456,976 words.  This
+lexicon is of sufficient size to form a rich written
+language, such as German or English.  In fact, we
+could associate to each English word one of our new
+words.  Thus, the phrase To be, or not to be ?  might
+become THJL BDMN, OQRA NOOP THJL BDMN?
+(So much for pronounceability!)  Of course, in this
+example, our two-letter words become four-letter
+words, which hasn't helped keep things concise.  But
+now there is no word longer than four letters.  This
+game of re-cataloguing all our words undoes a natural
+process which occurs as languages evolve.  This is
+the tendency to shorten frequently used words and
+to allow less frequently used words to become
+longer.  This trend, known as Zipf's Law , causes
+common words such as to, in, a , and it to be as short
+as they are.  It would be unthinkable to replace
+these with ten-letter variants!  In this way, language
+at least attempts to follow a path of least resistance,
+in which the effort expended in writing or speech is
+lessened.
+
+            Despite the economies of effort introduced by
+Zipf's Law, natural languages nonetheless contain
+redundancies.  One example is the indefinite article
+a in English.  Many languages are inflected, which is
+also a form of redundancy, since English gets by
+nicely with little inflection.  In English, the function
+of words within sentences is typically signaled by
+word order.  The sentences I threw the dog the ball
+and I threw the ball the dog are not equivalent.
+Here, some of the semantic information is provided
+by word order, and not simply from the words themselves.
+In an inflected language, endings affixed to
+the words for dog and ball indicate which object is
+direct and which is indirect.  Thus, it is possible to
+rearrange words as in the example above.  The result
+may not always be idiomatic, but it will probably get
+the point across.  Such flexibility allows for a greater
+degree of expression in poetry, for example.  Thus,
+one has a romantic poem written in Latin in which
+the first line contains the words for man and woman
+on opposite ends of the line.  By the end of the
+poem, the words have gravitated toward the middle
+of the line.  It can even be argued that word forms
+used to show tense are superfluous, since Chinese
+has no notion of tense.  A sentence may be in the
+past, present, or future, depending on context.  One
+wonders how a person translating into Chinese
+would deal with unexpected or unpredictable tense
+shifts: Veni, video, vincam!
+            
+
+            Not only does the degree of redundancy vary
+from language to language, but also from one writing
+style to another.  One author might have a more loquacious
+bent than another.  Neither author can be
+said to have the better style.  A lengthy passage, if
+written well, can be more expressive and have
+greater effect than a simple, one-line statement of
+fact.  On the other hand, brevity is what gives a pithy
+aphorism its strength.  This is true of both poetry
+and prose.  More so than prose, however, poetry
+tends to explore both extremes--the concise and
+the protracted.  Poe, for example, used repetition in
+his poem The Bells to convey to the reader a sense of
+actually hearing the tolling of the bells, as though
+the sounds themselves were imprinted on the page.
+Somehow, it would not have been the same had Poe
+written simply that “The bells rang a lot.”  Or
+“bells, bells, et cetera.”  At the other extreme, some
+poets attempt to carefully choose words in such a
+way that the poem expresses a great deal in very
+little space.  Thus, we have a verse form like haiku,
+in which the totality of the poem is condensed into
+only seventeen syllables.  If only certain genres of
+prose could be as succinct!  A never-ending meeting
+at the office could be completed in plenty of time for
+a coffee break.  Presidential debates could begin and
+end with the introductory niceties, since very little
+of substance is ever said.  The civilized world would
+be grateful indeed if lengthy advertising pitches
+were instead given in haiku:
+
+
+Sudzo detergent
+Clean white garments full of fluff
+Buy many boxes
+
+            
+
+            Notwithstanding certain benefits arising from
+compactness, redundancy actually plays an important
+role in the communication process.  One is reminded
+of an experiment in which two subjects
+were placed in separate rooms and allowed to communicate
+only through a teletype.  One person was
+given a box of parts to a wheelbarrow, as provided
+from the factory (“some assembly required”).  The
+other was given the assembly instructions.  The object
+was to successfully assemble the wheelbarrow.
+Sentences transmitted usually read something like
+Put bolt into L-shaped part.  Such an imperative
+might elicit the response Which bolt?  or  Which L?
+Or perhaps the recipient of the message would insert
+some bolt into some part, only to find later that
+a needed part had already been attached.  When the
+test is modified to allow phone conversation, the
+time required for assembly decreases dramatically.
+Phrases become more verbose and more redundant,
+but more communicative.  With very little effort, it
+is possible to utter a terrific run-on sentence like,
+“Put the medium-sized brass bolt--not the one with
+the little black top, but the other one--into the sort
+of oblong L-shaped part with the green paint on one
+end, but first make sure that you have the axle
+pointed towards the side with the sort of wooden
+handle.”  A person would not be inclined to type out
+such a message verbatim.  More likely, he would remove
+occasional words deemed to be redundant.
+But in the process, the sentence would become less
+colloquial and less intelligible.
+
+            The presence of redundancy in language is perhaps
+best observed when the communication process
+breaks down.  The fact that a deaf person can
+determine a spoken phrase by reading lips demonstrates
+that the information is simultaneously being
+conveyed in two different ways.  Those with normal
+hearing can use visual clues to assist during the listening
+process.  Thus, it is possible to pick out the
+necessary morsels of information in noisy surroundings,
+if facial expressions, gestures and other contextual
+clues are taken into account.  But even in the
+absence of visual clues, the very sounds of human
+speech are overflowing with many times the volume
+of data strictly required to convey the message.  Examining
+a graph of a simple speech component, such
+as the sound of a vowel, one sees a complex pattern
+of superimposed waves, having myriad peaks and
+valleys.  When such a pattern is recorded and stored
+in computer-readable (“digitized”) form, it occupies
+an inordinately large amount of storage.  This seems
+all the more wasteful, considering that the only useful
+information being conveyed in our example is a
+single vowel sound.  This apparent redundancy,
+once again, proves to be beneficial.  Conversing over
+a noisy telephone line would be impossible were it
+not for the complexity of speech sounds.  When one
+of a hundred “sound peaks” is altered by an electrical
+pop or crackle, the sound of an E does not suddenly
+change to that of a U; it simply sounds like a
+“noisy E.”  If, on the other hand, speech contained
+“just enough” data, but no more, then the alteration
+of just one peak (or bit) would change the sound (or
+character) entirely.  A moderately noisy phone line
+would render messages as unintelligible gibberish
+(even those messages that did not start out that
+way!).  For this reason, when computers “talk” to
+one another over communication lines in their
+highly efficient system of beeps, conventional phone
+lines are seldom used, owing to the high error rate
+that would result.  In any event, computers must use
+an elaborate method of double-checking transmitted
+data, to ensure that no error is made.  In other
+words, computers must introduce redundancy
+where none previously existed in order to communicate
+effectively.
+
+            Predictability is closely related to redundancy.
+If the recipient of a message (such as the reader of
+text) is able to predict the next word before seeing
+it, the word is apparently not conveying any additional
+information.  In the following transmission, it
+is easy to predict the concluding letter: WITH LIBERTY
+AND JUSTICE FOR AL . (The transmission has almost
+certainly not ended there!)  On the other hand, only
+the most avid trivia buff could complete the sentence
+HARRY TRUMAN'S HAT SIZE WAS .....  While it is
+very unlikely that the final word is giraffe, the correct
+completion of the sentence requires somewhat
+more insight.  Similarly, the ability to infer the existence
+of an omitted letter or word (such as the indefinite
+article) is a form of prediction.  It is hard to
+ascertain the missing word in the sentence After
+crash-landing on the planet Zartok, I saw the most
+enormous -- I had ever seen!  The word in question
+is probably not portfolio.  But lack of familiarity with
+the planet Zartok precludes a more accurate guess.
+Although these examples deal with predictability
+based on semantic content, it is also possible to base
+predictions on patterns within the text itself.  In English,
+a Q is almost never followed by anything but a
+U .  Also, the letter E is the most frequently used letter
+in English.  So if one had no other information
+whatsoever about an omitted letter, guessing that
+the letter might be E would probably be more reasonable
+than guessing X.  And if the missing letter
+seemed to function as a vowel, the odds would be
+greater still.  This is the type of predictability studied
+in information theory.
+
+            Effective communication must contain the
+“right blend” of redundancy (predictability) and
+new information (unpredictability).  If a message is
+too redundant, it becomes tiresome.  (This calls to
+mind a British comedy sketch in which an announcer
+speaks on behalf of the Society for People Who Say
+Things Twice Things Twice .)  But as we have seen, if a
+communiqué has been compacted to maximize efficiency,
+the listener must strive to receive each and
+every morsel, a process which leaves no room for
+error.  An analogy might be made with music.  If, on
+first hearing, a piece of music is entirely predictable,
+droning on in endless clichés, then it lacks a certain
+creative spark, and is not enjoyable.  Conversely, if
+the listener continually finds himself disoriented
+with each new note, unable to identify any underlying
+pattern or theme, then the piece seems merely
+a random collection of sounds and is equally uninteresting.
+Such a composition would no doubt leave
+the impression that the string section had suddenly
+caught fire.
+
+            Redundancy is itself a phenomenon worthy of
+study, independent of the study of language or music.
+The physicist studies redundancy in the context
+of order and disorder of physical systems.  The disorder
+of a system is called its entropy .  The laws of
+thermodynamics tell us that closed systems tend to
+become more disorderly over time.  One such closed
+system is the universe itself.  We find that pockets of
+heat in the form of stars and galaxies are spreading
+out and cooling down over time.  Thus, we can imagine
+a time in the distant future when the universe
+will become almost uniformly cold, and very few
+temperature gradients will exist which could serve
+to provide a source of usable energy, such as the
+sun.  Without being drawn into these difficult questions,
+which require many concepts and tools developed
+in information theory, suffice it to say that redundancy
+plays a central role in nature itself, and
+not just in language.  As we have seen, redundancy
+is not the evil one might imagine it to be at first
+glance.  Indeed, it is necessary for the very existence
+of language.  But I repeat myself.
+         
+         
+            
+“And as for that better mousetrap, the X-terminator
+($1) is humane--the mouse is trapped, not killed--and
+can be reused.”  [From the Philadelphia Inquirer, .  Submitted by ]
+         
+         
+            
+“Suspected extremists bomb shop in India.” [Headline
+from the Philadelphia Inquirer, .  Submitted
+by ]
+
+         
+         
+            Little Waterloos on
+Europe's Language Frontiers
+
+
+
+            The unification of Europe is a noble thought,
+but what are you going to do about the language
+frontiers?  However bravely you sweep away
+customs barriers and encourage Europeans to move
+freely over the face of their continent, they will continue
+to come terrible and humiliating croppers at
+these invisible boundaries.  My own experience
+bears this out only too painfully.
+
+            The first time I ever ventured onto the Continent
+from my home in the depths of Britain was
+when I went to work as a teacher on the Zugerberg,
+a hilltop in Switzerland, many years ago.  I got out of
+the train at Zug, still half-dazed from a night trip
+across France, and what did I see in the sleepy
+square but a small tram in the window of which was
+a placard reading--unmistakably-- Zugerberg hell .
+I very nearly turned tail and fled without further
+investigation.  I even entertained the thought that
+the placard might have been put there by the diabolical
+pupils of the school I was going to, who were not
+at all keen on having a new English teacher.  I was
+not to know that, since hell in German means
+`bright,' this was merely an intimation to the townsfolk
+that although the town itself was plunged in fog,
+the sun was shining on the nearby heights.
+
+            Other travelers have no doubt suffered similar
+shocks.  Those who travel to St. Moritz by rail, for
+instance, may well be shaken when, just before arriving
+in their dream resort, they stop in a station
+where a big sign tells them: St. Moritz Bad!  Of
+course, everyone knows that St. Moritz isn't really
+so bad, so they probably conquer their apprehensions
+and go ahead.  But what about Bad Ragaz or
+even Bad Endbach?  Many of those who visit country
+towns in German-speaking parts will be proudly
+shown the local Rathaus .  They may well shudder at
+the thought that such a fine old building (actually a
+town hall) is rodent-infested.  I feel even more
+deeply for those expectant mothers who, turning a
+corner on a small Swiss station in search of a public
+convenience, have been faced by that one brutal,
+laconic word: Abort!  After all, wouldn't WC serve
+the purpose just as well?
+
+            At this point the reader will notice that we are
+here on delicate ground, straight among words that
+may offend our most intimate sensibilities.  When we
+meet them at a certain distance, we can usually manage
+to take the sting out of them.  For instance, if a
+German botánist called Fuchs gave his name to a
+flower, which is therefore known as a fuchsia , we
+can elegantly get round the issue in English by pronouncing
+it “FEW-sha.”  Or if there is a well-known
+pianist by the name of Kunz , we can avoid cataclysms
+in Yorkshire by calling him “KOONDS.”  But
+when you run into such things in real life, head-on
+and with no warning, there is really no remedy: all
+you can do is face the inevitable with whatever fortitude
+you can summon.  An evil fate of this kind befell
+a friend of mine from Gloucestershire who went
+to live in Germany near a town called Scheidt , the
+pronunciation of which proved to substantiate his
+worst misgivings.  In the early days of his sojourn
+in the area, he tells me, his voice used to break
+with shame every time he went to a railway ticket
+counter to ask for a return to Scheidt.
+
+            But to get to my own experience.  I had not been
+on the Continent long when I wanted to buy some
+nylons for a girl friend.  The German word for silk
+stockings escaped me, but the English word hose
+promptly suggested itself to my mind.  So I went into
+a shop selling ladies' lingerie and asked for Damenhosen .
+The girl behind the counter seemed slightly
+taken aback, and when she came and dangled some
+lacy panties before my eyes, I was taken aback too.
+Perhaps she thought I was a transvestite and had to
+be humored.  In fact, I was seriously embarrassed, for
+I was still young enough to have a sense of shame.
+
+            On another occasion I was in town with two
+young Englishmen who had just arrived on the scene
+and did not speak a word of German between them.
+We were feeling peckish although it was only mid
+afternoon, so we decided to go and have a snack in a
+restaurant.  The waitress, who spoke a little English,
+recommended a dish which happened to be in season.
+It turned out to be a paste made from sweet
+chestnuts which looked rather like a dish of worms.
+We were somewhat intimidated by the look of it, but
+we ate it--without enthusiasm, but with the stiff upper
+lip we had imbibed, so to speak, with our
+mothers' milk.  An hour or so later we still felt peckish,
+so we tried another establishment.  We decided
+that this time we did not want anything sweet, but
+rather something a little more substantial.  As a precautionary
+measure I consulted the menu, and there
+my eye fell on the vermicelles .  I explained to my
+companions that this must be pasta, a kind of Continental
+macaroni (in those days macaroni was about
+the only kind of pasta you ever saw in England, if
+we mercifully forget the incredible invention of
+spaghetti on toast).  They were all in favor, and five
+minutes later we got our snack: it was that chestnut
+paste again, looking more like worms than ever.
+We felt that we had been tricked by a malicious fate.
+We sat there, unable to start on the stuff, wishing
+that we were in Timbuktoo, where we could at least
+have had camels' eyes.
+
+            The same malevolent powers also operate in the
+opposite direction.  An Austrian lady of my acquaintance
+was interned in Yorkshire during the Second
+World War.  One day she and her companions were
+allowed to go to the cinema in a nearby town.  When
+they came out, they needed to go to the toilet, so
+they began to look round for a public convenience.
+They had hardly turned into the high street when
+their search appeared to be successful, for they
+found a door that bore the sign Closed .  That, they
+thought, could only be the English for the German
+word Klosett .  But they were disappointed--the
+door simply did not open.  It must have been a
+Thursday afternoon, for all down the street there
+were Closed signs--but no means of getting in anywhere.
+They even began to suspect that the townspeople
+were playing a mean practical joke on them.
+By now they were nearly bursting--with indignation,
+of course--but there was nothing for it: they
+had to wait till they got back to their internment
+quarters.  Continence, after all, is a virtue, or so say
+those who do not have it imposed on them.
+
+            Fortunately these linguistic snares land us in
+trouble only for a brief moment, ignominious as that
+moment may occasionally be.  Being saddled with a
+wrong name is a more lasting curse.  I was once
+called in to help a man whose brother had died in
+the United States, so that as next of kin he had to
+handle the correspondence.  Knowing no English, he
+obviously needed assistance.  He was called Schittli ,
+which, believe it or not, is an absolutely good Swiss
+name.  His brother, strangely enough, was not called
+Schittli. Having emigrated to the USA, he had discovered
+that the family monicker, however respectable
+in Appenzell, would never do in Pittsburgh.  He
+had therefore had it changed to Hittli , which involved
+the sacrifice of only two consonants.  Alas, it
+was not long before the shadow of a certain Adolf
+fell over Europe:  Hittli was so near to Hitler that the
+likeness became, for an immigrant, decidedly uncomfortable.
+Poor Hittli took the only course open
+to him, and sacrificed a vowel.  He died a Hattli .
+
+            The slings and arrows of the spoken language
+may prove even more perfidious in writing.  When I
+took my first office job in Switzerland, I had a secretary
+who knew no French or English, so that I had to
+write letters in these languages by hand for her to
+type.  One of the first happened to be to a French
+VIP, and she opened with full diapason: Nous avons
+l'horreur d'accuser réception de votre lettre... .
+Honour and horror are evidently very close in
+France.  Another opening gambit read like this: Nous
+vous remercions de vos linges du 24 juillet ....  On
+yet another occasion I had to write to a colleague by
+the name of Robert who had had the effrontery to
+criticize me, and I wanted to do so in a firm but
+studiedly polite tone.  Once again, the catastrophe
+came pat at the very outset: Dead Bob ....
+
+            Only too often the pitfalls awaiting the unsuspecting
+on the language frontiers are downright
+scatological.  Why is it that the Dutch wince when
+first informed of the location of Zurich Airport?
+Why do the Italians almost choke with mirth when
+they overhear an American calling his girl friend
+“My pet”?  And why did a German acquaintance of
+mine break into such coarse guffaws when he came
+across a passage in an English novel in which lovers
+were described as “lying among the furze”?  Persons
+not conversant with the languages involved will
+probably have no answers to these rhetorical questions,
+but I feel sure they will prefer to be spared the
+obnoxious truth.
+
+            Sometimes, however, the obnoxious truth just
+cannot be suppressed, being explicit and official.
+Thus the inhabitants of one Swiss canton drive round
+with VD written in large letters on their number
+plates, leaving you to believe it or not.  Similarly,
+fine-feeling English-speaking visitors to the Locarno
+region will freeze with horror when they see the
+initials of the Ferrovie Autolinee Regionali Ticinesi--the
+Ticinese Regional Railways and Bus Services--brazenly
+displayed on the local buses, and I
+once heard an Australian murmur that he had never
+seen anything quite as big and blue as that in his own
+country.  Then there was the young man who had
+come over from Yorkshire to serve an apprenticeship
+on the Continent.  On the day of his departure,
+he proudly showed me a ticket issued by a Swiss
+mountain railway.  It indicated the price of a single
+trip: 1 Fahrt Fr. 9.50.  He was taking it home to
+Yorkshire to prove to the locals just how high the
+cost of living is in Switzerland.
+         
+         
+
+
+            You have published a number of letters refuting
+the idea that the difference in coefficient of thermal
+expansion between brass and iron is responsible for
+the balls/brass/monkey saying [e.g., EPISTOLA from
+James T. Herron, XVI,2].  May I as a humble physicist
+and, above all, a certified gas fitter, stir up a little
+mud in this matter?
+
+            All the arguments put forward assume an ideal
+fit in the original pile and one temperature change,
+with detailed calculations based thereon: therein, I
+suggest, lies the rub.  The radius of curvature of the
+depressions in the monkey must have been greater
+than that of the balls or they would not pile in the
+first place.  Given this, the bottom layer of balls
+would be pushed apart as far as possible by the
+weight of those above.  The temperature rises; the
+brass expands more than the bottom balls, which are
+again pushed apart by the weight of those above.
+The temperature drops, but the weight of those
+above would prevent those in the bottom layer from
+returning to their original positions.  Repeat this a
+number of times, even from day to night and back,
+and the pile becomes more and more unstable until
+possibly one cold spell causes collapse.
+
+
+
+
+
+         
+         
+            Milestones, Footrocks,
+and Inchpebbles in the
+Historical Development
+of Formal Logic 
+            
+
+
+
+
+            The study of formal logic was begun in ancient
+Grease, in order to make the machinery of
+reasoning operate more smoothly.  The principal figure
+in this development was Dr. `Arris Toddle, who
+invented the Syllogism in Barbara, as well as those in
+Betsy, Patricia, and Harriet.  This form of reasoning
+runs essentially as follows:
+
+
+All men are mortal.
+Socrates was a man.
+∴Socrates was mortal.
+
+            
+
+            However, since Socrates was mortal, he must have
+died by now, so he is no longer alive and thus is no
+longer a man.  It follows that he is now no longer
+mortal and thus will live forever.  This establishes
+the immortality of the sole, as well as that of the
+heel, calf, ankle, and toe.  A similar argument can be
+carried out for anyone at all, except, of course, for
+Barbara herself, who was not a man to begin with.
+
+            A refinement of this form of argument, worked
+out by Dr. Ross C. Knee, is the Barbara of Seville,
+which underlies much of the Seville Rites legislation
+of the 1960's.  These important practices grew out
+of a popular mass movement composed by King
+Martin Luther, the only man ever to be awarded
+ninety-five masters degrees, after writing as many
+theses,  and were inspired by the Seville Shepherds,
+who were led by Seville herself, a woman with six
+hundred ninety-three distinct personalities, all but
+at most a very few of which were entirely unaware
+of the existence of most but not nearly all of the
+remaining others.  As in the case of Barbara, Seville's
+reasoning can also be stated in the form of a
+syllogism:
+
+
+All men are mortal.
+At least two hundred ninety-five of Sevilles' distinct
+personalities are men.
+∴Seville is suffering from a severe identity crisis.
+            
+
+            However, since the men are mortal, the proportion
+of Seville that comprises them will gradually decrease,
+leading to here ventual recovery, just in time
+to die from other causes.  This leaves Socrates the
+sole survivor, again establishing the immortality of
+the sole.
+
+            The next great development in logic was carried
+out by the Muddyville School, also known as The
+Skull Ass-ticks, when they played rock music on the
+side to make a living. 
+These logicians specialized in
+the counting of angels, which they found more effective
+than sheep in anesthetizing their students.  It is
+to these great minds that we owe the Fundamental
+Theorem of Formal Logic, which reads as follows:
+
+            Fundamental Theorem of Formal Logic:
+
+
+(a)  Exactly 2973 angels can dance on the head
+of a pin.
+
+(b)  Exactly 3874 angels can dance on the head
+of a needle.
+
+(c)  Exactly 264 angels can dance on the head
+of a two-penny nail.
+
+
+            
+
+            Since angels tend to be of uncertain gender, neither
+Barbara nor Seville will have anything to do
+with them, so their status vis-à-vis mortality remains
+an open question.  This is, in fact, the most important
+unresolved issue in all of formal logic, because of
+greatly inflated land values and a rapidly increasing
+angel population, both of which place dancing space
+at a premium.
+
+            Logic lay dormant for many centuries after being
+worked over so brilliantly by The Skull Ass-ticks,
+but it was finally rescued from angelic oblivion by
+Herr Professor Gottlob der Friggin', who proved
+that the morning star is not the same as the evening
+star, even though both are Venus. This invalidated
+the previously unquestioned Principle of the Substitutability
+of Identicals, which had been formulated
+by Leibniz in his battle with Figby Newton for recognition
+as the original discoverer of the infinitesimal
+calculus. This principle can be formulated as a
+syllogism, as follows:
+
+
+Leibniz discovered the calculus.
+
+Newton is not Leibniz.
+
+∴Newton did not discover the calculus.
+
+            
+
+            However, Gottlob's figgin' work showed that this argument
+was invalid, since Leibniz worked in the
+morning, Newton worked in the evening, and it was
+really Galileo that discovered the calculus while
+looking at Jupiter, not Venus, through his telescope.
+Galileo also disproved the principle that heavier objects
+fall faster than lighter ones, by dropping an apple
+and a watermelon off the top of a tower.  It was
+this apple that gave Newton the idea of Universal
+Gravitation, when it landed conveniently on his
+head, and it was Universal Gravitation that suggested
+to Newton the concepts of the infinitesimal
+calculus.  Exactly the same thing happened to
+Leibniz, except that he got hit by the watermelon
+and so was unconscious for several hours.  This gave
+Newton time to get to the patent office and file his
+claim for calculus, before Leibniz could figure out
+what had happened.
+
+            Gottlob's discoveries laid the foundation for a
+tremendous spurt of work in formal logic from the
+beginning of this century to the present day.  First,
+Russell N. Whitehead managed to derive all known
+mathematics from logical principles, in contrast to
+previous mathematicians, who had derived it from
+illogical principles.  This led to the famous Gödel
+theorem, which says that all mathematics cannot be
+derived from logical principles.  Gödel proved this
+theorem by showing that every sentence in a logical
+language can be encoded as a statement about positive
+numbers.  Since English is not a logical language,
+it follows that sentences in English can be
+encoded only in non-positive numbers and thus that
+English can make only negative statements about
+mathematics.  Since the same is true of every natural
+language, it follows that mathematics makes no
+sense whatsoever and thus that it can be ignored
+for all practical purposes.  This led Al Tarski to the
+discovery that logic itself depends only on the
+weather,  as indicated in the following syllogism:
+
+
+Snow is white.
+
+Snow is white.
+
+∴Snow is white.
+
+            
+
+            Since “snow is white” is true if and only if snow is
+white, and since “snow is white” is true if
+and only if “snow is white” is true, it follows that
+“ ` “snow is white” is true' is true” is true if and only
+if “ `snow is white' is true” is true.  These discoveries
+resulted in the theory of models, the clothing worn
+by whom gradually shrank to zero, thereby enabling
+Abe Robinson to prove the existence of infinitesimals,
+with predictable consequences in the physiognomy
+of certain members of the audience.  This reestablished
+the intersubstitutability of Newton and
+Leibniz, as long as it not snowing and Venus is still
+visible.
+
+            The most recent and, in many ways, the most
+exciting development in formal logic is the new field
+of fuzzy logic, in which precision is replaced with
+vagueness and truth with maybe and perhaps.   This
+was invented by Lofty Zappa, who is also known,
+frankly, as the father of invention, because of his
+work on the logic of necessity.  Rather than taking
+statements to be either true or false, fuzzy logic assumes
+that statements are true or false to some
+degree, so the Syllogism in Barbara, for example,
+would be reformulated as follows:
+
+
+Socrates was more or less a man.
+
+Most men are usually mortal.
+
+∴Socrates was most likely mortal to degree
+.86539.
+
+            
+
+            Since the average lifespan in ancient Athens was
+51.86 years, it follows that Socrates would have
+lived until he was 44.8791254 years old, if he had
+not developed a taste for hemlock.  Unfortunately,
+his addiction to this controlled substance led eventually
+to his arrest on charges of drug abuse, thereby
+enabling Play-dough to counterfeit all of his ideas.  It
+was in critiquing Play-dough that Toddle developed
+the Syllogism in Barbara,  but this was where we
+started.
+            Preparation of this essay was supported, in part, by a grant from
+the International Society for Skeptical Humorism.  I would like to
+thank Richard Trudeau, Sherlock Holmes, and Attila the Hun for
+helpful comments on an earlier draft.
+            See A. Toddle, “Never Metaphysic I Didn't Like,” Chapter 1 of
+Physics: Friends or Enemas ?, Athens: Slavers Free Press, for full
+descriptions and telephone numbers.
+            See K.M. Luther et al., Reformation and Information: Prolegomena
+to a Theology of Computational Processes , Wittenberg:
+Church Publishers (very) Ltd., for a complete list of Theses, with
+Index.
+            See S. Cushing, Quantifier Meanings: A Study in the Dimensions of
+Semantic Competence , Amsterdam: North-Holland, if you are having
+difficulty deciphering the sentence to which this footnote is
+attached.
+            See T. Aquinas, “Talking Heads and Ticking--s,” Rolling Stone ,
+-842: 45-97, for relevant commentary.
+            See C. Ogden and I. Richards, The Meaning of Meaning .  New
+York: Harcourt Brace & Co.  Also see C.C. Ogden and I.I. Richards,
+The Meaning of the Meaning of Meaning , New New York:
+Harharcourt Brace & Co.  Also also see C.C.C. Ogden and I.I.I.
+Richards, The Meaning of the Meaning of the Meaning of Meaning .
+New New New York: Harharharcourt Brace and Co.  Also also
+also see S. Cushing, “Not only only , but also also ,” Linguistic
+Inquiry , 9:127-132.
+            See N. Abisco, Was Leibniz Crackers ?,  Cambridge, UK: Oxon, for
+a tasteful discussion of this topic.
+            Shocking as it may seem, Whitehead actually plagiarized the title
+of his major work, Principia Mathematica, from Newton, whose
+major work was also entitled Principia Mathematica .  Newton,
+however, plagiarized his title from Machiavelli, whose major
+work, II Principe Mathematice , laid the groundwork for all future
+studies in quantitative political science.  It was Machiavelli, in
+fact, who invented the notion of disinformation , on which all contemporary
+politics crucially depends.  See note 3 for relevant discussion.
+            See A. Tarski and B. Dylan, Don't Need a Weatherman to Know
+Which Way the Wind Blows , Berkeley: Snow White & Dwarfs.
+Publishers.
+            See A. Robinson and E. Zakon, “A Set-theoretical Characterization
+of Enlargements,” in W.A.J. Luxemburg (ed.), Applications
+of Model Theory to Algebra, Analysis, and Probability Theory .
+New York: Holt Rinehart & Winston.
+            See B.R. Gaines, “Foundations of Fuzzy Reasoning,” in M.M.
+Gupta, G.N. Saradis, and B.R. Gaines (eds.), Fuzzy Automata and
+Decision Processes , New York: Elsevier North-Holland.  Also see S.
+E. Robertson, “Nature of Fuzz: A Diatribe,” Journal of the American
+Society of Information Science , 29:304-307.
+            See J. Fonda, Barbarella: Queen of the Gal Axis , Hollywood, CA:
+Sexist Press, Inc., for the cosmic significance of all this.
+         
+         
+
+
+            I should like to correct three arithmetic errors
+in the article, “To Abbrev, or not to Abbreviate,” by
+Don Sharp [XVII,2].
+
+            First, a change from twenty-one letters ( master
+of ceremonies ) to two letters ( M.C. ) is a reduction of
+91.5%, not 300%.  A 100% reduction, incidentally,
+is a change from any positive quantity to zero.
+
+            Second, a change from two letters ( M.C. ) to five
+letters ( emcee ) is a growth of 150%, not 125%.
+
+            Finally, a change from thirteen letters ( vice president )
+to two letters ( VP ) is a reduction of 84.6%, not
+250%.
+
+            Words matter, but so do numbers.
+
+
+
+
+
+         
+         
+
+
+            Mr. Sharp's arithmetic is painful to behold.  Reducing
+the twenty-one letters of master of ceremonies
+to the two-letter M.C. in no way represents a
+300% reduction in letter-load.  It's actually 90.47%,
+give or take.  Similarly, reducing Vice President to
+VP is a reduction of 84.62%.
+
+
+
+
+
+         
+         
+
+
+            ...If from thirteen ( Vice President ) to two
+( VP ), the reduction would be 85%.
+
+
+
+
+
+         
+         
+
+
+            ...Reducing master of ceremonies to M.C. represents
+an 88% reduction, and reducing Vice President
+to VP represents an 85% reduction.
+
+
+
+
+
+         
+         
+            [I knew all that.... -- Editor ]
+         
+         
+
+
+            Leslie Dunkling writes [XVII,1], “In many Jewish
+families [belief that use of a living person's name
+would deprive him of his soul] prevents the use of a
+relation's name if the person concerned is still
+alive.”  The belief is that giving a living person's
+name would deprive him of his full life.  It is found
+among all orthodox Ashkenazim and many of their
+descendants.
+
+
+
+
+         
+         
+            French Leave
+
+
+
+            The title of Louis Malle's movie Au Revoir les
+Enfants is usually untranslated in reviews and
+advertisements in the United States.  When it is
+translated (as when an English translation follows
+the French title) it is rendered as “Goodbye, Children.”
+This translation is as good as any, but quite
+unsatisfactory.  For that reason and because English
+is closely related to French (lexically anyhow, having
+borrowed a great portion of its vocabulary from
+French), the title can be left in the original as a title
+in Danish or Polish could not be.
+
+            Snob appeal may be involved here.  It is wondrous
+the way French is able to maintain its position
+as the language of style and status, at least throughout
+the Western world.  In such magazines as The
+New Yorker and Time French words and phrases appear
+with much greater frequency than bits of any
+other foreign language.  The issue of The New Yorker
+for July 25, 1988, taken at random, had in its “Dancing”
+section on page 79 two whole sentences in
+French, untranslated.  The issue of Town & Country
+for September, 1988, had a full-page advertisement
+for Sea Island Cotton entrely in French except for
+the American name of the company.  John Updike's
+novel S. has two or three brief business letters in
+likewise untranslated French.  I suspect that American
+and British readers with some claim to international
+sophistication are flattered by the assumption
+of some ad writers and authors that a little French
+will not be Greek to them.
+
+            However, the short phrase Au revoir les enfants
+would resist translation even if it were desirable to
+put it into English.  Only the first of its four words
+slips easily enough into English, as till .  But English
+is the only European language I know that has no
+calque for the expression au revoir , probably because
+we have adopted this French phrase, like
+many others, intact, while other languages have the
+phrase calqued as: hasta la vista, a rivederci, do
+svidaniya, do widzenia, auf Wiedersehen, etc.  At any
+rate, goodbye really does not translate au revoir,
+Adieu, also borrowed intact into English, would do
+as the French equivalent of goodbye , and vice versa;
+but that equivalence gets us nowhere with au revoir ,
+except to point up the fact that goodbye does not
+mean au revoir .
+
+            I once heard a Frenchman in Madrid tell a couple
+of Spanish shop clerks a joke that illustrates the
+difference between adieu `goodbye' and au revoir :
+At the Rio de Janeiro airport the planes of various
+countries were taking off one after another, and the
+terminal was crowded with passengers and with
+friends and relatives seeing loved ones off.  An Air
+France jet took off, and the loved ones on the
+ground waved and shouted, “Au revoir! Au revoir!”
+Then an Iberia plane taxied away to shouts of “Hasta
+la vista!”  And then it was the turn of a jet flown by a
+Brazilian airline with a notoriously poor safety record.
+As it taxied away to take off, the crowd more
+intoned than shouted, “Adeus!  Adeus!”  (Portuguese
+for adieu ).
+
+            Since English lacks a calque for au revoir , it
+would be technically possible to make one, perhaps
+on the model of Joyce's (or his Stephen Dedalus')
+“agenbite (of inwit)” for remorse: till the agenseeing .
+But of course such bitterly pedantic wordplay would
+be unthinkable on the lips of the plain-spoken priest
+whose words give the Malle film its title and some of
+its poignancy.  And if agenseeing is too far-fetched
+and pedantic, so long is a shade too informal, slangy.
+
+            And what about the simple definite article in the
+title?  Surely it should pose no problem.  Au contraire ,
+I suspect it is the most meaningful and untranslatable
+word in the four-word phrase.  It is not
+strictly standard French before a common noun in
+the vocative case, but seems borrowed from the
+folksy language of camaraderie, the slang of street,
+barracks, and campus.  One does not sing, “Allons,
+les enfants de la patrie....”  In modern French
+novels about military experiences, however, one
+may find a soldier proposing to his buddies, “Allons,
+les gars....”  In such usage the plural definit article
+seems to imply a sense of solidarity, of togetherness,
+of addressing not just any or all boys or kids or
+whatever but of specifying a particular group.  Further,
+since les in this special usage has its origin in
+boyish slang, it implies masculinity, as guys might in
+English.  In the title in question les might be translated
+by the pronoun you and the whole title as: “So
+long, you guys.”  This translation conveys the meaning
+of the French title, all right, but is nevertheless
+unacceptable because such jaunty informality would
+be totally out of character for the priest whose warm
+yet solemn farewell at a tragic parting gives the
+movie its title.
+
+            Nor does enfants always mean `children,' exactly.
+The New Cassell's French Dictionary defines
+enfant in English as: “Child, infant, baby; son or
+daughter; descendant; citizen, native; ( Law ) offspring,
+issue.”  Then some of the following examples
+given in the dictionary show that in some contexts
+the word does not mean `child' at all: c'est un bon
+enfant `he is a good fellow'; l'enfant prodigue `the
+prodigal son.'  Moreover, some of the older students
+addressed by the priest in the movie are past childhood,
+though in priestly parlance anyone, even a nonagenarian,
+may be called a child.  So perhaps children
+will do here, though arguably boys might be a
+nuance better.
+
+            It may be that French, because it so rich in connotation
+and nuance, is harder to translate than most
+languages.  English has a much larger vocabulary, a
+fact that has been adduced to support the argument
+that French is inferior to English.  But the larger vocabulary
+of English is irrelevant in two respects:
+much of this larger vocabulary is esoteric, exotic,
+pedantic, or otherwise as foreign to everyday English
+usage as Chinese; and whereas vocabulary is
+quantified by words, the expressive units of French
+tend to be phrases, such as chemin de fer, joie de
+vivre , and raton laveur .  By the usual lexical reckoning
+one could say that French has no word for rail-road
+or raccoon .
+
+            Phrases, being more semantically complex than
+single words, are usually harder to translate.  English
+too has its untranslatable phrases composed of words
+that are individually translatable.  For instance, try
+turning these two into French or Russian: Is you is, or
+is you ain't my baby? and Why'd you bring that old
+book I didn't want to be read to out of up for?  Generally
+speaking, a phrase or clause is difficult to translate
+in proportion as it diverges from the standard, or as
+some would say, as it is ungrammatical.  To paraphrase
+Tolstoy paraphrasing Pushkin: All grammatical expressions
+resemble each other; each ungrammatical expression
+is ungrammatical in its own way.
+         
+         
+            “If I were king...” I'd be in a subjunctive mood
+
+            We shall have to wait and see if the changes of
+Margaret Thatcher's political fortunes are reflected
+in the language as spoken in Britain, for one might
+be tempted to infer that the assertiveness of her tenure
+was partly responsible for the demise of the subjunctive
+in contrary-to-fact constructions--at least
+in those perceived by her to be contrary to what she
+perceived as fact.  Although it is not impossible to
+find a subjunctive in British writing of today, it is
+becoming increasingly difficult; indeed, in a book I
+recently completed for Oxford University Press, virtually
+all subjunctives were replaced by indicatives
+(which, because of the solecisms created in American
+English, occasioned my rewriting of the text to
+avoid the problem).  British writers (among whom I
+number journalists, who, after all, probably write
+more English than most people) sometimes go to
+great lengths to avoid using the subjunctive, resulting
+in writing that jars what poor sensibilities might
+remain to Americans:
+
+
+...[S]he cancelled all his interviews after two
+days and insisted he flew home... Cape dared
+suggest he travelled by train.  [From “Books,”
+The Sunday Times, 28 October 90:8:9.]
+
+
+            
+
+            This is not impossible to say, but it means `She
+insisted that he had already flown home [though it
+is unlikely that he had].'  “She insisted that he fly
+home” means `She wanted him to fly home,' though
+whether he actually did or not would be revealed in
+a later chapter.  Cape dared suggest he travelled by
+train conjures up an image of Cape (“his” publisher)
+having the effrontery to put forward the theory that
+the absent “he” absconded by rail.  Had the subjunctive
+been invoked, these mysterious motives
+would have vanished in a trice.
+
+
+Because we were an alien family, dad and mum
+were very keen that we learnt how to compose
+ourselves in this new society.  [From an article by
+Magnus Magnusson in “Saturday Review,”  The
+Times, 20 October 90:70.]
+
+We advise that the above items are not used
+until the retailer or the company has been contacted.
+[Customer Safety Warning Advt. by
+Leisuretime Products Ltd, Sundial House, 89-93
+Goldsworth Road, Woking, Surrey GU21 1LT, in
+The Sunday Times, 29 May 1988, B2.]
+
+
+            
+
+            The practice is neither consistent nor universal:
+
+
+It failed to be manufactured because she insisted
+it be made in Britain...  [From an article
+by Joseph Connolly, The Times, 7 November
+90:19]
+
+Someone on the Isle of Wight complains that
+you couldn't get the children off to bed if it were
+still light at midnight,...  [From the op-ed column,
+“...and moreover,” The Times, 29 October
+90:12.]
+
+            
+
+            Although it has nothing to do with subjunctives,
+I cannot resist the temptation to reproduce the following
+sentence from an article by Sir Roy Strong,
+presumed aesthete and literatus, yet evidently victim
+of the universal virus that afflicts many users of
+English when they scent the proximity of like :
+
+
+The paper used to smell in the same way that
+books from Eastern Europe still do today.  [From
+the “Saturday Review,”  The Times, 13 October
+90.]
+
+
+            
+
+            Whatever consolation it might afford Americans,
+the British are with them in their ignorance of
+the difference between fewer and less:
+
+               
+Maher points out that his Dillons flagship in
+Gower Street carries no less than 250,000 titles
+and his other bookshops average 25,000.  [From
+“Books,” The Sunday Times, 21 October 90:8:9.]
+
+
+            
+
+            And some have trouble with the sequence of
+tenses (not a trivial problem, I admit), yielding in
+this instance what might be called the “son-for-a-day”
+syndrome:
+
+
+I now know them to have been Mr and Mrs
+Powrie-Smith, and a chap I take to have been
+their son.  [From the op-ed column, “...and
+moreover,” by Matthew Parris, The Times, 27
+October 90:12.]
+
+
+            
+
+         
+         
+            Several Types of Ambiguity: Minimalist Language
+
+
+
+            Ted Bernstein, when he was assistant managing
+editor of The New York Times , published a house organ,
+“Winners and Sinners,” that offered kudos for
+the occasional “bright passage” or deft metaphor
+and cited questionable and nonstandard grammar
+and usage that appeared in the newspaper.  Among
+the items that he enjoyed catching were the ambiguous
+headlines, which he dubbed “two-faced heads.”
+These are not very hard to find in newspapers (as
+of the headline writer (who is not, usually,
+the writer of the article) is to come up with something
+that is a telegraphically brief inkling of the
+substance of the article.  Headline writers are often
+given to paronomasia (which they would probably
+call punning, as paronomasia , which would not fit
+into most headlines, is not in their vocabulary).
+Gleaned from the current collection:
+
+
+1.  Cost of food scares mounts.  [The Times, 11 October
+90:5]
+
+I was not under the impression that horses worried
+much about the price of fodder.
+
+2.  PLO may supply Arabs with arms. [Ibid.:14]
+Arms is always ripe for ambiguity.
+
+3.  Children taken on ¥500 raid.  [Ibid., 12 October
+90:7]
+
+The children were not captured on the raid: the
+story was about a father who had his children (and,
+as I recall, his wife) wait in the family car while he
+went off to commit a robery.
+
+4.  Students filmed in secret. [Ibid., 13 October 90:7]
+Filmed is here a past participle, not the past of an
+active verb.  This grammatical ambiguity is a frequent
+source of confusion, one cleverly exploited
+by those who write clues for crosswords.
+
+5.  Prices fear as oil shortage puts pressure on refining.
+[Ibid., 11 October 90, p.31]
+
+Prices is an unusual noun to find in attrubutive position
+before a word like fear (in contrast to noun/
+verb ambiguities like drop, rise, increase, decline,
+etc.).  In any event, it is still not clear why an oil
+shortage should put pressure on refining (one
+would expect the reverse) and why the prices resulting
+ought to rise (for fear would scarcely suggest
+`reduction' except in a petroleum trade
+journal or oil company annual report).
+
+6.  Why You Want Sex Changes as You Age.  [San
+Francisco Chronicle, 13 January 1990.  Submitted
+by Randy Alfred, San Francisco]
+
+Self-evident problem in which sex rears its head.
+
+            
+
+            That is not to say that ambiguity is confined to
+headlines.  In the following quotation, the reader
+may have difficulty in determining how far from his
+wife this ideal husband lives, why he isn't bankrupt
+from feeding parking meters, and what circumstance
+might have afflicted him with muteness:
+
+
+[Odette] lives in Walton-on-Thames with
+Geoffrey [Hallowes], a tall, courteous gentlemen
+retired from the wine business who seems content
+to write her letters, listen while she tells her
+stories, feed one's parking meter, and altogether
+to be as attentive as a wife could wish.  [The Sunday
+Times, 14 October 90:3:3]
+
+            
+
+         
+         
+            
+“Lithium was not effective in either depressed or
+non-depressed alcoholics in significantly reducing the
+numbers of subjects who were not abstinent, number of
+days of reported drinking, number of alcohol-related hospitalizations,
+severity of alcoholism, or severity of depression.”
+[From Drug Therapy, .  Submitted
+by ]
+         
+         
+            
+“There is no residency requirement for US Senate
+other than that the candidate be a resident of the state he
+is running from at the time of his election.”  [From the
+Boston Globe, .  Submitted by ]
+         
+         
+            
+“The Brundtland report celebrated by many at Globe
+'90, while hard-hitting in its analysis of the global environmental
+crisis, is profoundly shallow in its prescriptions.”
+[From comments by Frank Tester, professor at University
+of British Columbia and York University, quoted in the
+Daily Oil Bulletin, .  Submitted by ]
+
+         
+         
+            Instant Welsh
+
+
+
+            I broke imaginary eggs on the rim of a non-existent
+frying pan and made sizzling noises.  I pretended
+to fill tumblers of ice-cold milk and to drink
+them with apparent delight.  I beat the air with my
+arms and clucked like a hen and mooed deep and
+long.  But the features of the old, old woman who
+had opened the door of the farmhouse half way up
+the mountain and who had answered my polite request
+for a few eggs and some milk with a steady
+flow of Welsh, remained blank.  As blank as mine
+had been when she had been speaking Welsh.  My
+miming must have been wanting as I got neither egg
+nor milk.  But the humiliating thing was that I, relatively
+bilingual and with a smattering of a few other
+languages, have been able to make myself understood
+in most part of western Europe, but was thoroughly
+checkmated not sixty miles as the crow flies
+from Manchester...  I decided to learn Welsh
+forthwith, there and then, without more ado.
+
+            Of course, it was not going to be plain sailing.  I
+knew that.  We--my wife, our three children, and
+I--had been invited to spend ten blissful days in an
+idyllic white cottage in the middle of a field near a
+couple of lakes in the depth of Caernarvonshire.
+The nearest village was a couple of valleys away; our
+neighbors were sheep and lambs.  It was definitely
+known that a road-mender did sleep in a one-room
+cabin near the abandoned slate quarry.  These were
+perhaps not the best conditions in which to learn the
+Welsh language, but what I lacked in amenities I
+thought I would make up in “ambiance” for there
+we would be for ten days, practically incommunicado.
+
+            My only tutor was one of those paper napkins
+on which are printed some hundred brightly colored
+pictures of objects and things in common use, such
+as bread, cheese, house, sea, sun, chair, etc., with
+the Welsh name above and the English underneath.
+You know the sort of thing.  Very useful in its way no
+doubt, but rather limiting to someone of scholarly
+disposition.
+
+            It was then that Chance took a hand.  Would
+you believe that I found in the rafters of our host's
+cottage a dusty Welsh-English Dictionary compiled
+by W. Richards, L1.D., in 1890...?  It was like
+reaching that peak in Darien.  A whole new world
+was about to be revealed to me.  And into this unknown
+land, this strangely melodious language, with
+its roots dating back to the time when the world was
+young, I set forth, with my paper napkin and my
+pocket dictionary compiled in 1890.
+
+            As I read on, picking out a word here and a
+phrase there, the personality of Dr. Richards began
+to appear.  The aims of a lexicographer, these days,
+is undoubtedly to be as objective and exact as possible
+when dealing with concepts as intangible as
+the meanings of words.  Dr. Johnson himself was
+roundly criticized for letting his prejudices interfere
+with his definitions.  We do not go to a dictionary for
+opinions or for subjective judgment, and the more
+remote the personality of the compiler, the better.
+Dr. Richards obviously entertained a different idea
+of his mission.
+
+            His interests quickly became clear.  That he was
+a theologian there can be little doubt, and anyone
+would have been able with the help of his dictionary
+to plough through a sermon on predestination or a
+debate on the difference between transubstantiation
+and consubstantiation.  This in a POCKET dictionary,
+you understand.  Dr. Richards must also have been
+interested in demonology, witchcraft, familiars,
+rhabdomancy.  (You wish to know the Welsh for
+rhabdomancy ?  Well, another time perhaps.)  Then
+there was Dr. Richard's interest in diseases.  Far
+from simply giving us the Welsh for rheumatism , he
+goes into details of the symptoms and I will spare
+you a five-line description of the scabs in a case of
+blue jaundice .  If you should catch blue jaundice in
+Wales, I strongly advise you to have Dr. Richards's
+dictionary at hand.  (Incidentally, since jaundice
+means the `yellow disease,' how can it be blue?  But
+let it pass.)
+
+            Dr. Richards never stops astonishing us.  You
+would think that the word bye-laws was not one
+which in a pocket dictionary would be given much
+space.  But wrong you would be.  Dr. Richards gives
+us a mini-treatise on the application of bye-laws in
+Scotland in the 14th century, which is not particularly
+useful if you are lost in a fog and, on knocking
+at the door of an isolated Welsh cottage, you are
+faced by an aged gentleman who has no English.
+
+            I fear that Dr. Richards did not have us in mind
+when he set to work, for he omitted to include such
+words as tomato, bathroom, cutlet, cauliflower , and
+railway station .  Yet let no one say he was not a mundane
+man, for he gives us the Welsh for port, sherry,
+whisky, brandy, burgundy, claret , and even Rhenish
+wine .  And do you know that there are ten words in
+Welsh for fashion ?  But none, apparently, for tomato,
+bathroom, cutlet , etc.
+
+            It quickly appeared, on perusing the Welsh-English
+section, that Dr. Richards's English was
+somewhat idiosyncratic, for he gives us an English
+translation of a Welsh word, `to render prospective.'
+I have pondered on this phrase, and the only person
+I can imagine using it is the secretary of the local
+branch of a political party who, having handed the
+Committee members a short list of would-be candidates,
+asks: “Which of these people shall we render
+prospective?”
+
+            Then there is the word arfogwl which apparently
+means `a dried skin on a post with pebbles in
+it,' with no further explanations as to why it should
+be hanging on a post and why, in heaven's name, it
+should contain pebbles.  I therefore went out to try
+to find one in the hope that the object might reveal
+its raison d'être.  I was not successful and I must
+warn would-be searchers that I very much doubt
+whether there is a dried skin with pebbles in it hanging
+on a post within three miles from Llanrust.  They
+had better look elsewhere.
+
+            A closer study of the English-Welsh section soon
+brought to light the fact that not only did Dr. Richards
+know a large number of English words which do
+not appear in recognized dictionaries I consulted
+but that, clever man that he was, he was able to
+translate them into Welsh.  Words like dishersion, extillation,
+restagnate, claricord, contramure , and, of
+course, discubitory .  All these words look as if they
+meant something.  The word discubitory took my
+fancy; neither Chambers nor Webster having been
+able to enlighten me, I consulted Dr. Richards himself,
+by the simple process of looking up in the
+Welsh-English section the Welsh word which Dr.
+Richards had given as the translation of discubitory
+in the English-Welsh section.  I looked up therefore
+the word lledorweddle and was informed that it
+meant... `discubitory.'  However, there was an alternative
+definition: `partly lying down.'  This I took
+to mean `in a semi-recumbent position.'  I had it
+now, of course.  Discubitory means `lying down
+whilst propping oneself on one's elbow.'  This word
+has now taken its place in my vocabulary and I use it
+now and then nonchalantly in conversation.  To date,
+no one has asked me what it meant.
+
+            To mark the centenary of this remarkable book
+and help revive interest in its author, I hereby undertake
+to hand over a prize of ¥100 to the first
+person who challenges me with the words: “You are
+Michel Vercambre the eminent scholar who discovered
+the meaning of the word discubitory and I
+claim the prize of ¥100.”  The challenger must be
+carrying at the time a copy of Dr. Richards's Welsh-English
+pocket dictionary.  The 1890 edition.
+         
+         
+            Bloomsbury Dictionary of Word Origins,
+            Although one might be led to believe that all
+dictionaries of etymology are alike, the truth is that
+they differ in a number of respects, and it is useful
+for those interested in language to have several
+types available.  The OED , for example, has very
+long and elaborate etymologies, some of which
+might have been superseded (presumably in
+OED2e ), which means you have to have the latest
+edition.  Then, too, the OED does not always transliterate
+foreign scripts, which might put those who
+cannot read Chinese, Arabic, Cyrillic, Thai, etc., at a
+disadvantage when examining cognates or loanwords.
+Some of the smaller dictionaries, from the
+MW-III and the Random House Unabridged on down
+through the college and desk sizes, contain etymologies
+reflecting up-to-date scholarship but these
+works may not be particularly user-friendly: after all,
+surveys have shown that etymological information is
+that least frequently sought by dictionary users, so it
+ill behooves publishers to devote a great deal of expensive
+space to it.  In contrast to these standard
+works, John Ayto has compiled a very commendable,
+user-friendly book which is eminently readable
+(as is all of Ayto's writing).
+
+            I do have a few reservations--(naturally!  How
+could a reader identify an Urdang review if it did not
+have reservations?)  First, I found the system of cross
+references inconsistent.  In the front matter we are
+told that if “a related word is mentioned but no date
+is shown for it,...the word has its own article....”
+That is not consistently the case, though it would be
+too boring to cite examples.  Second, (in the entry
+for albatross ), Alcatraz ought to have been identified
+as the “former” prison-island (it is still an island, of
+course), and the generalization that ail is “virtually
+obsolete except in the metaphorical use of its present
+participial adjective ailing ....” fails to take account
+of the common expression, What ails you/
+him/her/it/them?, and fails to explain what is metaphorical
+about She is ailing .  Third--though here
+we might not be dealing with Ayto's decision as
+much as the publisher's--it is simply not convenient
+to have a dictionary of etymology that excludes all
+bound prefixes and suffixes, though these are
+glossed, as required, when they are part of an entry.
+Fourth, I think it a mistake to merge under one
+headword words of distinctly different provenances
+(that is, homographs), as in gloss .  And, finally, there
+are far too many typographical errors for a book of
+this sort: under absent : “4nt”; after: “millenium”;
+loo: “existance.”
+
+            Notwithstanding, there are many cogent observations,
+among them:
+
+
+glitz... “Its fortuitous resemblance to a blend of
+glamour and Ritz contributes to its expressiveness.”
+
+glass [The entire entry is a gem.]
+
+know [A well-constructed short essay on its cognates.]
+
+            
+
+            The chief virtue of the book is that it presents a
+great deal of information about word origins in
+highly readable form.  Indeed, there is so much information
+buried in the entries that the publisher
+would have been well advised to prepare an index to
+afford users better access to the nether reaches of
+the language.  Perhaps in a second edition...?
+
+            People often think that--at least by now--all
+the words in the language have been successfully
+and accurately etymologized.  While that is true
+about the majority of words, it does not obtain for all
+the words and certainly not for many of the colorful
+parts of the language, notably slang and idiomatic
+expressions.  For those words of doubtful origin (like
+dive `disreputable bar,' jingo, rag `taunt,' toy , etc.),
+Ayto presents the current wisdom, where available,
+and lets the user decide for himself from among the
+theories proffered.
+
+            For those seeking a well-written, up-to-date,
+etymological dictionary that sets forth its information
+in understandable English and is not riddled
+with the cryptic symbols and abbreviations found in
+the more ponderous, scholarly works, the Dictionary
+of Word Origins would be a good choice.
+
+            Laurence Urdang
+
+         
+         
+            Bloomsbury Dictionary of Contemporary Slang
+            Tony Thorne is described (in Bloomsbury's publicity
+blurb) as “former punk and hippie now turned
+academic,” which is all we know about him.  His
+purpose in this compiulation “as well as reflecting
+current speech accurately... was to represent a
+fresh approach to the material itself.”  [p. iv]
+
+            The slang described is of the period 1950 to
+1990.  That does not, of course, preclude slang of an
+earlier time if it is still in use, but it does eliminate
+obsolete slang, leaving about 5000 terms to be covered
+in about 15,000 definitions.  The Introduction
+is businesslike, brief, and to the point, avoiding
+much of the repetitious academic maundering that
+often accompanies such works.
+
+            As Thorne is an Englishman, I trust him on British,
+Irish, Scots, and even Australian slang (though
+Australians may take exception).  The real question
+is, How accurate is his coverage of American slang?
+He says he relied on four people, though whether
+they were informants or advisors or drinking companions
+(or all of the above) is not made clear.
+
+            Compared with American slang, which is
+strongly under the influence of New York and other
+big cities, Hollywood and showbiz in general, there
+is little British slang that comes from Yiddish.  The
+other day I used the word megillah in conversation
+with an editor from Oxford University Press and he
+at once asked me what it meant.  My instantaneous
+synonym (appropriate for the context in which I had
+used it) was screed , which he of course understood; I
+had to explain that megillah is Hebrew and probably
+entered (American) English via Yiddish.  If an American
+had asked me what the word meant I would
+probably have accused him of being a hypocrite for
+pretending that he knew no Yiddish/Hebrew.  So
+when I see an entry in shtuk/shtook/stook/schtuk labeled
+“British” in Thorne's book, I at once get suspicious,
+especially when it is defined as `in trouble,'
+shtuk “in its various spellings” is described as Yiddish
+for `difficulties,' and there is a (good) entry for
+shtick , besides.  The OED2e confirms my suspicions
+by offering “App. not a Yiddish word.”  (My suspicions
+are that it comes from German Stück `play,
+act,' leading to `thing, business, affair, what occupies
+one, problem,...trouble.')  At in the bag , labeled
+“American,” one definition is
+
+
+2a  ruined, botched.  The original image evoked
+is either of a corpse zipped up in a body bag
+or a gamebird in a poacher's sack.
+
+b  demoted, in American police jargon.  This is
+probably an extension of sense 2a.
+
+            
+
+            The most common American sense of in the bag
+is `completed, done, consummated,' and, while it ill
+behooves one to state categorically that `ruined,
+botched' is not a viable definition, I have never encountered
+the expression used in that sense on either
+side of the Atlantic.  Although I have no knowledge
+of it, sense 2a might be correct; if so, it is
+certainly based on body bags and not poachers, who
+are not the normal prey of American police.
+
+            Unfortunate is the omission of a comma to set
+apart daddy as a term of address in the illustration
+for heinie (American for `bottom'):
+
+
+He hit me daddy--and then he kicked me
+in the heinie.
+
+            
+
+            After reading `my' for dialectal me , I was sent to
+look up daddy , defined as `a dominant inmate among
+prisoners' and `an older and/or dominant male homosexual...,'
+making a balls-up (which should
+have been labeled British) of the entry.  Then we are
+told that heinie is “spelled as if it were Yiddish,”
+which shows how much Thorne knows about German
+spelling and pronunciation; the variant hinie is
+not shown (the word is, after all, a diminutive of behind:
+the heinie spelling probably cropped up during
+WWI in confusion with the similarly pronounced
+Heinie , a synonym for Bosch or Kraut , short for Hein-rich ).
+At Hicksville it might have been fun to mention
+that it is a placename in New York (Nassau
+County) and in several other states.  Honk, n. and
+vb ., in all senses is not American in use or provenance,
+nor are honked, hoolie (also Irish?), hoover
+(up), horrorball, hum, hurl, and hurry up van/wagon ,
+to list a number of words in a twelve-page interval.
+It may be consoling but scarcely exonerating for
+Thorne to learn that he is not alone in failing to label
+such matter accurately: some American informants
+are evidently not to be trusted or have become too
+sophisticated from traveling abroad or by associating
+with speakers of other dialects of English.  The same
+kinds of inaccuracies occur in the opposite direction:
+that is, hook it for `play hookey' is not British, and,
+because of its organization, humdinger is misleading:
+
+
+humdinger n Australian a spectacular fart.  This
+vulgarism is a specific usage of the well-known
+colloquialism denoting anything resounding or
+impressive.
+
+            
+
+            The inference is that the colloquialism is Australian,
+which it is not.  The entry also emphasizes the
+lack of uniformity of style of the book, with the dialect
+locales of some entries shown as italicized labels
+alongside the headword, of others associated with
+specific senses, and of others buried somewhere in
+the text.  Style in dictionaries is not a nasty little detail:
+it is a quick way of categorizing information,
+and if a label appears in an unfamiliar place, its
+placement ought to convey to the user some special
+piece of information, not the fact that the book was
+carelessly compiled.  In another example, goof vb,
+goofball n, goof off vb, goof-off n , and goof up vb are
+all labeled “American,” but not goof n or goofy , the
+latter of which could hardly be a “back formation”
+from goof , and is probably reinforced (if it is universal)
+by the Disney character.  One can see how complex
+the information can become.  I doubt that it is
+accurate to define gunsel as a `callow youth,' a sense
+that probably rubbed off from the character played
+by Elisha Cook, Jr. in The Maltese Falcon: though he
+was referred to (by Bogart, as I recall) as a `punk'
+and `gunsel' and was portrayed as ineffectual, that
+does not justify a transferred definition: gunsel ,
+probably from Yiddish, is a less common, old-fashioned
+term for `gunman, body guard, torpedo,
+hit man,' and the like, simply a `criminal who carries
+a gun,' and needs no (additional) pejorative treatment.
+
+            There are other infelicities in references to
+American culture and usage (e.g., what is “multi-coloured
+chewing gum” under gumballs ?) and in
+narrowing the usage of lech/letch after/for/over/on
+to Britain.  The latter reminds me of an exchange I
+once witnessed.  In a context that was appropriate
+but not worth describing, a refined American lady
+was heard to exclaim with some surprise, “I didn't
+know they had prostitutes in Poland!”  In high dudgeon,
+the sophisticated Polish lady thus addressed
+replied, indignantly, “Did you think it an underprivileged
+country?!”
+
+            Bloomsbury have been publishing some very
+good language and reference books (including one
+by me) under the direction of Dr. Kathy Rooney,
+who deserves much credit for the over-all quality of
+the list.  Thorne's book contains some interesting
+and useful information, including much that cannot
+be found elsewhere (No, no, I don't mean the inaccurate
+material).  I fear that the author has trusted
+the advice and information provided by others,
+which were not always accurate.  That, coupled with
+his inexperience in compiling so rigidly styled a
+work as a dictionary, has detracted from the quality
+of the work.
+
+            Laurence Urdang
+         
+         
+            Mother Tongue
+            Bill Bryson, an American who lives in Yorkshire,
+has written a spirited, engaging book about English.
+His style is light and entertaining, and I should be
+nitpicking at trifles were I to cavil at his rare sacrifices
+of accuracy for the sake of simplification.  One
+example, not the author's fault, is the comment,
+“The editors of the Random House Dictionary of
+1966 decided, after considerable agonizing, not to
+insert any four-letter words.”  As I was in charge of
+that edition, let me set the matter straight.  There
+was no agonizing whatsoever on the part of the editors:
+every editor associated with the book wanted
+those words in.  Jess Stein and I attended the meetings
+at which these sensitive matters were discussed
+and were invited to put our case, though we were
+fully aware that the ultimate decision rested with
+(particularly) the sales department.  The sales director
+at the time (1965) was Lew Miller, as wise and
+experienced a marketing man as one could find in
+publishing; Bob Bernstein was president; Bennett
+Cerf was chairman of the board, and the other important
+directors were Donald Klopfer and Tony
+Wimpfheimer.  After Jess and I presented our case,
+Lew Miller said he needed a week or so to think
+about the matter.  Bennett was going out of town on
+one of his many lecture tours, while the final stages
+of reading proof proceeded in the reference department,
+of which I was director.  Whichever way it
+was to go, we were ready to abide by Lew's decision.
+About ten days later, Bennett returned and,
+encountering Bob in the corridor, asked him about
+the “four-letter decision”; “ Shit and piss are in,” replied
+Bob, “ Fuck and cunt are out.”  Lew Miller's
+decision had been a practical one: he felt it foolish to
+sacrifice the sales of many thousands of copies of the
+dictionary in the Bible Belt and other puritanical
+bastions of conservatism like Texas and California
+merely for the sake of a “couple of four-letter
+words.”  (Those who think of California as a paragon
+of avant-garde thought may need reminding that the
+school-marms there succeeded in banning the sale of
+the Dictionary of American Slang , by Wentworth and
+Flexner, in the 1970s, by which time one might
+have thought that their moral fiber would have
+caught up with their professed modernity.)
+
+            John Ayto, editor of the Bloomsbury Dictionary
+of Word Origins , reviewed elsewhere in this issue,
+will not be happy to see his name misspelled
+“Ayton.”  Also, in a section best described as
+“Webster-bashing,” Bryson fails to mention Joseph
+Emerson Worcester and his competing dictionaries,
+in some ways superior to Webster's, and I cannot
+agree with the comment [p.150] that the simplified
+spellings advocated by Webster “would probably
+have happened anyway”--they didn't happen “anyway”
+in Britain, where, despite the fact that many of
+the forms cannot be justified etymologically or any
+other way, the conservatives continue to heap scorn
+on American spelling.  I think it misleading to describe
+the section A to Ant of The New English Dictionary
+on Historical Principles (the original title of
+the Oxford English Dictionary ) as “a slim paperback
+book”: it was the first fascicle to be published and
+was not the “first of twelve volumes.”  (The OED
+was originally published over a number of years in
+fascicles of various lengths which were sold by subscription,
+a method that is, alas, no longer practised.)
+These are details, I know, but that is no excuse
+for not getting them right, especially when the
+accurate information is so easily accessible.
+
+            I am willing to take Bryson's word for many of
+the bits of information with which this book
+abounds, to wit, “Among the Xoxa tribe of South
+Africa the most provocative remark is hlebeshako --
+`your mother's ears,' ” the wisdom that “Some cultures
+don't swear at all,” and the revelation that in
+Finland, “When you stub your toe getting up to answer
+the wrong number at 2.00 a.m.,” you mutter
+(shout?) “Ravintolassa!,” which means `in the restaurant.'
+One hesitates to consider what the restaurants
+might be like in Finland, or, indeed, what the waiters
+say when they drop a tray, perhaps “Hlebe-shako
+!”
+
+            There is much to interest and amuse the reader
+in Mother Tongue , and I find it a pity that teachers do
+not use books like this to introduce students to the
+wonders and humor of language to reinforce what I
+hope is their own enthusiasm for the subject in place
+of the turgid texts they are stuck with.
+
+            Laurence Urdang
+         
+         
+
+
+            I sympathize with Dr. Zellig Bach's tale of the
+horrible Yiddish rendition of the Census Bureau
+form [XVII,2, “The Scandalous Yiddish Guide of the
+Census Bureau”], and I wouldn't be a bit surprised if
+many of the other foreign-language versions were
+equally awful.  But I suspect that Bach's imaginary
+scenario of how such a mess came to pass is probably
+off the mark.  Judging by our own frequent experience
+with government agencies, federal, state, and
+local, the most common cause of bad foreign language
+publications is simply the practice of considering
+translation and foreign-language typesetting as
+if they were commodities and awarding the work to
+the lowest bidder--who is often incompetent.
+
+            Then, of course, since the agency has no capability
+to judge the quality of the work, the bad stuff
+gets printed and circulated.  Fortunately, some government
+units (certain of which we are privileged to
+count among our clients) are smart enough to know
+better and do produce first-class work in foreign languages
+by engaging reputable suppliers.
+
+
+
+
+
+         
+         
+
+
+            I noted the references to tweeter and boomer or
+wow and hum in Harry Cohen's article, “Jingo
+Lingo” [XVI,4].  I had expected to find tweeter followed
+by woofer and wow followed by flutter .  I
+have no dictionary that records boomer as an audio
+electronics term but two that record woofer .  I suspect
+that hum is used by those of us who can't tell
+wow from flutter .
+
+            While reading OBITER DICTA in the same issue, I
+found myself in total agreement about the poor
+quality of the manuals that accompany computer
+hardware and software.  But while improving manuals
+would reduce the number of telephone calls, the
+assertion that reduction by a factor of 10 could be
+achieved assumes that the users could actually be
+induced into looking at the manuals!  Those who
+have actually answered telephone calls from users
+can tell you that if patriotism is the last refuge of a
+scoundrel, then the manual is the last refuge of the
+computer user.  A call to customer support comes
+well ahead of reading the manual, even when it's
+good and well indexed.  We often have to bite our
+tongues to lkeep from shouting, “f*****
+manual!”
+
+            Your assumption that your program's spelling
+checker contains about 37,000 words because it
+contains about 223,000 characters is mistaken.
+Computer programmers are cleverer than that.  The
+first spelling checker that I bought had a word list
+file of approximately 30,000 characters.  It used a
+“hashing” technique, storing word roots, suffixes,
+and prefixes.  In operation it would strip recognized
+suffixes and prefixes from words, check for the word
+root, and use rules stored in the program to determine
+whether the suffixes and prefixes were added
+correctly.  According to the manual, the file compression
+techniques used the 30,000 character dictionary
+to list about 18,500 root words.  When
+checked against a 42,000-word dictionary, the program
+was said to have achieved a 96% recognition
+rate.
+
+
+
+
+
+         
+         
+            [In the early 1960s I designed a hyphenation program
+(for automatic typesetting) based on a logic of
+prefix-root-suffix combined with a table look-up (for
+anomalies: for instance, before analysis of a word
+ending in -ing , the word would be checked against a
+list including thing, bring, string , and other words
+that could not be hyphenated).  Examination of the
+atrocious hyphenation exhibited by many typographers
+today is demonstration enough of the lack of
+interest in such affairs.  Recently Americanizing a
+British text using the American spelling checker in
+my Framework III program, I discovered that the
+program is ignorant of American preferred spellings,
+like labeled vs labelled, traveler vs traveller, though
+it catches travelling .  What boots it to point out that
+many Americans are likewise ignorant of those
+“preferences”?  It seems redundant to point out that
+all offers I have made in the past to put Ashton-Tate
+on the right track regarding language (and manuals)
+have been ignored, though it is hard to say whether
+that is out of their arrogance, their ignorance, or
+their inability to read my letters.-- Editor ]
+         
+         
+            I read with interest the account of your experience
+with the Ashton-Tate word-processing program
+Framework III [ XVI ,4].  I was especially interested
+in the results you got when invoking the SUGGEST
+option in the program's spelling checker.  You were
+at a loss to explain the rationale for the program's
+selection of rattans as an alternative for awakens .
+
+            In the late 1970s, I worked as a clerk in the
+medical records department of a large medical
+clinic.  When I had the name of a patient but not his
+chart number, I checked with the medical records
+correction clerks.  They sat at a computer terminals
+and would key in some kind of alphanumeric code
+that evoked many names.  The name Wise , for example,
+also evoked names like Weese, Weiss , and Weisz ,
+but also such unlikely variants as Waage, Wacha,
+Wahoske, Wick , and Woiak .  When I became a correction
+clerk myself, I learned that the system behind
+this name-grouping was a filing system called
+Soundex.  Soundex works mostly by ignoring the
+vowels in a name and assigning an alphanumeric
+code to the name based on the remaining consonants.
+Thus, Wise was given the Soundex code W200.
+         
+         
+
+
+            I tried applying Soundex coding to the list of
+words in your article, but it was inadequate to the
+task, so I created an elaboration of Soundex.  Below
+is [a selection from] the list of words in your article,
+accompanied by a number code; as will be seen, the
+words in each group have very similar codes.  My
+elaboration of Soundex works according to the following
+rules: [ Target means `the item to be coded.']
+
+
+(a) Change each d or t in the target to c.
+
+(b) Change each ng cluster to m.
+
+(c) If the target begins with kn, replace kn
+with m.
+
+(d) If the target begins with h, y, or a vowel,
+drop it and follow these rules.
+
+(e) If the target begins with r or w, replace it
+with an l.
+
+(f) Code the target according to Soundex rules.
+
+(g) Replace the initial letter of the Soundex
+code with the appropriate numerical code
+from the Soundex code table.
+
+            
+
+            Thus, for example, the target halogenating would go
+through the following changes while being coded:
+
+
+halogenating   (target)
+halogenacing   (rule a)
+halogenacim    (rule b)
+alogencim      (rule d)
+logenacim      (rule d, again)
+L252           (rule f)
+4252           (rule g)
+
+            
+
+            Because the system is completely based on rules
+and ignores meanings, any word can be added to the
+spelling checker's word list.
+
+            In Minnesota and Illinois, the first four characters
+of a person's driver's license number are the
+Soundex code of his surname.  Not long into the
+movie The Blues Brothers , Elwood Blues Illinois
+driver's license is shown on a police computer
+screen.  It is obviously a phony, for it should begin
+with the code B420, but does not.
+
+
+nucleic     5242     reawakens   4252
+nutlike     5242     wakens      4252
+knuckled    5242     rattans     4252
+nickeled    5242     weakens     4252
+nucleate    5242     reddens     4252
+neglect     5242     weaklings   4245
+nutlet      5242     walk-ons    4425
+niggled     5242     walk-ins    4425
+                     Bordeaux    1622
+                     paradox     1622
+unmanageable 5521    burdocks    1622
+manageable   5521    broadax     1622
+manageably   5521    birdseed    1622
+inimitable   5521    birdhouse   1622
+amendable    5521    bordellos   1624
+unimaginable 5525    bureaux     1624
+
+            
+
+
+
+
+
+         
+         
+            [Mr. Wise did, indeed, include all the words in my
+article, but the list is too long to repeat here.  He
+also enclosed information concerning the basic
+rules for Soundex, which can be found in Filing and
+Finding , by William Selden, Lura Lynn Straub, and
+Leonard J. Porter, Prentice-Hall, 1962, pp. 95-7.
+-- Editor ]
+         
+         
+
+
+            In a “melting-pot” country like the USA, we expect
+our tennis stars to have names of such diverse
+origin as Agassi, Capriati, Chang, Fernandez, Kirckstein,
+Mayotte, Navratilova , etc.  Our perception of
+players from nations with more homogenous populations,
+however, is more orthodox, and we are inclined
+to be comfortable with the assumptions that
+Leconte ought to be French, Chesnokov Russian, Sanchez
+Spanish, Lindstrom Swedish, Sukova Czech,
+Haarhuis Dutch, etc.
+
+            Watching the French Open Tennis Championships
+in June 1990, I noted that there were players
+with the following last names, and readers are invited
+to guess at the country each represented:
+Boetsch, Champion, Herreman, Pierce, Van Lottum ,
+and Winogradsky .  The one answer for all is France!
+            
+
+            At this writing [June 1990], there is a contender
+for the national leadership in West Germany with
+the name La Fontaine , while the prime minister of
+East Germany is De Maiziere.  While these Germans
+are clearly of French origin, Eiffel and possibly Mitterand
+would appear to be etymologically German.
+But none of this is surprising in light of the name of
+the new president of Peru-- Fujimoni!
+            
+
+
+
+
+
+         
+         
+
+
+            Max Peterson's review of The Language of the
+Law is splendid.  David Mellinkoff's criticism of lawyer
+language is lamentable.  Rather than adopt a cant
+of guttural grunts attributable to our furry forebears,
+I suggest that we drag the populace toward an
+elegant tongue.  Zounds!  Would Mellinkoff banish
+such useful words as heretofore, theretofore, hereto,
+and therefor ?  Would we abandon the subjunctive
+mood, adverbs, Latin idioms, bon mots, and the like?
+How long can we tolerate such horrors as, “It's me,”
+or “How are you?”--“I'm good”?
+
+            Years ago, by statute (§767.04, Fla. Stat.), Florida
+abandoned the time-honored BEWARE OF THE
+DOG in favor of BAD DOG...  (I favor the alliterative
+CAVE CANEM, which would at least protect the literati.)
+
+
+
+
+         
+         
+
+
+            In response to Richard Lederer's call for submissions
+in a “most graceful and coherent eleven-word
+supersentence” contest [“The Glamour of
+Grammar,” XVI,4], I offer the following:
+
+
+1 However painful, try 2 helping 3 prove 4 you're
+5 delighted 6 by supersentences 7 that prevail. (11
+words)
+
+1 Adverb clause
+
+2 Gerund phrase
+
+3 Infinitive phrase
+
+4 Noun clause
+
+5 Participial phrase
+
+6 Prepositional phrase
+
+7 Adjective clause
+
+            
+
+            Using the same constituent-specifying numbers
+as above (to make it easier to verify my analysis), I
+offer the following, which would disprove Lederer's
+claim that eleven words is the minimum:
+
+            1 Painful, try 2 helping 3 prove 4 supersentences
+7 you're 5 discusted 6 by prevail. (9 words)
+
+            The two objections I see with this would-be super-short
+supersentence are, first, the highly elliptical
+and not terribly idiomatic omission of any overt
+identification of the clausal status of the word painful ,
+and second, the analysis of the thoroughly idiomatic
+three-word phrase, you're disgusted by as an
+adjective clause containing a participial phrase and a
+rather elliptical prepositional phrase.  Although I
+would defend this entry on the grounds that intelligible
+ellipsis lies at the core of the challenge, I could
+avoid the fairly strong first objection by restoring
+the clause-signaling however of my first entry:
+
+
+However painful, try helping prove supersentences
+you're disgusted by prevail.  (10 words)
+
+            
+
+            Those who find the second objection stronger
+than the first might accept another 10-word entry:
+
+
+...Painful, try helping prove you're delighted
+by supersentences that prevail.  (10 words)
+
+
+            
+
+
+
+
+
+         
+         
+            [I am not at all sure that counting a contraction
+( you're ) as one word is fair.-- Editor ]
+         
+         
+
+            “...[B]ack around 1776, German missed being
+the official American language by one vote.”
+[EPISTOLA, XVII,2:21] I am not a historian, but I had
+the impression that that idea had been laid to rest
+long ago.  Has some historian recently discovered
+that the story is true, after all?
+
+
+
+
+
+
+         
+         
+
+
+            ...I heard this many years ago on at least one
+other occasion from a very knowledgeable South African
+friend who explained that he could not cite a
+reference but regarded it as common knowledge.
+Occasionally I have asked historians and others
+about this without success, confirmation or denial.
+Two reference librarians were at a loss as to how to
+begin a search.  It now occurs to me that perhaps
+you know the story or, at least, that you could give
+me a lead as to its origin.
+
+
+
+
+
+         
+         
+            [A definite citation, of course, can be used to verify a
+fact.  Not all facts are verified or verifiable.  Because
+events that never occurred are, naturally, not documented,
+it is almost impossible to verify that something
+did not take place.  Yet, rumors and “common
+knowledge,” however inaccurate, are sometimes a
+misinterpretation of an event that actually occurred
+and, therefore, can be traced to a fact, even though
+distorted; the best that can be wished for is to turn
+up something that might have given rise to the story
+(like the identification of the Parson Weems tale
+about George Washington's honesty and the cherry
+tree).-- Editor ]
+         
+         
+            
+“ALL EQUIPMENT is permanently marked for identification.
+IF CAUGHT STEALING, WE WILL PROSECUTE!”  [Sign in
+the audio-visuals materials section of the Norlin Library
+on the Boulder campus of the University of Colorado.
+Submitted by ]
+         
+         
+            
+“The Kings Mountain Volunteers were the first to arrive
+at the home in the 12000 block of Skyline Boulevard
+at 12:50 p.m. and although three engines and 16 firefighters
+were called to the scene there were no injuries.”
+[From The Peninsula Times Tribune, Palo Alto, .  Submitted by ]
+         
+      
+   

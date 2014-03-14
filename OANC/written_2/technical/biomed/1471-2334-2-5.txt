@@ -1,0 +1,400 @@
+
+  
+    
+      
+        Background
+        Respiratory syncytial virus (RSV) belongs to the
+        Pneumovirinae subfamily of the Paramyxovirodae family of
+        enveloped single-stranded negative sense RNA viruses. RSV
+        infection of the lower respiratory tract cells results in
+        cell death and sloughing into the lumen of the respiratory
+        tree. Worldwide, RSV is the leading cause of infant
+        mortality from respiratory infections and is so highly
+        contagious that by age two nearly all children have been
+        infected. RSV infection in infancy cause severe
+        bronchiolitis and pneumonia and may predispose children to
+        the subsequent development of asthma, the most common
+        chronic illness of childhood [ 1 ] . Many studies have
+        indicated that chemokines can play an important role in the
+        onset and severity of asthma and it has been shown that RSV
+        infection of lung epithelial cells increases chemokine
+        production, although the mechanisms involved are largely
+        unknown [ 2 3 4 5 ] .
+        The chemotactic cytokines, or chemokines, compose a
+        large superfamily of small structurally related
+        polypeptides that play important roles in host defense by
+        recruiting specific subsets of leukocytes to sites of
+        inflammation and injury [ 6 ] . Chemokines have been
+        associated with a number of inflammatory diseases and
+        conditions, including asthma, sepsis, inflammatory bowel
+        disease, and adult respiratory distress syndrome [ 7 8 9 ]
+        . The chemokine superfamily can be divided into two major
+        groups based on the position of the first two of
+        four-conserved cysteine residues at the amino terminus,
+        which are either adjacent (CC subfamily) or separated by
+        one amino acid (CXC subfamily). The CXC chemokines such as
+        IL-8 were originally identified as potent activators and
+        chemoattractants for neutrophils, whereas the CC chemokines
+        such as MCP-1 and RANTES mostly attract monocytes and
+        eosinophils respectively [ 10 ] . Chemokines are secreted
+        in a stimulus-and cell type-specific manner [ 11 12 13 14
+        15 16 17 ] and are regulated primarily at the level of gene
+        transcription [ 18 19 20 21 22 23 24 ] . The
+        transcriptional promoters of IL-8, RANTES and MCP-1 contain
+        binding sites for the redox-responsive transcription factor
+        NF-κB, which has been shown to be important for their
+        regulation by viral infections and cytokines [ 18 20 23 25
+        26 27 28 29 30 31 32 33 34 ] .
+        We previously demonstrated that the chemokines IL-8,
+        MCP-1 and RANTES are differentially regulated in A549
+        airway epithelial cells [ 35 36 37 38 ] . To further
+        elucidate the mechanisms of chemokine expression in A549,
+        we have compared the induction of IL-8, MCP-1 and RANTES by
+        RSV infection with that of TNFα. Our findings suggest that
+        RSV induction of chemokine gene expression involves a
+        redox-sensitive NF-κB signaling mechanism that differs from
+        that mediated by TNFα and involving predominantly the Rel A
+        subunit of NF-κB.
+      
+      
+        Materials and methods
+        
+          Materials
+          Dulbecco's Modified Eagle Medium (DMEM), fetal bovine
+          serum (FBS), Dulbecco's phosphate buffered saline (DPBS),
+          antibiotic/antimycotic, 1% trypsin/EDTA, Hanks Balanced
+          Salt Solution (HBSS) and TRIZOL were purchased from
+          Invitrogen Gibco Cell Culture (Carlsbad, CA).
+          N-acetyl-L-cysteine, dexamethasone, glycerol and MTT
+          tetrazolium salt were obtained from Sigma (St. Louis,
+          MO). TNFα was obtained from R&D systems (Minneapolis,
+          MN). ELISA kits were purchased from Pierce Endogen
+          (Rockford, IL). Human CK5 RiboQuant ribonuclease
+          protection assay kit was purchased from BD Pharmingen
+          (San Diego, CA). [α- 32P]UTP (250 μCi) was obtained from
+          Perkin Elmer Life Sciences (Boston, MA). Gel shift assay
+          system was purchased from Promega (Madison, WI). [γ-
+          32P]ATP (500 μCi) was obtained from ICN (Costa Mesa, CA).
+          Antibodies were purchased from Santa Cruz Biotechnology
+          (Santa Cruz, CA). The A549 cell line and RSV Long strain
+          were obtained from the American Type Culture Collection
+          (Rockville, MD).
+        
+        
+          Virus stock growth and maintenance
+          RSV, Long strain, was grown on HEp-2, a human tracheal
+          epithelial cell line. Cells were grown to 50% confluence
+          in DMEM containing 7% FBS and 1% antibiotic/antimycotic.
+          After two washes with 1X DPBS, a minimal volume of RSV,
+          at a multiplicity of infection (MOI) of 1 or greater,
+          containing less than 1% FBS was added. The virus and
+          cells were incubated for 2 hours, after which DMEM was
+          added to bring culture to normal growth volume and 7%
+          FBS. Cultures were then incubated for 48 hours. All
+          plates were scraped and contents were transferred to 50
+          ml conical tubes. The virus/cell cocktail was vortexed
+          briefly and large debris was removed in a tabletop
+          centrifuge. RSV was purified by ultracentrifugation
+          through 30% glycerol in HBSS. RSV stocks were resuspended
+          in HBSS containing 0.5% bovine serum albumin and 100 mM
+          magnesium sulfate and frozen at -70° C.
+        
+        
+          Cell culture, infection and treatments
+          The A549 human type II lung carcinoma cell line was
+          grown and maintained in DMEM containing 7% FBS and 1%
+          antibiotic/antimycotic. For treatment, cells were grown
+          to approximately 75% confluence, washed once with 1X DPBS
+          and incubated overnight with DMEM containing 1% FBS.
+          Cultures were then washed twice with 1X DPBS and
+          pretreated with inhibitors DEX or NAC in serum-free DMEM
+          to final concentrations as indicated in the figures. RSV
+          and TNFα were added to the DMEM/inhibitor mix to final
+          concentrations as indicated in the figures. One hour
+          after agonist addition, FBS was added to 1% concentration
+          for the duration of the experiment.
+        
+        
+          Protein secretion
+          After addition of RSV and TNFα, cells were cultured
+          for 24 h. Supernatants were collected and spun at high
+          speed to remove cellular debris. The resulting suspension
+          was frozen at -70°C until assayed following
+          manufacturer's instructions by chemokine-specific ELISA
+          (Endogen).
+        
+        
+          RNase protection
+          RNase protection assays (RPA) were performed using an
+          RPA kit purchased from BD Pharmingen. In brief, total RNA
+          was isolated from stimulated A549 cells with TRIZOL. The
+          hCK-5 multiprobe template set was used to synthesize RNA
+          probes for the chemokines lymphotactin, RANTES, IP-10,
+          MIP-1α, MIP-1β, IL-8, MCP-1, and I-309 as well as the
+          house-keeping genes L32 and glyceraldehyde-3-phosphate
+          dehydrogenase (GAPDH) labeled with [α- 32P]UTP using T7
+          RNA polymerase. 3 × 10 5cpm of labeled probe were
+          hybridized with 10 μg of total RNA for 16 h at 56°C.
+          MRNA-probe hybrids were treated with RNase cocktail and
+          phenol-chloroform extracted. Protected hybrids were
+          resolved on a 6% denaturing polyacrylamide sequencing
+          gels and exposed to a Molecular Dynamics detection screen
+          overnight. Laser densitometry was performed using a
+          Molecular Dynamics Storm scanner system (Molecular
+          Dynamics, Inc., Sunny vale, CA).
+        
+        
+          DNA binding studies
+          Electrophoretic mobility shift assays (EMSA) were
+          performed essentially as described previously [ 39 ] .
+          Briefly, nuclear protein extracts (7 μg protein) prepared
+          form A549 cells by the method of Osborn 
+          et al [ 40 ] were incubated with 5
+          × 10 5cpm (~0.1 ng) of 32P end-labeled consensus NF-κB
+          oligonucleotide (5'-AGTTGAGGGGACTTTCCCAGGC-3') probe
+          contained in the Promega gel shift assay system for 20-30
+          min at room temperature in 10 μl reaction volume using
+          the kit provided reaction buffer. To demonstrate binding
+          specificity, 100-fold molar excess (10 ng) of a specific
+          or non-specific oligonucleotide
+          (5'-ATTCGATCGGGGCGGGGCGAGC-3') was included in the
+          binding reaction. Protein-DNA and protein-DNA-antibody
+          complexes were resolved in 5% polyacrylamide gels
+          preelectrophoresed for 30 min at room temperature in
+          0.25X TBE buffer (22.5 mM Tris-borate and 0.5 mM EDTA, pH
+          8.3). Gels were dried and exposed to radiographic film
+          with an intensifying screen at -70°C.
+        
+        
+          NF-kappaB subunit specific ELISA
+          NF-κB subunits Rel A (p65) and NF-κB1 (p50) were
+          quantified using Trans-AM™ transcription factor assay kit
+          from Active Motif (Carlsbad, CA). The assay is
+          essentially an ELISA in which the consensus NF-κB binding
+          site (5'-GGGACTTTCC-3') is immobilized onto the 96 well
+          plate. Nuclear cell extracts (3 μg) were added to the
+          wells and assayed for either Rel A or p50 binding as per
+          the manufacturer's instructions. Optical density was
+          determined on a spectophotometer at 450 nm.
+        
+      
+      
+        Results
+        
+          RSV induction of chemokine expression differs from
+          that induced by TNFalpha
+          As shown in Fig. 1, RSV infection of A549 epithelial
+          cells induces the production and secretion of the
+          chemokines IL-8, MCP-1, and RANTES. In A549 epithelial
+          cells substantial MCP-1 was constitutively expressed
+          whereas little or no spontaneous IL-8 or RANTES was
+          detected. However, upon RSV infection (MOI = 3) a
+          significant increase in chemokine production and
+          secretion was observed 24 hr post-infection for each of
+          the chemokines.
+          To determine whether the chemokine induction was
+          mediated by increased chemokine gene expression we
+          assessed the kinetics of mRNA synthesis by chemokine
+          specific RNase protection. A549 cells were infected with
+          RSV (MOI = 1) or stimulated with TNFα (100 ng/ml) and
+          total RNA isolated at various times post-treatment over a
+          24 hr time course. As shown in Fig. 2, RSV rapidly
+          induced IL-8 and MCP-1 with steady-state mRNA readily
+          detected as early as 1 hr and continued to increase over
+          the 24 hr time course. In contrast, RANTES mRNA was not
+          detected until 4 hrs post infection after which its
+          expression rapidly increased also reaching a maximum at
+          24 hrs. The RSV induction kinetics differed dramatically
+          from the induction kinetics for TNFα in the same
+          experiment. Whereas RSV induction of the chemokines did
+          not reach a maximum until 24 hrs, TNFα induction was
+          maximal between 4 and 8 hrs and was either unchanged or
+          lower at 24 hrs post-infection.
+          The magnitude of induction also differed between TNFα
+          and RSV infection. In general TNFα was a stronger inducer
+          of chemokine expression. This difference was also
+          reflected in the amount of chemokine secreted from the
+          cells (data not shown). Together, these data indicate
+          that RSV infection of A549 epithelial cells induces
+          chemokine expression with distinct kinetics suggesting
+          the mechanism of RSV induction differs from that of
+          proinflammatory cytokines.
+        
+        
+          NF-kappaB inhibitors differentially effect RSV and
+          TNFalpha induction of chemokine expression
+          IL-8, MCP-1 and RANTES gene expression are regulated
+          by the redox responsive transcription factor NF-κB [ 18
+          20 23 25 26 27 28 29 30 31 32 33 41 42 43 44 ] . The
+          NF-κB signaling pathways have been shown to be
+          differentially affected by antioxidants and
+          glucocorticoid steroids [ 45 ] . To determine whether RSV
+          and TNFα induction of chemokine expression might be
+          mediated by different NF-κB signaling pathways we
+          pretreated A549 cells with the glutathione precursor
+          N-acetyl-L-cysteine (NAC) or the synthetic glucocorticoid
+          dexamethasone (DEX). Twenty-four hours post infection,
+          total RNA was isolated and steady state mRNA expression
+          analyzed by chemokine specific RNase protection. As shown
+          in Fig. 3, the two inhibitors had very different effects
+          on chemokine gene expression. Most strikingly, RSV
+          induced chemokine expression was more sensitive to NAC,
+          whereas TNFα induced chemokine expression was conversely
+          more sensitive to DEX. Thus, NAC preferentially inhibited
+          chemokine expression induced by RSV, while DEX
+          predominantly inhibited chemokine expression induced by
+          TNFα.
+        
+        
+          Differential inhibition of TNFalpha and RSV induced
+          NF-kappaB
+          NF-κB binds to the chemokine promoter as either homo-
+          or heterodimers composed of Rel A (p65) and NF-κB1 (p50).
+          Initially we detected TNFα and RSV induction of NF-κB by
+          EMSA (KA Roebuck and LR Carpenter unpublished data) but
+          because multiple gel shift complexes were induced it was
+          not possible to distinguish the individual contributions
+          of Rel A and p50 to the formation of these complexes.
+          Therefore to assess the induction of the Rel A and p50
+          subunits individually in A549 nuclear cell extracts, we
+          used a subunit specific NF-κB binding ELISA system that
+          utilizes anti-Rel A and anti-p50 antibodies. As shown in
+          Fig. 4, Rel A and p50 subunits of NF-κB are
+          differentially expressed and induced in A549 epithelial
+          cells. In untreated cells, no Rel A (solid bars) was
+          detectable whereas in resting cells constitutive levels
+          of p50 were observed (open bars), suggesting that
+          unstimulated A549 epithelial cells contain p50
+          homodimers, which with regard to transcriptional activity
+          have been shown to be functionally inert or inhibitory.
+          In contrast, cells stimulated by TNFα (Fig. 4A) or
+          infected by RSV (Fig. 4B) markedly induced Rel A, the
+          transcriptionally active subunit of NF-κB. In addition,
+          TNFα was also able to induce p50 by about 5-fold whereas
+          RSV increased the constitutive p50 level by only about
+          50%. The induction of Rel A and p50 were specific since
+          competition with either wild type or mutant consensus
+          NF-κB oligonucleotide respectively inhibited or not the
+          RSV and TNFα induced binding activity. These data
+          demonstrate that TNFα is a potent inducer of both Rel A
+          and p50 whereas RSV primarily induces the Rel A subunit
+          of NF-κB.
+          To determine whether RSV and TNFα activate NF-κB
+          differently, we examined the effects of NAC and DEX on
+          Rel A and p50 binding activity. As shown in Fig. 4, Rel A
+          and p50 subunits are differentially inhibited by NAC and
+          DEX which have been shown to inhibit NF-κB by distinct
+          mechanisms. Both NAC and DEX were unable to inhibit TNFα
+          induction of either Rel A or p50. In contrast, in RSV
+          infected cells both DEX and NAC inhibited Rel A and p50
+          binding activity. However, the inhibitory effects were
+          most striking for Rel A suggesting the inhibitors
+          primarily target the RSV induction of Rel A.
+          The differential effects of NAC on TNFα and RSV
+          induced NF-κB binding activity correlated with its
+          effects on chemokine gene expression (Fig. 3) and protein
+          secretion (data not shown) suggesting that RSV induces
+          IL-8, MCP-1 and RANTES through redox-sensitive NF-κB
+          binding complexes. DEX also showed differential effects
+          on NF-κB binding activity with DEX preferentially
+          inhibiting RSV induction of NF-κB. However, the effects
+          of DEX on NF-κB binding induced by TNFα did not correlate
+          with its effects on chemokine expression, suggesting in
+          TNFα activation of chemokine gene expression DEX targets
+          another mechanism of chemokine induction not involving
+          NF-κB.
+        
+      
+      
+        Discussion
+        In this study, we examined the role of NF-κB in the
+        activation of chemokine gene expression in response to TNFα
+        and RSV infection. The inhibitor studies correlating
+        chemokine gene expression and NF-κB binding activity
+        indicate that RSV, in contrast to TNFα, induces IL-8, MCP-1
+        and RANTES expression in A549 epithelial cells through a
+        redox-sensitive NF-κB signaling pathway that appears to
+        involve predominately Rel A. IL-8, MCP-1 and RANTES are
+        known redox regulated genes and our results are consistent
+        with the findings that oxidant tone can regulate chemokine
+        gene expression in RSV infected airway epithelial cells [
+        46 47 48 ] .
+        NF-κB activation is controlled by its inhibitory protein
+        I-κBα which when phosphorylated on ser32 and ser36 marks it
+        for degradation by the 26S proteosome complex. Thus I-κB is
+        a potential regulatory target for the differential
+        induction of NF-κB. Although we have not directly examined
+        the role of I-κB, Fiedler 
+        et al [ 49 50 ] have reported
+        differential effects of RSV and TNFα on I-κB activity in
+        A549 epithelial cells. In addition, Bitko and Barik [ 51 ]
+        have demonstrated that another I-κB protein (I-κBβ) may
+        also contribute via a redox-sensitive pathway to NF-κB
+        activation by RSV.
+        In addition to NF-κB dependent regulation there appears
+        to also be NF-κB independent activation of chemokine
+        expression since DEX inhibited TNFα induced chemokine
+        expression but not NF-κB binding activity. Along these
+        lines, it has been shown that RSV activation of chemokine
+        gene promoters involves multiple inducible transcription
+        factors including AP-1 [ 52 53 ] , which is also a redox
+        sensitive transcription factor important in chemokine gene
+        expression [ 28 36 54 ] . AP-1 can also be inhibited by DEX
+        and has been shown to cooperate with NF-κB to mediate RSV
+        induction of IL-8 [ 46 55 ] .
+        The differential effects of NAC and DEX on chemokine
+        gene expression and NF-κB activation suggest that the
+        mechanisms of RSV and TNFα activation of NF-κB and
+        chemokine expression differ possibly involving distinct
+        NF-κB signaling mechanisms. TNFα rapidly and potently
+        activates Rel A and p50 subunits of NF-κB through a
+        kinase-mediated phosphorylation cascade involving a high
+        molecular mass signaling complex called the IKK complex [
+        56 ] . TNFα activation of the multiprotein IKK complex
+        results in the serine phorsphorylation of I-κB and the
+        subsequent activation of NF-κB [ 57 ] .
+        Consistent with the idea of RSV and TNFα activating
+        distinct NF-κB signaling pathways, we found that the NF-κB
+        inhibitor NAC had differential effects on chemokine gene
+        expression. In contrast to TNFα, RSV induced chemokine
+        expression was sensitive to NAC particularly the Rel A
+        (p65) subunit. NAC is an antioxidant thiol that raises the
+        intracellular pool of glutathione the major redox
+        regulating mechanism in the A549 epithelial cell line [ 45
+        ] . Interestingly, it has been reported that NAC can have
+        differential effects on NF-κB binding activity suggesting
+        only a subset of NF-κB binding complexes are redox
+        sensitive [ 58 ] . Moreover, it has been shown that NAC
+        inhibits Rel A/p50 heterodimers but not p50 homodimers and
+        can inhibit NF-κB binding to only certain variant κB
+        elements which presumably interact with distinct redox
+        sensitive NF-κB binding complexes [ 59 ] . These
+        observations are consistent with our findings that indicate
+        NAC predominantly inhibits Rel A homodimers since that was
+        the major NF-κB subunit induced by RSV infection of A549
+        cells.
+        Consistent with RSV and TNFα inducing functionally
+        distinct NF-κB binding complexes, AP-1 was recently shown
+        to be the preferential cooperative partner with NF-κB in
+        RSV-induced IL-8 expression [ 46 ] , whereas in
+        TNFα-induced expression NF-κB cooperates preferentially
+        with NF-IL-6 [ 18 19 22 ] . Apparently, the
+        stimulus-specific gene regulation of chemokines is complex
+        involving differential cooperativity of redox sensitive and
+        redox resistant NF-κB complexes with other transcription
+        factors to form unique higher order transcription
+        complexes.
+      
+      
+        Conclusions
+        Taken together, our data indicate that RSV, in contrast
+        to the cytokine TNFα, activate NF-κB and chemokine gene
+        expression through a redox sensitive NF-κB signaling
+        pathway involving predominately Rel A.
+      
+      
+        Competing interests
+        None declared.
+      
+    
+  

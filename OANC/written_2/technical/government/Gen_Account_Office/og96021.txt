@@ -1,0 +1,148 @@
+
+
+
+
+Office of the General Counsel
+B-271810.7
+July 2, 1996
+The Honorable Larry Pressler Chairman The Honorable Ernest F.
+Hollings Ranking Minority Member Committee on Commerce, Science and
+Transportation United States Senate
+The Honorable Thomas J. Bliley, Jr. Chairman The Honorable John
+D. Dingell Ranking Minority Member Committee on Commerce House of
+Representatives
+Subject: Amendment of Parts 2 and 15 of the Federal
+Communication Commission Rules to Deregulate the Equipment
+Authorization Requirements for Digital Devices
+Pursuant to section 801(a)(2)(A) of title 5, United States Code,
+this is our report on a major rule promulgated by Federal
+Communications Commission (FCC), entitled "Amendment of Parts 2 and
+15 of the Commission's Rules to Deregulate the Equipment
+Authorization Requirements for Digital Devices" (ET Docket No.
+95-19: FCC 96-208). We received the rule on May 30, 1996. It was
+published in the Federal Register as a final rule on June 19,
+1996.
+The FCC's Report and Order amending Parts 2 and 15 of Title 47
+of the Code of Federal Regulations, deregulates the equipment
+authorization requirements for personal computers and peripherals.
+The Order provides for a new selfauthorization process based on a
+manufacturer's or supplier's declaration of compliance with all FCC
+requirements. The original certification procedure required
+submission of a written application, test report and fee (and a
+device for testing in some cases) to the FCC laboratory. The FCC
+estimates that the new procedure will save industry approximately
+$250 million annually in administrative expenses.
+GAO/OGC-96-21
+Enclosed is our assessment of the FCC's compliance with the
+procedural steps required by section 801(a)(1)(B)(i) through (iv)
+of title 5 with respect to the rule. Our review indicates that the
+FCC complied with the applicable requirements.
+If you have any questions about this report, please contact Alan
+Zuckerman, Assistant General Counsel, at (202) 512-4586. The
+official responsible for GAO evaluation work relating to the
+Federal Communications Commission is John Anderson, Director,
+Transportation and Telecommunications Issues. Mr. Anderson can be
+reached at (202) 512-8234.
+Robert P. Murphy General Counsel
+Enclosure
+cc: Andrew S. Fishel, Managing Director Federal Communications
+Commission
+Page 2 GAO/OGC-96-21
+ENCLOSURE
+ANALYSIS OF AMENDMENT OF PARTS 2 AND 15 OF THE COMMISSION'S
+RULES TO DEREGULATE THE EQUIPMENT AUTHORIZATION REQUIREMENTS FOR
+DIGITAL DEVICES RULE UNDER 5 U.S.C. § 801(A)(i)(B)(I)-(iv)
+
+
+
+(i)
+Cost-benefit analysis
+
+The Commission indicated in its submission that it was not
+required to prepare a cost-benefit analysis of the rule.
+
+
+(ii)
+Agency actions relevant to the Regulatory Flexibility
+Act, 5 U.S.C. §§ 603-605, 607 and 609
+
+
+Section 603: Initial regulatory flexibility analysis
+Pursuant to section 603 of the Act, the Commission incorporated
+an Initial Regulatory Flexibility Analysis in it Notice of Proposed
+Rule Making. The Commission's Proposed Rule Making was published in
+the Federal Register, 61 Fed. Reg. 15116, March 22, 1995. Our
+review of the initial analysis indicates that the requirements of
+section 603 have been met. At that time, written comments on the
+proposal were requested. The Commission also reports that it
+forwarded a copy of its initial regulatory flexibility analysis to
+the Chief Counsel for Advocacy of the Small Business Administration
+(SBA) as required by the Act, and that the SBA did not file
+comments.
+Section 604: Final regulatory flexibility analysis
+The Commission prepared a Final Regulatory Flexibility Analysis
+pursuant to section 604. That analysis notes that the rule was
+needed in order to reduce regulatory burdens on computer
+manufacturers, to remove impediments to flexible systems design and
+construction techniques, and to reduce the potential for
+interference to radio services by improving the Commission's
+ability to ensure that personal computers comply with the
+Commission's standards and testing procedures. The Commission
+further notes that no commenting parties raised issues specifically
+in response to the initial regulatory flexibility analysis, and
+that no significant alternatives were considered.
+Section 605: Avoidance of duplicative or unnecessary
+analysis
+The Commission did not invoke any of the exemptions or special
+procedures authorized by section 605 in preparing its regulatory
+flexibility analysis.
+GAO/OGC-96-21
+Section 607: Preparation of analyses
+Under section 607, the Commission's submission does not
+specifically indicate the potential economic impact or the number
+of small entities affected. However, the initial regulatory
+flexibility analysis indicates that the rule will result in a
+significant decrease in the amount of testing and Commission
+authorization of computer systems with a resultant reduction in
+economic burden. The Commission notes that there are 100-150
+manufacturers of various component devices but does not indicate
+what the ratio of large to small business might be in this mix.
+Section 609: Participation by small entities
+In addition to the actions required by 5 U.S.C. § 553, the
+Commission also made available a complete copy of the proposed and
+final rulemaking materials via the Internet. There were no special
+efforts made by the Commission to involve small entities in the
+rulemaking process.
+(iii) Agency actions relevant to sections 202-205 of the
+Unfunded Mandates Reform Act of 1995, 2 U.S.C. §§ 1532-1535
+As an independent regulatory agency, the Commission is not
+subject to Title II of the Unfunded Mandates Reform Act of
+1995.
+(iv) Other relevant information or requirements under Acts and
+Executive orders
+Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.
+The rule was promulgated through the general notice of proposed
+rulemaking procedures of the Act, 5 U.S.C. § 553. The Commission
+afforded interested persons the opportunity to comment on the
+proposed rule, and the Commission's Report and Order adopted on May
+9, 1996, and released May 14, 1996, addresses these comments.
+Paperwork Reduction Act, 44 U.S.C. §§ 3501-3520
+The Final Report and Order is subject to the Paperwork Reduction
+Act of 1995, and has received OMB clearance (OMB #3060-0636).
+Statutory authorization for the rule
+The new rules are promulgated with the authority provided in the
+Communications Act of 1934, as amended, 47 U.S.C. Sections 154(i),
+301, 302, 303(e), 303(f), 303(r), 304 and 307. In addition, the
+Telecommunications Act of 1996, Pub. L. No. 104-114,
+Page 2 GAO/OGC-96-21
+110 Stat.56 (1996), provides specific new authority to the
+Commission to eliminate unnecessary regulations and functions, and
+among other things, authorizes the use of private organizations for
+testing and certifying the compliance of devices with regulations
+promulgated by the FCC.
+The Commission did not identify any other statutes or Executive
+Orders imposing requirements relevant to the rule.
+Page 3 GAO/OGC-96-21
+
+
+

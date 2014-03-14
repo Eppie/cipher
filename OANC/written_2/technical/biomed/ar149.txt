@@ -1,0 +1,468 @@
+
+  
+    
+      
+        Introduction
+        The synovial tissue in rheumatoid arthritis (RA)
+        contains synovial fibroblasts and stromal cells as well as
+        macrophages. Synovial stromal cells and fibroblasts are
+        thought to proliferate 
+        in situ [ 1]. On the contrary,
+        macrophages do not proliferate, but rather differentiate
+        from monocytes that migrated from the peripheral blood, and
+        are activated to differentiate in the synovial tissue.
+        Macrophages in RA synovium secrete many inflammatory
+        mediators (IL-1, IL-6, IL-8, tumor necrosis factor-α
+        [TNF-α] and PGE 
+        2 ) and a variety of matrix
+        metalloproteinases, and are thought to play a central role
+        in the inflammation and joint destruction characteristic of
+        RA [ 2]. The number of macrophages in RA synovium
+        correlates significantly with clinical symptoms and the
+        degree of joint damage [ 3]. Understanding the regulation
+        of macrophage accumulation in the RA synovium should
+        therefore provide insight into the inflammatory nature of
+        rheumatoid synovitis.
+        Migration of peripheral blood monocytes is likely to be
+        influenced by chemokines. A number of chemokines, including
+        IL-8, monocyte chemotactic protein-1 (MCP-1), macrophage
+        inflammatory protein-1α (MIP-1α), MIP-1β,
+        epithelial-derived neutrophil attractant 78, and regulated
+        upon activation, normal T cell expressed and secreted
+        (RANTES), are known to be found in RA synovial fluid [ 4,
+        5, 6, 7, 8]. A number of specific chemokine receptors
+        including CCR1, CCR2, CCR5, CCR8, and CXCR4 are also known
+        to be expressed by peripheral blood monocytes [ 9, 10].
+        Despite this information, the specific chemokine-chemokine
+        receptor interactions involved in the recruitment of
+        monocytes into the rheumatoid synovium have not been fully
+        delineated.
+        To address this issue, we examined chemokine receptor
+        expression by peripheral blood monocytes, and also analyzed
+        the capacity of supernatants from RA synovial stromal cells
+        to induce monocyte migration. The data indicate that MCP-1
+        secreted by synovial stromal cells plays a major role in
+        attracting monocytes to the synovium, and that IL-8 may
+        also contribute.
+      
+      
+        Materials and methods
+        
+          Antibodies and reagents
+          Biotinylated mouse anti-human CCR1 monoclonal antibody
+          (mAb), mouse anti-human CCR2 mAb conjugated with
+          phycoerythrin (PE), mouse anti-human CCR6 mAb conjugated
+          with PE, mouse anti-human CXCR1 mAb conjugated with PE,
+          mouse anti-human CXCR2 mAb conjugated with PE, mouse
+          anti-human CXCR5 mAb conjugated with PE, mouse anti-human
+          CCR3 mAb conjugated with FITC, mouse anti-human MCP-1 mAb
+          (24822.111), mouse anti-human IL-8 mAb (6217.111), mouse
+          anti-human IP-10 mAb (33036.211), mouse anti-human CCR5
+          mAb (45531.111), and biotinylated goat IgG anti-human
+          IP-10 were purchased from R&D Systems Inc (Miami,
+          FL). Mouse anti-human CCR5 mAb conjugated with FITC and
+          mouse anti-human CXCR4 mAb conjugated with PE were
+          purchased from Pharmingen (San Diego, CA). Mouse
+          anti-human CD14 mAb conjugated with FITC or PE, and
+          Streptavidin conjugated with PE were obtained from Sigma
+          (St Louis, MO). Mouse IgG1 mAb was prepared from
+          hybridoma cell lines purchased from ATCC (Rockville, MD).
+          Mouse IgG2A conjugated with PE (Pharmingen), mouse IgG2B
+          conjugated with PE (R&D Systems), and mouse IgG1
+          conjugated with FITC (Becton Dickinson, San Jose, CA)
+          were used for negative controls for flow cytometry.
+          Recombinant human TNF-α, RANTES, interferon-gamma
+          inducible protein 10 (IP-10), and stromal cell derived
+          factor-1α were purchased from R&D Systems. Trizol
+          reagent, deoxyribonucleaseI, and SuperScriptII reverse
+          transcriptase were purchased from Gibco BRL (Rockville,
+          MD). Taq polymerase was purchased from Promega (Madison,
+          WI), and Oligo dT and ficoll/isopaque were purchased from
+          Pharmacia (Piscataway, NJ). DMEM with high-glucose,
+          RPMI-1640, and FBS were purchased from Gibco BRL.
+          Enzyme-linked immunosorbent assays (ELISAs) for MCP-1,
+          IL-8, MIP-1β, and RANTES were purchased from R&D
+          Systems, and transwell membranes (5 μm pore size in 24
+          wells) were purchased from Costar (Cambridge, MA). The
+          TMB microwell peroxidase substrate system was purchased
+          from KPL (Gaithersburg, MD).
+        
+        
+          Stromal cell lines and fibroblast lines
+          One RA stromal cell line (SCL) was established from
+          synovium as previously described [ 11]. In brief,
+          synovial tissue of a patient with RA who met American
+          College of Rheumatology criteria [ 12] was obtained
+          following informed consent, and dissociated with
+          collagenase and trypsin. Dissociated cells were cultured
+          in DMEM supplemented with 10% FBS and 10% conditioned
+          medium, which was prepared by incubation of peripheral
+          blood mononuclear cells from 10 healthy donors in
+          RPMI-1640 medium with 10% FBS for 48 h. The cultures were
+          then maintained for more than 2 months, and the SCLs were
+          cloned by limiting dilution. Clones were thereafter
+          maintained and replenished with fresh DMEM medium with 10
+          or 20% FBS every 3-4 days. One clone (Sy77) was used in
+          the present experiments. RA tissues from two other
+          patients were also dissociated with collagenase and
+          trypsin. Dissociated cells were cultured in DMEM
+          supplemented with 10% FBS and 10% conditioned medium and
+          used as RA SCLs (RA6/1 and RA8/3) after 4-10 passages. An
+          SCL was also established from osteoarthritis synovium
+          (OA5/26) using the same procedure. A skin fibroblast line
+          (FBHG) was also established from a healthy human skin
+          sample.
+        
+        
+          SCL and fibroblast culture
+          RA SCL, osteoarthritis (OA) SCL, and skin fibroblasts
+          (1 × 10 5) were seeded in six-well culture plates
+          (Costar) with DMEM containing 10% FBS, 200 U/ml
+          penicillinG, 10 μg/ml gentamicin and 0.3 mg/ml
+          L-glutamine, and cultured for 3 days. After culturing,
+          the cells were washed once and the medium was changed to
+          DMEM containing 5% FBS, 200 U/ml penicillinG, 10 μg/ml
+          gentamicin, and 0.3 mg/ml L-glutamine with or without 2
+          ng/ml TNF-α. To assess chemokine mRNA expression, cell
+          lines were harvested after 4 h of culture, then suspended
+          in Trizol and stored at -80°C. Supernatants were
+          collected after 24 h and stored at -80°C until use for
+          migration assay and quantification of chemokines.
+        
+        
+          Preparation of mononuclear cells
+          Peripheral blood mononuclear cells (PBMC) were
+          isolated from heparinized blood of healthy adult
+          volunteers by density sedimentation using
+          ficoll/isopaque. PBMC were cultured with sheep red blood
+          cells (SRBC) treated for 70 min at 4°C, and rosette
+          negative cells were collected by ficoll/isopaque
+          sedimentation.
+        
+        
+          Chemokine receptor expression by monocytes
+          Chemokine receptor expression by monocytes was
+          assessed by dual immunofluorescence flow cytometry
+          following staining with anti-CD14 mAb and anti-chemokine
+          receptor mAbs (FACScan; Becton Dickinson). For staining
+          chemokine receptors, 10 μl of each mAb was used for 1 ×
+          10 5cells suspended in 100 μl staining buffer (PBS + 2%
+          FBS) in accordance with the manufacturer's
+          instructions.
+        
+        
+          Migration assay
+          Cell migration was assessed in 24-well chemotaxis
+          chambers fitted with 5.0 μm transwell membranes.
+          Supernatants (550 μl) of cell lines cultured in various
+          conditions were added to the lower wells, and 5 × 10
+          5SRBC rosette negative PBMC in 100 μl DMEM containing 5%
+          FBS were added to the upper wells. In blocking
+          experiments, the supernatants were cultured with blocking
+          mAbs specific for chemokines overnight at 4°C before
+          assay. SRBC rosette negative PBMC were incubated with
+          blocking mAb to chemokine receptors for 1 h at 4°C before
+          assay in some experiments. The transwell membranes were
+          removed after 90 min of incubation at 37°C, and migrated
+          cells in the lower chamber were harvested by pipetting.
+          The cells were stained with anti-CD14 mAb conjugated with
+          FITC, and they were suspended in 110 μl PBS containing 3%
+          FBS. All of the cells were analyzed by flow cytometry and
+          CD14 +cells were counted.
+        
+        
+          RNA isolation and reverse transcriptase-polymerase
+          chain reaction
+          RNA was extracted from SCLs and fibroblasts using
+          Trizol reagent in accordance with the manufacturer's
+          instructions. Two micrograms of the extracted RNA was
+          treated with 2 U DNaseI to eliminate DNA, and reverse
+          transcribed with 200 U SuperScriptII reverse
+          transcriptase at 42°C for 70 min using oligo dT primers
+          in accordance with the manufacturer's instructions.
+          Polymerase chain reaction (PCR) was carried out with Taq
+          polymerase using 0.1-0.3 μl cDNA (1.5 mM MgCl 
+          2 ). Denaturation and extension
+          conditions were 94°C for 1 min and 72°C for 1 min,
+          respectively. The annealing period was 1 min for each
+          PCR, and the temperature was 62°C for RANTES and 56°C for
+          the other chemokines and β-actin. PCR products were
+          resolved by electrophoresis on 1.5% agarose gels and
+          identified with ethidium bromide staining. Firstly,
+          β-actin expression was examined using 26-30 cycles of
+          reverse transcriptase-PCR (RT-PCR) to amplify 0.1, 0.2,
+          and 0.3 μl cDNA to adjust the amount of cDNA of each
+          sample precisely. After resolving the PCR products on
+          agarose gels and identifying the relevant bands with
+          ethidium bromide, the optimal amounts of cDNA for
+          analysis were then determined. Chemokine expression in
+          this amount of cDNA was examined using 30, 32, 35, 38,
+          and 40 cycles of PCR amplification, and the results in
+          the linear part of the amplification curve are reported
+          in the figures.
+        
+        
+          PCR primers
+          The primer pair for β-actin was GTC CTC TCC CAA GTC
+          CAC ACA (forward) and CTG GTC TCA AGT CAG TGT ACA GGT AA
+          (reverse), that of IL-8 was CTG CGC CAA CAC AGA AAT TA
+          (forward) and ATT GCA TCT GGC AAC CCT AC (reverse), that
+          of MCP-1 was GCC TCC AGC ATG AAA GTC TC (forward) and TAA
+          AAC AGG GTG TCT GGG GA (reverse), that of IP-10 was CCA
+          CGT GTT GAG ATC ATT GC (forward) and TGG AAG ATG GGA AAG
+          GTG AG (reverse), that of RANTES was CGC TGT CAT CCT CAT
+          TGC TA (forward) and GCT GTC TCG AAC TCC TGA CC
+          (reverse), that of MIP-1α was TGC AAC CAG TTC TCT GCA TC
+          (forward) and ACA GGG GAA CTC TCA GAG CA (reverse), and
+          that of MIP-1β was CTG GGT CCA GGA GTA CGT GT (forward)
+          and ACA GTG GAC CAT CCC CAT AG (reverse).
+        
+        
+          ELISA
+          Concentrations of chemokines were measured by sandwich
+          ELISA according to the manufacturer's instructions
+          (R&D Systems).
+        
+        
+          Statistical analysis
+          The Student paired 
+          t test was used to compare the
+          effect of CD14 cell migration, and the blocking effect of
+          mAbs. The Student 
+          t test was used to evaluate
+          chemokine production by SCLs and the fibroblast line.
+        
+      
+      
+        Results
+        
+          Chemokine receptor expression by peripheral blood
+          monocytes
+          Chemokine receptor expression by CD14 +monocytes was
+          examined using flow cytometry. Representative examples
+          (Fig. 1) and asummary of staining results (Table 1) are
+          presented. CXCR3 and CXCR4 were expressed by a high
+          frequency of monocytes in all healthy donors. More than
+          one-half of monocytes expressed CCR2, CCR5, CXCR1, and
+          CXCR2 in seven of nine cases, although a minimal number
+          of monocytes from two donors expressed these receptors.
+          Expression of CCR6 and CXCR5 by monocytes was minimal in
+          all subjects. CCR1 was expressed by few monocytes in
+          three donors, whereas 20-40% of monocytes of the other
+          donors expressed CCR1. These results suggest that CCR1,
+          CCR2, CCR5, and CXCR1, CXCR2, CXCR3, and CXCR4 are
+          candidates to be involved in chemokine-mediated
+          trafficking of monocytes.
+        
+        
+          Supernatants of cell lines attract monocytes
+          To examine whether SCLs derived from RA synovium can
+          attract monocytes efficiently, migration of monocytes in
+          response to culture supernatants of RA and OA SCLs and
+          fibroblasts was examined (Fig. 2). Supernatants of all
+          cell lines attracted significantly more monocytes than
+          medium alone ( 
+          P < 0.01). Those supernatants
+          from RA SCLs induced the migration of significantly more
+          monocytes than the supernatants of the OA SCL and skin
+          fibroblasts.
+        
+        
+          Chemokine mRNA production by cell lines
+          Production of proinflammatory chemokine mRNA by the
+          various cell lines was assessed using RT-PCR (Fig. 3). RA
+          SCLs expressed a number of proinflammatory chemokine
+          mRNAs, including MCP-1, IL-8, MIP-1α, MIP-1β, RANTES, and
+          IP-10. OA SCL also expressed these same chemokine mRNAs
+          with the exception of MIP-1β. The fibroblast line
+          expressed mRNAs for IL-8, MCP-1, and IP-10, but not
+          RANTES, MIP-1α, and MIP-1β.
+        
+        
+          Chemokine production by cell lines
+          Chemokines secreted into the culture supernatants of
+          cell lines were measured by ELISA (Fig. 4). Production of
+          MCP-1 and IL-8 by RA SCLs was greater than that by OA SCL
+          and the fibroblast line. The cell lines produced low
+          levels of RANTES, whereas IP-10 and MIP1-β were not
+          detected (data not shown).
+        
+        
+          MCP-1 and IL-8 play a role in migration of
+          monocytes
+          Blocking experiments were carried out using mAbs to
+          determine the chemokines that contribute to monocyte
+          migration induced by RA SCLs (Fig. 5). Anti-MCP-1 and
+          anti-IL-8 mAbs decreased monocyte migration
+          significantly, with the effect of anti-MCP-1 being
+          consistently greater than that of anti-IL-8. Anti-CCR5
+          blocking mAb did not effect monocyte migration. The
+          anti-CCR5 mAb did have blocking activity, however, since
+          migration of T cells induced by RANTES (500 ng/ml) was
+          blocked by 95% (data not shown).
+        
+        
+          Stimulation with TNF-α induces RA SCL to produce
+          more chemokines and attract more monocytes
+          RA SCLs were stimulated with TNF-α, and chemokine
+          production and the capacity of supernatants to influence
+          monocyte migration were examined to assess the influence
+          of inflammatory cytokines on chemokine production and
+          monocyte trafficking. Supernatants from RA SCLs
+          stimulated with 2 ng/ml TNF-α produced more MCP-1, IL-8,
+          RANTES and IP-10 (Fig. 6), and attracted more monocytes
+          (Fig. 7) than those that were unstimulated.
+        
+        
+          MCP-1 and IL-8 play major roles in monocyte
+          migration by RA SCLs after TNF-α stimulation
+          Anti-MCP-1 mAb and anti-IL-8 mAb significantly
+          inhibited monocyte migration by supernatants of RA SCLs
+          stimulated with TNF-α. Anti-IP-10 mAb and anti-CCR5 mAb
+          did not inhibit monocyte migration significantly (Fig.
+          8).
+        
+      
+      
+        Discussion
+        The results of this study indicate that supernatants of
+        SCL derived from RA synovial tissue can attract more
+        monocytes from peripheral blood than OA SCL and skin
+        fibroblasts. MCP-1 and, to a lesser degree, IL-8 played the
+        major roles in SCL-induced trafficking of monocytes. These
+        results begin to provide an explanation for the extensive
+        accumulation of myeloid cells in rheumatoid synovium.
+        Importantly, RA SCL induced more monocyte migration after
+        stimulation with TNF-α, one of the major inflammatory
+        cytokines produced in the rheumatoid synovium.
+        Peripheral blood monocytes express many chemokine
+        receptors [ 9, 10], including CCR1, CCR2, CCR5, CCR8, and
+        CXCR4. The current analysis indicates that, along with
+        these receptors, CXCR1, CXCR2, and CXCR3 are also expressed
+        by monocytes. CCR1, CCR2, CCR5, CXCR1, CXCR2, CXCR3, and
+        CXCR4 notably appear to be expressed by monocytes obtained
+        from most donors.
+        Ligands of these chemokine receptors are candidates to
+        be involved in monocyte trafficking. These ligands would
+        include RANTES, MIP-1α and MCP-3 (CCR1), MCP-1, MCP-2,
+        MCP-3, MCP-4, MCP-5 (CCR2), RANTES, MIP-1α, and MIP-1β
+        (CCR5), IL-8 and CGP-2 (CXCR1), IL-8, GROα, and
+        epithelial-derived neutrophil attractant 78 (CXCR2), IP-10
+        and MIG (CXCR3), and stromal cell derived factor-1 (CXCR4)
+        [ 13]. Migration assays using supernatants of RA SCLs were
+        employed to determine which of these chemokine and receptor
+        interactions might be involved in monocyte migration in the
+        RA synovium.
+        Stromal cells are one of the important cell populations
+        in RA synovium. SCL can produce many cytokines, chemokines,
+        and can promote viability and functional activation of T
+        cells and B cells [ 14, 15, 16]. The current findings also
+        indicate that supernatants of RA SCLs attract more
+        monocytes than the supernatants of OA SCL and skin
+        fibroblasts. This result suggests that the supernatants
+        from RA SCLs may contain more chemokines than or different
+        chemokines to those of OA SCL or fibroblast lines and,
+        therefore, are able to attract additional monocytes. This
+        is likely to contribute to the more marked accumulation of
+        monocytes in RA compared with OA synovium.
+        An analysis of chemokines produced by RA SCL indicated
+        that these cells expressed MCP-1 and IL-8 mRNAs, and also
+        secreted MCP-1 and IL-8. It is noteworthy that there were
+        some discrepancies between mRNA expression and protein
+        production. From the mRNA expression, we expected RA SCLs
+        to produce reasonable amounts of IP-10, RANTES, MIP-1α, and
+        MIP-1β. RA SCLs, however, secreted only small amounts of
+        RANTES, and IP-10 and MIP-1β secretion was not detected.
+        According to previous reports, mRNAs of MCP-1, IL-8, and
+        RANTES were found in RA SCL or fibroblasts, but only MCP-1
+        was reported to be secreted by RA SCL or fibroblasts
+        without cytokine stimulation [ 4, 5, 17, 18]. The current
+        study indicates a wider profile of chemokine expression and
+        secretion by RA SCL, and also a greater production of IL-8
+        and MCP-1 by RA SCL compared with OA SCL, implying a
+        greater proinflammatory potential.
+        Experiments with blocking mAbs were carried out to
+        examine the chemokines in the supernatants of SCL that
+        accounted for monocyte migration. The data were consistent
+        with the conclusion that MCP-1 and, to a lesser extent,
+        IL-8 accounted for the capacity of RA SCL supernatants to
+        stimulate monocyte migration. Whether additional cytokines
+        produced by RA SCL also contributed to monocyte migration
+        is currently not known, but the combination of the
+        chemokine data and the mAb blocking results suggests that
+        MCP-1 and IL-8 play a dominant role in monocyte migration
+        measured by SCL.
+        TNF-α is one of the major cytokines produced in
+        inflammatory sites such as RA synovium, and it is thought
+        to play a central proinflammatory role [ 2]. We examined
+        the influence of TNF-α on monocyte migration induced by RA
+        SCL. RA SCLs stimulated by TNF-α secreted more MCP-1, IL-8,
+        and RANTES than those that were unstimulated, and began to
+        produce IP-10. Moreover, supernatants of TNF-α-stimulated
+        RA SCLs attracted more monocytes in migration assay. MCP-1
+        and IL-8 played the main roles in monocyte migration
+        induced by TNF-α-stimulated RA-SCL, as documented by
+        blocking experiments.
+        It has recently been reported that T cells expressing
+        CCR5 gather at inflammatory sites such as RA or multiple
+        sclerosis, and that interactions between CCR5 and its
+        ligands (RANTES, MIP-1α, MIP-1β) are thought to be
+        important in the accumulation of inflammatory cells at
+        these sites [ 19, 20, 21]. CCR5 expressed by monocytes,
+        however, was not apparently active in transmitting
+        transmigratory signals. RANTES is also the ligand of CCR1,
+        but the major receptor for RANTES is thought to be CCR5. In
+        this regard, expression of CCR1 by monocytes was lower than
+        that of CCR5. Moreover, antibody to MCP-1 and IL-8 blocked
+        75% and 20% of migration of monocytes, respectively.
+        According to this information, RANTES is unlikely to play a
+        major role in monocyte migration by RA SCL
+        supernatants.
+        MCP-1 has been shown to play an important role in the
+        development of arthritis in MRL-lpr mice [ 22], whereas the
+        migration of monocytes into inflammatory sites was reduced
+        in the CCR2-deficient mouse [ 23]. These results are
+        consistent with the current findings, demonstrating the
+        important role of MCP-1 in monocyte migration. Blocking the
+        effect of RANTES has, however, also been shown to be
+        effective in ameliorating collagen-induced arthritis in
+        DAB/1 mice and adjuvant-induced arthritis in rats [ 24,
+        25]. RANTES might, therefore, play a different role in the
+        initiation of inflammatory arthritis in experimental
+        animals compared with propagating chronic inflammation in
+        RA.
+        The overlapping roles of MCP-1 and IL-8 in the migration
+        of inflammatory cells have recently been highlighted in
+        studies of neutrophil trafficking. It was reported that
+        MCP-1 plays a role in neutrophil trafficking in
+        inflammation, although neutrophil trafficking was
+        previously believed to be regulated only by IL-8, and not
+        by MCP-1 [ 26]. These previous results, together with the
+        current data, indicate that both MCP-1 and IL-8 play major
+        roles in regulating the trafficking of myeloid cells into
+        inflammatory sites.
+        The role of specific chemokines in arthritis is still
+        controversial, and further investigation is necessary to
+        delineate to specific roles of these effector molecules.
+        Moreover, the role of tissue cells in regulating the
+        migration of inflammatory cells into the synovium is also
+        not fully established. The current data, however, strongly
+        imply that monocyte accumulation in rheumatoid synovium is
+        regulated by SCL via production of the chemokines MCP-1 and
+        IL-8.
+      
+      
+        Abbreviations
+        ELISA = enzyme-linked immunosorbent assay; IP-10 =
+        interferon-gamma inducible protein 10; mAb = monoclonal
+        antibody; MCP-1 = monocytechemotactic protein-1; MIP =
+        macrophage inflammatory protein; OA = osteoarthritis; PBMC
+        = peripheral blood mononuclear cells; PE = phycoerythrin;RA
+        = rheumatoid arthritis; RANTES = regulated upon activation,
+        normal T cell expressed and secreted; RT-PCR = reverse
+        transcriptase-polymerasechain reaction; SCL = stromal cell
+        line; SRBC = sheep red blood cells; TNF-α = tumor necrosis
+        factor-α.
+      
+    
+  

@@ -1,0 +1,2805 @@
+
+   
+      
+         
+            Power Users Dump Baudy Language: The Ambivalent Nature of Computer Slang
+
+
+
+
+            What happens when power users dump baudy
+language ?  Should they abort, retry, ignore ,
+or admit failure?  They might boot up again, but they
+could experience a head crash .  Would Kermit prevent
+them from being munged ?  What should a poor
+technoweenie do when threatened by thrashing between
+disk and memory?  Nerdettes better hope their
+motherboards are user-friendly .  If all else fails, they
+could hit the DWIM key.
+
+            
+               Hackers , or just plain droupies , probably have
+no trouble translating what I just wrote out of computer
+jargon and slang into more conventional English.
+But even if you do not understand the preceding,
+you probably feel the tension between words
+conveying force, strength, and menace, such as
+power users, abort, dump, head crash , and munged ,
+with words suggesting vulnerability, frailty, and humor
+as a defense against such powerlessness, in
+words like technoweenie, nerdettes, user-friendly ,
+and DWIM (for do what I mean, a mythological key
+that would make the computer do what you cannot
+figure out yourself).
+
+            Most people who use computers feel ambivalent
+about them.  It should not, therefore, be surprising
+that computer slang conveys divided, and sometimes
+radically conflicting feelings.  As a librarian I see evidence
+every day of this ambivalence in the slang
+used by patrons and colleagues.  Slang is a reliable
+gauge of attitudes because it is usually used in an
+unguarded way to express unedited feelings.
+
+            I am using the word slang as it is defined on
+page xi in the latest scholarly dictionary of American
+slang, J.E. Lighter's Random House Dictionary of
+American Slang , Volume I, A-G (1994): an informal,
+nonsubstandard, nontechnical vocabulary composed
+chiefly of novel-sounding synonyms for standard
+words and phrases.  I am assuming, as the editor of
+this dictionary argues, that slang is not just colloquial
+language, but that it is often aggressively informal,
+that it doesn't tolerate pretense, that it is often
+crude, blunt, ribald, egalitarian--in short, very unpretentious
+and honest language.  [ ibid , xii] Computer
+slang is similar to, but rather different from
+computer jargon, which is the specialized language
+used by tekkies.  Jargon is the in language used
+by any profession, group, or class.  The word default
+is jargon for something automatically carried out
+unless you change it.  This term does not qualify as
+slang because it is a legitimate, formal term, rather
+easy to define denotatively, quite fit for use in polite
+company, and equally at home in written and spoken
+language.  By contrast, the neologism droupie a person
+who likes to spend time in the company of programmers
+and data processing professionals, is slang
+because it is very informal language.  In fact, it is so
+casual as to suggest an anti-grown-up rebelliousness
+because of its probable derivation from the word
+groupie , and it is definitely more frequent in speech
+than in writing.
+
+            Because slang is up front and sometimes deliberately
+in your face language, we can learn
+more about how people really feel about computers
+by examining slang rather than jargon.  A good way
+to remember the difference between slang and jargon
+is that jargon serves to indicate a referent, usually
+with great precision, while slang characterizes
+and often makes light of what is referred to, and
+nonslang synonyms are almost always readily available.
+Technical language develops among specialists
+for the purpose of cooperation; slang develops
+among associates for purposes of expressiveness,
+companionability and to some extent exclusivity.
+[ ibid . xvi-xvii]
+
+            We can learn a lot about what is on people's
+minds when we analyze jargon, but we can learn
+how they feel when we analyze slang.  Thus, it is not
+surprising that a great deal of computer jargon is a
+quick way to say otherwise complicated things.  For
+example, MIPS is a convenient acronym for millions
+of instructions per second, point and click is a quick
+and direct way of describing basic mouse techniques,
+and run-around , borrowed from typesetting,
+is an apt metaphor for the way text flows around the
+outside edges of a graphic image.  Jargon like this is
+very good at precisely describing actions and things,
+but these words do not convey any obvious attitudes
+about their referents.
+
+            My analysis of computer slang has revealed a
+great deal of ambivalence about these often mysterious
+and seemingly omnipotent machines.  Some
+computer slang suggests a love-fear conflict.  One
+does not have to be a Freudian to wonder about the
+double message implied in some of these terms.
+
+            On the one hand, there are quite a number of
+words and phrases suggesting that computers are
+powerful and frightening.  We definitely want to do
+all we can to avoid causing a computer to bomb or
+crash.  It is true that many computer applications began
+in the military but many people who are not conscious
+of the military associations use expressions like
+command language or launch a program.  Because
+computers simulate many human activities, it is not
+surprising that we should attribute all kinds of human
+characteristics to them.  They do seem to possess artificial
+intelligence; some of them create virtual reality;
+and they are so efficient that they make us
+wonder about why we would want to do anything in
+real time any more.  When I am feeling especially
+organized at work I like to tell coworkers that I'm in
+the batch mode.  Computers are so seemingly lifelike
+that we worry when they catch viruses; we seek
+to debug programs; and we do not have to be right-to-lifers
+to worry if a computer application is suddenly
+aborted.  Our fears are often suggested when
+we say that some repetitious human activity looks
+as if it is programmed.  We sometimes want to
+deprogram people who belong to dogmatic cults.
+
+            As if to counteract or reduce the frightening
+power suggested by many of these words, other
+slang expressions suggest that computers are really
+quite harmless.  Some of these terms go to the opposite
+extreme, suggesting a warm and fuzzy, childlike
+relationship that seems all too naively trusting, as if
+Little Red Riding Hood really could trust the wolf
+dressed as her grandmother.  Surely we must expect
+that the normal state of affairs is for computers to be
+hostile, or at least unfriendly.  Why else would we so
+frequently use the term user-friendly to describe operations
+that are not easy to do?  And how did such a
+cold and unhuman thing like a telecommunications
+protocol for transferring files between a mainframe
+and a microcomputer get dubbed Kermit?  It seems
+incongruous that a character on a children's television
+show should be identified with such an impersonal
+thing.  At Western Michigan University two
+names for areas within our mainframe are Piglet and
+Winnie, suggesting that all the hard, serious data and
+big-time university research is really not daunting at
+all.  On the contrary, that world is as blithe and carefree
+as the Winnie the Pooh stories.  Similar words
+for computer services at my university are grog,
+gumby, roo, tigger, kanga, ninny, thumper, mickey
+and minnie (for Mickey and Minnie Mouse), and
+Laurel and Hardy.  Surely the people who coined
+these names are of the same mindset as those who
+call miniature programs applets or refer to diagonal
+or circular lines in a text as jaggies.  Reference librarians
+who regularly contribute to the Stumpers
+list on the Internet refer to themselves as wombats.
+This apparently originated because one of the
+reference questions involved these Australian marsupials,
+noted for their burrowing qualities.  Surely
+the nickname has stuck not only because of the metaphorical
+associations with librarians burrowing for
+answers, but also because the name sounds cute,
+personalizing what otherwise might seem to be the
+overly mechanical activity of finding answers to reference
+questions.  So many people use their pets'
+names for passwords that these are among the first
+names a decoder would try to learn.
+
+            I want to suggest that there is a very understandable
+reason for the apparent conflict between words
+like power user and Kermit.  The soft, warm, children's
+words allow us to allay our fears about computers
+that crash and bomb and abort.  It is as if the
+cute words undemonized the scary ones.  I do not
+have to be a hacker or a tekkie in order to manage
+efficiently my user-friendly computer, In one version
+of reality, those ubiquitous computers are going to
+take over all aspects of life, doing away with my job
+or changing it into something a robot should do,
+rather than a human being.  Another version of reality
+offends bureaucrats and is just as exaggerated, but
+it is very useful as a defense mechanism.  In this view
+of the world, I can feel very safe indeed--in fact, I
+am more than simply safe--I am nurtured in the
+warm and cuddly child's world of fun things like
+floppy disks, where I can cozy up to my motherboard,
+and pretend that I am a Dogcow (a trademark symbol
+of Apple Computer) for a character that can say
+words like Moof when it is asked to list Laser-Writer
+options.  Fortunately, the real world of computers,
+notwithstanding slang words to the contrary,
+exists somewhere between the opposing fantasies of
+the cold impersonality of Brave New World and the
+carefree innocence of Winnie the Pooh.
+
+            [NOTE: In this article, I have consulted The Computer
+Glossary: the Complete Illustrated Desk Reference,
+by Alan Freedman, (American Management
+Association, 6th ed., 1993), and computer dictionaries:
+Jargon: An Informal Dictionary of Computer
+Terms, by Robin Williams (Peachpit Press, 1993);
+Prentice Hall's Illustrated Dictionary of Computing,
+by Jonar C. Nader (Prentice Hall, 1992); and Webster's
+New World Dictionary of Computer Terms, by
+Donald Spencer (Prentice Hall, 1992).]
+         
+         
+            
+During this, the Year of Arts in Education in Connecticut,
+budget cutbacks have reeked havoc with many
+school arts programs.  [From From the Station Manager,
+by John F. Berky, in Applause , Connecticut Public
+Radio Newsletter, .  Submitted by
+.]
+
+         
+         
+            
+A middle-aged muslim man looking for a muslim
+woman--object, matrimoney.  [From The [Toronto] Globe
+and Mail , .  Submitted by
+.]
+
+         
+         
+            From China to Peru: An
+Oriental Odyssey
+
+
+
+            Where have you been on your travels lately?
+They say Bali is her best in the spring, but
+you may prefer somewhere warmer, such as Yadian.
+Myself, I can't wait to visit Eluosi again, although all
+roads traditionally lead to Luoma, even if you are
+travelling from as far as Meizhou.  They are the Chinese
+names for, respectively, Paris, Athens, Russia,
+Rome , and America .
+
+            Where in the world are these places, you may
+wonder.  Maybe in China?  Well, yes and no.  They
+are Chinese transliterations of those names, rather
+than translations, and strictly speaking in the Romanization
+system known as Pinyin should be written
+with tone signs and without capitals, since Chinese
+has pictographs, not letters as we understand
+them.  They would then appear as bālī, y˘di˘n,
+éluósī, luóm˘ , and měizhōu .
+
+            Chinese names of places in China itself are of
+course actually meaningful, although many have become
+distorted by Westerners.  The capital, Peking ,
+now familiar to most in the West in its more accurate
+form, Beijing , has a name meaning northern capital,
+by contrast with Nanking , southern capital.  Canton ,
+or as it now appears on modern maps, Guangzhou ,
+means broad region, while Shanghai means over
+the sea.
+
+            The Chinese names of neighbouring places in
+the Far East are also often similarly meaningful and
+may be translated from their language of origin.
+Thus gu\symbol\ngd\symbol\o means broad island and translates
+the Japanese name of Hiroshima , while d¯ngjīng ,
+meaning eastern capital, translates the Japanese
+original of Tokyo.  Japan itself is riběn , literally sun
+root.  (Hence its Western byname, Land of the Rising
+Sun.)  The Pacific Ocean is tàipíngyáng peaceful
+ocean.  The Chinese name of China itself is
+zhōngguó middle country, while the Western name
+is traditionally associated with that of the Ts'in dynasty
+(221-206 BC), although actually recorded
+much earlier.  (The character for middle , a rectangular
+figure bisected by a vertical line, represents a
+square target pierced by an arrow.)
+
+            Places further from China may also sometimes
+have their names translated, assuming they are already
+meaningful.  Thus Port-au-Prince , capital of
+Haiti, is tàiz\isymbol\găng , literally great son port, but Haiti
+itself is hăidi , clearly a transliteration.  However, it so
+happens that this name is actually (though coincidentally)
+both meaningful and appropriate, since it translates
+as sea land.
+
+            Such serendipity sends one on a voyage of discovery,
+to see what meanings can be aptly found in
+other Chinese transliterated names.  The transliterations
+themselves, as instanced above, may at first
+seem strange.  However, once one appreciates certain
+conventions, the forms of the names fall into
+shape.  The Chinese do not distinguish l from r in
+Western words or names, for example, so that these
+letters when transliterated may appear as either.
+Hence luómă for Rome and bālí for Paris, but
+l\isymbol\sīběn for Lisbon, and lúndùn for London.  Similarly,
+initial b or p can give Chinese m , so that Peru
+(with Western r as well) is milŭ and Bangkok màngŭ .
+The Chinese r itself is closer to Western sh [\?\] or zh
+[3].  Hence ruìdiăn for Sweden and rìnèiwă for Geneva.
+Generally, too, Chinese does not have consonant
+groups or words ending in a vowel (except the
+nasal -ng [η] as in běijīng ).  This means that vowels
+appear in transliterations where one does not expect
+them.  Baghdad is therefore bāgédá .  The transliteration
+itself is often from the native form of the name.
+Spain is thus xībānyá , from España , Germany is
+déyìzhì , from Deutschland .
+
+            Not all names produce a fortuitous literal meaning
+as apt as that for Haiti .  But America, as měizhōu ,
+has a name that happens to mean beautiful
+continent--America the Beautiful, after all--while
+England is yīngguó , brave country.  (This England
+never did, nor never shall, Lie at the proud foot
+of a conqueror, as the Bard penned.)  Even Paris
+seems to have a historic reference, since bālí literally
+means clayball multitude: the Roman name of
+Paris, Lutetia , comes from Gaulish luto mud, clay.
+
+            In the names of America and England the second
+element is not part of the transliteration but the
+Chinese word for, respectively, continent and
+country.  Other continents also have names that are
+part transliteration, part zhōu : Europe is oūzhōu ,
+Asia, yāzhōu , and Africa fēizhōu .  The second and
+third of these have names that could literally be interpreted,
+hardly flatteringly, as inferior continent
+and wrong continent, but the first element of Europe's
+name has no corresponding sense.
+
+            There are some curiosities.  The Chinese name
+of Iceland is bīngdăo .  This is clearly not a transliteration
+but a translation: it literally means ice island,
+with the second element apparently mistranslating
+the Icelandic name for the country, Īsland ice
+land as island.  Nearer home, the Chinese name for
+Korea is cháoxiän .  This literally means seatide
+fresh, not inappropriately, but is actually a transliteration
+of Korean chosön , which means land of the
+morning.  The Chinese name for the Atlantic
+Ocean, on the other hand, is quite different: dàxīyáng
+great western ocean.
+
+            It has to be said that if one attempts a literal
+translation of many Chinese placenames one simply
+ends up with a sense that is surreal rather than suitable.
+Many cannot be meaningfully translated at all.
+Of those that yield some sense, the following handful
+may be considered poetic coincidences:
+
+
+Athens yădiăn proper law
+Chile zhìlì wisdom benefit
+Delhi dél\isynbol\ virtue hometown
+France făguó method country
+Ganges hénghé everlasting river
+The Hague hăiyá sea tooth
+London lúndùn matching honest
+New York niŭyuē bond agreement
+Thailand tàiguó peaceful country
+
+            
+         
+         
+            Japanese Pop Group
+Nomenclature
+
+
+
+
+            The names that Japanese pop groups adopt
+would, at first glance, appear to be as vacuous
+and bland as the worst of the western pop their managers/producers/arrangers
+plagiarize and instruct/
+command them to play.  Not for them the teen British
+and American angst, rebellion and outrage expressed
+by such band names as The Sex Pistols, The
+Nipple Erectors, The Slits (all-girl, ho ho Hemingway),
+The Dead Kennedys, The Butthole Surfers, Kid
+Kommode and the Bidet Boys, Pogue Mahone (now
+knows as The Pogues since being dropped from the
+BBC's playlist because some scholar told the BBC
+that pogue mahone meant kiss my arse in Irish), and
+so on.  What is interesting about some of these purveyors
+of Japanese pap--I mean pop--is how their
+names appear on CD, cassette, and other labels and
+in the Japanese pop press.
+
+            For this to be appreciated I must first briefly
+describe the complex Japanese system of writing.  It
+consists of borrowed Chinese ideograms (characters
+known as kanji , the hiragana syllabary used for Japanese
+words not covered by kanji , the katakana syllabary
+used for foreign words, and the Roman alphabet
+known as romanji usually used for abbreviations
+like UN and acronyms like GATT .  You can see the
+whole consort effortlessly dancing together on the
+front page of any Japanese newspaper.  In the case
+of the names of their pop groups, this concatenation,
+however, assumes truly awesome and bizarre proportions,
+surely unknown, indeed not even possible,
+in any other language.
+
+
+• Meaningless names written in romanji: B'z (pronounced
+bees), Lindberg, Qlair (pronounced
+kler), SAYE·S, SMAP, T-Bolan (probably from the
+late British pop star Marc Bolan and his '70's group
+T.Rex), trf (pronounced truf), Zard.
+
+• English names written in romanji: a (always glossed
+in parentheses as alpha), Access, CoCo, Damn
+Rockers, Dreams Come True, Escalators Vanilla
+(possibly inspired by the `60's American bands Vanilla
+Fudge, The Mood Elevators, and Strawberry
+Alarm Clock, though made ludicrous in conforming
+to Japanese grammar which requires the adjective
+to follow the noun), Hound Dog, Jigger's Son (four
+guys), Judy and Mary (three guys backing a girl
+singer), Princess, Tube, Wink, Zoo.
+
+• Japanese name written in romanji: Mi-ke (a winsome,
+snaggle-toothed teen warbler.  Mi-ke is a
+popular name for pets, particularly cats).
+
+• English names written in katakana: The Dark
+Ducks, J-League Downtown (J-League is a soccer
+league), Physical, Cruising, Omnibus, Original Love,
+The Peanuts (twin sisters), Southern All-Stars, The
+Tempters, Tokyo Performance Doll (seven girls), Tulip,
+Tunnels (pronounced toenails), Zutorobi
+(The Beatles pronounced backwards, syllabically
+rather than alphabetically!  The Seltaeb?  Nah!).
+
+• Partly Japanese and partly Western name written in
+romanji: Bakufu Slump (literally, blast, as in explosion,
+slump.  Slump is a loanword used in baseball
+and economics).
+
+• Partly Japanese and partly Western name written in
+kanji and romanji: Comé Comé Club (literally, rice
+rice club).
+
+• Pure Japanese name written in khanji and romanji:
+Hikaru GENJI (The kanji component, hikaru,
+means light (as illumination); GENJI, always capitalized,
+seems to be a literary allusion to Lady
+Shikumi Murasaki's c. A.D. 1000 novel The Tale of
+Genji, Genji being the male protagonist.)
+
+• Pure Japanese name written in kanji: Otokogumi
+(Warriors' Group)
+
+• Pure Japanese name written in kanji and hiragana:
+Kaguya-hime (literally, Princess Sparkle, from a
+classic Japanese nursery tale.)
+
+            
+
+            From all this we can clearly deduce that in no
+way can the Japanese be accused of xenophobia--
+linguistic, anyway!  Indeed, L'Académie française
+might do well to note the above and the albeit absurd
+names of these two Japanese discos rendered in
+romanji: Maharaja Saloon Sahara King & Queen
+Disco Maebashi , and Maharaja Tokushima Space
+Disco Liberazione .
+         
+         
+            Casanova's English
+
+
+
+
+            Some years ago I worked as an English teacher in
+a school not far from Italy's Adriatic Riviera,
+which is flooded with tourists in the summer.  Not
+surprisingly, some of my students came along primarily
+to acquire a smattering of spoken English to
+help them chat up holidaying women.  For such
+men, the somewhat tedious rules of English spelling
+were of scant interest, I lav you, Pleas com and
+leave whit me in my aus was typical of the kind of
+useful phrase that they might jot down in their
+notebooks.  This devil-may-care attitude to the
+quaint rules of English spelling follows firmly in the
+illustrious footsteps (or perhaps penstrokes) of the
+greatest Latin lover of them all, Giacomo Casanova.
+
+            Born a Venetian, Casanova led a peripatetic life
+which took him through almost every country in Europe
+in search of fame, fortune, and female attractions.
+In his day French was the international language,
+spoken by anyone who aspired to a place in
+high society in any country, but during his brief visit
+to London in 1763-64 he made an attempt to pick
+up a smattering of English.  In his autobiography,
+written thirty years later, he proudly demonstrates
+his knowledge, casually throwing English words into
+the middle of his French text with an easy confidence
+and some bizarre spelling.
+
+            He arrived in Dover in June 1763 in a paq-bot
+which he shared with the Duke of Bedfort.  His
+eighteen-hour coach journey took him through
+Cantorberi before reaching London, where he
+called on a former lover of his who now lived in
+Soho Squarre.  She did not give him a particularly
+warm reception, however, and he was soon on the
+lookout for a house to rent for himself.  With the help
+of an English-speaking friend, he examined the columns
+of the Advertisser and quickly found the ideal
+bachelor pad--a house in Pale-Male--which he
+moved into at once, making sure that the Auskeper
+would take on a French-speaking maidservant.
+
+            He was keen to get to know the city and his
+friends in London society soon showed him the
+sights.  Being the son of an actor and actress, he was
+naturally interested in the theaters, such as those at
+Covengarde, Drurilaine, and Hai-marcket.
+Casanova was also a fervent card player and was
+soon invited to play a few robers of visk (or
+wisk).  Not being accustomed to that particularly
+English form of cards, he lost fifteen pounds in his
+first game to Lady Covendri.  He was also not entirely
+familiar with English money and mistakenly
+paid her fifteen guineas, thus leaving Lady Coventry
+smiling at her unexpected gain of a further fifteen
+scheling (or was it shelin, seling, or even
+chelin?).
+
+            Casanova enjoyed London.  He lived near such
+attractions as Grim-pare and the new royal residence
+of Bukingan Aus.  A brief stroll up WiteAle
+took him towards Chirincras.  He could enjoy
+lunch at the Staren-taverne in Pique-Dille
+with his good friend Milord Pimbrock [Pembroke],
+where the water might offer him a plate of
+traditional English Rochebif and a mug of
+Strombir.  Afterwards they might venture out to
+the Boulingrin or, if he needed ready money
+quickly, to pawn some possessions at the Pingbros.
+He could also admire Wren's splendid new
+church of St. Pol and the wonderfully efficient
+Penni-post which delivered letters around the
+capital.
+
+            Casanova was a highly intelligent man and a
+competent linguist.  Much of his prodigious literary
+output, including his 3,000-page autobiography, was
+written in French, which was a foreign language to
+him.  So why was his written English so haphazard?
+Part of the answer lies in the spell-as-you-like
+nature of our language at a time when Johnson's dictionary
+was still a novelty, though while some of his
+variant spellings of shilling , for example, are typical
+of the English of the day, much of Casanova's spelling
+would look more at home in a Chaucerian text than
+one from the Age of Englishtenment.  Besides, he did
+not write his life story till thirty years after his visit to
+England, with no more than his memory to rely on
+when writing a language he had spoken but, very
+likely, not written before.  But most important of all is
+that the situation did not worry him.  He loved to
+communicate and was happy to charge headlong at
+the language and have a go regardless of the risk of
+mistakes--an attitude which many people today
+might do well to learn from.
+
+            Maybe it would bring a smile to Casanova's lips
+to know that even now, although the world and the
+relative importance of the English language have
+changed so much, those of his countrymen who style
+themselves as his heirs retain his enthusiastic disregard
+for English spelling.  As he would doubtless
+have observed in his perfectly idiomatic English,
+Plus ca change, plus c'est la même chose.
+         
+         
+            
+Our Hopes For The New Year Are Soaring!  [From
+an advertisement for The Swan Funeral Homes, in the
+Pictorial Gazette East, .  Submitted by
+.]
+
+         
+         
+            
+There isn't room to list them all, except it must be
+noted that they included the Right to Die Society apologizing
+for accidentally calling itself the Right to Life Society
+in a previous letter, and the Right to Life Society objecting
+to the theft of its name.  [From The Toronto Star, .  Submitted by .]
+
+         
+         
+            Safire's Syndrome
+
+
+
+
+            William Safire, the political and language columnist
+for the New York Times , has been
+concerned about the correct use of the apostrophe
+and s with proper nouns ending in s , particularly
+with eponyms, so concerned that he has named a
+syndrome for himself: Safire's syndrome --the urge
+to correct.  His compulsion emerged when both
+President and Mrs. Bush were diagnosed as having
+Graves's disease, one of several eponyms for hyperthyroidism,
+a common condition caused by excessive
+secretion of thyroid hormone.
+
+            Which leads to the use of medical eponyms,
+proper names, usually of persons or places, to designate
+diseases; their signs and symptoms, alone or in
+combination; reflexes, and a host of other medical
+phenomena.  Dorland's Medical Dictionary , 26th
+edition (1974), devotes more than nineteen columns
+to short definitions of diseases, the vast majority eponymous,
+seven named for physicians who early described
+hyperthyroidism.  Fortunately, only Graves's
+name ends in s but his is the overwhelmingly favored
+eponym of English-speaking physicians.  Dorland
+also listed 488 signs, again mostly eponymous,
+of different diseases, thirty-three in thyrotoxicosis.
+Twenty-five of the physicians commemorated were
+western Europeans or Americans active between
+1860 and 1920, years of intensive correlation of
+bedside and pathological findings, whose names now
+linger as historical markers.
+
+            But historical background offers little help in
+the management of Safire's syndrome, because criteria
+for correct use of apostrophes and s 's for
+proper nouns ending in s are lacking.  Fowler noted
+the problem favoring s 's but made no specific reference
+to the conversion of proper possessive nouns to
+adjectives; Strunk and White affirmed the propriety
+of s's , and Gowers, in The Complete Plain Words ,
+prefers s's , a choice of some importance because his
+father, the British neurologist Sir William Richard
+Gowers (1845-1915), is remembered for his column,
+disease, fasciculus, sign, solution, syndrome,
+and tract by Dorland.
+
+            Critics may sensibly ask, Who owns the eponym?
+Some processes are named for early reporters,
+as is Graves, and some for victims as Lou Gehrig
+(amyotrophic lateral sclerosis), usually without their
+permission or even awareness.  Should the earliest
+reporter, the most accurate one or the one most
+widely known today be memorialized?  One might
+look to modern medical journals for guidance but
+little is to be had.  The Annals of Internal Medicine ,
+organ of the American College of Physicians, abandoned
+the possessive form totally in 1988, protesting
+that eponyms are inappropriate when a directly
+descriptive synonym is available.  Many medical
+journals, however, have declined to follow its lead
+and medical dictionaries are neither particularly
+helpful nor consistent.  By 1988 the editors of Dorland's
+28th edition had deleted three eponymous
+entries for hyperthyroidism, retaining Graves but
+now as Graves disease , the second s and its possessive
+apostrophe banished.  Stedman's Medical Dictionary ,
+26th edition (1995), argues that Graves ' is
+correct, while the Churchill lexicon (1989) omits
+both apostrophe and s with Graves but keeps both
+with Parry's disease , another eponym for hyperthyroidism.
+
+            Those who prescribe written usage offer no
+guide at all as to how to handle the problem posed
+by the spoken word.  How can Dan Rather or Peter
+Jennings let his audience know when a celebrity suffers
+eponymously?  The speaker, the scriptwriter,
+and their audience might have thought that President
+and Mrs. Bush were ill with Grave disease.
+And there is Bright's disease , used by the public to
+identify chronic kidney disease of any cause which
+might be called Bright disease by some.  And what of
+
+
+Best's disease--congenital macular degeneration
+of the eye
+
+Gross's disease--saccular dilatation of the anal
+wall with retained inspissated feces (What
+is a directly descriptive synonym for this
+process?)
+
+His's disease--trench fever
+
+Little's disease--spastic palsy (Little disease
+would pose a nice problem for the TV or radio
+announcer)
+
+Tooth's disease--progressive personeal muscular
+atrophy (usually compounded as Charcot-Marie-Tooth's
+disease)?
+
+            
+
+            Consider these without 's
+
+            What if Prichard were asked to present his 1993
+VERBATIM article, Whatever Happened to Frank
+Beriberi?, before an audience?  He reported that
+the late, lamented Sidney J. Perelman confessed that
+he had Parkinson's disease and Parkinson had
+mine, but Eisenberg, in Scientific American, asserted
+that Perelman said he had Bright's disease
+and he has mine (James Parkinson, 1755-1824,
+described paralysis agitans and Richard Bright,
+1789-1858, chronic glomerulonephritis).  Poor Perelman
+!  Other sources, however, assert that Bright
+had Groucho Marx disease and that Groucho had his.
+Which then is correct, Marx, Marx, or Marx's disease?
+
+            Safire's problem, and mine, too, are avoided in
+the Linnaean nomenclature for biological classification
+in that the names of persons and places are latinized
+or otherwise altered, as
+
+
+Salmonella typhi, the microbial cause of typhoid
+fever, recalls the American bacteriologist David
+Elmer Salmon (1850-1914)
+
+Rickettsia rickettsia, or Rocky Mountain spotted
+fever, the American, Howard T. Ricketts
+(1871-1910)
+
+Neisseria gonorrhoeae, the German A.L.S. Neisser
+(1855-1916).
+
+            
+
+            Safire's syndrome would have been of little concern
+in the 18th century, before eponyms became
+fashionable, and, according to Johnson's Dictionary
+of the English Language, before the adjective possessive
+would modify case.  There, possessive is defined
+as having possession and apostrophe as In rhetoric,
+a diversion of speech to another person or In
+grammar, the contraction of a word; as, tho', for
+though.  Use of the apostrophe to indicate possession
+or in combining short words, as, isn't for is not,
+is not considered.
+
+            However, The Chicago Manual of Style, 14th
+edition (1993), does offer comfort and guidance to
+the perplexed, proclaiming that Most proper nouns
+including most names ending in sibilants take 's as in
+Kansas's, Burns's poems, Marx's theories, Berlioz's
+opera, and Ross's lane.  Among the exceptions are
+Jesus', Moses', and names of more than one syllable
+whose unaccented endings are pronounced eez,
+as in Euripides' or Xerxes'.
+
+            Safire's syndrome is not limited to medicine.  A
+recent Wine Talk in the New York Times tried to
+answer the question Stags Leap, Stag's Leap, Stags'
+Leap--Which of these spellings is correct in referring
+to the wines of a particular section of the Napa
+Valley in California?  The answer: All of the
+above.  The advice to the consumer, Just keep the
+apostrophes straight.  Just so.
+         
+         
+            
+There is not a finite number, I am sure, but it must
+be a large number.  [From a review by Laurence Urdang
+in Verbatim , , page 36.  Submitted by .]
+
+         
+         
+            
+Lingerie manufacturer works with University Extension
+to improve bottom line.  [Subheadline in Exclaimer
+(published by University of Missouri System, Lincoln University),
+.  Submitted by .]
+
+         
+         
+            The Way That They Tell 'em
+
+
+
+
+            Total absence of humor, remarked Colette,
+Renders life impossible.
+
+            The lady was correct.  Humor and the ability to
+express it have been a fundamental part of human
+life from the beginning.  But, as sure as there are
+wines that do not travel well, so, too, is there a type
+of humor and a form of language that is best appreciated
+in the land of its origin.  Or, to be more specific,
+in its region of origin.
+
+            My own country, Scotland, is a classic example.
+Scottish humor can be an acquired taste.  It is so distinctly
+regional, and it is peculiar to its particular
+region as is the language through which it is expressed.
+Visitors to the region laugh, not so much at
+what is said, but at the way in which it is said.  The
+listener laughs at the reconteur as much as at the
+story itself.
+
+            Listen to the lugubrious drollery of the western
+Highlander.  His stories are long and involved, and
+they are best heard when you have lots of time on
+your hands.  The Highlander is a consummate storyteller.
+Whether he is relating one in his native
+Gaelic or in the lilting English that he learned at
+school, you can almost hear the sough of the sea on
+far-off, never-to-be-seen-again Hebridean machairs
+as he speaks.  There is an innocent humor to be
+found in his stories, to be sure, but they are stories
+that are invariably tinged with a brooding sort of
+sadness.  You are glad that you listened, but you are
+left with a louring aura of melancholy around you
+long after you have taken your leave of him.
+
+            Over on the east coast the humor is sharp and
+incisive.  It is a sardonic wit, a wit that can be as
+savage and biting as the dry northern winds that sear
+this land for a goodly part of the year.  It has much of
+the pawky vulgarity of the Glasgow wit, but it is different
+somehow, much more personal.  It is wit between
+friend and friend.  On the other hand, listening
+to the banter between gaggles of Glaswegians at,
+say, their Barras market on any morning of the year
+is like listening to the discordant yakking of jackdaws
+around derelict tenement chimneys in the
+nesting season.
+
+            Far away from all those, down at the southernmost
+tip of Scotland, both humour and dialect have a
+decidedly Irish flavor.  With the green glens of Antrim
+just a short hop across the water, this might not,
+on the face of it, seem so surprising.  But there is
+more to it than that.  Wigtownshire (as the county
+was called until the Whitehall bureaucrats dropped
+the ancient name in 1975 and decreed that it be
+merged with Dumfries and Galloway) has been relucant
+host to many incomers.  The earlier inhabitants,
+the shy Mesolithic tribes and the mysterious
+Picts, vanished for ever into the moorland mists before
+the invaders.  With them, they took their language.
+
+            The Roman came and went, leaving not so much
+as a place name behind him.  Indeed, had not his
+Latin been adopted by the scholastic monks of the
+day, little would have remained to show that he had
+ever been there in the first place.  VENI, VIDI, VICI,
+he crowed smugly.  And then, as a historian friend
+of mine so succinctly put it, He just buggered off.
+
+            The Celt brought religion and the Gaelic.  In
+fact, the eccelesiastic Ninian brought Christianity
+here long before Columba reached Iona in AD 563.
+Unlike the Roman, the Celt left his mark in the many
+place names of Gaelic origin scattered around southern
+Scotland to this day.  Stranraer, the largest town
+in Wigtownshire, is one such.  Its name means, literally,
+fat peninsula, from the Gaelic sròn reamhar .
+
+            Gaelic was the mother tongue in Wigtownshire
+for twelve centuries, but little trace of it remains
+in the spoken language today.  It was the pervasive
+Anglo-Saxon who really set the foundation for the
+dialect spoken by the modern descendants of Wigtown
+Man.
+
+            But it was with nearby Ulster that the inhabitants
+had the greatest affinity.  Indeed, to this day
+they call themselves, and their dialect, Galloway-Irish.
+It is as good a name as any.  Although it is
+English that they speak, you would hardly think so
+when you first hear them in full flow.  It is a lingo
+that has little in common with either the slow, precise
+enunciation of the Highlander or the clipped
+phraseology of Sir Noël Coward.  It is a thick macedoine
+of Broad Scots and Ulster English, and it has a
+harsh and uncompromising rasp to it, especially if
+you don't understand a word that is being said to
+you--which, it might be added, is quite often the
+case if you are a newcomer to that part of the world.
+Simple phrases like I wish to dismantle it become
+Ah'm gaan tae tak' it sinnery , and even simpler words
+like foolish become glaikit , so that by the end of
+your first day you are desperately searching for
+strong drink and the services of a good interpreter.
+
+            The Galloway-Irish are a people of humor.
+There can, admittedly, be a bitterly Schadenfreude
+quality to some of it, for theirs is a hard life.  But,
+more often than not, it is the Irish that surfaces.
+Occasionally--and particularly for those not accustomed
+to the dialect--their pronunciation of certain
+words can lead to embarrassing misunderstandings,
+as the following tale from my youth may illustrate:
+
+            Aul' Wullie was a smallholder.  His only interest
+in life was his farm, and he labored long and hard
+among the stones and the whins to wrest a living of
+sorts from the reluctant soil.  It was a way of life that
+would have crippled many a lesser man, but Wullie
+was a tough old bird: when the day of his hundredth
+birthday dawned he was still maintaining a keen interest
+in the daily affairs of his little place.
+
+            The old man would have been content to allow
+the occasion of his centenary to pass unremarked,
+but his family had other ideas.  They arranged a
+mighty soiree for the great day, and they invited a
+reporter from the county newspaper to be there to
+interview him.  The reporter--a demurely austere
+product of colonial missionary parents--was on her
+first assignment and she was, in fact, completely new
+to this area.
+
+            Wullie seemed preoccupied and the interview
+was not going well.  In desperation, she asked him if
+there was anything she could do to make his day
+complete.  A spark of life glimmered at last in the
+old man's rheumy eyes.
+
+            Aye, he replied with sudden interest, There
+is that, lassie.  Ye cud gie me some sex.
+
+            She recoiled in shock.  When she had recovered
+somewhat, her messianic zeal got the better of her
+and she reminded him that, at his age, he should be
+more concerned with thoughts of the afterlife than
+with the prurient temptations of this one.  She would
+probably have pursued this subject at some length
+had not the old man interrupted her.
+
+            Mebbee ye're richt, lassie, he said, But ah
+still need the sex.  Ye see, ah've got foarty-fower
+hunnerwecht o' tatties oot there ahint the byre, an'
+ah've nae sex tae pit them in.
+
+            It's the way that they tell'em, as Mr. Frank Carson,
+the Irish comedian, would no doubt remark.
+
+            It is a peaceful place.  There have been no battles
+on its soil since Roman times.  Although many of
+its sons have died on foreign shores under the British
+banner, the land itself has slumbered undisturbed.
+A single bomb jettisoned by a fleeing German
+bomber during the 1939-45 war plopped into a
+remote bog, scaring the living daylights out of a
+nesting moorhen, but that was about all.  The horrors
+of the London blitz belonged to another planet:
+things that were read about in newspapers but
+which were barely comprehended by the majority in
+this tranquil little backwater.
+
+            The Russians had entered Berlin and the European
+conflict was drawing to a close.  I was standing
+in a Wigtownshire forest, eavesdropping on a conversation
+between two workers.  They were cynics,
+as most old countrymen are, and neither could be
+convinced that the war just ending would be the war
+to end all wars.  One of them, an old campaigner
+with the local Home Guard, was particularly eloquent.
+
+            Jeest tak' heed o' whut ah tell ye, Erchie,
+warned the sage, They'll be anither waar yit.  An'
+whun it dis stert, ah wud wadjir ma wumman an'
+weans agin yours that it 'ull be a faar waar waar th'n
+th' last waar wur.
+
+            Indeed it will.  But the invader had better come
+prepared if he ventures beyond Hadrian's Wall.  He
+is in for a long, long haul in the wind and the rain
+and the sleet if he wishes to master the Galloway-Irish.
+         
+         
+            
+               ANTIPODEAN ENGLISH
+            
+         
+         
+            More Famous Australian Etymologies
+
+
+
+
+            A little learning has always been a dangerous
+tool in the mind of the amateur etymologizer, and
+early acquaintance with one or more of the languages
+of the Australian Aborigines not infrequently
+proved seductive.  Take that universally popular
+caged bird, the budgerigar , first encountered in the
+inland of New South Wales and known to the colonists
+from the 1840s.  Its name was first written
+down as betcherrygah , that being a transliteration of
+the Yuwaalaraay word gijirrigaa (Yuwaalaraay being
+a language similar to the better-known Kamilaroi),
+but the temptation to explain the word had triumphed
+over the etymologizing process as early as
+1848, when the spelling budgery garr was preferred,
+and the first element explained as meaning in the
+black's language--good or handsome.  It is true
+enough that budgerry (or bujari as it is more correctly
+transcribed) in the Sydney language Dharuk
+meant good.  But in the Sydney language only, its
+familiarity to English ears being the result of its taking
+on in Australian pidgin as a term of approbation
+from as early as 1790.  What more natural than that
+the White perception of a bird destined to become a
+plaything of the western world--as evidenced by
+another of its names, the lovebird --should become
+paramount.  In Australia now the shortened form
+budgie is in more common use--but that is another
+story.
+
+            Another world that exercised the etymological
+imagination is billabong , which owes its currency
+outside Australia to the familiarity of the national
+song, Waltzing Matilda , of which it is a crucial part.
+Here again a word was broken down into two elements,
+billa creek and bang or bung dead, and
+little thought given to the fact of their independent
+origin.  Billabong is first recorded in the 1830s in
+southeastern New South Wales as a name in the
+Wiradhuri language for a watercourse which flows
+after rain, and hence any backwater, blind creek, or
+anabranch left in the arm of a river, a pool which is
+left when the connecting stream dries up.  It is not
+the source of billy , a Scottish dialect word for a milk
+pail, nor does it have anything to do with the
+Queensland Aboriginal word bung dead, which
+passed into Australian pidgin in the 1840s and which
+developed by the 1880s the application bankrupt,
+as in the bank's gone bung .  Tempting as this suggestion
+may be, it is geographically and chronologically
+impossible.
+
+            Yet another Aboriginal word, borak , was held by
+some to be the etymon of barrack , although the probability
+has to be that this is a British regional dialect
+word given a new lease of life in fresh circumstances.
+Borak was a negative in the Victorian language
+Wathawurung and was one of a comparatively small
+number of words which the Aboriginal languages collectively
+contributed to an on-the-whole short-lived
+Australian pidgin.  Borak was borrowed in the late
+1830s and, perhaps because the Dharuk negative
+baal was already in use, did not last long in its primary
+sense.  But it almost simultaneously developed a
+secondary sense as a noun meaning nonsense, rubbish,
+a synonym for the more frequently used gammon ,
+a British cant word for guile or deceit that the
+convicts brought with them and which also moved in
+the direction of nonsense or humbug.  Oddly,
+borak was coupled with the verb poke in the phrase to
+poke borak at , meaning to deride, and this was close
+enough to the transitive use of the verb barrack ridicule,
+jeer at, verbally abuse to suggest that the two
+might be connected.  And, in the absence of a memory
+of its British use, the Aboriginal, being to hand,
+seemed to some a possible source.
+
+            Again, what needs to be taken into account is
+the balance of probabilities.  It is unlikely that a borrowed
+word would undergo a significant change in
+form so quickly and, with hindsight, it is more likely
+that an impreciseness of meaning caused by unfamiliarity
+should attend the bringing into vogue of a
+word amongst those who did not have a dialect
+memory of it.  So barrack , attested as a Northern
+Irish term for bragging, shifts slightly but not contextually
+in meaning to the vociferous denigration of
+a sporting team or a participant in a fight, and admits
+the converse of this in the intransitive verb barrack
+for support.  And the less said the better about another
+conjectural etymology which would have it
+that this partisan practice began in Melbourne and
+characterized the behavior of the crowd at the police
+barracks end of the ground.
+
+            Such behavior was often associated with larrikins .
+And the etymology of this word has also been
+hotly disputed, even if mostly by the lunatic fringe.
+The golden rule has to be that, if there is a historically
+valid source, it is to be preferred unless the circumstantial
+evidence makes a mockery of it.  In this
+case the presence of a high proportion of British regional
+dialect speakers amongst the convicts and settlers
+who emigrated or were transported to Australia
+argues incontrovertibly in favor of a dialect origin if a
+potential etymon can be shown to exist.  One can,
+even if there is a perceptible difference between the
+benign OED definition a mischievous or frolicsome
+youth and the Australian a young urban rough.
+The circumstantial evidence provided by the historical
+dictionary's quotations documents the shift, and
+there is no case for resorting to the fable that the
+word derives from the description of such youths
+larking about.
+         
+         
+            Some Secrets of English Nicknames
+
+
+
+            Names are a tricky subject in English as in any
+language, but happily a very few facts go a
+long way towards explaining the origins of hundreds
+of English nicknames and family names.  Many family
+names are patronymics, so called because they
+are based on the first name of some long-ago father.
+English patronymics fall into three common types:
+1)  the father's name alone, John Will; 2) the father's
+name plus possessive -s , John Williams or Wills ,
+meaning, in effect, William's John; and 3) the father's
+name plus -son , John Williamson or Wilson .
+(Sometimes spelling disguises the clarity of these
+forms: for instance, Davis or Davies is really Davy's
+and Dixon is Dick-son .)  Not all patronymic-like
+names are based on a father's name; they might also
+recall an employer, like John Lord , or a female relative,
+like John Jillian (from Juliana ).
+
+            A patronymic can be based on a full name ( William-s )
+or a nickname ( Will-s ).  That is important because
+many familiar patronymics are based on otherwise
+obsolete nicknames, as we shall see.  A lot of
+these ancient nicknames had cute diminutive suffixes.
+Only one of these remains productive today,
+the - y or - ie in Willy or Willie , but Middle English
+had several others at hand.  Anglo-Saxon provided
+- kin , as in Will-kin and Tom-kin , whence Wilkins and
+Tompkins ; and - cock , as in Will-cock , whence Wilcox .
+French provided - ot , as in Mary-ot and Philip-ot ,
+whence the surnames Marriott and Philpott ; and -in
+or -on , which could turn Mary to Marion, Alice to
+Alison, Dick to Dickon (whence Dickens ), and Rob to
+Robin (whence Robbins and Robinson ).  All of these
+suffixes show up again and again in surnames, so
+they can be quickly recognized.
+
+            Harder to recognize are certain distortions imposed
+on the bodies of first names when they are
+clipped down to nicknames.  Usually, to make a first
+name into a nickname we just pluck out the most
+prominent syllable, like Sue from Susan , and either
+leave it plain or make a diminutive out of it by adding
+- ie or - y: Susie or Suzy .  Some names refuse one or
+both of these tricks ( Laura makes only Laurie , not
+* Laur ); but they are about the only ones left to us in
+Modern English.  Middle English, however, had
+many other ways to play around with a first name to
+make new nicknames, including the seven patterns
+of consonant substitution discussed below.  Many of
+the resulting forms remain current as nicknames (or
+indeed as names in their own right), others are preserved
+only in patronymics, and still others have
+vanished entirely.  Listed below by consonant category
+are all the forms I have been able to find, regardless
+of their modern currency.  Some of the
+stranger ones are from a list in Thomas Nugent's
+New Pocket Dictionary of the French and English
+Languages (New York, 1834).  Note that a few names
+fall into more than one category.
+
+            1)  r becomes d or h.  This affects just three
+names: Robert makes Dob or Hob , Roger makes
+Dodge or Hodge , and Richard makes Dick, Hick , or
+Hitch --though not * Ditch , apparently!  This is the
+origin of the surnames Hobbes and Hopkins (i.e.,
+Hobs and Hobkins ), Dodge cars, and Alfred Hitchcock ,
+among other things, including some famous sobriquets.
+Yokels, for example, are called hicks in
+America and hodges in England; and because workhorses
+once often sported the name Robert , we call a
+prototype horse Old Dobbin and our ancestors
+called rocking horses hobby horses .  Pursuing a favorite
+pastime was known as riding one's hobby horse ,
+the origin of hobbies .  There are also some similarlooking
+names that merit attention.  Bob for Robert
+seems to have been created by phonological assimilation,
+the final b attracting an initial b , but Richard
+and Roger have no corresponding nicknames * Bick
+and * Bodgee .  The surname Dodd is rooted in an obsolete
+first name, Dodda (though Dodson seems to
+be a variant of Dodgson ).  The Hud of Hudson was a
+nickname for both Richard and Hugh ; another name
+rooted in Hugh is Hutchins , via the French diminutive
+Huchon .
+
+            2)  r becomes l.  Thus Dorothy to Dolly, Harold
+to Hal (and also Henry to Hal , via Harry ), Mary to
+Mal or Molly, Peregrine to Pel , and Sarah to Sally .  It
+is comforting to find that Dolley Madison was christened
+Dorothea , and perhaps not so comforting that
+Molly shows up also in gun molls gangsters girlfriends.'
+
+            3)  r vanishes.  This was happening long before r-
+dropping became common in English accents: Barbara
+to Babs, Bartholomew to Bat, Bridget to Biddy,
+Christopher to Kit, Dorothy to Dot, Frances to Fanny,
+Harriet to Hat, Herbert to Hab or Hub, Jordan to
+Judd, Margaret to Maggie or Meg, Margery to Madge,
+Martha to Mattie , and Theresa to Tess .
+
+
+            4)  I vanishes.  Thus, Alice to Assy, Gilbert to Gib,
+Melissa to Misa, Philip to Phip or Pip, Walter to
+Wat --and perhaps Charles to Chaz , though I think
+that is just a joke pronunciation for the abbreviation
+Chas .  As nicknames, most forms in this set are obsolete,
+and perhaps for good reason: I knew a Melissa
+who absolutely hated being called Missy.  But Gib,
+Phip , and Wat survive in patronymics: Gibson, Gibbons,
+Gibbs; Phipps; Watson, Watkins, Watts .  Electrical
+watts were named for the Scottish engineer
+James Watt, and readers will recall Wat Tyler's Rebellion
+of 1381.
+
+            5)  zero or h becomes n.  Thus Abigail to Nab,
+Ambrose to Nam, Anne to Nan or Nancy, Edward to
+Ned, Eleanor or Helen to Nell, Humphrey to Nump ,
+Isaac to Nykin, Isabel to Nib, Obadiah to Nobs , and
+Oliver to Noll .  These nicknames originated as possessives,
+since Middle English words beginning with
+a vowel or silent h took the possessive mine instead
+of my ; so instead of my Anne,  people said mine
+Anne,  which was reinterpreted as my Nan,  just
+as the animal once called an eft or an ewt is
+now known as a newt.  Two of these nicknames
+developed notorious associations: Oliver Cromwell
+was known as Iron Noll , and the children's verses of
+Ambrose Philips ensured the everlasting fame of his
+nickname, Namby Pamby .
+
+            6)  m becomes p.  This applies to only four names:
+Margaret via Meg makes Peg, Margery via Madge
+makes Paige, Martha via Mattie makes Patty, and
+Mary via Mal or Molly makes Pal or Polly .  All Pattys
+nowadays are probably Patricias, but Nugent did list
+Patty for Martha .
+
+            7)  th becomes t.  Thus Anthony to Tony, Arthur
+to Art, Bartholomew to Bart or Bat , Catherine to
+Kate or Cat or Kitty, Dorothy to Dot (and Dickens's
+Little Dorrit ), Elizabeth to Betty or Bet (whence
+Betsy and Bessie ), Martha to Martie or Mattie , Matthew
+to Matt, Nathaniel to Nat or Nate, Theodore to
+Ted, Theresa to Tess or Tracy, and Thomas to Tom .  In
+England before the 1600s, th in Hebrew and Classical
+words and names such as these was pronounced
+as plain t after the French fashion, as is still the case
+with Thomas: Tom and the other nicknames in this
+set are partly just phonetic spellings of the old
+sounds of the full names.  Note that the old t-for-th
+sound survives also in Esther, Theresa, the river
+Thames, the British pronunciation of Anthony as
+Antony, and the name of the spice thyme , usually
+called time.
+
+            In the nicknames Babs and Nobs, the suffix -s is
+an old diminutive suffix like - y; in fact, a few nicknames
+apparently combine the two: Betsy, Patsy, and
+Nancy.  The suffix still surfaces occasionally, as for
+England's Prince William, known as Wills.  (This is
+distinct from the patronymic - s of John Wills .)  One
+last diminutive suffix is - o , a macho one for boys
+only-- Tommo for Tommy .  This has a modern ring,
+but it is older than it looks: in Samuel Butler's Hudibras,
+from the late 1600s, I find Ralpho .
+         
+         
+            Badges Redux
+
+
+
+
+            Everyone remembers the classic scence from Treasure
+of the Sierra Madre in which the banditos
+encounter that dark-minded prospector, Humphrey
+Bogart, in the rugged mountains of Mexico.
+
+            I found a little dove in her nest, ha ha ha ha
+ha!, reports a subordinate bandito (in Spanish) to
+his boss.  She was hidden.
+
+            Bandito Number One, in the person of Alfonso
+Bedoya, calls out to Bogart, Oiga Señor: We are the
+Federales.  You know, the mounted police.  (He
+pronounces it mohnted.)
+
+            Bogart: If you're the police, where're your
+badges?
+
+            Bedoya's smooth Mayan face contorts into a
+sneer, Badges?  We ain't got no badges.  We don't
+need no badges.  And, shouting angrily, I don't
+have to show you any stinking badges!
+
+            This brief soliloquy is notable in several respects.
+First and most obvious is its use of repetition,
+perhaps the simplest poetic device.  And it
+might also be considered an example of pleonasm,
+the use of more words than those necessary to denote
+mere sense; redundancy, or tautology.
+
+            But most remarkable is that only the third sentence
+is grammatically correct.  The first two are
+merely slang, but by the third Mr. Bedoya has become
+so enraged that he resorts to speaking correct
+English.
+
+            I submit that he does so because he knows he will
+thereby communicate more effectively.  As Joseph
+Wood Crutch remarked, Children were taught standard
+English instead of that acceptable to their peer
+group in order to facilitate communication between
+class and class, region and region, century and century .
+... [his emphasis]  In this instance, standard English
+serves to bridge the gap between bandito and gringo .
+(But lest we succumb to the modern fantasy that open
+and honest communication will solve all disputes, we
+must also recall that soon after Mr. Bedoya's last assertion
+the shooting starts.  Perhaps if he had displayed
+some badges, authentic or otherwise, he might
+have more easily achieved his objective.)
+
+            Furthermore, in speaking correct English, Mr.
+Bedoya also reveals his identity as a relatively learned
+man, undoubtedly a major reason that he is the jefe of
+his gang.  Emotion will betray character every time,
+and education is power.
+         
+         
+            
+All but a few employees--including one who confessed,
+and later hung himself in jail--were soon set
+free.  [From The New York Times , .
+Submitted by .]
+         
+         
+
+            Inflation rears its head in the strangest places.
+Ruth Flanders's Foreign Treasures [XXII, 1,21] includes
+a face like 37 days of rain.  When I first
+undertook the study of German (Bronx High School
+of Science, 1939) the expression was ein Gesicht wie
+drei Tage Regenwetter haben .
+
+
+
+
+
+         
+         
+
+
+            Please be patient with Wellerisms and their collectors
+[XXI,3], as I was patient with my grandpa
+when he said that years ago his teacher told him to sit
+in the front of the class for the present; he waited and
+waited and she never gave it to him.  Collecting lists
+of silliness is a legitimate pastime.  I collect matchbooks
+and names that end in - ford .  My collections are
+completely without academic merit but they amuse
+me.  To compare the collectors of Wellerisms to
+brick-wall comedians is to overlook a generational, if
+not historical and unfortunate shift in humor.  Men of
+my grandpa's era and earlier were amused by the
+subtle, the slapstick, and the silly.  Men of my generation
+and younger are amused by the sewer.  Can you
+imagine the hard-edged rappers of today being tickled
+by the lyrics of Mairzy Doats?  My dad's earnest
+question, do you walk to school or carry your
+lunch?  was so utterly lame, so naive, but such romps
+in the playgrounds of language are never tripe.
+
+
+
+
+
+         
+         
+
+
+            Mr. Alan Major [XXI,3] can take comfort: arzey-garzeys
+is alive and well here, eight miles or so from
+Canterbury.  I learned this when a neighbour stumbled
+on them and broke her leg.
+
+
+
+
+
+         
+         
+
+
+
+            In Pendleton Tompkins's letter about vanity licence
+plates [XXII,1], he answers the dental question
+FUNEDK? with the words, No, I have no decay.
+I believe that William Steig of CDC? fame
+would have answered, SIFDK.  Perhaps dentists are
+word lovers.  At home I spotted this identifying
+plate: 2THMD.
+
+
+
+
+
+         
+         
+
+            What's eating you?
+
+
+
+
+            
+               What's eating you?  If you are a member of the
+Mina ethnic group of West Africa it could be almost
+anything, even your own head, as the phrase for I
+have a headache in its literal translation means My
+head is eating me.  In Mina, a language spoken in
+Togo and parts of Benin and Ghana, the verb to eat
+is used in many phrases that have nothing to do with
+food.
+
+            If a speaker of Mina is suffering he will say that
+he is eating the wind, if he is comfortable he will
+say that he is eating life, if someone lends him
+money he will say he has eaten their credit.  Birthdays,
+religious festivals, and anniversaries are also
+eaten.
+
+            Whereas it is easy to explain this by referring to
+the cultural importance of food in African societies,
+the same reasoning can hardly be applied to the case
+of English, which has its own fair share of food
+images.  While our cars eat up the miles, we chew
+over ideas, digest information, devour with our eyes,
+make mincemeat of our enemies, and take what they
+say with a pinch of salt .  We are forced to eat our
+words and our hats and we occasionally bite off more
+than we can chew .  All of which should give us food
+for thought.
+            
+
+         
+         
+            English As She Is Minced
+
+
+
+
+            English is the compulsory second language in
+Israeli schools.  For readers of the language whose
+mother tongue is Hebrew, English brings an additional
+challenge, learning a new alef bet Alphabet
+with its accompanying new rules.
+
+            Hebrew has a script generally written without
+vowels--except for prayer books and books for little
+children.  After the first few years in school, children
+do without them.  The vowels are marks above and
+mainly below the consonants:
+
+
+S CN B SN N THS XMPL
+A A  E EE I  I   EA  E
+
+            
+
+            By the time children start to learn English they
+are fluent readers and writers of vowelless Hebrew.
+Consequently, learners of English or of any Latin
+script language tend to skip a few vowels here and
+there in a cavalier manner, or, if you prefer, with
+Israeli chutzpa, as if they were saying, BG DL,
+they're only stpd vwls, we'll pt a few in fr th stpd
+tchr who cn't rd English without them.
+
+            In addition, several consonants do double duty
+by adding a dot within the letter.  Thus, V.=B,
+f.=p, k.h=k, .s=s, and S.=SH.  These marks are also
+discarded with the vowels, so that often one has to
+understand by context.  That is difficult for foreign
+students of Hebrew, but we are not dealing with
+these poor souls here.  What we are dealing with is
+our schoolchildren, who are writing, Why get ufset
+ober a pew consonants?
+
+            Hebrew shuns initial v, f, kh, and final b, p, k .  So
+Philip would be PILIF and verb would be BERV.
+Are you still with me, dear readers of BRVTM ?
+
+            Learners of English are also troubled by words
+like film, corn, and charm .  Not only is the lack of a
+vowel sound between the consonants unacceptable,
+but the l and r are pronounced in all their glory:
+FILLIM, CORREN, CHARREM.  The fact that the vowels
+are not written does not prove that they are not
+there, does it?  The word fillim -- pillim for the
+more literate--is very popular. - im being the usual
+masculine plural ending, our offspring say, I have
+two fillim, one fil in my camera and the other in
+reserve.  I wonder what the singular of Verbatim is.
+... Corren Pleckess is a popular breakfast food,
+replacing Kvakair Oats.
+
+            Of course, learners who realize that most
+plurals are formed in English by adding - s or - es have
+been known to speak of two ambulance, one ambulan.
+However, the singular of rail any metal bar is
+pronounced RELLS, plural RELLSIM.
+
+            
+               Exhaust, a word much loved in auto repair
+shops, has become EGGZOZZ and is so transliterated
+into Hebrew.
+
+            Still, there is yet hope: now that Israel has
+signed a peace treaty with Jordan, the sign at the
+frontier near my home warning approaching persons
+of DANGER, FRONT BEHIND! has been taken down.
+         
+         
+            
+               Villon's Straight Tip to All Cross Coves
+
+               
+Tout aux tavernes et aux fiells
+
+William Ernest Henley
+
+Suppose you screeve?  or go cheap-jack?
+Or fake the broads?  or fig a nag?
+Or thimble-rig?  or knap a yack?
+Or pitch a snide?  or smash a rag?
+Suppose you duff?  or nose and lag?
+Or get the straight, and land your pot?
+How do you melt the multy swag?
+Booze and the blowens cop the lot.
+
+Fiddle, or fence, or mace, or mack;
+Or moskeneer, or flash the drag;
+Dead-lurk a crib, or do a crack;
+Pad with a slang, or chuck a fag;
+Bonnet, or tout, or mump and gag;
+Rattle the tats, or mark the spot;
+You cannot bag a single stag;
+Booze and the blowens cop the lot.
+
+Suppose you try a different tack,
+And on the square you flash your flag?
+At penny-a-lining make your whack,
+Or with the mummers mug and gag?
+For nix, for nix the dibbs you bag!
+At any graft, no matter what,
+Your merry goblins soon stravag:
+Booze and the blowens cop the lot.
+
+The Moral
+
+It's up the spout and Charley Wag
+With wipes and tickers and what not
+Until the squeezer nips your scrag,
+Booze and the blowens cop the lot.
+
+            
+
+            I encountered William Ernest Henley's translation
+of a Villon poem and have had a time translating
+it.  Finally, after exhausting the Oxford English Dictionary ,
+I found Partridge's Dictionary of Slang and
+Unusual Words , which has almost all the expressions
+in it.  I offer a simple glossary of terms that might be
+unfamiliar, should anyone else wish to enjoy the
+poem.
+
+
+1.  cross coves--crooked fellows
+
+2.  tout aux tavernes et aux fiells--to the taverns
+and to the bitter gall and bile, which I believe
+to be synecdoche for evil women.
+
+3.  screeve--from the French escriver (écriver)
+to write, means to write begging letters.
+
+4.  cheap jack--to go out into the country with a
+pack on your back, selling ribbons, needles,
+etc., to the country folk.
+
+5.  fake the broads--broads are the three queens
+in a three-card monte game, and faking broads
+would be setting up the usual fraudulent game.
+
+6.  fig a nag--to fix a horse up so that it looks better
+than it really is for fraudulent sale.
+
+7.  thimble-rig--the equivalent of three-card
+monte, only with three thimbles and a pea,
+where the sucker guesses which thimble has
+the pea under it; shell game; another cheating
+game.
+
+8.  knap a yack--knap is a cheating throw at
+dice, and yack is the sound of finger beating
+on the forehead; it means cheating dice.
+
+9.  pitch a snide--push counterfeit money.
+
+10.  smash a rag--steal a handkerchief.
+
+11.  duff--fix something to look better than it is for
+fraudulent sale.
+
+12.  nose and lag--nose a police informer; lag a
+police informer inside a prison.
+
+13.  get the straight--have a little luck and win.
+
+14.  land your pot--make some money.
+
+15.  melt--get rid of or spend.
+
+16.  multy--an augmentative word, empty of meaning:
+like saying goddamn or bloody or some
+other expletive.
+
+17.  swag--loot.
+
+18.  blowens--trulls or whores.
+
+19.  cop the lot--get everything.
+
+20.  fiddle--cheat.
+
+21.  fence--buy and sell stolen goods.
+
+22.  mace--swindling or robbery by fraud.
+
+23.  mack--pimp.
+
+24.  moskeneer--a mosker sells or pawns things at
+pawn shops for more than their true value, frequently
+with a story of need or some other
+fraudulent con.
+
+25.  flash the drag--(of a man) to wear women's
+clothes with immoral purposes.
+
+26.  dead-lurk--steal from something during
+church service.
+
+27.  crib--a brothel.
+
+28.  do a crack--do a robbery or burglary.
+
+29.  pad with a slang--walk about with a sales permit
+to sell.
+
+30.  chuck a fag--boost a very small boy up to a
+barred window so that he can get through the
+bars and into the house to open the door for
+his accomplices.
+
+31.  bonnet--a shill or capper for a thimble-rigger
+or a broad-faker: an accomplice.
+
+32.  tout--to sell information at horse races for a
+percentage of the net made on the information.
+
+33.  mump and gag--grimace.
+
+34.  rattle the tats--shake dice.
+
+35.  mark the spot--mark cards.
+
+36.  stag--shilling.
+
+37.  on the square--honestly, from the masonic
+symbol of the try square.
+
+38.  flash your flag--try.
+
+39.  penny-a-lining make your whack--make an attempt
+to write.
+
+40.  mummers--a disparaging word for actors.
+
+41.  mug and gag--make faces and clown.
+
+42.  goblins--gold sovereigns.
+
+43.  stravag--extravagate: wander about.
+
+44.  up the spout--at pawn.
+
+44.  Charley Wag--a thimble-rigger or other criminal;
+pawnbroker.
+
+45.  wipes--handkerchiefs.
+
+46.  tickers--watches.
+
+47.  squeezer--the hangman's noose.
+
+48.  nips your scrag--squeezes your neck.
+
+            
+
+            William Ernest Henley had tuberculosis of the
+bone, was hospitalized for years and treated by Lord
+Lister himself with, I believe, scraping of the bone,
+and whatever primitive antisepsis was used in those
+days, probably carbolic acid.  Henley endured years
+of agony, and his poem, Invictus, was truly written
+from experience.
+
+            Murray C. Zimmerman, M.D.
+
+            
+               Whittier, California
+            
+         
+         
+            May I offer a few reflections on various matters
+that struck me while browsing through XXII, 1?
+
+            The article Politicking With Words , with its references
+to rival definitions of Whig and Tory , put me
+in mind of a cartoon that appeared in Punch in 1896
+(since republished in a collection--I don't go back
+quite that far).  Beneath a drawing of a small girl out
+walking with her grandfather appeared the following
+exchange:
+
+
+What are Tories and Radicals, Grandpapa?
+
+            
+
+            Tories, my dear, are people who like to have a
+queen, and lords, and bishops, and more or less remain
+as they are--whilst Radicals object to having a
+queen and a House of Lords, and are dissatisfied
+with everything and everybody, jealous of all who
+are better off than themselves, and are always trying
+to rob them of their property, and, in fact, they're a
+pack of infernal rogues and scoundrels!
+
+            And which are you, Grandpapa--a Tory or a
+Radical?
+
+            It would be pleasant to think that we could all
+ignore prejudiced definition so blithely!
+
+            A few nits to be picked, or addenda to be appended:
+
+
+• A rod (also a pole or perch) was indeed a premetric
+measure, but it was five and a half yards,
+not four and a half (Proper Words in Proper
+Places).  When we moved into our present house
+in the '60s we were told that the garden measured
+five and a half rods square --the square of 5.5 is
+not a simple piece of mental arithmetic, I found.
+
+• From the same article, the use of without to mean
+outside persists very commonly in cryptic crossword
+clues.  But then a great deal or archaic or
+arcane usage crops up in that context.
+
+• The use of car for a tram was certainly common in
+Norfolk (U.K.) before WWII--I can still picture
+surviving pre-war signs reading Cars stop here
+upon request, upon what by then were bus stops,
+in my home town of Gt Yarmouth in the 1940s.
+
+• As an aside to that, it intrigues me (mildly) that
+whereas the French shortened automobile to auto,
+the Scandinavians retained the other end, producing
+bil for car.
+
+• A felicitous trader's name that used to be displayed
+prominently in the Suffolk town of Oulton
+Broad in the '50s was that of one L.S.D. Rich--
+with reference to predecimal currency.
+
+• I would love to see anyone attempt to drink a Suffolk
+Punch: this is a particularly huge and beautiful
+breed of plough-horse.  Norfolk Punch, on the
+other hand, is a commercial non-alcoholic drink of
+herbal origin and reputedly health-giving.
+
+• It is not only trousers that are implicitly excluded
+by the printed word (New York Sansculottery): the
+current obsession with knowing the ingredients of
+foodstuffs has resulted in several notices on items
+in bakers' shops, saying Our cakes are made with
+pure butter only, a culinary feat.
+
+• Could the necessity for dough to be gaumy or
+gormy (On Good Terms) be a precursor of the term
+gormless meaning stupid, dull?  (Alas, despite the
+18th-century spelling, gaumless, I believe the
+term comes from Old Norse gaumr heed).
+
+            
+
+            Tony Hall
+
+            
+               Chearsley, Aylesbury, Buckinghamshire
+            
+         
+         
+            Feminine Goldfish and Other
+Hybrids
+
+
+
+
+            Grammatical gender lingers in popular English.
+We still say, Fill 'er up of a car or She's
+been a good old ship.  But in more formal standard
+English inanimate objects are now referred to by the
+neuter pronoun it , though in other Indo-European
+languages that I know grammatical gender lingers as
+a sort of ghost of animistic gender haunting all nouns.
+A Frenchman speaking his native tongue might tell
+you, Notre langue francaise, elle est trés belle.  Or
+a Spaniard or Mexican might say, Aquella mesa,
+puedes meterla en la cocina.  Only in parody of a
+foreign language will a speaker of English say anything
+like: The French, she is a beautiful language
+or English as she is spoke.
+
+            In this respect English pronouns referring to animals
+appear to be marginal.  Although according to
+current prescriptive grammar, animals, especially of
+unknown sex, should be referred to as it , they practically
+never are in standard spoken English.  A baby
+is often it , but a cat not obviously a tomcat is more
+likely to be called she and a dog or horse he , while
+generally in English the masculine singular pronoun
+comes naturally when one is referring to an animal.
+Nor is this a new thing in English.  Over a century
+ago the poet Longfellow wrote:
+
+
+The day is done, and the darkness
+Falls from the wings of Night.
+As a feather is wafted downward
+From an eagle in his flight.
+
+            
+
+            A noticeable feature of English as spoken by bilingual
+Hispanics in New Mexico is a tendency to
+carry over into English the Spanish gender of whatever
+living creature they are talking about.  For example,
+whereas Anglos refer to squirrels as he , some
+Hispanics will consistently call a squirrel she , presumbly
+because in Spanish the noun for squirrel
+( ardilla ) is feminine.
+
+            So I was progressively puzzled to hear a Hispanic
+friend always refer to my grandson's goldfish
+as she/her .  To me the little creature, which (whom?)
+I call Algernon, is a he, though in fact I have not a
+clue as to its natural gender.  The Spanish word for
+fish is pez , a masculine noun, or loosely, pescado ,
+which is also masculine and properly designates fish
+as game or fare.  True, in sophisticated Spanish a
+goldfish can be called specifically a carpa dorada ,
+which is feminine, but such a term seemed unlikely
+to occur in the rustic Spanish of New Mexico.  I got
+to wondering what the local Hispanics would call a
+goldfish.  It would hardly do to ask because when
+pressed for a word, a native speaker will often come
+up with one that he thinks is proper rather than the
+one in common usage.  Then I remembered that a
+plumber whose first language was Spanish once admired
+our truchitas (in standard Spanish little
+trout), which he saw in a goldfish bowl we had.
+Since for centuries about the only fish known to the
+Hispanic hillbillies in the mountain valleys of northern
+New Mexico were trout, the word for trout,
+trucha, has become generic, supplanting pez and
+pescado for fish in everyday language.  So, I concluded,
+when Nellie Griego subliminally translated
+her Spanish word for fish into English, in the process
+carrying over the Spanish gender, it was the feminine
+gender of trucha or its diminutive truchita
+rather than the masculine gender of pez that she attached
+to the English word.
+
+            Spanish gender is not the only element of the
+language of bilingual Hispanics that may affect their
+language, whether English or Spanish.  Context may
+influence their choice of words.  A few days after I
+had solved the gender mystery, I climbed onto the
+roof of our house to inspect the work of two Mexican
+roofers who were daubing pitch onto cracks in the
+parapets.  Hay muchos liques?  One of the workmen
+asked me. Sí, I replied, en este techo hay
+goteras.  I am too much a purist, not to say pedant,
+to utter unnecessarily the loan word liques (from the
+English leak ).  Indeed, I was slightly bothered by
+having had the bastard word thrust upon me.  So
+later I asked the same lady who feminized the goldfish
+why the roofer used liques when Spanish has the
+common word gotera meaning the same thing.  She
+was not sure; gotera sounded better to her.  But later
+she consulted her husband about the matter and
+passed along his analysis to me.  Her husband had
+said that one should speak of goteras in a roof, as the
+roofers had not, but of liques in machinery, for example
+in a car engine.  From this pronouncement I
+extrapolated that when things are introduced into
+one culture from another, the words for and about
+those things tend to come attached to the things.
+Automobiles (locally called trocas ) have been introduced
+comparatively recently into the Hispanic culture
+of New Mexico from an industrialized Anglo
+culture.  Anglo words such as troca (from truck ) and
+lique (from leak in a troca) have entered with the
+Anglo things, whereas houses with their goteras in
+flat roofs have been a part of Hispanic culture for
+millennia.  So a car motor springs a leak, but properly
+speaking, a roof or an old human body develops
+goteras .
+
+            Languages influence one another most conspicuously
+in phonology.  A case in point occurred for
+me when I was exchanging some gossip about a local
+family squabble over property with the same Hispanic
+lady who figures in my first two anecdotes.
+She shitted her out of that house, the lady declared.
+I was startled, indeed slightly shocked to
+hear this from my rather prim and proper friend.  So
+out of character was the scatalogical word that I
+could not believe that I had heard it right.  I kept
+wondering off and on about the matter till I realized
+that what I had heard was a case of double hypercorrection.
+Spanish lacks the phoneme i as in sit for
+which the Hispanic ear and tongue tend to substitute
+the i of Francine .  And although in some Mexican
+dialects the English sh sound has replaced ch , in
+standard Spanish the phoneme closest to English sh
+is the affricate ch, which therefore tends to replace
+sh in the perception of Hispanophones.  Subliminally
+aware of these tendencies in her speech, my unwitting
+informant had compensated for the tendencies
+by reverse substitution.  Meaning to say cheated,
+she had articulated sh in place of ch and the i of sit in
+place of the ea .
+
+            I believe this sort of phonetic hypercorrection is
+fairly common in language.  In Cockney English, for
+example, where initial h is regularly dropped there
+is a tendency to compensate by supplying initial h
+where it does not belong.  There is even a trace of
+this tendency in American English: Hit hain't like
+'im.  In Spain Andalusian Gypsies sometimes lisp
+their s's and pronounce their soft c's and z's as s .
+
+            Though in the short run influences of languages
+and dialects on each other may result in distortion
+and ridiculous or embarrassing absurdities, the longterm
+fruit of linguistic cross-pollination appears to
+be enrichment, of which the English language provides
+a shining example.
+         
+         
+            The Comparative Russian-English Dictionary of
+Russian Proverbs & Sayings, with 5543 Entries /
+1900 Most Important Proverbs Highlighted / English
+Proverb Index
+            The title is justified by the comparison of Russian
+proverbs and sayings with English counterparts
+and, where applicable, references to Greek and
+Latin sources as well as the Bible.  This is also a
+timely book in light of the wide interest in post-Soviet
+Russia.  As tourism and economic relations
+develop, so does interest in the Russian language.
+However, students of a foreign language soon realize
+that to master it fully, it is not enough to know
+the grammatical structure and basic vocabulary: one
+must also memorize a fair number of phrases and
+idiomatic expressions and, as a further step, proverbs
+and sayings.
+
+            Generally speaking, the Russians make greater
+use of proverbs than the Americans or the British.
+In 1971 the late Russian paremiologist, G. Permiakov,
+tried to establish a proverb minimum, and he
+found that every Russian adult knew more than 800
+proverbs and sayings.
+
+            Pre-revolutionary Russia produced a number of
+dictionaries of proverbs; a well known one was Dal's
+Proverbs and Sayings of the Russian People (1862),
+which contains over 30,000 entries.  The popularity
+of proverbs in Soviet Russia has been reflected in
+scores of dictionaries, printed in practically all Soviet
+republics.  The communist leaders, including
+Lenin, recognized early the propaganda value of
+conveniently selected entries in the hands of what
+the communists called agitators, apparatchiks and
+politruks political leaders.  Most of their publications
+excluded religious and capitalist proverbs
+and sayings.  They encouraged instead the proliferation
+of proletarian publications which were sold at
+very low prices.
+
+            Against the large number of Soviet dictionaries of
+only Russian proverbs, comparative and bilingual dictionaries,
+Russian-English ones were rarely published
+and they contained between 500 and a couple of
+thousand entries only.  That is why Peter Mertvago's
+dictionary of 5,500 entries is a useful addition to comparative
+paremiographical literature.
+
+            The compiler starts with a short introduction
+dealing with the definition of proverb.  This is a
+thankless and practically insoluble task.  He quotes
+Permiakov's formulation, Proverbs and proverbial
+phrases are signs of situations or of a certain type of
+relationship between objects --not particularly lucid.
+A more down-to-earth definition is given by
+John Simpson in the Concise Oxford Dictionary of
+Proverbs: A proverb is a traditional saying which
+offers advice or presents a moral in a short and pithy
+manner; but even this does not entirely satisfy
+scholars.  The Introduction touches on the origin of
+proverbs and their similarity in other languages.
+The publication in 1500 of Erasmus' Adagia brought
+about a trend to translate Latin and Greek proverbs
+and quotations into national languages.  It also
+started an inter-borrowing from common historical
+and cultural antecedents.
+
+            Mertvago also deals with the difference between
+a proverb and a saying.  He quotes the Russian
+proverb, Pogovorka-tsvetok, poslovitsa--
+yagodka a saying is a flower, a proverb is a berry.
+The relative brevity of many Russian proverbs stems
+from the fact that the Russian language has no articles
+and also resorts idiomatically to participial
+condensation by not using oblique forms of the
+verb to be .  Alliteration and rhyme help to memorize
+them.
+
+            The main part of the dictionary is covered in
+about 380 pages.  Each entry is numbered, which is
+useful for cross-references to semantically similar entries.
+The Russian text (in Cyrillic) is followed by a
+literal translation in English, unless there is a clear
+English equivalent, by which Mertvago means both
+lexical and conceptual correspondence.  Equivalents
+are printed in bold face.  Where there is no equivalent
+the dictionary gives a corresponding English version,
+sometimes a few variants.
+
+            The entries are arranged in alphabetical order by
+the first Russian letter.  There are several other methods
+for arranging proverbs and sayings.  Mertvago
+could have followed the modern trend and used the
+key word or thematic arrangements.  However, compilers
+of proverb dictionaries know that there is no
+perfect system for arranging proverbs: each has its
+advantages and flaws.  Ultimately it comes down to
+personal choice and for whom the dictionary is intended.
+
+            In a dictionary of this size, the complier is faced
+with the task of including or excluding a certain quotation--not
+a very easy decision when one is dealing
+with a stock of scores of thousands of Russian proverbs.
+The fact is that the dictionary contains popular
+versions, used in modern spoken Russian.  The most
+important and commonly known proverbs are
+marked with an asterisk.  This will be appreciated by
+the non-native reader who is not familiar with the
+popularity of a certain proverb or saying.  There are
+1900 entries with asterisks.
+
+            There are two appendices.  One deals with more
+than 100 proverbs and sayings containing personal
+and geographic names.  For example, Chemu Vanya
+nye nauchilsya, tovo Ivan nye vyuchit What little
+Johnnie hasn't learnt, old John will not learn; V
+Rimye byl i Papu nye vidal Went to Rome, but didn't
+see the Pope.  The other appendix deals with the
+structure of the Russian proverb and gives separate
+sections of analytical proverbs, metaphorical ones,
+similes--proverbial comparisons (about 100), as
+well as contrasting couplets and negational proverbs,
+etc.  There is a four-page bibliography of main
+sources.  At the end of the dictionary, there is a large
+(eighty-three-page) index of English proverbs arranged
+by key words and cross referenced to the
+main part of the dictionary.
+
+            To sum up, this is a comparative dictionary with
+a number of useful features, as if Mertvago wanted
+to fill in gaps existing in other dictionaries.  There
+are hardly any printing errors and plenty of white
+spacing making reading easy.  It is a commendable
+publication.
+
+            Emanuel Strauss
+
+            
+               Merstham, Surrey
+            
+         
+         
+            The Electronic Publishing Forum
+            The 3.5" diskette containing the Forum arrived
+with a friendly note from John Galuszka (telephone:
+(805) 927-5259; e-mail: J.GALUSZKA@genie.geis,com)
+saying, This will be of interest to your computer-literate
+readers.  Nothing loath, we loaded it into the
+computer for a run.
+
+            Before commenting on the contents of the Forum ,
+I must disburden myself of some prejudices long
+held against computer programmers and other specialists.
+First, though, I must say that I have enormous
+admiration for their fertile imaginations, ingenuity,
+and extraordinarily facile minds: some of the
+programs they have developed in recent years are
+truly astonishing in their complexity.  That acknowledgment
+having been made, I find myself continually
+irritated by their cavalier dismissal of everything that
+human beings developed in the course of history: it
+reflects an adolescent mentality that is scornful of
+anything that might have taken place before these
+parvenu geniuses put finger to keyboard.  Rather
+than go into great detail, I shall focus on one important
+feature offered by many word-processing programs,
+namely, alphabetization.  If one goes back to
+the order in which ASCII characters are arranged
+(which was a matter of system and convenience, with
+little or no attempt at alphabetization, except that the
+lower case and capital letters are in alphabetical order
+and the numbers are in sequence), one can see
+where later alphabetization programs derive their order.
+As most lexicographers, librarians, indexers, editors,
+and other literate and intelligent people know
+(and as those who compile telephone directories in
+some parts of the world have learned), there are preferred
+alphabetization systems.  These are generally
+letter by letter (with some standardized hierarchy established
+for capitals, diacritics, punctuation, numerals,
+and other anomalies) and word by word (which,
+though it is not usually suitable for dictionaries,
+works reasonably well for certain kinds of material.
+One has to look hard--I have, and still, without success--to
+find a system that places 'tis and 'til within
+reach of the letter T, that does not sort U-238 at the
+end of the U listings, and that does not put several
+pages between éclat and eclectic .  I recently wrote to
+Novell to complain about the sorting order in
+WordPerfect and received a reply, totally unresponsive,
+that explained in kindly detail how I could
+(mis)sort words in different columns of a database.
+Perhaps a reader will rush to my aid in my hour of
+need.
+
+            The point is not entirely irrelevant in relation to
+the Forum .  First of all, neither the wrapper nor the
+accompanying descriptive matter tells a novice how
+to access the information on the disc.  (The usual
+way, in Windows, is to click on Main, then twice on
+File Manager; then on the drive, usually A or B,
+where the disc has been placed; then, move the cursor
+to the listed program that has the suffix .exe,
+move it to File, then down the list to Run, and click
+twice.)  No instruction is included for accessing the
+information via MS/DOS, either.  Once in the file, it is
+not child's play to navigate amongst the various categories
+of data.  If one goes through sequentially, he
+finds this at the end of a given selection:
+
+
+To read the next article, select ... <20-2.#>*
+INDEX ........................<INDEX0.#>*
+
+            
+
+            I could find no useful index: though there is a list of
+file names, they are numerical and offer no clue as to
+their contents.
+
+            The Introduction offers a succinct description of
+the Forum:
+
+               
+The Electronic Publishing Forum is a quarterly,
+on-disk publication devoted to the subject of
+electronic publishing using computer disks.  It includes
+information on publications, publishers,
+and programs related to this subject.  Information
+for writers, with writer's guidelines from publishers,
+is also included.  Articles on related subjects
+are included.  A database of electronic books “in
+print” is updated quarterly.  Information on the
+topics discussed in the back issues of the Forum
+will be found in the Catalog section of this disk.
+
+Writers, publishers, and others interested in
+this subject are invited to contribute to the discussion
+of issues related to electronic publishing.
+Submit material to: John Galuszka, Editor, The
+Electronic Publishing Forum, P.O. Box 140, San
+Simeon, CA 93452.  Subscriptions to this publication
+cost $12.00 for four issues (postpaid to
+North American addresses; overseas add $8.00
+for shipping; California residents add 7.25% sales
+tax.)
+
+Subscribe to The Electronic Publishing Forum
+and keep informed about these developments
+for only $12.00 a year.  See the REGISTER.NOW
+file.  Please note that the contents of
+this magazine are the same in the shareware edition
+and the subscriber edition, but subscribers
+also get bundled copies of the sample programs
+with their copy.  If you found this publication on
+the Internet, on a BBS, or one of the commercial
+on-line services as file EPF20.ZIP, you have the
+whole magazine, but not the sample programs
+that go with it.
+
+            
+
+            The foregoing reflects enthusiasm, intelligence,
+and resourcefulness but it is badly written, is riddled
+with the kind of jargon that frightens away anybody
+not privy to the secret language of software, and,
+consequently, makes the rest of its content suspect.
+
+            Notwithstanding, the content that was read is
+not without interest and merit.  There is, for example,
+a longish list of zines, described as follows:
+
+
+For those of you not acquainted with the zine
+world, zine is short for either fanzine or
+magazine, depending on your point of view.
+Zines are generally produced by one person or a
+small group of people, done often for fun or personal
+reasons, and tend to be irreverent, bizarre,
+and/or esoteric.  Zines are not mainstream publications--they
+generally do not contain advertisements
+(except, sometimes, advertisements for
+other zines), do not have a large subscriber base,
+and are generally not produced to make a profit.
+
+            
+
+            There follows information about formats and,
+under How Do I Get the E-zines?, a lot of instructions
+given mostly in computer jargon.  It is difficult
+to describe the content of this catalogue, so here is a
+sample:
+
+
+Albert Hofmann's Strange Mistake
+
+A hypertext 'zine commemorating the 50th
+anniversary of the accidental discovery of LSD,
+16 April, 1943.  The document contains archives
+by authorities from Albert Hofmann to Abbie
+Hoffman, hypertext fac/tion on CIA-sponsored
+acid tests, and testimonial solicited from users all
+over the world.
+
+            
+
+            There follow details identifying the editor, format,
+and how to access the zine.  Many of the descriptions
+are longer, some are shorter.  They include Armadillo
+Culture (Being the excremeditation of a hyperactive
+armadillo's activities, opinions, and other
+stuff ... ), Athene (The online magazine of amateur
+creative writing, accompanied by
+
+
+NOTE: Athene became defunct in 1989.  Intertext
+is its immediate successor, which I assume
+is facetious), and BLINK (which would like
+to be a forum for the issues surrounding the intersection
+of consciousness and technology.  This
+is our best defense against postmodern angst: To
+critically look at and anticipate the cultural and
+social changes spurred by the rapid development
+of technology).
+
+            
+
+            One quickly gets the impression that much of this
+material comes from the fringes of California, but
+Breakaway comes from Norway, The Bucknellian
+from Bucknell University, in Pennsylvania, Chaos
+Control from Rhode Island, and so forth.
+
+            Another file that was examined is called Unclassified
+Ads, etc.  It contains a listing of a surprising
+number of novels and other works (like The
+Hypertext Hamlet ), none of which is accompanied by
+the customary bibliographic information: in most instances,
+even the authors are not listed.  The prices
+range from $6.00 (for Electronic Books in Print ) to
+$20.00 (for three novels by Marian Allen.  The variety
+is enormous, ranging from books of poetry--or,
+at least, of poems--to a Better Volleyball, Bicycle
+Tune-up, 21st Century Almanac, Clowning for Fun &
+Profit (a How-to book), and scores of other works on
+fiction, nonfiction, and reference.  An order form
+(which one prints out from a computer) is provided.
+The price is not omitted, but most are available for
+very little--about $5.00 per disc.
+
+            In sum, the Forum offers a very mixed bag, indeed,
+some of it, as can be seen from the quality of
+the text, bordering on the semiliterate, yet much of
+it rife with ideas, some of which, depending on one's
+interests and inclinations, must be said to be stimulating.
+For myself, I find it tedious to read lengthy
+sections of text from a screen, though that is less
+likely to bother computer-philes and -phanatics.
+
+            Not being a prospect for Internet, World Wide
+Web, or any of the other network servers (as they
+are called), I was relieved to see that a subscriber to
+Forum could receive physical diskettes in the mail
+and not have to access the information via modem.
+Still, a computer of middling sophistication is required,
+so those who have not (yet) joined the future
+need not apply.
+
+            Laurence Urdang
+         
+         
+            Brewer's Quotations: A Phrase and Fable Dictionary
+            Books of quotations are curious things.  I have
+never compiled one, but I understand that publishers
+like them because they sell well.  As I use such
+books mainly as reference books, I am probably the
+wrong reviewer for this work by the estimable Nigel
+Rees, a Londoner well known as the host of a BBC
+radio program, Quote ... Unquote , who publishes
+an amusing, entertaining, informative newsletter
+with the same title.  To be brutally frank, I care little
+about what Jimi Hendrix and Marlon Brando might
+have said (or, in the latter case, mumbled): of far
+greater moment are the words of people like Julius
+Caesar, Shakespeare, and Mae West.  Whether Greta
+Garbo actually ever said, I want to be alone (she
+did), is of little consequence in the larger scheme of
+things; but the world consists of many parts, including
+many smaller--even infinitesimal--things, and
+we must not turn our noses up at the exact wording
+of Neil Armstrong's moon quotation: at least it was
+in English, and one need not try to explain that in Et
+tu, Brute , the last word is not the English word brute
+but the vocative case of Latin Brutus and then go off
+into the paroxysmal grammar of Latin to explain
+what a vocative is.
+
+            In any event, Rees sets forth the purpose of his
+book with admirable clarity in his Introduction.  (If
+one wants to know why someone wrote or compiled
+a book, one should always read the author's Preface,
+Foreword, Introduction, or What-have-you).  After a
+brief mention of some of the things the book is not,
+he continues:
+
+
+What Brewer's Quotations does contain is the
+most commonly misquoted, misattributed, misascribed,
+misremembered and most disputed sayings
+that there are.  It also contains sayings that
+are frequently unattributed, unascribed, misunderstood
+and misapprehended, or words whose
+authors might wish to reconsider them.
+
+[p. ix]
+
+            
+
+            The reason for putting Brewer into the title (according
+to Rees) is that his book follows naturally in the
+tradition of ... Dictionary of Phrase and Fable
+[which] singled out words and phrases with tales to
+tell and did not attempt an unachievable comprehensiveness.
+[N]ot attempt an unachievable comprehensiveness
+is a marvelous quotation that I must
+borrow for my next book, review, article, or comment
+on the parlous state of the world, and I shall
+now be able to preface it with, In the words of
+Nigel Rees ... I found Rees's Introduction more
+entertaining than the body of the book.
+
+            I had to put the book to some sort of test, so I
+looked up I'm all right, Jack , which is not in the
+fairly comprehensive Index; instead, I found it under
+Jack: I'm all right J., and it would be unfair to
+complain about that; to learn that it was said to come
+from a novel by Sir David Bone is not much of a
+revelation, nor is it particularly exciting to learn that
+Eric Partridge thinks it arose earlier as a minced
+form of some taboo Victorianism (if such things actually
+existed).
+
+            Much more entertaining is a slow browse
+through the pages, which reveals items like this:
+
+
+Book of Common Prayer, The
+
+1662 version
+
+The quick and the dead.
+
+In the Apostles' Creed: From thence he [Christ]
+shall come to judge the quick and the dead,
+quick meaning alive.
+
+To Lord Dewar (1864-1930), a British industrialist,
+is credited the joke that there are only two
+classes of pedestrians in these days of reckless
+motor traffic--the quick, and the dead.  George
+Robey ascribed it to Dewar in Looking Back on
+Life (1933).  A Times leader in April that same
+year merely ventured: The saying that there are
+two sorts of pedestrians, the quick and the dead,
+is well matured.
+
+            
+
+            I begin to cleave to the well-matured story, I'm
+afraid; but it does have the advantage today, when
+the younger generations demonstrate a total lack of
+respect for tradition, of not being overworked by
+the comedians who rarely say anything funny or
+even clever but make up their routines to remind us
+of our foibles.  My foibles are very serious, indeed,
+and are not anything to joke about.
+
+            Readers should be aware that Rees is British and
+that the book has a British leaning, less in the choice
+of sources, perhaps, than in the inclusion of quotations
+that are opaque to those who are not of the
+British persuasion and in attributions to obscure Englishmen--John
+Braham, English singer and songwriter
+(1774-1856), for example.
+
+            The structure of Brewer's Quotations is simple:
+the main text lists authors in alphabetical order with
+quotations following in alphabetical order by first
+word; in a few cases, where several works are cited
+from a single author, like Dickens, the titles are in
+alphabetical order with the quotations following.
+On every page, the quotations are numbered sequentially,
+providing a quick reference point for the
+Index, which lists quotations by their key words, in
+some cases listing them more than once: for example,
+By their fruits ye shall know them is listed in the
+Index both under fruits and under know .  One criticism
+focuses on the designer of the book, over whom
+the publisher's editor (if not Nigel Rees) should have
+exercised some influence: in a book in which the
+page numbers are an essential piece of the reference
+apparatus, they should not be set in the center of the
+bottom of the page, where they are hard to see
+when thumbing through, but at the top, as close to
+the foredge as possible.
+
+            
+               Brewer's Quotations was originally published by
+Cassell, in 1994.  Other titles in the Brewer series, a
+name perpetuated more for commercial association
+with Brewer's Dictionary of Phrase and Fable than
+for relevance of content, are, in addition to Brewer's
+Dictionary of Phrase and Fable, 14th Edition,
+Brewer's Concise Dictionary of Phrase and Fable,
+Brewer's Politics, Brewer's Theatre , and the anachronistic
+Brewer's Dictionary of Twentieth-Century
+Phrase and Fable [BIBLIOGRAPHIA, XVIII, 4, 19],
+Brewer's Cinema, and Brewer's Twentieth-Century
+Music .
+
+            Laurence Urdang
+         
+         
+
+            Aviatrixes, Clinchers, & Differentials:
+Bulgarian Slang in the '90s
+
+
+
+
+            Hearing the vernacular spoken on the modern
+streets of Sofia is like hearing a cross-section of this
+Slavic nation's tumultuous history.  Words of Church
+Slavonic origin mingle freely with a large body of
+Turkish words--a legacy of five hundred years of
+occupation--along with words from Romany, Romanian,
+Modern Greek, German, French, Italian, Tatar,
+and Macedonian.  After World War II, Bulgaria's
+close cultural ties with the former Soviet Union ushered
+in a large batch of Russian neologisms.
+
+            Today Bulgaria's newest generation is opting for
+radical new English or English-sounding words--
+cool words that are kreizi crazy, fain fine,
+bomba bomb, tiptop tiptop, shik chic, vuvelirno
+jewellike, dzhust just, absolyutno absolutely, or
+sadistichno sadistic.
+
+            In late-night bars, euphemistically known in student
+slang as biblioteki libraries, Bulgaria's youth
+mixes and mingles, rapping in trendy new words.
+The heavy-metal crowd is the most radical creator of
+new terms.  Sofia's heavy-metal culture calls itself
+metalurgiya metallurgy, and the heavy-metal aficionado
+is known as a metalurg metallurgist, or
+metal for short.
+
+            As the tough youths sit on bar stools eyeing the
+passing crowd, sexist labels proliferate.  An attractive
+woman is a beibi baby, bambina (from the Italian),
+or bonbon (from the French).  Large breasts are
+referred to as balkon balcony, or bombi bombs,
+and a large bottom, curiously, as a diferenzial differential
+(in a car).  (In some of Sofia's slang groups, the
+even stranger expression shvester --from Schwester ,
+German for sister--is preferred.)  A thin woman is
+called an antena .  A rich woman who buys rounds of
+drinks is known as a mangizlika , from the Romany
+word mangis hard cash.
+
+            On a rougher level, kushetka couch from
+French couchette , is used pejoratively for a woman
+who has many sexual partners, and avantazhiya
+(from the Italian word for advantage) implies that
+the woman is looking to profit from the men she
+attracts.  A woman always short of cash is known as
+an aviatorka aviatrix: instead of being sensible with
+her money, she is flying high.
+
+            Men, too, are slotted into neat categories.  The
+gardrob (as in wardrobe) is the tough muscle-man.
+A smooth operator is called klincher --a clincher.
+Men without any finesse are called buldozer .  The
+droger is the male drug addict, drogerka the female.
+(The drugs they take are called vitamini ).
+
+            
+               Aborigén aborigine is the provincial who has
+come to Sofia for a night on the town.  He is also
+known as a kaskét cap, as in the French casquette , a
+modern pun on kalpák fur cap, an offensive taunt to
+out-of-towners that is of Turkish origin.  (These hat
+expressions stem from the fact that Bulgarian provincials
+traditionally wear large home-made fur
+caps.)
+
+            Modern words for homosexual are pedi,
+pederuga, and pedal (as in bicycle pedal).  All three
+developed from the Russian pede , a slangy contraction
+of pederast , which was borrowed from the
+Greek by way of French.  (Coincidentally, modern
+French argot uses both pede and pedal in the same
+way.)  If, however, a homosexual is particularly aggressive
+and masculine-looking, he is called manáf
+Turk or its stronger derivative, manafchiya .
+
+            A particularly interesting trait of Bulgarian
+slang is the astonishing array of rough words of Turkish
+origin for idiot, loser, asshole, etc.: abdál,
+ahmak, bálama, balamúr, balamúrnik, balúk, budalá,
+bunák, chirák, chukundur, dangalák, dangul, edepsizlík,
+esnáf, haidamák, hairsús, haivan, haivanin, inatchiya,
+kakavanín, katraník, kepazé, kusurlíya, leke,
+mandá, maskará, pachá, palamud, perdesis, rendé,
+sersém, and sersemin .
+
+            Mixed in with this hefty portion of harsh Turkish
+words is an ever-growing batch of newer Western
+additions.  What are Bulgaria's most in words in
+the '90s for idiot and loser?: striptiz uotur striptease
+water, a curious reference to maladroit, foolish
+individuals; kretenozavur cretinosaurus; boiler
+one whose head is full of bubbling hot water; sifon
+siphon, one whose head is like an empty tube;
+bushón fuse, from French bouchon cork; diaria
+diarrhea; loko from Spanish loco; galosh as in galoshes;
+kashón crate, from Italian cassone; lainer
+ocean liner, a pun on the Bulgarian word lainó
+scum.
+
+         
+         
+            Up or Down to You
+
+
+
+
+            Robb Wilton, that acclaimed and dearly-loved
+British comedian of the thirties and forties, introduced
+one of his best wartime monologues with the
+classic first lines,
+
+            The day war broke out, my wife said to me,
+It's up to you!
+
+            I said, What is?
+
+            If he had been writing the sketch today, he would
+probably have quoted his wife as saying, It's down
+to you.  Over the last forty years or so, the expression
+up to ... has been widely replaced by down to
+... in British usage.  It has been a quite unnecessary
+transformation, and an unfortunate one because it
+brings with it an inferior nuance.  Starting in less literate
+circles as part of slipshod mod jargon, this
+replacement has gradually been adopted more and
+more widely.  It can now be noted in use by school
+teachers (and some teachers of English at that), by
+university dons, and even by BBC newsreaders and
+commentators.
+
+            How has this departure come about?  It probably
+has some association with social and moral
+changes which, over the last few decades, have
+brought increasingly churlish and irresponsible attitudes.
+Up to ... conveys a sense of duty, of looking
+up to the person or body concerned, with confidence
+in their integrity.  Down to ... brings a sense
+of looking downwards to them, somewhat disparagingly,
+and blaming them.  No longer does a difficult
+situation arise and the question immediately follow
+Who's this up to?--meaning, Who will unquestionably
+regard it as his/her responsibility to sort the
+matter out?  Rather is it now an immediate question
+of Who's this down to?--meaning, Who can be
+found to blame, so that the job of correction can be
+quickly thrust down to them, leaving others untouched
+and unassailable.
+
+            Does it really matter?  Or is it just part of the
+continuous evolution of our rich and living language?
+Surely, careful consideration leads to the
+conclusion that it does matter and that the change
+should be deplored.  Why?  Because a perfectly good
+phrase suggesting honourable obligation or moral
+duty has been replaced by an inferior one implying a
+bureaucratic, regulatory responsibility, and even
+perhaps litigation and punishment.
+
+            Let us try to retain up to ..., using it whenever
+it may be appropriate; then down to ... may once
+again be confined to its proper contexts.
+         
+         
+            A Fourth Use of the Verb
+Rodomontade in the Eighteenth
+Century
+
+
+
+
+            Under the rubric for the verb rodomantade in
+the second edition of the OED , one finds a trio of
+examples from the eighteenth century.  The first is
+from Samuel Johnson's Dictionary (1755) which informs
+us of its meaning to brag thrasonically; to
+boast like Rodomonte.  The second and third citations
+are found in the works of Fanny Burney, a
+member of Johnson's circle.  In both her Cecilia
+(1782) and Diary (1787), we see the verb functioning
+as a gerund.  In the former work, we read
+there's nothing to be got by rhodomontading,
+and in the latter, I think his rhodomontading as innocent
+as that of our cousin.
+
+            Evidence for the presence of the word on the
+other side of the Atlantic has been limited heretofore
+to a single 19th-century example.  In this particular
+instance the verb is employed as a present participle
+by Washington Irving in Life & Letters (1831)
+to describe his hero a rodomontading Congressman
+from the Western States.  There is, however, another
+ocourrence of rodomontade about fifty years
+earlier, in the writing of John Adams. In a letter to
+Elbridge Gerry, written from Braintree, Massachusetts,
+17 October 1779, Adams described the tactics
+he had tried to use in Paris to avoid political queries
+made by an insistent Ralph Izard: At Sometimes
+[ sic ] I endeavoured to perswade [ sic ] him to excuse
+me, at others I rhodomontaded it, with him, and endeavoured
+to divert him from it ...   Exactly how
+the word entered Adams's vocabulary is not known.
+The verb probably came to his attention through
+Johnson's Dictionary , with which both Adams and
+his wife, Abigail, were familiar.  Nevertheless,
+while Adams's source remains obscure, his application
+of it does no longer.
+            In America, during the 19th century, the noun rodomontade ,
+spelled rhodomontade, appears in the autobiography of Catharine
+Maria Sedgwick, whose work dates from 1853.  See The
+Power of Her Sympathy , ed. Mary Kelley (Boston, 1993), 70.  I am
+grateful to Conrad E. Wright, the editor of publications of the
+Massachusetts Historical Society, for this information.
+            
+               The Papers of John Adams , ed. Robert J. Taylor (Harvard University
+Press, 1989), vol. 8, 206.
+            See The Adams Family Correspondence , eds. L. H. Butterfield
+and Marc Friedlaender (Harvard University Press, 1973) vol. 4,
+177, as well as The Spur of Fame , ed. John A Schutz and Douglass
+Adair (The Huntington Library, 1966) vol 1, 92; vol. 2, 2436.
+         
+         
+            
+               Political Incorrectness
+            
+
+            It is reported in The Independent [9 December
+1994] that on the South Side in Chicago, local gangs
+prefer to be called niggers to distinguish themselves
+from the despised suburban upwardly mobile
+blacks.  Meanwhile, among the American white liberals
+the correct term is now people of colour.
+Can this be confirmed?
+         
+         
+            
+But after a one hour delay, the game was canceled,
+bringing a shower of booze and debris from the estimated
+10,000 people attending.  [From an AP story in Cape Cod
+Times , , page B1.  Submitted by .]
+         
+         
+            
+If you are seated in an exit row and you cannot read
+this card, or cannot see well enough to follow these instructions,
+please tell a crew member.  [From an emergency
+instruction card on United Airlines planes.  Submitted
+by .]
+         
+         
+            
+You and I know George Bush is the only man who
+can and should keep the reigns of Presidency in 1992.
+[From an undated letter from Floyd Brown, National
+Chairman, Presidential Victory Committee, received .  Submitted by .]
+
+         
+         
+            
+“A Serbian soldier monitors the trajectory of a tank
+shell just fired through binoculars on a hill southeast of
+Sarajevo Sunday.”  [A photo caption from the Pocono Record
+(Stroudsburg, Pennsylvania), .  Submitted
+by .]
+         
+         
+            
+Pop megastar Michael Jackson ... insisted he had
+very little plastic surgery during a live television interview
+with Oprah Winfrey on Wednesday.  [From an AP story in
+the Pocono Record (Stroudsburg, Pennsylvania), .  Submitted by .]
+
+         
+      
+   

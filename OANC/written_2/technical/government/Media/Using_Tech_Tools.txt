@@ -1,0 +1,158 @@
+
+
+
+
+Using Tech Tools to Serve The Underserved
+
+by Wendy R. Leibowitz
+LexisONE
+Technology is slowly transforming pro bono efforts, on and off
+the Web. But there is still a long way to go.
+Pro bono has come a long way in a short time. Susan M. Hoffman,
+the pro bono coordinator at Washington, D.C.'s Crowell &
+Moring, regularly receives queries from non-profit organizations
+via email. She compiles the emails into different messages and
+distributes them to lawyers in her firm, who volunteer, sometimes
+via email, to take the cases.
+"I have a political asylum email list, a domestic violence list,
+a hotline list, and so on," she says. She carefully notes the
+referring organization - Catholic Charities Legal Network, or the
+Fair Housing Council of Greater Washington - in each email.
+Ms. Hoffman also maintains her own database of attorney
+interests. "I can go in and search and pull up an attorney
+interested in child abuse and neglect, so when I get a case, I can
+target it," she says.
+Recently she had lunch with some of the referring legal
+assistance organizations to try to improve their recruitment and
+matching efforts even more. She also sends around pro bono email
+questionnaires to find out which types of cases attorneys are most
+interested in.
+Technology is transforming pro bono but there is a great deal to
+do, particularly as many legal assistance agencies still lack basic
+technology, such as Internet connections. Those places need
+donations of good equipment as much or more than they need
+donations of lawyer hours.
+But as lawyers try to meet demands with technology, the basic
+needs remain: meeting the need for legal services among the poor or
+underserved. Some of the unmet needs are among people who can pay,
+but who are deterred from seeking a lawyer because of the
+uncertainty about legal fees and their fear of the profession.
+The British writer Richard Susskind calls these potential
+clients "the latent market." Small firms and solos are ideal for
+such clients, but the clumsy, sometimes impersonal referral
+networks, and the prejudice against flat-fee billing serve as huge
+barriers between client and lawyer. Slowly, Web sites are emerging
+to serve them: Divorcelawinfo.com helps people educate themselves
+about divorce; MyCounsel.com is aimed at small businesses, and
+there are many others, including Nolo.com, which helps people help
+themselves, without a lawyer. But there is little public awareness
+of these sites at present.
+A recent front page story in the New York Times featured a
+fifteen-year old boy who was answering legal questions on a Web
+site called Askme.com, with knowledge he gleaned solely from Court
+TV and Judge Judy's televised courtroom.
+"Despite public perceptions to the contrary, there is an
+enormous gap between those in need of legal assistance and the
+lucky few who manage to find a lawyer to counsel them," says Esther
+Lardent, president of the Pro Bono Institute. "Technology is one
+important tool to help bridge this gap-by making it easier for
+lawyers and clients to find each other, making basic legal
+information more easily available, and demystifying the law so that
+potential clients are more willing to seek legal help."
+The need is great. Even after it was revealed on AskMe.com that
+"LawGuy1975" was only fifteen years old, people continued to ask
+for him by name. For one thing, LawGuy's answers were clear and
+prompt, while the actual lawyers' answers could be turgid, filled
+with statutory language, including formal citations, sometimes
+posted long after the question appeared.
+But it's clear that there are indeed lawyers out there, many
+from small firms, who are ready and able to help. The problem is
+that boards like AskMe.com don't do a good job of matching lawyers
+who are licensed in a particular jurisdiction (or, in the case of
+LawGuy1975, licensed at all) with clients in the same area.
+The need to distinguish between ANY legal information, which
+LawGuys can provide, and GOOD guidance, which knowledgeable lawyers
+can provide, remains paramount.
+One area where lawyers are reaching out effectively to clients
+over the Web is immigration law. Sites such as www.visalaw.com, or
+www.shusterman.com, provide a wealth of information in several
+languages, free email newsletters, and up-to-date, targeted
+guidance.
+Greg Siskind, who launched Visalaw.com, says he is working on
+building personal, secure Web sites for each client who wants one,
+so people can check the status of their cases without having to
+call the firm.
+Tight immigrant networks (the personal kind) help publicize the
+most effective attorneys. And immigration is ideal for the Web:
+it's a federal, forms-based practice that rarely requires meeting
+the client.
+But in practice areas other than immigration, linking lawyers
+with clients still revolves around either asking your relatives and
+neighbors if they know a lawyer, or calling a bar association and
+getting the next name on the list. A plethora of listings are
+available at Lawyers.com, but the amount of information is almost
+overwhelming to the novice.
+Recently, the American Bar Association launched
+Findlegalhelp.org. Like like many ABA sites, it takes a while to
+download, and it requires a few clicks to actually find a lawyer,
+but once you plow your way through a few screens, you find that the
+ABA has placed an asterisk next to associations that have earned
+the ABA's approval:
+i-Lawyer.com* Chicago Bar Association* Los Angeles County Bar
+Lawyer Referral Service* Assoc. of the Bar of the City of New York
+Lawyer Referral Service*
+Of course, if you're not in those areas, you're back to
+AskMe.com or FreeAdvice.com or RipOffCity.com. Some wonderful legal
+service agencies, such as the National Association of Public
+Interest Lawyers, (NAPIL), at www.napil.org, have Web sites that
+are devoid of explanations about what public interest lawyers
+really do, and which appear to be so corporate in appearance that
+they could just as easily be an Annual Report. Many of the
+materials are posted only in PDF (portable document format), which
+must be downloaded to be read.
+Private practioners must step up to the plate to reach out to
+the clients, online, if only to save the image of the profession
+from LawGuy1975 and NAPIL. Remember that contacting legal agencies
+for pro bono clients can lead to paying work.
+Volunteer Lawyers for the Arts, Veterans' Organizations, the
+Legal Aid Society-these are networks bigger than most corporate
+networks, involving contract disputes, benefits work, contacts with
+large government agencies that themselves could be the source of
+work. Arts contacts bring in contract disputes, copyright disputes,
+even international artistic disputes, as when a young artist
+displayed his work in Brussels, only to see his work destroyed.
+When small firms and solos do use technology to help smaller
+clients, the resulting publicity can generate much good will. Sole
+practitioner Carolyn Elefant, frustrated that
+U.S. Supreme Court cases were posted all over the Web, but
+resources needed to help people in benefits cases, adoption
+matters, and landlord/tenant disputes were not, built her own pro
+bono library on her Web site, at www.his.com/~Israel/loce/pro
+bono/pro bono.html. In addition to being a wonderful library of
+resources, it has become a source of referrals, she said.
+Indeed, new Web sites can now be a destination for those cold
+calls (or e-mails) seeking legal help that used to be turned away
+or sent to the state bar association. As most laws vary
+state-by-state, queries from out-of-state used to meet a dead end.
+But now, criminal law queries can be referred to Families Against
+Mandatory Minimums, at www.famm.org, a national group that might be
+able to help a caller, no matter where the person is in the United
+States. More such sites are needed.
+A major Web site dedicated to pro bono, called ProBono.net, is
+seeking firm to mount and maintain pages within its site dedicated
+to particular issues. Crowell & Moring may take on an
+Employment Law page, says Ms. Hoffman. Basic grunt work, such as
+putting form documents and templates on the Web, is still needed.
+"Drafting a complaint in a custody case is pretty rudimentary, but
+can be intimidating" if you've never done it before, acknowledges
+Ms. Hoffman. ProBono.net hooks up experienced lawyers with relative
+newbies. But what really, really sells pro bono cases is that the
+work is interesting, meaningful and rewarding. They involve direct
+service. And good lawyers can and should provide it, using all the
+tools available in our time.
+Wendy R. Leibowitz is an attorney and legal columnist in
+Washington, D.C.
+
+
+
+

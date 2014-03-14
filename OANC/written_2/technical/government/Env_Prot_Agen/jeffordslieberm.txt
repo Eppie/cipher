@@ -1,0 +1,1226 @@
+
+
+
+
+Economic Analysis of a Multi-Emissions Strategy
+Prepared for: Senators James M. Jeffords and Joseph I. Lieberman
+U.S. Environmental Protection Agency Office of Air and Radiation
+Office of Atmospheric Programs
+October 31, 2001
+
+
+
+Executive Summary
+In response to a May 17, 2001 request from Senators James M.
+Jeffords (VT) and Joseph I. Lieberman (CT), this report describes
+the results of a modeling study done to evaluate the potential
+impacts of reducing nitrogen oxides (NOx), sulfur dioxide (SO2),
+mercury (Hg), and carbon dioxide (CO2) emissions from the US
+electric power sector. In their request, Senators Jeffords and
+Lieberman asked the Environmental Protection Agency to undertake an
+economic assessment of four technology-based scenarios designed to
+achieve the following emissions caps in the US electric power
+sector by the year 2007:
+
+
+•
+Reduce nitrogen oxides (NOx) emissions to 75 percent
+below 1997 levels;
+
+
+•
+Reduce sulfur dioxide (SO2) emissions to 75 percent below
+full implementation of the Phase II requirements under title
+IV;
+
+
+•
+Reduce mercury (Hg) emissions to 90 percent below 1999
+levels; and
+
+
+•
+Reduce carbon dioxide (CO2) emissions to 1990
+levels.
+
+
+The request also specified that EPA should evaluate the cost of
+achieving these reductions using four alternative technology
+scenarios:
+
+
+•
+The Energy Information Agency's Standard Technology
+Scenario.
+
+
+•
+The Energy Information Agency's High Technology Scenario,
+including technology assumptions with earlier introduction, lower
+costs, higher maximum market potential, or higher efficiencies than
+the Standard Scenario.
+
+
+•
+Two scenarios from Scenarios for a Clean Energy Future
+published by Oak Ridge National Laboratory, National Renewable
+Energy Laboratory, and Lawrence Berkeley National Laboratory, which
+include assumptions about changes in consumer behavior, additional
+research and development, and voluntary and information
+programs.
+
+
+Under each scenario, the costs of meeting the emission
+constraints are included in the price of electricity. Such costs
+include the purchase and installation of emissions control
+equipment and the purchase of emissions permits. Factors that
+mitigate projected cost increases include the availability of more
+cost-effective, energy efficient technologies for both consumers
+and electricity suppliers. EPA's analysis indicates that, under the
+conditions described above:
+
+
+•
+Electricity prices in 2015 would increase by about 32% to
+50%, depending on the technology scenario.
+
+
+•
+Coal-fired electric generation would decline by 25% to
+35% by the year 2015.
+
+
+•
+Overall costs, measured by the decline in household
+consumption of goods and services, would be between $13 and $30
+billion annually or 0.1% to 0.3% of total consumption. Under all
+four of the policy scenarios evaluated in this assessment, gross
+domestic product (GDP) would remain relatively unchanged as
+sacrificed consumption permits higher investment and government
+spending to reduce emissions.
+
+
+•
+Oil and gas-fired generation would be expected increase
+by about 8% under more restrictive technology assumptions, but
+decrease by as much as 20% under scenarios that
+
+
+embody more optimistic assumptions about energy-efficiency
+demand and supply technologies.
+The combination of increased prices and the availability of more
+energy-efficient equipment and appliances are projected to reduce
+electricity demand by about 10%. With the combination of higher
+prices and improved efficiency, total expenditures for electricity
+consumption in 2015 are projected to increase by about 17% to 39%,
+depending on the scenario.
+The increase in electricity prices and cost of the program, as
+well as the impact on the fuel mix, varies considerably based the
+technology future that is assumed. For example, the 30% electricity
+price increase, the $13 billion reduction in personal consumption,
+and the 25% decline in coal use are all associated with the Clean
+Energy Future Advanced Scenario, which includes the most optimistic
+technology assumptions. Likewise, the 50% electricity price
+increase, the $30 billion reduction in personal consumption, and
+the 35% decline in coal usage are all associated with EIA's
+Standard Technology Scenario.
+EPA was not asked to evaluate the merits of the alternative
+technology scenarios. We note, however, that they are the subject
+of considerable controversy. The Clean Energy Future scenarios have
+been criticized on several grounds: assumed changes in consumer
+behavior that are not consistent with historic behavior patterns,
+results from research and development funding increases that have
+not occurred, and voluntary and information programs for which
+there is no analytic basis for evaluating the impacts. On the other
+hand, supporters of those scenarios point to economic analyses
+showing that the assumed investments can pay for themselves over
+time. The range of estimates associated with the different
+technology scenarios highlights the importance of the technology
+assumptions.
+In conducting the modeling requested by Senators Jeffords and
+Lieberman, EPA has assumed that the reductions would be achieved
+through a nationwide "cap-and-trade" system similar to the Acid
+Rain program established under the 1990 Amendments to the Clean Air
+Act, together with increasing penetration and performance of energy
+technologies. In accordance with the Senators' request, the
+analysis also assumes the use of banked allowances made possible by
+early emissions reductions achieved in the years 2002 through 2006.
+(In practice, significant reductions beginning in 2002 would be
+difficult to achieve.) Because of the contribution of those banked
+allowances to overall emissions reductions, the analysis shows
+emissions in 2007 above the caps. Regardless, 2007 emissions are
+substantially reduced from current levels. At the end of 2015 a
+small pool of banked allowances continues to be available for use
+in later years. The analysis contained in the report covers the
+years 2002 through 2015.
+The results provided in this analysis should not be construed as
+forecasts of actual scenario outcomes. Rather, they are assessments
+of how the future might unfold compared to a previously defined
+reference case - given the mix of technology and policy assumptions
+embodied in each of the scenarios. The results also imply a
+national commitment that is successful in achieving the level of
+emission reductions described within the report.
+The economic impacts of the emissions reduction scenarios are
+evaluated using Argonne National Laboratory's AMIGA model, a
+200-sector computer general equilibrium model of the U.S. economy.
+The modular design and economy-wide coverage of the AMIGA model
+makes it a logical choice to analyze alternative technology
+scenarios. Although it does employ the same plant-level coverage of
+the electricity sector as the IPM and NEMS models used in other
+analyses, the pollution control technology assumptions are not
+included at the same level of detail as the IPM model. This may be
+particularly relevant for mercury controls, where the effectiveness
+varies by coal type, and may be difficult to model correctly
+without additional detail. In addition, we note that the AMIGA
+model is relatively new and has not been subject to the same degree
+of peer-review and scrutiny as the older IPM and NEMS models. It
+would be desirable in future work to establish the comparability of
+results across these models.
+
+1. Introduction
+
+1.1. Background
+Responding to an earlier Congressional request, the Energy
+Information Administration (EIA) released a detailed study
+reviewing the effects of a so-called "three pollutant" strategy in
+December 2000 (Energy Information Administration, 2000). The three
+emissions in the EIA assessment included nitrogen oxides (NOx),
+sulfur dioxide (SO2), and carbon dioxide (CO2). Although a
+coordinated climate and air quality policy appeared to lower costs
+compared to a series of separate policy initiatives, the EIA
+assessment indicated significant costs associated with capping
+emissions.
+At about the same time, five of the nation's national energy
+laboratories released an extensive review of some 50 different
+policy options that might achieve cost-effective reductions of both
+air pollutants and carbon dioxide (CO2) emissions. The study,
+Scenarios for a Clean Energy Future (Interlaboratory Working Group,
+2000), indicated that domestic investments in energyefficient and
+clean energy supply technologies could achieve substantial
+reductions in both sets of emissions at a small but net positive
+benefit for the economy.
+On May 17, 2001, Senators James M. Jeffords (VT) and Joseph I.
+Lieberman (CT) sent a letter to EIA and EPA seeking further clarity
+in the scenarios examined by the December EIA analysis, stating
+that "the analysis appears to unnecessarily limit the market and
+technology opportunities that might significantly affect the costs
+and benefits of emission reductions. In particular, the potential
+contributions of demand-side efficiency, gas-fired cogeneration and
+of renewable energy sources appear to be inadequately
+represented."
+In responding to this request, EPA modeled the combined impacts
+of both the emissions caps and the advanced technology scenarios
+specified by the Senators. We are aware that EIA has modeled the
+combined impacts but has also modeled the effects of the emission
+caps and the advanced technology scenarios separately. This
+approach provides perhaps a better technique for isolating the
+actual costs of the emissions caps. We have reviewed the EIA
+analysis of these separate effects and we believe that they offer
+interesting and important insights and that if we had performed the
+same kind of analysis we would have seen similar results.
+This report responds to the Senators' request. The results
+provided in this analysis should not be construed as forecasts of
+actual scenario outcomes. Rather they are assessments of how the
+future might unfold compared to a previously defined reference case
+- given a national commitment to achieve the emission reductions,
+and given the mix of technology and policy assumptions embodied in
+each of the scenarios.
+
+
+1.2. Technology Scenarios
+In the letter to Administrator Whitman, Senators Jeffords and
+Lieberman asked for an analysis of four different scenarios,
+requesting that EPA "analyze the cost and benefits, including all
+sectors of the economy and impacts on both the supply and demand
+side of the equation, of the following multi-pollutant emission
+control scenarios for the nation's electricity generators. Where
+feasible, this should include power plants both within the
+conventionally defined electric utility sector as well as
+electricity generated by industrial cogenerators and other
+independent power producers."
+The four scenarios are identified as follows:
+
+
+•
+Scenario A: Standard Technology Scenario. Assume standard
+technology characteristics as defined in AEO2001. Further assume a
+start date of 2002. By 2007 reduce NOx emissions 75 percent below
+1997 levels, reduce SO2 emissions to 75 percent below full
+implementation of the Phase II requirements under title IV, reduce
+mercury emissions 90 percent below 1999 levels, and reduce CO2
+emissions to 1990 levels.
+
+
+•
+Scenario B: High Technology Scenario. Continue the 2002
+start date, but assume the advanced technology assumptions of both
+the supply and demand-side perspectives that are referenced in
+AEO2001. By 2007 reduce NOx emissions 75 percent below 1997 levels,
+reduce SO2 emissions to 75 percent below full implementation of the
+Phase II requirements under title IV, reduce mercury emissions 90
+percent below 1999 levels, and reduce CO2 emissions to 1990
+levels.
+
+
+•
+Scenario C: Moderate Clean Energy Future Scenario.
+Continue the 2002 start date, but assume the moderate supply and
+demand-side policy scenario of the Clean Energy Future (CEF) study.
+By 2007 reduce NOx emissions 75 percent below 1997 levels, reduce
+SO2 emissions to 75 percent below full implementation of the Phase
+II requirements under title IV, reduce mercury emissions 90 percent
+below 1999 levels, and reduce CO2 emissions to 1990
+levels.
+
+
+•
+Scenario D: Advanced Clean Energy Future Scenario.
+Continue the 2002 start date, but assume the advanced supply and
+demand-side policy scenario of the Clean Energy Future study. By
+2007 reduce NOx emissions 75 percent below 1997 levels, reduce SO2
+emissions to 75 percent below full implementation of the Phase II
+requirements under title IV, reduce mercury emissions 90 percent
+below 1999 levels, and reduce CO2 emissions to 1990
+levels.
+
+
+In requesting an analysis of these four scenarios, the Senate
+request asked for "…results through 2020, in periods of five years
+or less, using the Annual Energy Outlook 2001 (AEO2001) as the
+baseline."
+
+
+1.3. Multi-Emission Targets
+Table 1 identifies the 2007 emission caps used for each of the
+four scenarios. The emission cap is defined by a benchmark emission
+level that is modified by the desired level (percentage) of
+reduction. For example, the benchmark for the SO2 emissions cap is
+the Phase II requirements of the Clean Air Act Amendments. That
+total, 8.95 million short tons, is reduced by a specific percentage
+(75 percent) to reach the emissions cap of 2.24 million tons.
+Following a similar pattern, the remaining emission caps are set as
+1.51 million tons for NOx emissions, 4.8 tons for mercury
+emissions, and 475 million metric tons (MtC) of carbon
+emissions.
+Table 1. Benchmark Emission Levels and Assumed Emission Caps
+
+
+
+1.4. Other Analytical Assumptions
+As previously noted, the letter from Senators Lieberman and
+Jeffords requested that EPA use four different sets of technology
+and policy assumptions to meet the specified emission caps shown in
+Table 1. The full set of technology and policy assumptions are
+described more fully in section two of this report. All scenarios
+are implemented in 2002. At the same time, there are other key
+assumptions that EPA adopted to facilitate the evaluation of the
+four scenarios.
+In addition to the different technology scenarios, EPA was asked
+to include the assumption that utilities would begin to make
+cost-effective emission reductions in the five years that precede
+the 2007 compliance date. These early reductions would be "banked"
+for use in the post-2007 period of analysis. For purposes of this
+simulation, the amount of allowances banked from 2002 through 2006
+was calculated as the simple difference between the reference case
+projections and the actual emission trajectory of each scenario.
+The decision to earn and hold early allowances is based on the
+assumption that allowances are viewed as an asset that must earn at
+least an 8% real return.1
+Following the assumption used in the CEF study, all four of the
+policy scenarios assume nationwide restructuring of the electric
+utility industry. This implies that prices are based on the
+marginal rather than the regulated, cost-of-service pricing now
+used throughout much of the country.
+EPA employed the Argonne National Laboratory's AMIGA modeling
+system to evaluate the impact of capping emissions under the four
+different technology scenarios. AMIGA is a 200 plus sector model of
+the U.S. economy that captures a wide variety of technology
+characteristics and their resulting impact on key indicators such
+as emissions, employment and income.2 EPA
+1
+In practice, it is more likely that significant reductions that
+contribute to any kind of allowance bank would be difficult to
+achieve before 2004. Assuming a delay in implementation to 2004
+would raise the economic impact of any of the scenarios.
+2
+AMIGA is especially suited to the t ask identifying and
+evaluating a different mix of technologies in the production of
+goods and services within the United States. It is not only a 200
+plus sector model of the U.S. economy, but it also includes the
+Argonne Unit Planning and Compliance model and database that
+captures a wide variety of technology characteristics within the
+electric generating sector, including industrial combined heat and
+power systems and the typically available emission control
+technologies. When the electricity module is integrated with
+asked Argonne to benchmark AMIGA to the reference case
+projections of AEO2001. AMIGA was then modified to approximate the
+assumptions behind each of the four scenarios.
+An economic analysis of a policy compares the world with the
+policy (the policy scenario) to the world absent the policy (the
+reference case or baseline scenario). The impacts of policies or
+regulations are measured by the resulting differences between these
+two scenarios. In effect, any meaningful analysis should compare
+the full set of benefits and costs to the extent possible.
+For purposes of this exercise, there are at least seven
+categories of costs and four benefits that might be reviewed. The
+costs include: (1) direct investment costs, (2) operating and
+maintenance costs, (3) research and development and other
+government program costs, (4) transaction, search, and compliance
+costs, (5) adjustment costs associated with large changes in
+specific capital stocks, (6) lost economic flexibility created by
+additional emission requirements, and (7) potential interactions
+with the existing tax system. At the same time, there are at least
+four categories of benefits. These include: (1) direct savings from
+lower compliance costs, (2) process efficiency and other
+productivity gains, (3) environmental and health benefits not
+captured within normal market transactions, and (4) spillovers
+and/or learning induced by either the technology investment, or the
+R&D efforts.
+The costs associated with the emission limits in each scenario
+are computed as the increased expenditures on pollution control,
+investment in more efficient equipment and appliances, research and
+development, tax incentives, and additional government programs -
+all relative to the reference case. The increased costs are coupled
+with credits for reductions in fuel use and productivity gains from
+technology. The economic impact of each scenario is reported in two
+ways. The first is as a change in household personal consumption,
+measuring the goods and services available for consumers to enjoy
+after subtracting these net expenditures. The second is as a change
+in economic output measured as Gross Domestic Product (GDP).
+The AMIGA model reasonably captures those costs and benefits
+noted above that arise in market transactions. Some, such as loss
+of flexibility and adjustment costs on the cost side, and health
+benefits and spillovers on the benefit side, remain beyond the
+scope of this analysis.
+
+
+
+2. Multi-Emissions Analysis
+This section provides additional details about the technology
+assumptions that underpin the four emission scenarios. It also
+describes the results of the scenario analysis, both in terms of
+the various marginal costs associated with emission control
+strategies and the economy-wide impact of each scenario. Although
+EPA made every effort to calibrate AMIGA to the AEO2001 reference
+case, AMIGA is a different modeling system than EIA's National
+Energy Modeling System (NEMS). Hence, it was not possible to
+reproduce the exact AEO2001 reference case
+the larger macroeconomic system, the model can then generate key
+outputs including projected electricity sales and net generation,
+resulting emissions for each of the four pollutants under
+consideration, and the set of energy and permit prices associated
+with the resulting production levels. Finally, AMIGA can provide an
+estimate of the consequent impact on the economy including key
+indicators as consumption, investment, government spending, GDP,
+and employment (Hanson, 1999). For more background on the AMIGA
+model, see Appendix 5.1.
+projections. Moreover, Argonne researchers recently upgraded
+AMIGA to incorporate SO2, NOx, and mercury emissions. For this and
+other reasons, AMIGA currently reports results only through the
+year 2015. Nonetheless, the differences in the resulting baseline
+projections are minor for the purposes of this analysis.
+
+2.1. Modeling Technology Assumptions
+Scenarios A and B are based on the AEO2001 standard and advanced
+technology characteristics, respectively. The standard technology
+assumptions of scenario A were used by EIA in the development of
+the AEO2001 "reference case" projections. The advanced technology
+assumptions of scenario B were used as a sensitivity analysis in
+the AEO2001. They demonstrated the effects of earlier availability,
+lower costs, and/or higher efficiencies for more advanced equipment
+than the reference case.3
+Scenarios C and D are based on the recently published
+DOE-sponsored report, Scenarios for a Clean Energy Future
+(Interlaboratory Working Group, 2000; see also, Brown, et al,
+2001). Both of the CEF scenarios assumed nationwide restructuring
+of the electric utility industry. From an analytical perspective,
+this means that prices are based on the marginal costs of
+generation, transmission and distribution of electricity rather
+than the regulated, cost-of-service pricing now used throughout
+much of the country. Moreover, both scenarios reflected increased
+spending for research and development and other programs designed
+to accelerate the development and deployment of low-carbon, energy
+efficient technologies. Each of the scenario assumptions are
+described more fully in the sections that follow.
+
+2.1.1. Reference Case Scenario
+The scenario A reference case assumes a "business-as-usual"
+characterization of technology development and deployment. As
+projected in the AEO2001 assessment, the nation's economy is
+projected to grow at 2.9% per year in the period 2000 through 2020.
+Given anticipated energy prices and the availability of standard
+technologies, the nation's primary energy use is expected to grow
+1.3% annually while electricity consumption is projected to
+increase by 1.8% annually. Further details are provided in Appendix
+5.2.1.
+
+
+2.1.2. Advanced Technology Scenario
+Under the AEO 2001 advanced technology characterization,
+scenario B assumes that a large number of technologies have earlier
+availability, lower costs, and/or higher efficiencies. For example,
+the high efficiency air conditioners in the commercial sector are
+assumed to cost less than in scenario A. This encourages a greater
+rate of market penetration as electricity prices rise in response
+to the emissions caps. Building shell efficiencies in scenario B
+are assumed to improve by about 50 percent faster than in scenario
+A.
+The AEO2001 was published in December 2000 (Energy Information
+Administration, 2000).
+On the utility's side of the meter, the heat rates for new
+combined cycle power plants are assumed to be less compared to the
+standard case assumptions. This means that more kilowatthours of
+electricity are generated for every unit of energy consumed by the
+power plants. Moreover, wood supply increases by about 10% and the
+capacity factor of wind energy systems increases by about 15-20%
+compared to the reference case assumptions. In the AEO2001 report,
+the combination of higher efficiencies and earlier availability of
+the technologies lowers the growth in electricity use from 1.8% in
+the reference case to 1.6%.
+
+
+2.1.3. CEF Moderate Case Scenario
+The authors of the Clean Energy Future (CEF) report describe
+their analysis as an attempt to "assess how energy-efficient and
+clean energy technologies can address key energy and environmental
+challenges facing the US" (Brown, et al, 2001). In that regard,
+they evaluated a set of about 50 policies to improve the technology
+performance and characterization of the residential, commercial,
+industrial, transportation, and electricity generation sectors. The
+policies include increased research and development funding,
+equipment standards, financial incentives, voluntary programs, and
+other regulatory initiatives. These policies were assumed to change
+business and consumer behavior, result in new technological
+improvements, and expand the success of voluntary and information
+programs.
+The selection of policies in the CEF study began with a
+sector-by-sector assessment of market failures and institutional
+barriers to the market penetration of clean energy technologies in
+the US. For buildings, the policies and programs include additional
+appliance efficiency standards; expansion of technical assistance
+and technology deployment programs; and an increased number of
+building codes and efficiency standards for equipment and
+appliances. They also include tax incentives to accelerate the
+market penetration of new technologies and the strengthening of
+market transformation programs such as Rebuild America and Energy
+Star labeling. They further include so-called public benefits
+programs enhanced by electricity line charges.
+For industry, the policies include voluntary agreements with
+industry groups to achieve defined energy efficiency and emissions
+goals, combined with a variety of government programs that strongly
+support such agreements. These programs include expansion and
+strengthening of existing information programs, financial
+incentives, and energy efficiency standards on motors systems.
+Policies in the CEF analysis were assumed to encourage the
+diffusion and improve the implementation of combined heat and power
+(CHP) in the industrial sector. For electricity, the policies
+include extending the production tax credit of 1.5 cents/kWh over
+more years and extending it to additional renewable
+technologies.
+Broadly speaking, the CEF Moderate scenario can be thought of as
+a 50% increase in funding for programs that promote a variety of
+both demand-side and supply-side technologies. For example, the
+moderate scenario assumes a 50% or $1.4 billion increase in
+cost-shared research, development, and demonstration of efficient
+and clean-energy technologies (in 1999 dollars with half as federal
+appropriations and half as private-sector cost share). It further
+assumes a careful targeting of funds to critical research areas and
+a gradual, 5-year ramp-up of funds to allow for careful planning,
+assembly of research teams, and expansion of existing teams and
+facilities. In addition, the CEF moderate scenario anticipates
+increased program spending of $3.0 and $6.6 billion for the years
+2010 and 2020, respectively. These expenditures include production
+incentives and investment tax credits for renewable energy, energy
+efficiency and transportation technologies. They further include
+increased spending for programs such as DOE's Industrial Assessment
+Centers and EPA's Energy Star programs.
+The combined effect of the R&D and program expenditures,
+together with other policies described in the CEF report, implies a
+steady reduction in total energy requirements over the period 2000
+through 2020. By the year 2020, for example, primary energy
+consumption and electricity sales were projected to decrease by 8%
+and 10%, respectively, compared to the CEF reference case.
+
+
+2.1.4. CEF Advanced Technology Scenario
+Building on the policies of the moderate scenario, the CEF
+advanced scenario assumes a doubling of cost-shared R&D
+investments, resulting in an increased spending of $2.9 billion per
+year (again, in 1999 dollars with half as federal appropriations
+and half as private-sector cost share). In addition, the advanced
+scenario anticipates increased program spending of $9.0 and $13.2
+billion for the years 2010 and 2020, respectively. The added
+spending covers all sectors including buildings, industry,
+transportation, and electric generation.
+The combined effect of the program and R&D expenditures,
+together with other policies described in the CEF report (including
+a $50 carbon charge applied in the CEF Advanced Scenario), drove a
+steady reduction in the need for energy compared to the CEF
+reference case. By 2020 total energy use fell by 19% compared to
+the reference case. At the same time, electricity sales in 2020
+were projected to decrease by 24% compared to the CEF reference
+case.
+
+
+2.1.5. Implementation of the Technology Assumptions
+The assumptions embedded in each of these scenarios have the
+effect of progressively increasing market penetration of higher
+performance energy efficiency and energy supply technologies. As
+shown in Table 2, the net effect of these assumptions is to lower
+the expected level of electricity consumption while continuing to
+meet the same level of service demanded by utility customers. The
+technology assumptions also have the effect of increasing the
+availability of cleaner energy supply technologies that reduce the
+level of emissions per kilowatt-hour of generation. The critical
+assumption used in the EPA analysis is that program spending
+affects both supply and demand technologies in a way that interacts
+with the emission caps that are to be imposed in 2007.
+Benchmarked to the year 2010, Table 2 shows the percentage
+change of key indicators for each scenario with respect to its
+respective reference case. These changes provide EPA with
+approximate targets so that each of the scenarios can be mapped
+into the AMIGA model. As such, the figures in Table 2 should be
+seen as inputs into the AMIGA model, not outputs of the model.
+Table 2. Influence of Technology Assumptions on Key Scenario
+Indicators - 2010
+
+By definition, scenario A assumes the standard technology
+assumptions of the AEO2001 reference case. Hence, there are no
+additional programs or policies that generate changes in the
+reference case technologies when the emission caps are imposed by
+the year 2007. The level of technology responsiveness grows for
+scenarios B, C, and D as a result of greater program spending.
+The CEF advanced scenario, for example, assumes a significant
+increase in program funds to promote a variety of both demand-side
+and supply-side technologies. As a result of this greater level of
+program activity, there is an accelerated penetration of
+energy-efficient technologies that drives electricity sales down by
+6.8 percent in 2010 (compared to the CEF reference case for that
+same year). At the same time, the combination of a lower demand for
+electricity and an increased investment in cleaner energy supply
+technologies reduces both carbon and NOx emissions by 10.7 and 8.1
+percent, respectively (again, compared to the CEF 2010 reference
+case). As EPA modeled this scenario, the bundle of policies in the
+CEF advanced scenario became, in effect, a complement to the
+emission caps imposed by 2007.
+To avoid overestimating the impact of the policy scenarios in
+this analysis, EPA made a number of adjustments before implementing
+the CEF assumptions in the four scenarios reported here. First, the
+CEF analysis was benchmarked to a 1999 reference case. In the
+AEO2001 reference case, however, the demand for electricity in 2020
+is about 10% higher compared to the CEF reference case. Second, the
+Senate request asked EPA to assume a 2002 start date in running the
+technology and policy scenarios. In effect, there are fewer years
+in which programs can achieve the desired level of technology
+improvement compared to the CEF scenarios. In addition, the CEF
+analysis includes a significant review of transportation
+technologies and policies. EPA chose to exclude all assumptions
+related to transportation, focusing only on the supply and
+demand-side technologies associated with electricity and natural
+gas consumption.
+With the adjustments described above now reflected in the
+current analytical framework, and using the program cost
+information documented in the CEF study, Table 3 summarizes the
+incremental program costs that were assumed as necessary to drive
+the kind of changes in electricity consumption and emissions
+described in Table 2. Since transportation programs drove a
+significant part of the CEF expenditures, and since there are fewer
+years to implement policies, the estimated program expenditures are
+also smaller compared to the CEF assumptions.
+Table 3. Incremental Policy Costs of the Technology Scenarios
+(billion 1999 dollars)
+
+Because scenario A characterizes existing program and technology
+performance, no additional funds are required to drive that
+scenario. Scenario B, on the other hand, anticipates some changes
+in the technology characterization that will affect the electricity
+sector as shown in Table
+2. While the AEO2001 analysis anticipated no program spending to
+drive these changes, EPA assumed that additional spending would be
+required for scenario B. Calibrating to the CEF policy scenarios,
+EPA estimated that program and policy spending would increase by
+$0.8 billion in 2002, rising steadily to $2.9 billion by 2015. For
+scenario C, program spending increased by $1.2 billion starting in
+2002, rising to $4.8 billion by 2015. Finally, program spending in
+scenario D started at $2.1 billion in 2002 and increased to $5.5
+billion by the last year of this analysis.4
+The net effect of mapping increased program spending together
+with adjustments needed to update the assumptions of the CEF policy
+scenarios can be highlighted by reviewing the change in electricity
+generation for scenario D. In the CEF Advanced Scenario (based on a
+1999 reference case), for example, the level of electricity
+generation in 2010 was lowered by 10% from the reference case
+requirements of 3,920 billion kilowatt-hours (kWh). As the CEF
+technology assumptions were applied in scenario D within this
+analysis (updated to the AEO2001 reference case), electricity
+generation was reduced by 9% from 4,253 billion (kWh). The trend
+was more pronounced in 2015. Rather than a roughly 16% reduction
+from a generation level of 4,200 billion kWh in the 1999 CEF
+Advanced Case, the scenario D equivalent in this analysis achieved
+only a 12% reduction from a generation of 4,580 billion kWh.
+
+
+2.1.6. Reasonableness of the Scenario Assumptions
+The results of the technology-driven scenarios should not be
+interpreted as an EPA endorsement of any of the policies or
+technology assumptions behind each of scenarios described in this
+report. On the one hand, EPA has not conducted any significant
+review of the EIA assumptions that underpin the AEO2001
+projections. On the other hand, some analysts do not necessarily
+agree with the assumptions and projected level of impacts in the
+CEF assessment despite the fact that it was peer-reviewed and its
+findings published this fall in an academic journal. The EIA
+(2001), for example, notes that the CEF policies assume changes in
+consumer behavior that are not consistent with historically
+observed behavior patterns. Moreover, the EIA suggests that there
+is little documentation to support the assumed technological
+improvements generated by the research and development (R&D)
+initiatives described in the report. Finally, EIA notes that
+The program spending assumptions developed in this analysis are
+used only to approximate the impact of the CEF scenario s. They do
+not reflect EPA endorsement of these spending levels.
+the effectiveness of voluntary or information programs may be
+less than assumed in the CEF scenarios. At the same time, the lead
+CEF analysts have responded to the EIA assertions by citing
+relevant economic literature and noting that the CEF study is one
+of "the most carefully documented and complete analysis of U.S.
+energy futures that has ever been funded by the U.S. government"
+(Koomey, et al, 2001).
+Notwithstanding these concerns, EPA attempted to respond to the
+Senators' request by mapping in the critical assumptions of the CEF
+as a range of policies that provide a set of alternative
+assumptions about the future. In this regard, the scenarios are
+more like descriptions of alternative future outcomes rather than
+predictions or recommendations about how the future should
+unfold.
+To provide a more complete context for understanding the
+magnitude of the changes in electricity generation that are
+suggested by the different scenarios, the figure below illustrates
+both the historical and projected trends in the nation's
+electricity generation. The information is shown as the number of
+kWh per dollar of GDP (measured in constant 1999 dollars). The
+historical data covers the period 1970 through 2000 while the
+projected trends are through the year 2015. The historical period
+shows a moderate level of volatility. The reference case
+projections suggest an annual rate of declining intensity of 1.6%
+per year through 2015 with a final value 0.33 kWh/$.
+Historical and Projected US Electricity Trends (kWh per 1999 $
+GDP)
+
+1970
+1980
+1990
+2000
+2010
+
+In comparison to the reference case, Scenario D (adapting the
+CEF Advanced Case assumptions) reflects a national commitment to
+improve both electricity supply and the efficiency of demandside
+technologies. The presumption is that such a commitment would be
+supported by a significant increase in R&D and program spending
+as described above. Under these assumptions, the nation's
+electricity intensity is projected to decline at an annual rate of
+2.5%,
+dropping to a final intensity of 0.28 kWh/$. This level of
+decline is greater than previously seen in the recent past. In the
+period 1980 through 1986, for example, and again 1993 through 2000,
+the annual rate of decline was only 1.7 percent. Hence, it appears
+that the assumptions driving the advanced scenario are aggressive.
+At the same time, however, the research undertaken by the CEF
+analysts indicates that the technology is available to achieve such
+a reduction should a national commitment be successful in driving
+similar policies.
+
+
+
+2.2. Results of the Scenario Analysis
+With the model benchmarked to AEO2001, and given the different
+mix of scenario assumptions previously described, AMIGA reports the
+results in the figures and tables that follow. More complete data,
+including reference case assumptions, are available in Appendix
+5.2.
+
+2.2.1. Emission Projections
+All program and policy assumptions have a start date of 2002.
+Moreover, the analysis anticipates the use of banked allowances
+made possible by early emissions reductions achieved in the years
+2002 through 2006 (as requested in the Senate letter). Figures 1
+through 4 on the following page illustrate both the emissions
+projections and the impact of banking the early reductions on all
+four emissions caps implemented in 2007.
+Although all four categories of emissions are down
+substantially, they only achieve 50-75% of the proposed cap by 2007
+(shown as the dotted horizontal line in each of the above figures).
+This is because of the availability of the banked allowances that
+can be used by sources to meet emissions caps in 2007 and beyond.
+Note that costs would be noticeably higher if power plants were
+required to actually hit the target in 2007. In 2015, carbon and
+mercury emissions continue to be 15% or more above the target.
+The reductions that generate the banked allowances are shown as
+the area to the left of each vertical dotted line as the
+differences between the reference case and scenario emission
+trajectories. The emissions above the cap are shown to the right of
+each vertical dotted line and between the scenario emissions and
+the dotted horizontal line. Subtracting these two areas on each
+graph reveals the level of the bank in 2015. Using Scenario D as an
+example, the remaining allowances in 2015 are 100 million metric
+tons for carbon, 1.3 million tons for SO2, 0.2 million tons for NOx
+and 25 tons for mercury. In the case of carbon, the bank would last
+another two years at the rate of drawdown in 2015, or longer if the
+drawdown declined.
+Figure 1. Carbon Emissions (million metric tons) Figure 2. SO2
+Emissions (million tons)
+
+Figure 3. NOx Emissions (million tons) Figure 4. Mercury
+Emissions (tons)
+
+
+
+2.2.2. Changes in Electric Generation Expenditures
+Given the assumptions and economic drivers in each of the
+scenarios, the AMIGA model calculates the capital investment,
+operation and maintenance, and fuel costs necessary to meet
+consumer demand for electricity. The incremental expenditures
+required to generate electricity under each of the four scenarios
+as compared to the reference case are summarized in Figure 5 (in
+billions of 1999 dollars). In effect, the incremental expenditures
+reflect the range of decisions made by the electricity sector to
+comply with each of the four scenario constraints-but do not
+reflect efforts made outside the electricity sector. Because these
+expenditures ignore spending on energy efficiency, research and
+development outside the electricity sector-spending that can be
+substantial-they are not measures of program costs. Note that
+incremental expenditures are incurred as early as 2002 in all four
+scenarios to generate early reductions that can be banked for use
+in 2007 and beyond.
+The generation expenditures vary in each of the scenarios change
+for at least three reasons: (1) the size of the allowance bank made
+possible by early reductions driven, in part, by program spending
+prior to the introduction of the caps; (2) the varying levels of
+demand for electricity over time, resulting in changes in the
+overall mix of generation resources; and, (3) the gradual reduction
+in the banked allowances available for withdrawal necessitating
+additional actions to reduce emissions.
+As expected, scenario A has the largest increase with
+expenditures rising by nearly $17 billion in 2015 compared to the
+reference case. The higher level of expenditures is driven by a 21%
+increase in unit generation costs caused primarily by the emissions
+caps and offset only slightly by a small decrease in electricity
+demand. With less energy efficiency technology penetrating the
+market, a greater level of control equipment must be installed and
+operated which, in turn, drives up the cost of generation. Scenario
+B follows a similar pattern with expenditure increases being offset
+by further reductions in electricity demand as more efficient
+technology penetrates the market. The expenditures for scenario C
+decline even further as reduced demand continues to lower both the
+level generation and the unit cost of that generation compared to
+scenario A. Scenario D, on the other hand, actually shows a decline
+in total expenditures by 2015. The combination of a 12.5% reduction
+on generation load together with only an 11.9% increase in the unit
+cost of generation (both with respect to the reference case)
+results in a $3.11 billion reduction in total electric generation
+expenditures.
+Figure 5. Incremental Expenditures on Electric Generation
+(Billions of 1999$)
+
+
+
+2.2.3. Marginal Costs
+The marginal costs of emission reductions over the period 2005
+through 2015 are shown in Figures 6 through 9 for all four
+scenarios.
+Figure 6. Projected Marginal Cost of Carbon Reductions ($/Metric
+Ton)
+
+Figure 7. Projected Marginal Cost of SO2 Reductions ($/Ton)
+
+Figure 8. Projected Marginal Cost of NOx Reductions ($/Ton)
+Figure 9. Projected Marginal Cost of Hg Reductions
+($Million/Ton)
+
+
+The marginal cost of carbon reductions range from $46 to
+$138/metric ton through 2015 with each scenario showing
+successively smaller costs as technology characteristics improve
+and more energy-efficient and/or low carbon technologies penetrate
+the market. The marginal cost of SO2 and NOx reductions through
+2015 are less than $450/ and $2,300/ton, respectively, in all four
+multi-emissions reduction scenarios. The marginal cost of mercury
+reductions by 2015 ranges from $350 million/ton to $432
+million/ton, again depending on the scenario.
+It is important to note that marginal cost reflects the
+additional cost of one more ton of reductions, and not the total
+cost associated with each pollutant. One can make a very rough
+estimation of this overall cost for each pollutant, on top of the
+costs associated with the other three, by multiplying half the
+marginal cost (to approximate average cost) by the volume of
+reductions. By 2015, as an example, scenario A returns cost
+estimates of $15.2 billion for carbon, $1.1 billion for SO2, $2.7
+billion for NOx, and $6.4 billion for mercury. In Scenario D, the
+cost estimates are $8.6 billion for carbon, $1.6 billion for SO2,
+$3.3 billion for NOx, and $7.8 billion for mercury. Note that these
+figures cannot be added together for an overall estimate because
+they (a) double count the benefits of controlling multiple
+pollutants simultaneously, and
+(b) ignore the consequences of the underlying technology policy.
+We discuss overall costs below.
+Surprisingly, the marginal cost of SO2, NOx, and Hg reductions
+increases as the marginal cost of carbon decreases. The reason
+appears to be that as efficiency technology penetrates the market
+and reduces carbon prices, more of a price signal is required to
+generate further reductions in the three conventional pollutants.
+In the advanced scenarios, for example, both demand reductions and
+the increased use of gas tends to reduce carbon emissions. But gas
+prices begin to rise which allows coal to make a modest comeback
+with respect to scenario A. This is especially true as cleaner and
+more efficient coal technologies begin to penetrate the market as
+assumed in scenarios B through D. In order to offset the tendency
+for coal-generated emissions to increase, permit prices need to
+adjust upward.
+
+
+2.2.4. Fuel Use Impacts
+Figure 10 shows both total electricity consumption and the
+fossil fuel consumption used in the generation of electricity for
+the year 2010. The results are in quadrillion Btu in both the
+reference case and each of the four policy scenarios. As each
+successive scenario generates a greater reduction in electricity
+demand, coal use is reduced significantly (by about 30 percent).
+Gas consumption increases slightly in scenarios A and B, and
+decreases by a small amount in scenarios C and D as lower
+electricity consumption reduces the need for new capacity.
+Figure 10. Total Electricity Consumption and Fossil Fuel
+Generation in 2010 (Quadrillion Btu)
+
+
+
+2.2.5. Energy Price Impacts
+The model suggests that under the conditions described above,
+electricity prices are expected to increase by about 30% (under
+scenario D) to 50% (under scenario A) by the year 2015. This is the
+logical result of increased control costs and permit prices. The
+combination of increased prices and the availability of more
+energy-efficient equipment and appliances reduce electricity demand
+by about 10%. Total electricity expenditures increase by about 15%
+to 30% depending on the year and the scenario (see Table 3, below,
+and the tables in Appendix 5.2 for more detail on the changing
+pattern of expenditures).
+
+
+2.2.6. Economy-wide Impacts
+Table 3 provides a summary of key macroeconomic data for the
+year 2010 to compare the impact of emissions reductions on both
+personal consumption and other components of gross domestic product
+(GDP). The effects on personal consumption show a decline of
+between $13 billion and $31, or 0.1% to 0.3%, depending on the
+scenario. This reflects the cost of the program in terms of the
+decreased well being of households who must forego a fraction of
+their consumption of goods and services in order to pay for both
+research and development programs, energy efficiency improvements,
+and more expensive electricity production. Table 3 shows little
+change in GDP under any of the policy scenarios, reflecting the
+fact that this foregone consumption turns up as expenditures in
+other categories of GDP, namely, investment and government
+spending.5
+Table 3. Summary of Economic Impacts by Scenario - 2010
+
+The AMIGA modeling system reports the costs and benefits of each
+scenario with several major exceptions. The first omitted benefit
+is spillover and productivity gains beyond energy bill savings. A
+number of studies suggest that energy efficiency technology
+investments also tend to increase overall productivity of the
+economy, especially in the industrial sector. (Sullivan, et al.,
+1997; Finman and Laitner, 2001; and Laitner, et al, 2001). To date,
+however, no systematic effort has been undertaken to incorporate
+such benefits into the current generation of policy models. Hence,
+this potential benefit is not reported at this time. The second
+missing benefit includes gains in environmental quality, especially
+improved health benefits.
+On the cost side, the model ignores costs associated with rapid
+changes in capital stocks, as well as potential loss of flexibility
+and interactions with the existing tax system. For example, the
+model forecasts significant changes in the level and composition of
+electricity generation in 2002, ignoring the difficulty of rapidly
+changing the capital stock by then end of 2001. Losses in
+flexibility occur when pollution control activities potentially
+interfere with efficiency and other operational programs at a
+regulated facility. Finally, there are interactions with the tax
+system when, in response to a rise in the relative cost of
+purchased goods, people decide to enjoy more
+A more complete assessment of each policy scenario can be made
+by reviewing the more detailed data contained in the Appendix.
+leisure (which is now relatively less expensive), work less, and
+lower taxable income (Parry and Oates, 2000).
+
+
+
+2.3. The Results in Context
+Recent studies suggest significant economic consequences as a
+result of substantial emission reduction strategies (EPRI, 2000;
+and EIA, 2000). On the other hand, the presumption of a trade-off
+between environmental and economic benefits may not provide an
+entirely appropriate framework for analysis of such policies
+(DeCanio, 1997). Indeed, there are a number of studies that show
+net economic benefits may be possible when a full accounting of
+both benefits and costs are included within an appropriate analysis
+(Krause, et al, 2001; and Bailie, et al, 2001).
+At the same time, understanding the proper characterization and
+role of technology improvements (Edmonds, et al, 2000), and then
+capturing that characterization within an appropriate model
+structure (Peters, et al, 2001), is a critical aspect of all such
+economic assessments.
+Finally, it is important to recognize that the mere existence of
+technologies and the potential for positive net benefits does not
+assure that these technologies will be commercialized and adopted,
+nor that the net benefits will be realized (Jaffe, et al, 2001). An
+unanswered question is whether and how policies might encourage
+these activities.
+This current study, while drawing on credible data sources and
+applying a state-of-the-art modeling system, cannot adequately
+capture all such nuances associated with emission reduction
+scenarios. The results of this analysis should be viewed within
+this larger context.
+
+
+
+3. Conclusions
+The analysis suggests that under the conditions described above,
+emissions through 2015 will be significantly reduced although they
+won't meet the 2007 target. This is largely because of assumptions
+about the banking of allowances earned prior to 2007. At the same
+time, coal-fired electric generation is expected to decline by 25%
+to 35% by the year 2015. On the other hand, oil and gas-fired
+generation is projected to increase by about 8% under more
+restrictive technology assumptions, but decrease by as much as 20%
+under scenarios that embody more optimistic assumptions about
+energy-efficiency demand and supply technologies. Electricity
+prices are expected to increase by 32% to 50% in 2015, depending on
+the scenario.
+The combination of increased prices and the availability of more
+energy-efficient equipment and appliances are projected to reduce
+electricity demand by about 10% compared to the reference case.
+With the combination of higher prices and improved efficiency,
+total expenditures for electricity consumption in 2015 are
+projected to increase by about 17% to 39% depending on the
+scenario. Interacting with other changes in consumer and business
+spending that is driven by each of the scenario assumptions, the
+personal consumption reduced by about 0.1% to 0.3%. This again
+depends on the year and the scenario.
+The results provided in this analysis should not be construed as
+forecasts of actual scenario outcomes. Rather they are assessments
+of how the future might unfold compared to a previously defined
+reference case - given the mix of technology and policy assumptions
+embodied in each of the scenarios. The results from these scenarios
+imply a strong national commitment, one that is successful in
+developing the programs and policies necessary to achieve the level
+of emission reductions described within the report.
+
+
+4. References
+Alison, Bailie, Stephen Bernow, William Dougherty, Michael
+Lazarus, and Sivan Kartha, 2001. The American Way to the Kyoto
+Protocol: An Economic Analysis to Reduce Carbon Pollution, Tellus
+Institute and Stockholm Environment Institute, Boston, MA, July,
+2001.
+Brown, Marilyn A., Mark D. Levine, Walter Short, and Jonathan G.
+Koomey, 2001. "Scenarios for a clean energy future," Energy Policy
+Vol. 29 (November): 1179-1196, 2001.
+DeCanio, Stephen J., 1997. "Economic Modeling and the False
+Tradeoff Between Environmental Protection and Economic Growth,"
+Contemporary Economic Policy, Vol. 15 (October): 10-27, 1997.
+Edmonds, Jae, Joseph M. Roop, and Michael J. Scott, 2000.
+Technology and the economics of climate change policy, Pew Center
+on Global Climate Change, Washington, DC, September 2000.
+E-GRID, 2000. Emissions & Generation Resource Integrated
+Database, US Environmental Protection Agency, Washington, DC,
+http://www.epa.gov/airmarkets/egrid/factsheet.html.
+Electric Power Research Institute, 2000. Energy-Environment
+Policy Integration and Coordination Study, TR-1000097, Palo Alto,
+CA, 2000.
+Energy Information Administration, 1998. Impacts of the Kyoto
+Protocol on U.S. Energy Markets and Economic Activity,
+SR/OIAF/98-03, Washington, DC, October 1998.
+Energy Information Administration, 2000. Analysis of Strategies
+for Reducing Multiple Emissions from Power Plants: Sulfur Dioxide,
+Nitrogen Oxides, and Carbon Dioxide, SR/OIAF/2000-05 (Washington,
+DC, December 2000).
+Energy Information Administration, 2001. Analysis of Strategies
+for Reducing Multiple Emissions from Electric Power Plants with
+Advanced Technology Scenarios, SR/OIAF/2001-05 (Washington, DC,
+October 2001).
+Finman, Hodayah, and John A. "Skip" Laitner, 2001. "Industry,
+Energy Efficiency and Productivity Improvements," Proceedings of
+the ACEEE Industrial Summer Study, American Council for an
+Energy-Efficient Economy, Washington, DC, August 2001.
+Hanson, Donald A, 1999. A Framework for Economic Impact Analysis
+and Industry Growth Assessment: Description of the AMIGA System,
+Decision and Information Sciences Division, Argonne National
+Laboratory, Argonne, IL, April, 1999.
+Interlaboratory Working Group, 2000. Scenarios for a Clean
+Energy Future, ORNL/CON-476 and LBNL-44029 Oak Ridge, TN: Oak Ridge
+National Laboratory; Berkeley, CA: Lawrence Berkeley National
+Laboratory, November 2000.
+Jaffe, AB, RN Newell, and RN Stavins, 2001. "Energy-efficient
+technologies and climate change policies: Issues and evidence." In
+Climate Change Economics and Policy: An RFF Anthology, edited by MA
+Toman. Washington: Resources for the Future.
+Jeffords, James, and Joseph Lieberman, 2001. "Letter to EPA
+Administrator Christine Todd Whitman," May 17, 2001.
+Koomey, Jonathan, Alan Sanstad, Marilyn Brown, Ernst Worrell,
+and Lynn Price, 2001. "Assessment of EIA's statements in their
+multi-pollutant analysis about the Clean Energy Futures Report's
+scenario assumptions," Memo to EPA's Skip Laitner, Lawrence
+Berkeley National Laboratory, Berkeley, CA, October 18, 2001.
+Krause, Florentin , Paul Baer, and Stephen DeCanio, 2001.
+Cutting Carbon Emissions at a Profit: Opportunities for the U.S.,
+International Project For Sustainable Energy Paths, El Cerrito, CA,
+May 2001.
+Laitner, John A. "Skip", Ernst Worrell, and Michael Ruth, 2001.
+"Incorporating the Productivity Benefits into the Assessment of
+Cost-effective Energy Savings Potential Using Conservation Supply
+Curves," Proceedings of the ACEEE Industrial Summer Study, American
+Council for an Energy-Efficient Economy, Washington, DC, August,
+2001.
+Parry, I.W.H. and W.E. Oates. "Policy Analysis in the Presence
+of Distorting Taxes" Journal of Policy Analysis and Management
+19(4), pp 603-613.
+Peters, Irene, Stephen Bernow, Rachel Cleetus, John A. ("Skip")
+Laitner, Aleksandr Rudkevich, and Michael Ruth, 2001. "A Pragmatic
+CGE Model for Assessing the Influence of Model Structure and
+Assumptions in Climate Change Policy Analysis ," Presented at the
+2nd Annual Global Conference on Environmental Taxation Issues,
+Tellus Institute, Boston, MA, June 2001.
+Sullivan, Gregory P., Joseph M. Roop, and Robert W. Schultz,
+1997. "Quantifying the Benefits: Energy, Cost, and Employment
+Impacts of Advanced Industrial Technologies," 1997 ACEEE Summer
+Study Proceedings on Energy Efficiency in Industry, American
+Council for an Energy-Efficient Economy, Washington, DC, 1997.
+US Environmental Protection Agency, 2000b. Guidelines for
+Preparing Economic Analysis, EPA-240-R-00-003, Office of the
+Administrator, Washington, DC, September 2000.
+
+
+5. Appendices
+
+5.1. Description of the AMIGA Model
+The All Modular Industry Growth Assessment (AMIGA) model is a
+general equilibrium modeling system of the U.S. economy that covers
+the period from 1992 through 2030.6 It integrates features from the
+following five types of economic models:
+1). Multisector - AMIGA starts by benchmarking to the 1992
+Bureau of Economic Analysis (BEA) interindustry data, which a
+preprocessor aggregates to approximately 300 sectors;
+2). Explicit technology representation - AMIGA reads in files
+with detailed lists of technologies (currently with a focus on
+energy-efficient and low-carbon energy supply technologies,
+including electric generating units) containing performance
+characteristics, availability status, costs, anticipated learning
+effects, and emission rates where appropriate;
+3). Computable General Equilibrium - AMIGA computes a
+full-employment solution for demands, prices, costs, and outputs of
+interrelated products, including induced activities such as
+transportation and wholesale/retail trade;
+4). Macroeconomic - AMIGA calculates national income, Gross
+Domestic Product (GDP), employment, a comprehensive list of
+consumption goods and services, the trade balance, and net foreign
+assets and examines inflationary pressures;
+5). Economic Growth - AMIGA projects economic growth paths and
+long-term, dynamic effects of alternative investments including
+accumulation of residential, vehicle, and producer capital
+stocks.
+In addition, the AMIGA system includes the Argonne Unit Planning
+and Compliance model that captures a wide variety of technology
+characteristics within the electric generating sector. This
+includes a system dispatch routine that allows the retirement and
+the dispatch of units on the basis of traditional cost criteria as
+well as the impact of various permit prices on operating costs. It
+also includes non-utility generation sources such as industrial
+combined heat and power applications and renewable energy
+systems.
+Climate change mitigation policy has been the main application
+of the AMIGA system to date. But the AMIGA modeling system recently
+has been enhanced to include policies involving the reduction of
+sulfur dioxide, nitrogen oxide, and mercury emissions. Moreover, a
+new intertemporal optimization module has been added to AMIGA that
+allows an evaluation of early reductions and the banking of
+allowances to be incorporated into policy scenarios. Hence, the
+system is well suited to evaluate a variety of multi-emission
+strategies that are driven by price incentives as well as R&D
+programs, voluntary initiatives, and cap and trade policies.
+Because of recent upgrades and enhancements made in the model,
+the current reporting period is extended only through the year
+2015. We expect the full reporting period to extend back to the
+year 2030 in the very near future.
+The model includes a complete database of all electric utility
+generating units within the United States. The cost and performance
+characteristics of the electricity supply technologies generally
+follow those modeled within the Energy Information Administration's
+National Energy Modeling System. The characteristics associated
+with the various emission control technologies generally follow
+those modeled within the Integrated Planning Model used by the
+Environmental Protection Agency.
+The AMIGA modeling system is a highly organized, flexible
+structure that is programmed in the C language. It includes modules
+for household demand, production of goods, motor vehicles,
+electricity supply, and residential and commercial buildings and
+appliances.
+The production modules contain representations of labor,
+capital, and energy substitutions using a hierarchy of production
+functions. The adoption rates for cost-effective technologies
+depend on energy prices as well as policies and programs that lower
+the implicit discount rates (sometimes referred to as hurdle rates)
+that are used by households and businesses to evaluate
+energy-efficiency and energy supply measures.7
+For a more complete documentation of the AMIGA model, see
+Hanson, Donald A, 1999. A Framework for Economic Impact Analysis
+and Industry Growth Assessment: Description of the AMIGA System,
+Decision and Information Sciences Division, Argonne National
+Laboratory, Argonne, IL, April, 1999. For an example of other
+policy excursions using the AMIGA model, see, Hanson, Donald A. and
+John A. "Skip" Laitner, 2000, "An Economic Growth Model with
+Investment, Energy Savings, and CO2 Reductions," Proceedings of the
+Air & Waste Management Association, Salt Lake City, June 18-22,
+2000. Also see, Laitner, John A. "Skip", Kathleen Hogan, and Donald
+Hanson, "Technology and Greenhouse Gas Emissions: An Integrated
+Analysis of Policies that Increase Investments in Cost Effective
+Energy-Efficient Technologies," Proceedings of the Electric
+Utilities Environment Conference, Tucson, AZ, January 1999.
+
+
+5.2. Summary Tables for Study Scenarios
+
+
+5.2.1.
+Reference Case Projections
+
+
+5.2.2.
+Scenario A: Emission Constraints Using Reference Case
+Technologies
+
+
+5.2.3.
+Scenario B: Emission Constraints Using Advanced Case
+Technologies
+
+
+5.2.4.
+Scenario C: Emission Constraints Using the Moderate CEF
+Scenario Assumptions
+
+
+5.2.5.
+Scenario D: Emission Constraints Using the Advanced CEF
+Scenario Assumptions
+
+
+
+
+
+
+
+
+
+
+
+

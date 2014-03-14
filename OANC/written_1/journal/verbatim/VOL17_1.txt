@@ -1,0 +1,2277 @@
+
+   
+      
+         
+            The Language of the Law
+
+
+
+            The thesis of this work is that most legal communication
+can and should be expressed in ordinary
+words; the sub-text is that, although “the law is
+a profession of words,’ most lawyers do not know
+much about them and very few are interested in
+learning more.  After a short introductory section,
+half the book is devoted to a history of legal 
+language .
+and the other half to a critical analysis of its
+usage.  The latter half will have more appeal to the
+average lawyer, unscholarly primate that he is; but
+the language-loving lawyer, which many are and all
+ought to be, will be entertained as much as edified
+by the eventful chronicle of the forging and tempering
+of the tools of his trade.  Of all specialized vocabularies,
+that of the law is not only the most commonly
+used but by far the most eloquent and
+alluring.  For that reason, and because they will relish
+the author's excoriating criticism of the shamanistic
+rhetoric employed by lawyers to intimidate
+them, lay people who are addicted to the lore of
+words will find the book as a whole not less fascinating
+than do the practitioners.
+
+            The first half is a piece of scholarship par excellence,
+so closely packed and fully realized that no
+summary can begin to do it justice.  I shall try to
+reduce its gist to a few paragraphs of my own words.
+
+            The history of the legal language of the English-speaking
+common law countries and the history of
+the English language are indissoluble.  The Celts,
+those ancient invaders from the continent who managed
+to survive the Roman occupation and resist the
+Latin tongue, contributed one word-- whiskey --
+having legal significance but were driven, along with
+their reverse-order speech, into the nooks and corners
+of the British Isles and France by the fierce Angles,
+Saxons, and Jutes, wielding their broadswords
+and brutish monosyllables.  The Law impressed a
+special meaning on many Anglo-Saxon words-- manslaughter,
+sheriff, theft, hearsay, bench (judge's),
+strike (motion to), landlord, freehold (in land), and
+herein --which they retain to this day.  From the
+Viking raids and settlements a few Norse words of
+Teutonic ancestry survive with technical legal definitions:
+gift, loan, sale, bond , and law itself.
+
+            When, in about the year 596, King Æthelbert
+promulgated a written Anglo-Saxon code of law, a
+little cloud of Latin was rising from the sea.  The
+Celtic tongue, later to be overwhelmed by Anglo-Saxon,
+contained only a few Latin words, most of
+them place names and none of legal import, outlived
+the occupation.  But the speech of the Anglo-Saxons
+themselves had brought to England a sprinkling of
+Latin words picked up in their trade with the Romans.
+
+            At almost the same time that Æthelbert pro
+claimed his code, St. Augustine and his followers arrived
+in England bringing Christianity and Latin,
+and within a hundred years the conversation was
+complete.  Latin, through the clergy, was widely introduced
+to the native idiom and took a strong position
+in the law well before the Conquest.  After the
+Conquest English remained robustly alive during a
+period of bi- and trilingualism: the invading
+Normans spoke a French dialect which became for a
+time the language of the kings and the nobility,
+while contemporary English was spoken by the indigenous
+population; Latin was the language of record
+and of the law in general, and so it remained for
+about two centuries after the Conquest, with English
+as a close second.  English fastened upon foreign
+words with gusto, transforming and anglicizing them
+to lend grandeur and subtlety to the vernacular.  The
+upper classes were familiar with both French and
+English, the cultivated classes with Latin as well.  Although
+a statute of 1362 required pleadings to be in
+English and records in Latin, French became the
+principal language of the law and of legal education,
+and so continued for 200 years, although Latin remained
+the standard for the “all-important’ writs.
+“There was nothing written in English of immediate
+practical value to the practising common lawyer or
+law student.’  But the use of English spread and, by
+the end of the 14th century, knowledge of French
+was “an accomplishment.’  Indeed, the hallmark of
+authenticity was put on it by Chaucer, who seemed
+to be preparing it for Spenser, Bacon, Shakespeare,
+and the other Elizabethans, and for Donne, Milton,
+and Dryden.  Still, French words in vast numbers,
+both of the law and of common speech, continued to
+be embraced by English and, by 1800, the law itself
+joined that embrace, retaining French and Latin
+only for technical terms.
+
+            With the advance of literacy that came with
+printing and the use of Latin as a scholarly lingua
+franca, Bacon and Milton wrote in Latin as well as in
+English.  The lawyers, already educated in Latin as
+the learned tongue, incorporated it almost completely
+into their writing and in large part into their
+oral usage.  To this day, long after Latin has ceased to
+be the principal medium of written legal documents
+and records, lawyers cling to and defend against all
+comers unnumbered words and phrases in that ancient
+tongue, under the persuasion, justified or not,
+that they enrich the legal vocabulary with precision,
+permanence, and dignity.
+
+            Anticipating our contemporary Plain English
+laws, strong voices were raised in the 17th century
+against the use of foreign tongues as a kind of black
+art to mystify the uneducated and cheat them of
+their rights.  Every man, they said, ought to be able
+to understand the law and act on his own behalf.  In
+1650 and again in 1713 Parliament passed laws
+(written almost entirely in derivatives of French or
+Latin) requiring that all court proceedings be in
+English.  Both laws were bitterly resisted by the
+bench and bar, and because of such pressure the
+later one was eviscerated before it went into effect
+by an amendment allowing the continued use of customary
+words.  This was an age of exiguous technicality
+in English as well as Latin and French, an age
+when the failure of a syllable lost the cause.  “The
+land law was on the move--in a solemn progression
+of rules and technical evasions.  This was the day of
+the ingenious conveyance, the computers of the infinite,
+logical word slicers, dealers in metaphysical
+wraiths....’  The law was “encased in a hard shell
+of fixed pattern, its language determined by forms
+and the deadweight of precedent.’
+
+            American colonists, particularly hostile to lawyers
+and their mumbo-jumbo, tried at first simply to
+eliminate the profession.  When that failed, they
+turned to the do-it-yourself approach, creating a
+lively demand for self-instruction books of the
+Everyman His Own Lawyer kind, foreshadowing the
+present-day will- and estate-planning kits.  Despite
+lawyers' renunciations of such efforts as “chimeras
+of ignorance and folly,’ the public continued--and
+continues to this day--to yearn for simplicity.
+
+            Law language, it is generally agreed among lay
+people (with a few eccentric lawyers concurring), is
+verbose, pompous, archaic, and obscure.  Applying
+his premise that it should agree with ordinary
+speech, Professor Mellinkoff examines the reasons
+lawyers rely on for the difference.
+
+            The lawyer's first line of defence is precision , his
+bounden duty to lay down his words so that they
+may never be misunderstood.  For this he must use
+the finely turned jeweler's tools of his craft, not the
+carpenter's saws and hatchets of common idiom.
+But, says the author, the steeling grip of lawyers on
+their stilted language is in fact the result of fear.
+“ `Leave us alone.  Don't change.  Here we stay till
+death or disbarment.' ’  When lawyers say precision
+they think they are saying exact meaning ; but what
+they are in truth saying most of the time is exactly-the-same-way --that
+is, the traditional way (to have
+and to hold) , the way of precedent (“cause of action’),
+and the required way (as by statute).  Such
+usages may also be exact meanings , and thus, truly
+precise , but they are not necessarily so.  Lawyers'
+stand-bys such as aforesaid, forthwith, hereafter,
+hereby, herein, hereinafter , and even the ubiquitous
+said are condemned by the author as “tricky, ducking,
+bobbing words,’ “flabby words,’ whose only
+claim to precision is their traditional use, not worth
+saving.  He also takes whacks at those old chestnuts
+and/or and ss .  Under the heaviest duress, such as the
+threat of boiling in ink, lawyers might relinquish all
+these; but they will fight to the bitter end and finally
+die at the barricades before surrendering their
+whereases .  Never mind that, the author says;
+Whereas is consistently vague, meaning variously
+`the fact is,' `although,' `considering that,' `on the
+contrary,' and `that being the case,' with many shadings
+in between.  Generally appearing as the final
+whereas is the most fatuous and utterly redundant
+one of all: “WHEREAS the parties have orally agreed
+to the terms of such sale and desire to reduce
+their agreement to writing, Now THEREFORE...’
+The lawyer is also habituated to doublets and triplets
+like fit and proper; force and effect; give, bequeath
+and devise; null and void , and rest, residue,
+and remainder .  These seem to me among the less
+reprehensible, for they are understandable to ordinary
+people and are objectionable mainly on the
+grounds of repetition rather than obscurity.  More
+legal documents than ever before contain laundry
+list of such terms, many from the computer's memory
+bank, often imparting false profundity and reassurance
+to the client like the chant of the auctioneer
+but under cold analysis shriveling to redundancy and
+confusion.  Never mind all this, the lawyer will cling
+to them like the drunkard to his bottle.
+
+            The reader is told that there was once justification
+for the term natural life --e.g., “...sentenced
+to serve for the rest of his natural life...,’ “...to
+my wife Nancy for and during her natural life’--
+based on the civil death of a felon and also upon the
+state of civil death assumed by a monk upon his abnegation
+of all worldly concerns, but that the phrase
+as now applied is “outrageously redundant.’  These
+words are so universally employed in deeds and wills
+that the absence of natural might cause a reviewing
+lawyer to question the authorship.  The criticism is
+nonetheless valid, though this rejected phrase might
+come again into play where some sort of life, as after
+brain death , is prolonged by totally artificial means.
+
+            In targeting esoteric words used by lawyers in
+place of ordinary ones under the pretense of precision,
+it seems to me that the author is wasting ammunition
+on words like reasonable, substantial , and satisfactory .
+They are words of ordinary speech, with
+which juries are quite comfortable, and lawyers are
+as aware as everybody else that they are imprecise.
+The law's reasonable man , from the tribal wisdom of
+a person who is honest and sensible, is an image that
+can be called forth in the mind of every man.  Substantial
+performance is something a great deal more
+than driving the first nail and a little less than driving
+the last one, and it survives as a useful tool to prevent
+injustice by technicality.  Reasonable doubt may
+be a “sow's ear,’ but the jury understands that the
+judge is telling them to be damned sure the defendant
+is guilty before they hang him.  These words
+express concepts that cannot be drawn with straightedge
+and compass: their flexibility is essential to
+their function.  The subjective satisfactory , and ordinary
+word rather than a legal one, is a trouble-maker
+and should be avoided.
+
+            Lawyers are mad folk in general, but their madness
+crescendos, according to Professor Mellinkoff,
+in their “consuming passion for precedent .’  Mesmerized
+by the “ritual phrase’ stare decisis , they
+delve into that shelf-devouring monster of confusion
+known as Words and Phrases and come forth with
+“language that the profession accepts as precedent,’
+thus investing such terms as accident and proximate
+cause with a false precision.  Accident is indeed elusive
+of enduring definition, but a lawyer may find it
+very useful to discover a purported definition in a
+case of his own jurisdiction decided upon facts resembling
+those at hand.  Most lawyers accept proximate
+cause as a necessary term of art and will consider
+the author's treatment of it as “concise
+gibberish’ for which you can “get a definition at any
+supermarket’ as rather severe.  It embodies a concept
+difficult to define: the necessary nexus between
+the act and the injury.  We cannot go back to Adam's
+Fall (where we sinned all), certainly; neither can we
+require that the safe fall directly on the plaintiff's
+head.  Foreseeability , unmentioned by the author but
+indispensable in the application of proximate cause ,
+narrows but does not close the gap.  The jurors,
+again, are free to move within a fenced area.  Lawyers
+will understand that the author is inveighing
+against precedent only as a false pretense for fake
+precision, but an innocent layman straying into
+these pages might well take it from the broad-gauged
+blasts that the whole doctrine of precedent
+is a grand illusion, a sort of pseudo-science like astrology,
+in which lawyers and judges count the angels
+dancing on the point of a needle:
+
+
+From faltering beginnings in the sixteenth and
+seventeenth centuries... [t]he heaped-up precedents
+of the substantive [my italics] law swarm
+with trivia, with differences without substantive
+distinction, with repetitions that centuries ago attained
+the rank of platitude.
+
+
+            
+
+            For the benefit of the uninitiated let me say that
+lawyers, deluded or not, overwhelmingly believe
+that with the exception of constitutions and of statutes
+enacted by legislatures (and rules under them),
+precedent is what the law is made of in the United
+States; that the law existed before written language
+in the tradition of “customs that runneth not to the
+contrary’ and continues to thrive in the printed decisions;
+that the statutes themselves remain unsettled
+until rounded out by precedent; that precedents may
+become so venerable as to become platitudes but
+may also be as fresh as the undried ink on today's
+appellate court decision; and that when a lawyer
+searches for as recent a decision as he can find, in a
+jurisdiction as near as possible, on facts as close to his
+client's case as possible, never overruled or modified,
+and pronouncing the law as clearly as possible,
+he is doing what he should be doing and might well
+be guilty of malpractice for failing to do so.
+
+            As an instance of the gross imprecision of precedent
+the author cites a Kentucky case in which, despite
+the heavy-drinking insured's answer, “Never,’
+to a question in a life insurance application as to the
+use of spirits, the court held the policy valid.  But as I
+read the quoted extracts from the opinion, the
+court's reasoning was not at all based on a definition
+of the word never but on a well-established precedent
+holding that to void the policy the misrepresentation
+must be such that had the company known the
+truth it would not have issued the policy.  “No insurance
+company would have rejected the risk on this
+ground,’ said the court.  An effete northerner might
+challenge the court's finding that the insured's frequent
+use of alcohol was not material to the risk, but
+this was in Kentucky, where bourbon was invented
+and is regarded as considerably less harmful than
+iced tea.
+
+            The witness's oath as required by statute and as
+everybody knows is the sing-song “to tell the truth,
+the whole truth, and nothing but the truth.’  Redundant
+and imprecise, says the author; the whole truth
+is a “metaphysical distinction,’ and he cites the
+much-derided Words and Phrases .  Well, perhaps.
+But consider this:
+
+
+“Did you write the letter?’
+
+“No.’  [His secretary typed the letter and signed
+his name to it.]
+
+“Did the policeman stop the car?’
+
+“No.’  [The policeman held up his hand and
+blew his whistle and the driver then stopped the
+car.]
+            
+
+            Unless a skillful cross-examiner brings out all
+the facts, a lying witness may avoid a perjury conviction.
+
+            If legal language were to be stripped of ordinary
+English, repetition, tradition, precedent, and requirement,
+there would still remain, Professor Mellinkoff
+begrudgingly concedes, “a nubbin of precision’
+from its terms of art .  These “technical terms
+with specific meanings’ are a “mere sprinkling,’ as
+seldom found as “nuggets in a salted gold field.’  A
+neat metaphor, but I would have added, “also as
+precious.’  In addition to the author's examples of
+lease, landlord, tenant , and surrender , I would submit
+escrow, holograph, joint tenancy, tenancy in common,
+precatory subrogation (none of which is mentioned
+in the book), and the invaluable per stirpes ,
+all terms of art far more precise than any ready
+equivalent in backyard English.  Phrases like mutually
+agreed and were intermarried are plainly pompous
+rather than precise, as are removed for `moved,'
+determine for `terminate,' and many more.
+
+            “As precision is the loudest virtue of the law, so
+wordiness is its noisiest vice.’
+
+            Brevity is a saving grace, but only if it coincides
+with precision and intelligibility.  Voir dire is short
+and precise and intelligible; in my opinion, this distinction
+can be claimed by many other terms of art,
+including tort, fee simple, easement, mens rea , and
+prima facie case.  And/or is short but confusing, and
+proximate cause (according to the author) is short
+but unintelligible.
+
+            How truly does the author say that “every mechanical
+aid the law has seized upon to make itself
+more available has increased its bulk’!  And this
+mushroom cloud has expanded at least a hundredfold
+since the book was written.  The Frankenstein
+computer with its handmaiden word processor have
+spread before the lawyer a feast of gustatory delights
+beyond the dreams of his voracity.  Luscious
+paragraphs of whereases, corporate powers, trustees
+duties , and events of default can be mined from these
+monster quarries to be fitted, with no other purpose
+than to encumber lean documents that already perform
+their function.  These machines are pampered
+by de-personalizing everything they are fed, converting
+Carl or Clara to husband or wife or simply to
+spouse, my son Frank and daughter Kate to my children ,
+and Lewis and Clark to the Lessor (the singular
+of course including the plural and the masculine the
+feminine or even the neuter, should a party be of
+undetermined sex).
+
+            Professor Mellinkoff traces the verbosity of lawyers
+to the historical influences of primitive ritual,
+bilingual duplication, and payment by the word; certainly
+their Latin and French gave them a running
+start over competing professions.  But some would
+say that, spurred by their own vanity and their clients'
+impressionability, they would have reached
+the pinnacles of pomposity without having to resort
+to these ancient rites.  As “wholesale dealers in
+words,’ the author maintains, lawyers are masters of
+“planned confusion.’  Witness the lawyer's addiction
+to it would seem, it may well be , and the like.
+But I should have thought that lawyers could have
+learned these and other “one-legged subjunctives’
+from congressmen, cabinet ministers, and television
+talk-show guests who demonstrate extraordinary
+proficiency in such equivocations.
+
+            In the beginning the law was the word itself, not
+the abstraction that gave it birth.  Therefore, words
+must be durable, it was believed, lest a change in a
+word change the meaning of the law.  A subtle concept,
+convincingly explained by the author.  To be
+durable without writing the law had to be rememberable,
+and the lawyer's penchant for repetition
+comes from an outmoded attachment to mnemonic
+devices.  Assurance of rememberability in written
+law rests in the artful remarks (usually witty and
+nearly always metaphoric) of such rare jurists as
+Lord Bowen and Justice Holmes: “...the state of a
+man's mind is as much of a fact as the state of his
+digestion’; “A word is not a crystal, transparent and
+unchanged: it is the skin of a living thought....’
+
+            In the office as in the courtroom legal language
+is intended to impress laymen.  Sometimes expectations
+must be met.  “Sir Leicester,’ the author
+quotes from Bleak House , “appears to have a stately
+liking for the legal repetitions and prolixities as
+ranging among the national bulwarks.’  If the contract
+prepared for the client lacks the usual flourishes,
+he may feel that he is paying for something he
+could have written himself.  On the other hand,
+many clients appreciate plain wording.
+
+            Also, legal language endures to “unite the
+priesthood,’ that the “discipline [may] not be made
+common among the vulgar.’
+
+            Three more reasons might have been added in
+support of a language of the law distinct from common
+speech.  First, “To Impress the Client,’ discussed
+under Durability , should not be limited to
+that category.
+
+            Second is “To Persuade the Judge or Jury.’  The
+good lawyer, always mindful of Holmes's definition
+of the law as “the prophecies of what the court will
+do in fact and nothing more pretentious,’ will ask
+himself when drafting any instrument, “How will
+this hold up in court?’  Indeed, this reason overrides
+all others.  The judge is but another lawyer, seldom
+one of the more erudite, and he might be more amenable
+to the old familiar tunes than to start minimalism,
+however pure or precise.  In jury trials in most
+states the complaints and answers stating the parties'
+claims and denials are read to the jury as part of the
+instructions, can be quoted by the lawyers in argument,
+and may be sent to the jury room.  The lawyer
+serves his client by employing his most impressive
+language: the collision was one of “great force and
+violence,’ the injuries “severe,’ the pain “excruciating,’
+and the mental anguish “extreme.’  He is being
+paid for persuasion, not simplification.
+
+            The third addition would be “Style,’ pure style.
+Surely lawyers, no less than other artisans, are entitled
+to their little conceits, a grace note here, a furbelow
+there.  When I was young at the bar I heard
+with delight an old lawyer, who could have played
+Dickens's Mr. Tulkinghorn, speak grandly of the
+court of nisi prius (pronouncing it NICEY PRY-US), an
+utterly obsolete Latinism for the simple trial court .
+Just as any speaker may, for the sake of euphony (or
+vanity) flourish an occasional eminence grise or mirabile
+dictu , may not a lawyer plume himself now and
+then with an ab initio or even a mutatis mutandis ,
+not to “unite the priesthood’ but to savor his own
+sonority, as a bird sings also for itself?
+
+            The book as a whole is most praiseworthy.  The
+first half, unique and unfaultable, will fill a huge gap
+in the knowledge of all lawyers who are not far more
+scholarly than any I have ever known.  The writing in
+0both halves, though lean and muscular--the author
+falls prey to none of the ills of turgidity that he so
+lavishly dispraises--is polished and witty, spiced
+with revealing anecdotes and sparkling detail.  In
+those few cases with which I have ventured to disagree,
+I have felt that the author's argument was unworthy
+of his art.
+
+            As for the impact on the profession, one must,
+with a sigh, agree with Professor Mellinkoff that
+“gratuitous literary advice ... is received with profound
+indifference’ and that “the hardest words of
+lay critics from Swift to date ... have been ignored
+with aplomb.’  In this era of lawyers unprecedented
+wealth and power, few of them will expend many of
+their precious minutes listening to admonitions on
+their language.  Still, there are always the “ `passionate
+few,' a stray lawyer here and there’ according to
+the author, who will fight on in the courtrooms and
+in the ivory towers, at the bar and in the barrooms,
+in the law journals and reviews for the good word,
+and they will never surrender.
+            In his Preface the author disarmingly tells us that
+“the footnotes are for reference only’ and that
+“anything worth saying has been said in the body of
+the text.’  But so provocative is the text itself that I
+found myself irresistibly drawn to those generally
+annoying tag-alongs in search of the sources.  I shall
+indulge in only this one footnote.  In this writing,
+legal means `pertaining to the law,' rather than `lawful';
+layman means `non-lawyer' (including the feminine);
+he, him and his include the feminine; and
+Anglo-Saxon means `Old English.'  All quotations are
+from the author unless otherwise indicated
+         
+         
+            The Language of the Law
+         
+         
+            
+[Submitted by ]
+
+         
+         
+            Longman Pronunciation Dictionary
+            This long-needed book will be welcomed by the
+linguistic community and by learners of English.
+General dictionaries show pronunciations, it is true,
+but not in the depth displayed in this work [ LPD ],
+rarely with its precision, and almost never with both
+American and British pronunciations side by side.
+
+            The immediate questions that arise are Which
+American?  Which British?  The dialect selected for
+American English is General American, that spoken
+by the largest number of speakers (those who do not
+distinguish among Mary, marry , and merry ); that selected
+for British English, as one might expect, RP
+[Received Pronunciation], “widely regarded as a
+model for correct pronunciation ... what is used by
+BBC news readers (hence the alternative name, BBC
+pronunciation ).’  As far as the first is concerned, it
+does not bear the same relationship to American
+English that RP bears to British English: the pronunciation
+pattern of the educated speaker in the northeastern
+US probably retains much of its former status
+and prestige.  Having listened to BBC news
+readers for many years, I am inclined to regard BBC
+pronunciation as an archaic or obsolescent term (unless
+one restricts the designation to news readers on
+BBC World Service).  Certainly, the majority of British
+English speakers do not pronounce English in the
+RP pattern, and there is increasing evidence that if
+they aspire to do so, they are meeting with little
+success.  But this is not a book of descriptive phonetics;
+it is for the learner who aspires to speak the
+“best’ English he can, and the selection of these two
+dialects would be hard to fault.
+
+            The pronunciation system used by Wells is
+“broad IPA,’ with a few modifications.  It is largely
+phonemic, but there are enough refinements to
+make it unique.  Wells calls it “LPD.’  I found only
+one transcription to quarrel with: by showing \?\ as
+the symbol for the General American sound in both
+lot/odd and start/father , Wells leads one to conclude
+that General American (like RP) drops r -sounds in
+syllable-final position.  But that is not the case in
+General American, as the entry for start start bears
+out.  There is some confusion in the key, where the
+spelled characters represented by the phonetic transcription
+are underscored, and the form for General
+American start should have been start, not start.
+Moreover, most American dictionaries make a deliberate
+distinction between the sounds in odd/lot and
+start/father , with the former often displaying some
+rounding or, at worst, closer to \?\ than to \?\.  The
+treatment of nurse and stir , which show \?\ for RP and
+\?\ for General American is closer to the mark.
+
+            When I worked on the setting up of the pronunciation
+system for the Random House dictionaries, I
+examined sound spectrograms of words that middle,
+total, sudden, servant, father, standard , etc., that
+some phoneticians transcribed using syllabic \?\, \?\, and
+\?\.  What I found was that the syllabics occurred only
+when the preceding sound was a dental or alveolar
+(d or t); when it was a velar (k or g), there was
+enough time for a speaker to release a sound which
+was more like a full schwa than a syllabic.  Indeed,
+though it is a matter of degree, I find it difficult to
+pronounce a word like organism with a syllabic Z\?\ at
+end rather than a z\?\m.  This is the way organism
+is transcribed in the key; but the text itself shows a
+full schwa, which indicates that perhaps Wells vacillated
+on this point himself.
+
+            
+               LPD lists more than 75,000 words, including
+proper names.  The boldface headwords, alas in sansserif
+type (making it difficult to read words like Pilling,
+pillion, pilliwinkle, Illinois , etc., because the
+lower-case i resembles lower-case l , which is hard to
+distinguish from capital I ), are followed by
+pronunciations printed in blue, with variants in
+black, an expensive but worthwhile idea that works
+if you are not reading in a dim light.  General American
+pronunciations are easy to find because they
+are separated from RP by double vertical bars.
+Pronunciations that are considered incorrect (like
+“fith’ for fifth ) are preceded by an exclamation
+point in a triangle; (!)  indicates that a pronunciation
+so marked is different from what the spelling might
+lead one to expect (as in Beaulieu `bju\?\li and Beauchamp
+\?\bi\?\t\?\\?\\?\m); (*) is `a warning that the British and
+American pronunciations are different in an important
+and unpredictable way' (e.g., baton \?\bætan - \?\n ¦¦
+b\?\\?\ta\?\n).  Useful notes abound, e.g., at Mercedes , “The
+pl of the tdmk is pronounced the same as the sing, or
+with -i\?\z’; and, passim throughout, results of a poll
+taken among 275 British English speakers, e.g. “ casual \?\kæzu\?\l
+-ju; \?\kæzju; \?\kæ\?\\?\l-- BrE poll panel preference :
+\?\kæ3- 77%, kæz- 23%.’  Separate treatment is
+given, in situ , to prefixed and suffixes, and detailed
+discussions of compounds and phrases, connected
+speech, neutralization, and other phonetic matters
+and language environments that affect pronunciation
+appear in their appropriate alphabetic places.  Each
+spelled sound is discussed at the beginning of its alphabetic
+section, digraphs being treated at the beginnings
+of the sections for their first letter.
+
+            In sum, there is a wealth of information succinctly
+presented in the pages of LPD which learners,
+linguists, and lexicographers will be mining for
+many years to come, including the pronunciation of
+Llanfairpwllgwyngyllgogerychwyrndrobwllllandysiliogogogoch .
+
+            Laurence Urdang
+
+         
+         
+            
+“...EXTERMINATING: We are trained to kill all
+pets ...’ [From an ad in TV Hi-Lites (Flushing, New
+York), .  Submitted by ]
+
+         
+         
+            What's In A Name?
+            This is a general book about names, in scope if
+not in style reflecting the varied articles that appear
+in Names , the journal of the American Name Society.
+Those articles are normally written in language
+meant to demonstrate to the world that the writer is
+an academic; this book reflects more the style of a
+classroom teacher, a mixture of objective and subjective
+comment.  For those who know their name
+books, it falls somewhere between Basil Cottle's
+Names (1983) and my own Guinness Book of Names
+(4th edition 1989).
+
+            I mention the latter merely to make it clear that
+I am the author of a rival book which covers very
+similar ground, and that any comments I make must
+be judged against that background.  Like Professor
+Ashley, I have also been immersed in name studies
+for at least twenty years.  His book has not been written
+for people like me, and its real impact will have
+to be judged when it gets into the hands of those
+intended readers who are not already onomastic
+freaks.  Presumably, much of the book's contents will
+be as fresh to such readers as it is familiar to anyone
+who already knows his names.  That is not meant to
+be a sneer.  Anyone writing a book of this kind is
+obliged to go over certain common territory.  It is
+how you go over it that matters--how entertainingly,
+how clearly, how elegantly, how accurately.
+
+            In the present case I have some worries about
+three of those criteria.  Having come across reviewers
+who quite clearly did no more than glance at the
+book concerned--one of them once wondered in
+the pages of VERBATIM why I had called two chapters
+of a book “What's In A Name?’  though the second
+chapter was actually “What Is A Name?’--I decided
+to give this book a careful reading.  Perhaps it
+is not meant to be read in that way.  Consider Professor
+Ashley's opening paragraph, traditionally the
+one which an author reads and corrects most often.
+He begins: “From the beginning people had to have
+names to identify themselves.  At first, one was
+enough.  There are cultures in which one is still
+enough, but generally, with increases in population
+and refinements in civilization, there arose a need
+for additional designations to identify the members
+of a society.  To a given name like John or Mary was
+appended a second name, usually an inherited
+family name.  With the advent of this `last name,'
+which came to be known as a surname (from the
+French surnom ), given names came to be called `first
+names,' or, because we can have more than one,
+`forenames.' ’
+
+            The casual reader might let that pass: I find it
+difficult to do so.  Surely that opening sentence, as it
+stands, is ambiguous?  “Had to have a name’ rather
+than “names’ would have been better, and “in order
+to identify and refer to one another’ would have
+avoided the ambiguity of “themselves.’  People usually
+know who they themselves are.  The need for an
+additional personal name (in Europe rather than
+“generally,’ and not before the tenth century) arose
+more because of the spread of a particular kind of
+naming philosophy than an increase in population or
+a refinement in civilization.  The Anglo-Saxons did
+not allow the duplication of personal names within a
+group.  There may have been superstitious reasons
+for this, connected with name-magic beliefs
+whereby the use of a living person's name would
+deprive him of his soul, but the practical result was
+that everyone was conveniently identified by a single
+name.
+
+            When the Normans conquered England they introduced
+their own philosophy of allowing the same
+name to be borne simultaneously by many members
+of a group.  This was not necessarily a more refined
+philosophy, merely a different one.  The name-magic
+belief in this case was that a child named after an
+admired figure might cause some of that person's
+qualities to be passed on to the child.  That belief is
+of course still common today, though for that matter
+so is the other theory.  In many Jewish families it
+prevents the use of a relation's name if the person
+concerned is still alive.
+
+            For at least three hundred years the “additional
+designations’ that the Norman philosophy made
+necessary were not “inherited family names,’ but
+by-names, which applied only to those who bore
+them.  Thus a John Smith in the Middle Ages really
+was a smith by trade.  His son might be a Johnson , his
+grandson a Large because he happened to be a generous
+fellow.  When surnames did become hereditary
+they were always, not “usually,’ the second
+names that went with the given names.
+
+            Professor Ashley implies that “last name’ was
+the early term “which came to be known as a surname.’
+Surname was the original word: last name is
+decidedly modern.  Surname was indeed an adaptation
+of French surnom , but the Normans called it
+that because in Latin it was a super nomen , an `extra
+name.'  Without this explanation, the information
+that surname is from French surnom seems to me to
+be of very little interest.
+
+            The term forenames is to be preferred to given
+names or first names , says Professor Ashley.  But it
+isn't.  Given name is clearly preferable if one wishes
+to distinguish between a name bestowed by the parents
+in any culture and one automatically inherited.
+Forename fails to help with the problem of those
+countries where the given name is always placed
+last.  First name is useful when discussing western
+cultures, since it is usually the “call-name,’ as some
+languages would describe it.  As for the statement
+that we should use forenames “because we can have
+more than one,’ what on earth is wrong with “given
+names,’ or “first name and middle names’?
+
+            I know that Professor Ashley's intended reader
+will not nit-pick in this way, but I can only react to
+his book (and to each page) as I find it.  To me it
+matters that in his second paragraph, for example,
+he says that “to John, Mary, Peter, Matthew and
+Christopher the Puritans added, for girls, Prudence,
+Constance, and Charity, and for boys, Increase, Preserved
+and Learned.’  That misses the point entirely.
+The Puritans substituted such names for the others
+because they did not believe in honoring, as they
+would have put it, Popish saints.  In a very general
+sense the Puritans can be said to have added a few
+names to the stock which modern parents draw
+upon, but the author obviously did not mean that.
+He was not trying to tell us that names like Increase,
+Constance , and Learned are now in general use
+thanks to the Puritans.
+
+            In paragraph three we are told that “the Dare
+family named the first white baby born in Virginia
+Virginia, not a conventional name in the late sixteenth
+century but hardly daring considering the
+religious association.  Indeed along with a slew of native
+British names that the English colonists transported
+to America, the traditional biblical names
+would dominate US birth registers well into the
+twentieth century.’  As Professor Ashley knows, the
+state was named in honor of Elizabeth I, the Virgin
+Queen, and not for the Virgin Mary.  As for the “daring’
+aspect, had the child been named Virginia in a
+Puritan community, it would certainly have been
+very provocative.  The Puritans would definitely
+have seen the name as having religious associations,
+or Roman Catholic associations at least, and would
+have objected to it strongly.  Finally, the names
+which dominated US birth registers until fairly recent
+times were specifically Old Testament rather
+than merely “biblical’ names.  It is that which characterizes
+Abraham Lincoln, Noah Webster, and the
+like.
+
+            One does not necessarily expect literary elegance
+in a book written by an academic, but there is
+no need to be clumsy.  Professor Ashley writes: “I
+cannot pretend to do justice in one section here to a
+subject that George R. Stewart almost failed to cover
+adequately in his Names on the Globe .’  That turns
+out to be a backhanded compliment, but Professor
+Stewart himself, an author who showed us all what
+could be done by way of literary style in his Names
+on the Land , would never have written such a sentence.
+Another Ashleyism, a few pages later: “The
+book was rendered pretty useless pretty soon by
+name changes.’  That's pretty awful, I'm afraid.
+
+            There is no index to What's in a Name ?, which is
+as extraordinary as it is infuriating.  The thinking behind
+that may be the same as that of another author I
+recently came across, responsible for a little Dictionary
+of House Names .  When I pointed out mildly that
+it was usual for a dictionary to be in alphabetical
+order, she said that with such an arrangement readers
+would merely look for their own house name in
+the bookshop, and then not bother to buy the book.
+
+            Even she, however, did not have an entry saying
+something like: “There's a house on the corner of
+Aragon Avenue with an interesting name, but I'm
+not going to tell you what it is.’  On page 218 Professor
+Ashley writes: “There's an old formula for finding
+out the name of your personal angel but I won't
+trouble you with it.  In addition, I'll wager your
+priest won't give it to you.’  To that I can only say, as
+they do on this side of the Atlantic: “Thanks a
+bunch, professor.’
+
+            Leslie Dunkling
+
+            
+               Thames Ditton, Surrey
+            
+
+         
+         
+
+
+            The reference to Slurvian [XVI, 2] was the first I
+had ever heard of it, and as the word is not to be
+found in my 1966 Webster I assume that it is of
+rather recent origin.  On the evidence of the examples
+quoted, I also wonder whether it is necessary to
+construct an artificial sublanguage out of the garbled
+forms that inevitably arise when a language is
+used by lazy, slipshod, and semi-literate speakers.
+These forms are not restricted to America, they
+come into being wherever English is used--or
+rather abused--as some of the following comments
+will show.
+
+            Not far from where I grew up in the English
+Midlands there were villages in which “air’ sounds
+were regularly replaced by “err.’  A local preacher
+who came to our chapel greatly amused us by describing
+the encounter of a prophet with a “burr,’ a
+word that kept recurring in his sermon.  This was
+simply a bear , but the pronunciation was different in
+the Bloxwich area, as it is in other English dialects.
+If a Bloxwich boy wanted to ask “Where did he
+go?,’  he would say “Whir-dee-go?,’  just like the
+“Whirred ego’ quoted, with a little word-window-dressing,
+by Virginia Howard.  Yet you could hardly
+call a Bloxwich boy a Slurvian.
+
+            Some of the other examples Virginia Howard
+cites are simply misunderstandings of the sounds
+heard, something that inevitably occurs, especially
+among children and semi-literates, wherever words
+are spoken.  “Taking it for granite’ is a case in point.
+This is the same mechanism as is operative in the
+famous case of the child who heard the hymn
+“Gladly the cross I'd bear’ and thought the adults
+were singing about “Gladly, the cross-eyed bear’.
+When as a little boy I listened to my parents talking
+about breeds of hens, I would certainly have written
+“Rhode Island Red’ as “Row-Dylan-dread.’
+
+            Another category is formed by the replacement
+of unfamiliar-sounding names by something more familiar.
+Thus a Dame Jeanne (a big fat-bellied bottle)
+became a demi-john in English, “God encompasseth
+us’ became the Goat and Compasses , and the girasole
+(sunflower) artichoke became the Jerusalem artichoke .
+The “sparrow grass’ Virginia Howard mentions
+used to be--and probably still is--common
+usage in the English Midlands for asparagus .
+
+            Other examples cited are probably owing to foreign
+influences.  “Forced’ for forest would hardly be
+surprising among German settlers, for Forst is a German
+word for forest .  More intriguing is “meowk’ for
+milk .  In the Bernese dialect of Swiss-German, the l is
+replaced by a rather indistinct u sound, so that the
+German Milch becomes Miuch (with “ch’ as in
+“loch’).  About the nearest American equivalent
+would be “meowk,’ so it would be interesting to
+ascertain whether Bernese farmers might not have
+settled in Georgia at some time.
+
+            Garblings and imbroglios are going on all the
+time in English, not only in America or in Slurvian
+but wherever the lingo is spoken.  This reminds me
+of the worst pun I ever heard.  I was sitting with a
+friend in a restaurant when he noticed another
+friend at the far end of the room.  He wanted to convey
+a message to him, and as there was too much
+background noise to do so by shouting, he tried to
+mouth his message.  But the other failed to get the
+gist of it.  After he had tried three times in vain, I
+suggested in my usual helpful way: “Why don't you
+try it in Hindustani?’  My friend shook his head and
+replied: “He wouldn't Hindustanit if I did.’
+
+
+
+
+
+         
+         
+
+
+            I am beginning to find it irksome to have to
+point out every few years that Thomas Crapper did
+indeed live and that the company he founded lasted
+until about 1928.  He was the subject of a biography
+entitled (I regret to say), Flushed with Pride .  On the
+wall of my bathroom is a page reproduced from The
+Contractor's Compendium of 1892 which illustrates
+and describes three products of Crapper & Co.'s
+works, situated in Marlborough Road, Chelsea.  This
+reproduction is sold at the Gladstone Pottery Museum,
+Stoke-on-Trent.  Marlborough Road is now, I
+suspect, a street, to distinguish it from its namesake
+by St. James's Palace.
+
+            The word crap , however, is derived from the
+Old Dutch Krappe , according to Chambers Dictionary .
+One authority attributes the invention of the
+flushing WC to Joseph Bramah, in 1782; it is said
+that the quality of his work made his name a symbol
+of excellence and I have heard the expression,
+“That's a bramah,’ so used.  On the other hand, Eric
+Partridge derives this usage from the Hindu deity
+via British army slang.
+
+            In this town there are two drain covers bearing
+the words “T. Crapper & Co., Sanitary Engineers,
+Marlborough Works, Chelsea.’  Cast-iron evidence.
+
+
+
+
+
+         
+         
+
+
+            I was puzzled by Rebecca Christian's mention
+in “Blessed Be the Words That Bind’ [XVI,3] of
+“Vikki Carr's song, `Is That All There Is?' ’  I have
+never appreciated the popular tendency to credit
+songs automatically to performers or recording artists
+or both, not all of whom are composers or lyricists
+and not all of whom perform exclusively songs
+of their own composition.
+
+            “Is That All There Is?’  was written by Jerry
+Leiber and Mike Stoller and made famous in a late
+'60s recording by Peggy Lee.  Thus it is correct to
+refer to the Leiber and Stoller song, “Is That All
+There Is?’ or to the Peggy Lee recording of “Is That
+All There Is?’, but not to “the Peggy Lee song, `Is
+That All There Is?' ’
+
+            Vikki Carr's most popular record (also in the
+'60s) was of a song whose refrain began, “Let it
+please be him.’  Unless she wrote it, however, it was
+not her most popular song.
+
+
+
+
+
+
+         
+         
+            
+“One thousand marijuana plants have been seized in
+a joint police investigation near here Monday.’  [From the
+Kitchener-Waterloo (Canada) Record , 
+Submitted by ]
+
+         
+         
+            Anglish-Yinglish
+            Yiddish has found a cozy niche in English during
+this century.  A slew of words like mavin and
+chutzpa , phrases like the bottom line and the whole
+megillah , idioms like eat one's heart out and need it
+like a hole in the head , formative elements like shm-(fancy/shmancy,
+value/shmalue) and -nik (spynik,
+noshnik) have become common coin in colloquial
+English, especially in the United States.  No book on
+current English is complete without some account of
+Yiddishisms.  The popularity of the subject seems to
+have generated a cottage industry in publishing: I
+would venture a guess that apart from dictionaries
+and grammers, more books about Yiddish have been
+published in the United States in the past twenty-five
+years than about any other minority language
+used in this country.
+
+            A recent products of the Yiddish mill in Gene
+Bluestein's Anglish-Yinglish: Yiddish in American
+Life and Literature , a title that misleadingly suggests
+a scholarly work.  This impression is reinforced not
+only by the publisher's being a university press but
+by the declaration in the Introduction that “This
+study is concerned with the function of Yiddish in
+American life and literature.’  No such study, however,
+appears in the book.  Instead, following the
+Introduction and constituting the book's main text is
+a glossary of some 335 terms entitled “Anglish-Yinglish
+Dictionary.’  This, clearly, should have
+been the book's title.  On the other hand, perhaps
+the author deliberately refrained from using this title,
+since he is not a professional lexicographer and
+his “dictionary’ has every mark of an amateurish
+piece of work.
+
+            People without lexicographic training who undertake
+to compile a dictionary run the risk of committing
+innumerable blunders of the kind that only
+the seasoned professional knows how to avoid.  In
+tackling the field of Yiddish.  the compiler runs the
+additional risk of plunging into a discipline that requires
+extensive knowledge of Yiddish, Hebrew, and
+English linguistics, etymology, and lexicology.  According
+to the description on the book's cover, Gene
+Bluestein is a musician, folklorist, and literary critic
+who teaches English at California State University at
+Fresno.  A lexicographer and Yiddish scholar he is
+not.  That he is, indeed, a literary critic and folklorist
+is demonstrated not only in the generally intelligent
+and informative Introduction, but in two short appendices,
+one of which, subtitled “The Jew as American,’
+analyzes rather well Philip Roth's novel,
+Portnoy's Complaint , while the other, titled “The
+Revival of KLEZmer Music,’ discusses lucidly a contemporary
+aspect of Yiddish folk music.  It is regrettable
+that these fine pieces are marred by the intrusion
+of an inferior “Anglish-Yinglish Dictionary.’
+
+            In the brief Preface, Bluestein defines Anglish as
+“Anglicized Yiddish... which turns Yiddish words
+into colloquial English (as in shmo ),’ and Yinglish as
+“Yiddishized English, ... which gives English
+words and expressions the qualities of Yiddish syntax
+and intonation (as in `a Heifetz he isn't').’  Even if
+one were to accept this peculiar nomenclature, the
+distinction it is supposed to draw is hardly significant,
+since these types of formations are only two of
+the many characteristics of Jewish English (the collective
+terms for all the varieties of English used by
+Jews).  The very terms Anglish and Yinglish invite
+scholarly derision as being both facetious and inaccurate.
+To worsen things, the author is not even consistent
+within the framework of this distinction.  Most
+of the entries in the “dictionary’ are not labeled
+either Yinglish or Anglish, and for good reason, as
+they do not fit into either category.  For example,
+adeSHEM , defined as “a Hebrew euphemism for the
+Tetragrammaton’; kakuh-MAYmee , about which the
+author says “not Yiddish but it sounds like it,’ misspelling
+the actual English word as cockamaimy .
+
+            The entries are a mishmash run riot.  They include
+formal Jewish-interest terms (Ladino, YHVH) ,
+irrelevant non-Jewish names ( Prufrock --yes, T.S.
+Eliot's--an entry that runs on for two and a half
+pages), the name of just one Yiddish theatrical figure,
+Boris Tomashefsky , Hebrew literary works ( Zohar ),
+nonce formations ( money/shmoney , which
+takes up two pages), misspelled place names to indicate
+mispronunciation ( BRANzvil , for Brownsville , a
+section of Brooklyn), Yiddish words that are never
+used in English ( FUHLKStimlech `folksy,' guht `God,'
+ich starb `I'm dying'), encyclopedic terms ( black
+Jews ), and nonexistent words ( who-er “defined’ by
+the author as “Not exactly Yiddish, but the New
+Yorkish pronunciation of whore’).
+
+            The equally whimsical nature of the “definitions’
+defies description.  A nonce word, aKOOSHerke , is defined
+as “Friddish for midwife,’ from which one is to
+gather that “Friddish’ (which is nowhere explained)
+stands for a French-Yiddish mixture.  Under bris `circumcision'
+sixteen lines are quoted from Genesis 17
+where a simple reference would have sufficed.  The
+Yiddish word KETSele (not used in English), meaning
+`pussycat,' is cryptically “explained’ as a “term of endearment
+and the source of all the current pussycat
+titles with their sexy connotations.’  Go figure.
+
+            The pronunciations are indicated in a confusing
+and inconsistent “newspaper-style’ key.  For example,
+the symbol “uh’ is shown in the key as representing
+schwa, yet throughout the book it is used to
+represent the vowel sound in English ball or raw
+(BUHbe `grandmother,' puhGRUHM `pogrom').  An
+English word like allrightnik is rendered as allRAITnik
+to make it seem Yiddish.  And so on.
+
+            The “dictionary’ has one saving grace: many of
+the entries are illustrated by citations from the
+works of writers like Saul Bellow, Joseph Heller, Allen
+Ginsberg, Bernard Malamud, Chaim Potok,
+Philip Roth, and Isaac Bashevis Singer.  It is a pity
+that the author (and his publishers) had not enough
+good sense to submit a draft of the “dictionary’ to
+one or several Yiddish scholars for scrutiny and criticism.
+A fine collection of citations using Yiddish-origin
+words is buried under a rubble of dross.
+
+            Sol Steinmetz
+
+         
+         
+            What's the Word That Means ...?
+            I once told myself that I would not look any further
+into a book or article that quoted Lewis Carroll's
+tired old Humpty Dumpty quotation about
+words meaning what he wants them to mean.  Such a
+policy is unfair, of course: one should not be prejudiced
+against a person's magnum opus just because
+he has a tiresome taste in quotations.  People are forever
+discovering such quotations for the first time
+and should not be excoriated for it by a dyspeptic,
+curmudgeonly reviewer.  Reviewers are supposed to
+have--or pretend to have--open, inquiring minds,
+and a boring quotation maketh not a boring book--
+necessarily.  Alas, I should learn to follow my instincts.
+
+            I suppose that there is a category of reference
+book called the reverse dictionary .  There is no denying
+that such a work, which would enable a user to
+find the word or phrase he is seeking by looking up a
+meaning, would be quite useful.  I have a number of
+ideas for preparing one in machine-readable form
+for use in a computer, but I shall not reveal them
+here.  The way printed versions of such books function
+is for the user to look up associated information.
+The main problem with them is that they rely on the
+compiler's ability to anticipate with some accuracy
+the associative contextual framework of the user.
+Within the relatively limited amount of information
+a bound volume of 320 pages can provide, it would
+be difficult to anticipate the user's mind set with sufficient
+allowance for elaboration.  The books of this
+kind that I have tried to use have frustrated me: I
+never can find what I am looking for.
+
+            But I am sufficiently open-minded to forget
+what I might be looking for--some bit of lexicographic
+esoterica, no doubt--and settle for something
+I consider to be much simpler and not readily
+derivable from an ordinary dictionary.  As we all
+know, if we knew the word we were looking for (and
+knew how to spell it) we should not have to resort to
+reverse dictionaries.  Trying to be fair, I cooked up a
+test or two.  The first (to which most of us know the
+answer, I suppose, but that makes it no less legitimate)
+is, What is the nautical term for the left and
+right sides of a boat?  One cannot discover the answer
+by looking up left or right in an ordinary dictionary,
+of course.  Unfortunately, neither left nor
+right (nor port nor starboard ) is in, and I should have
+to hang around yacht clubs to get the answer.  I had
+spotted some obscure terms (like widdershins under
+counterclockwise ) when skimming through the
+book, so I thought Dr. Welsh might have concentrated
+on those.  He did to some extent, (though deasil
+was not in, so I sought in vain under shadow for
+antiscian , which is about as obscure as one can get.
+The other day I had a letter from someone who
+wanted to know the name for the accent over the r
+in Dvořak , which happens to be among the two or
+three things I know.  As Welsh's book has a list under
+PRONUNCIATION, I looked there, to no avail.  (It is
+called a haček or hachek or haček , pronounced
+HOTchek.)
+
+            I cannot find it in my heart to fault Dr. Welsh for
+his failure: he probably tried out his ideas on friends
+who might well have been able to find what they
+were looking for.  I am convinced that there is a way
+to do this kind of thing, but a book is not it: the kind
+of associative information required to find even the
+simplest thing is likely to vary considerably from
+user to user, depending on orientation, education,
+age, and other factors; including a large variety of
+ways to access the same information would be very
+uneconomical in book form, especially when high-speed
+computers with large memories are so readily
+available.  The problem is less one of simple (!) lexicology
+as one of information theory and psychology.
+I might add artificial intelligence just to make it
+harder, but why make the issue more confused than
+it is already?  This book does not work for me.
+
+            Laurence Urdang
+         
+         
+            Punching the Clock
+            This is the idiom book for kids from 8 to 12
+years of age.  Clarion is an imprint of Houghton Mifflin,
+publishers of The American Heritage Dictionary
+[AHD] , so there is some responsibility behind the
+book.
+
+            The illustrations are colorful (green and black,
+to be specific) and invariably illustrate the literal
+senses of idioms, which are by nature figurative: in
+other words, the illustration for raise the roof shows
+someone lifting the roof off a house.  Get it?  Pretty
+puerile stuff, you might say, but don't lose sight of
+the fact that it is intended for puerō and puellās .
+
+            Terban, who appears to be Henny Youngman's
+nephew (“Take this book--Away!’) but could
+scarcely be blamed for that, teaches at Columbia
+Grammar School, a prep school in New York City.
+According to the evidence offered, he has been using
+materials like those in the book to teach children
+about idioms.  I find it odd that children need to be
+taught about idioms, but that is another matter.
+
+            If anyone from the staff of the AHD had a look at
+this material I should be disappointed, for there are
+some ambiguities.  For instance, (28) throwing her
+hat into the ring has: “In America in the early
+1800s, a man challenged another man by throwing
+his hat into a ring.’  What ring?  What king of ring?  If
+a boxing ring, why not say so?  (47) batting a thousand:
+“Baseball players have batting averages based
+on the number of times they hit the ball when
+they're up at bat.’  It seems to me that if you are
+going to explain something, explain it all: doesn't hit
+require the modifier “safely’?  And how is thousand
+explained?  If an average is the total number of times
+a batter hits a ball safely divided by the number of
+times he is at bat, even if he gets a hit each time, that
+average is 1, not 1000, and some kids might need an
+explanation.  (51) punch the clock: “Some business
+have time clocks by their front door.’  Do they?
+
+            I am being pedantic and hypercritical, but it
+does seem that a book of only 63 pages could have
+been done a little more carefully.  the book is pleasant
+enough, would certainly not do any harm, and
+might very well encourage youngsters to think about
+language.
+
+            Laurence Urdang
+
+         
+         
+
+
+            Michel P. Richard's article, “A Taxonomy of Epigrams’
+[XV,2], strummed a responsive chord.  With
+the aid of the Random House Dictionary I have compiled
+the following diagram indicating the definitions
+for combinations of pairs of words, each with a
+different meaning, involving variations in spelling
+and pronunciation.
+
+
+                        PRONOUNCE   SPELL       MEAN
+heteronym                different   same        different
+               homograph
+homonym                  same       same        different
+               homophone
+                         same       different   different
+
+Examples: heteronym--Lead me to your lead mine.
+          homonym--I cannot bear to see a bear in my bed.
+          homophone--(Exclusive of a homonym) A well-liked
+                     doctor has both patience and patients.
+
+            
+
+            In the November 1988 issue of Smithsonian , Felicia
+Lamport held forth on the delights of heteronyms.
+She also had the temerity to state that at 49 the list
+was close to a close.  Challenged by her article, I
+started my pursuit, enlisting my wife Phyllis, her
+friends Mickey and George Ann Garms, their friend
+Cosme Harmon, Cosme's friend, George H. Warfel,
+his daughter Ann D. Halsted, and Ann's sixth-grade
+class.  Below is the list of heteronyms compiled by
+Mickey as of August 11, 1989, including my later
+additions, quart, proceeds, comfort , and axes ; Cosme
+has come up with entrance , and George Warfel suggested
+wicked , and contract .
+
+            To our immeasurable sorrow, Mickey died suddenly
+on November 9, 1989, and we wish this letter
+and his list of heteronyms to serve as a memorial to
+him.
+
+
+agape      excise     recover
+ana        glower     release
+axes       hinder     resort
+bass       intimate   row
+bow        lead       sewer
+bower      lineage    shower
+buffet     lower      slough
+comport    moped      sow
+compound   number     supply
+console    peaked     tear
+content    permit     tower
+contract   primer     wicked
+does       proceeds   wind
+dove       pussy      wound
+entrance
+
+            
+
+
+
+
+
+         
+         
+
+
+            I am writing primarily to correct and update
+Benedict Kimmelman's article on the eff-word
+[XVI,2].
+
+            The “popular British film of the 1970s, with
+Dirk Bogarde, I'm Allright Jack ,’ was, in fact, a popular
+British film of the late 1950s, I'm All Right, Jack ,
+and Dirk Bogarde, who was off in Hollywood being
+Liszt in the abysmal Song Without End , wasn't
+within 3000 miles of it when it was being made.
+
+            Further to Mr. Kimmelman's lexicon, I offer a
+few Australian examples:
+
+            
+               fxxxable [Anglo-Australian] Adjective .  Sexually desirable.
+
+            
+               fxxxwit [Australian] Noun .  Incompetent person; nincompoop.
+You'd have to be a right fxxxwit to
+print almost every column filler more than
+once in a small circulation magazine .
+
+            
+               fxxxwitted [Australian] Adjective .  Foolish; stupid.  A
+fxxxwitted attempt at scholarship without
+doing thorough research .
+
+            
+               clusterfxxx [Australo-American] Noun .  Collective
+incompetence, usually by those in authority,
+bureaucrats, officers; esp. of
+edicts and recommendations the practicality
+of which is doubtful, decisions
+made by committees, etc.  Only a clusterfxxx
+like the Joint Chiefs would approve
+an invasion plan that didn't take
+out the television and radio stations as
+priority targets .  (To which a British sympathizer
+might reply, Absofxxxinglutely
+!’)
+
+            
+               Get fxxxed!  [Anglo-Australian] Interjection, verb .
+Negative reply to an unwelcome suggestion.
+If he thinks I going to print his
+fxxxwitted letter, he can get fxxxed!
+            
+
+
+
+
+
+         
+         
+
+
+            In reference to Benedict Kimmelman's article,
+I should like to submit a polite euphemism in frequent
+use.
+
+            When people try to push ahead of a queue at a
+bus stop or in a shop, one would politely say to the
+person, “Get in the far queue.’
+
+            There is also the famous story of the Fukawi
+Pygmy tribe who frequently got lost in the jungles of
+Africa; in order to ascertain their whereabouts, they
+would stand on another's shoulders to peer over the
+long grass, crying, “Where the Fukawi?’
+
+
+
+
+
+         
+         
+
+
+            Having been a student for interminable years
+(and thus having been forced to memorize a great
+many quite useless facts), I enjoyed Stephen Hirschberg's
+“Lest We Forget.’  He is right in saying that
+the mnemonic he lists for pi is cumbersome.  The one
+I have always used seems easier to remember than
+either his version or the numbers themselves and is
+certainly less tortuous.  It works as his does, coding
+digits by word lengths:
+
+
+Sir, I send a rhyme excelling
+
+In sacred truth and rigid spelling.
+
+Numerical sprites elucidate
+
+For me the lexicon's dull weight.
+
+            
+
+            I have no idea who wrote this version, which I
+picked up from other students as an undergraduate
+at Rice University.
+
+
+
+
+
+         
+         
+
+
+            Stephen Hirschberg's essay brought back to
+mind a number of mnemonics from my college days
+as a chemistry major.  Chemists, like physicians, are
+faced with learning long lists of things, in our case
+trivial (that is, not systematic) nomenclature for various
+homologous series of chemical compounds.  In
+most cases there is little in the structures of these
+compounds to hang a name on, since many of the
+names derive from the natural sources from which
+the compounds were isolated.
+
+            We remembered the trivial names from the first
+nine linear dicarboxylic acids ( oxalic, malonic, succinic,
+glutaric, adipic, pimelic, suberic, azelaic, sebacic )
+with the initialized mnemonic, “Oh, my sweet
+green apple pie sounds absolutely swell.’
+
+            There are eight possible arrangements of the
+hydrogen and hydroxy groups along the chain of a
+simple, six-carbon sugar molecule.  To remember
+these, we had, “All altruists gladly make gum in gallon
+tanks,’ yielding allose, altrose, glucose, maltose,
+gulose, idose, galactose, talose .  This mnemonic also
+yields the correct structures, if one can manage to
+remember the proper alternations of the Fischer
+projections used to represent their configurations in
+two dimensions.
+
+            A different kind of mnemonic is used for remembering
+the difference between stalagmites and
+stalactites : “Mites grow up.’
+
+
+
+
+
+         
+         
+
+
+            Two items caught my eye in a recent number
+[XVI,2].  The first is Jonathan Bricklin's attribution to
+one “Georges Louis’ of the observation that “Style
+is the man himself’ (p. 18).  Now, it may just be that
+someone by that name--a Frenchman, one would
+gather from the spelling “Georges’--uttered those
+words or foreign equivalents thereof.  But I think it
+more than likely that Mr. Bricklin is referring to the
+famous French naturalist Georges-Louis Leclere,
+count de Buffon, better known to literary history
+simply as “Buffon.’  The oft-quoted citation is from
+the Discours sur le style , his acceptance speech delivered
+before the Académie Françcaise on August
+25, 1753.  As here, it is usually wrenched a little out
+of context.  Buffon did not mean that man paints an
+autobiographical portrait by his style.  Rather, that of
+all the things an author might describe, all are extraneous
+to him except for his style, which is his alone,
+and hence his only possible passport to literary immortality:
+
+
+La quantité des connaissances, la singularité des
+faits, la nouveauté même des découvertes, ne sont
+pas de sûrs garants de l'immortalité....  Ces
+choses sont hors de l'homme, le style est l'homme
+même.
+
+[The number of things known, the curiosity of the
+facts, the very novelty of the discoveries are no
+certain guarantors of immortality....  These
+things are outside of man, while style is man
+himself.]
+            
+
+            The second item, on a lighter note, is one of
+Michel P. Richard's homophonic epigrams: “I regret
+that I have but one asterisk for my country’ (p.22).
+It reminded me of a little jingle that I read years ago
+in some college (alleged) humor magazine and
+which I rescue here from a well-earned oblivion:
+
+
+Mary had a little plane
+In which she used to frisk.
+Now wasn't she a silly girl
+Her little *!?
+            
+
+
+
+
+
+         
+         
+            Needless to Say
+
+
+
+            It goes without saying that the duty of the writer is
+to explain.  In the modern world, there's no denying
+that everything can in fact be explained.  The
+best prose, therefore, is prose that imposes order.
+Thus are readers made secure, and, more important,
+thus is life made simple.  Nothing, it is clear, could be
+more self-evident.
+
+            Yet some writers strive instead for eloquence.
+That is, they try to produce memorable work.  But
+they do so, unfortunately, at the risk of confusing
+their readers.  To start with, their writing is often
+rhetorical or even evocative.  It contains statements,
+consequently, that allow varying interpretations; inevitably,
+anything that affects a reader's feelings is
+bound to produce an unpredictable response.  Furthermore,
+such writers at times resort to humour.  Accordingly,
+they display cynicism, or alas, lead the
+reader into ambiguity and paradox.  Worst of all,
+these writers sometimes will communicate surprise
+or wonder.  The result is to arouse a sense of mystery.
+In sum, the effect of such writing is to portray
+human existence as something vague and complex.
+More than that, it can actually complicate matters
+further.  On top of all this, we have the unhappy fact
+that eloquent writing is indeed sometimes memorable,
+compounding the problem.
+
+            In contrast, the effective communicator creates
+certainty.  He or she does this, it is evident, in two
+ways.  First, he rules out irrelevant or erroneous
+thoughts in the reader.  Second, he continually supplies
+answers.  In short, he maintains command, investing
+his exposition with all the authority that he
+can muster.
+
+            The goal, then, is omniscience.  Admittedly,
+most writers are in reality not omniscient.  Not yet,
+at any rate.  But nevertheless, it is within the province
+of any writer to make a definitive statement on
+a specific point.  This, surely, is sufficient.  After all,
+omniscience can be cumulative.  Over time, manifestly,
+a multiplicity of small omnisciences will add
+up to total omniscience.  It is as if in recognition of
+this, perforce, that increasing numbers of writers are
+looking for a way to produce airtight, irrefutable
+prose.  And it is no accident that the English language
+provides just such a method.  I refer, of
+course, to syllothetics.
+
+            The syllothetic system had its origins, no doubt,
+in the rule followed by the authors of university
+monographs and government position papers.  To
+wit: first tell them what you are going to say, then
+tell them what you are saying, and finally tell them
+what you have said.  A sound practice, unquestionably.
+But it was observed that readers could be effectively
+directed sentence by sentence.  That is to say,
+the meaning of a sentence could be signaled--and
+thereby validated--by the use of a sentence adverb
+such as moreover, indeed , or however .  Essentially,
+the thrust of the sentence was communicated in advance.
+In this way readers knew what a writer was
+going to say before he said it.  In a sense, the readers
+said it themselves.
+
+            To be sure, the technique of qualifying sentences
+with modifiers is nothing new.  For instance,
+many writers had sorted out their expository works
+with such expressions as incidentally, on one hand ,
+and for example .  In addition, others had followed
+the practice of enumerating their sentences with
+first, second , and third , or next, then , and finally , or
+all of these.  More noteworthy, some had reinforced
+their statements with, on the one hand, such key
+words as significantly, symbolically , and thankfully ,
+or, on the other hand, such indispensables as unfortunately,
+unhappily , and alas .  Most significantly, it
+should be noted, many had gone so far as to advance
+statements in the form of a premise or a given, e.g.,
+it need hardly be stated, obviously , and of course of
+course .
+
+            Be that as it may, the foundations of modern
+syllothetics were cemented, as we now know, with
+the systematic use of but at the beginnings of sentences.
+There can be no doubt whatever that with
+this development logical exposition could thereby
+become relentless.  It was discovered--and this
+should no longer be any cause for wonder--that a
+sentence containing however could also begin with
+but .  Moreover, but could appear directly in front of
+nevertheless .  But this development reached its zenith
+with the use of but as a topper conjunction (see
+the beginning of this sentence); the topper but does
+not in reality indicate a contradiction, for it always
+appears at the start of a sentence which is, truth be,
+in harmony with preceding sentences, but rather it
+tops the previous statements by pointing unerringly
+to that which is promised by contradiction, namely
+illumination.  Let's be frank.  It was the logical force
+of but , in the end, that began to supply the dynamism
+of syllothetics, enabling it to combine, as it
+does, the undeniable energy of the syllogism with
+the indisputable power of the theorem.
+
+            In consequence we have, in syllothetics, a veritable
+arsenal of instruments that serve to produce
+coherence and logic in modern prose.  For example,
+there is not only affirmation by demonstration (ergo,
+hence, therefore, accordingly , but there is also documentation
+by postulation (it can be assumed, we can
+suppose) and also validation by synthesization (basically,
+in truth, in a very real sense) as well as verification
+by substitution (that is to say, in other words, in
+short) .  Similarly, there is not only confutation by disputation
+(on the contrary, notwithstanding, however,
+nevertheless) , but there is also negation by concession
+(despite, although, allowing that) and also, not
+least, refutation by capitulation (it might be argued,
+it would be easy to conclude) .
+
+            Syllothetics, it can be seen, is inexorable.  Either
+we have corroboration by escalation (moreover, on
+top of that, above all) , or we have devaluation by
+declination (worse, worse still, worst of all) .  On one
+hand we have substantiation by association (similarly,
+in the same way) ; on the other hand we have
+invalidation by differentiation (quite a different matter,
+we cannot compare, something else again) .
+
+            It is hardly necessary to add that syllothetics
+possesses the capacity to transcend logic.  Who can
+deny it?  We have, happily, induction by intuition,
+the inference that goes beyond mere fact (one cannot
+avoid the suspicion, it is difficult to shake off the conviction) ,
+and also, thanks be, attestation by clarification,
+the proof that is superior to mere evidence
+(even so, still, in any event) .  Plainly, we are in the
+presence here of higher truths: look at ratification
+by approximation (for the most part, as it were,
+broadly speaking) ; witness the revelation of amplification
+(conceivably, it may even be, it would not be
+too much to say) .
+
+            This brings us, willy-nilly, to the infinite utility
+of syllothetics.  It is a system, broadly speaking, that
+is impervious to criticism.  Certainly it is no passing
+fad, dependent on vogue words, for despite its infancy
+it employs such age-old terms as alas, albeit,
+perforce , and withal .  Nor it can be taxed with pedantry,
+demonstrably, for on occasion it makes use of
+colloquial expressions like for starters, likewise, for
+sure , and no doubt about it .  Above all, though some
+people might think otherwise, it definitely does not
+involve clichés.  On the contrary.  For one thing, a
+cliché can be defined as an imaginative expression
+which through repetition has lost its imaginativeness.
+But syllothetics, in contradistinction, shuns the
+imaginations altogether.  More to the point, syllothetics
+deploys a vocabulary of unparalleled variety.  In
+fact there are well over one hundred syllothetic
+modifiers.  And what is more, additional ones are
+coming into use every day.  Hence the recent discovery,
+by some writers, that it is possible to syllothesize
+every sentence.
+
+            It is true that there are rational writers, seemingly
+logical, who make little or no use of syllothetics.
+They feel, it would seem, that coherence can be
+obtained without it.  They would say, undoubtedly,
+that one sentence follows another.  But the question
+is, how closely?  In syllothetics, it must be pointed
+out, an expression such as naturally or in other
+words not only introduces a sentence but also refers
+to the previous one.  The effect is that at every step
+syllotheticians have their feet in two sentences, as it
+were.  And by looking backward at all times, it need
+hardly be added, they appear to be going nowhere
+of interest.  Naturally, nothing is more reassuring to
+a reader.  Nothing, in other words, is more conducive
+to acquiesence.
+
+            It can be argued, you will object, that such a
+progression is slow, and that, concommitantly, very
+little is being said.  But this objection, however,
+misses the point.  True, syllotheticians aim high; in a
+word, they seek not merely to persuade but to convince.
+Still, the fact that their goals are essentially
+modest.  Let it be remembered that they make no
+declarations.  They restrict themselves to deductions,
+basing them on references, citations, or precedents,
+which is a different matter altogether.  They
+may, perhaps, list variables, or, on occasion, identify
+options; at most, they will establish parameters.  But,
+it must be emphasized, they do not express anything.
+They articulate, which is something else
+again.  Nor, what is more, do they ever describe.
+They delineate, which is something entirely different.
+So it should come as no surprise to be told that,
+basically, syllotheticians are at bottom unconcerned
+about how little they might have to say.
+
+            It would not be too much to say that it does not
+at all matter what may or may not be contained in
+syllothetic sentences.  The content lies, rather, in the
+articulation of the logical relationships between
+them.  But make no mistake about it, that is enough.
+For, clearly, although it is the writer's duty to explain,
+the very fact that everything must be explained
+means, indisputably, that in due course everything
+will in fact be explained.  Ergo, the less said
+the better.
+
+            Already, it is becoming very difficult to deny--
+all available evidence points to it--that the day is
+surely coming, withal, when there will remain, truly,
+no mere coincidences about which one cannot avoid
+a suspicion or shake off a conviction, when clearly
+everything will incontrovertibly support a thesis or
+conversely stand in direct contrast to it, and, overriding
+all this, there will as a result be not the slightest
+doubt in our minds about one inescapable conclusion,
+namely the dawning realization that, there
+being nothing more to say on the subject, as it were,
+we therefore will no longer hesitate but rather will
+necessarily feel compelled to state the obvious.  Indeed,
+we would be remiss in our duty if we failed to
+mention it.  Needless to say.
+         
+         
+            A Dictionary of Love
+            This is not a proper dictionary but a compilation
+of 600 quotations about love, companionship, etc.
+... “from the profane to the profound divided into
+191 categories by more that 300 authors, philosophers
+and celebrities including Kahlil Gibran, Bertrand
+Russell, Erich Fromm, Mother Theresa and
+Zsa Zsa Gabor,’ as the cover tells us.  How can 600
+quotations make up 166 pages you ask?  Well, the
+quotations actually make up 134 pages, with pages
+137-155 devoted to an Authors' Index, 157-163 to
+a Bibliography, and 164-166 to a (continued) list of
+permissions acknowledgments.  The front matter
+contains an alphabetical listing of the 191 categories.
+Perhaps the reader can tell that this is not my
+kind of book, but if one is a writer of Valentine's Day
+greeting cards, or eschews the “From Poopsie to
+Woopsie’ approach in advertising in The Times , or
+just has to collect everything that mentions love,
+then order the book directly from the publisher.  My
+favorite: “When Woodrow proposed to me, I was so
+surprised I nearly fell out of bed.’--The second
+Mrs. Woodrow Wilson.  Of course, we are not told
+whose bed.
+
+            Laurence Urdang
+         
+         
+            Language Maven Strikes Again
+            It is probably safe to say that Bill Safire is the
+most prolific of modern writers on American English;
+it is very likely true that he is the most prolific
+writer on language in general.  His articles, “On
+Language,’ have appeared weekly (except when he
+was taking a holiday) in The New York Times Magazine
+since 1979.  As American language buffs
+know--even those who do not take The New York
+Times --he is a fearless commentator on every aspect
+of English who has gathered behind him not
+only an army of admires but a cadre of contributors,
+dubbed “the Lexicographic Irregulars,’ who send
+him citations, comments, and queries.  I call him
+“Bill’ partly because most people do and partly because
+we have known each other since about 1967
+when his New Language of Politics was edited under
+my direction at Random House.  Although he is not a
+professional linguist, Bill knows a great deal about
+language and, notwithstanding some of the comments
+he makes in his column, is very sensitive to it.
+He is a very good writer, too, though I sometimes
+find his arch approach unnecessary and a bit annoying:
+he seems in a perpetual pursuit of the pun, an
+affliction not entirely unknown in these hallowed
+halls.  However, I have the same criticism of Philip
+Howard's commentaries on language published,
+from time to time, in The Times and, formerly, in
+these pages, and I can only attribute attrition among
+VERBATIM subscribers to that and other weaknesses
+in myself.
+
+            Because of the enormous variety of the pieces
+collected here, the anthology is virtually impossible
+to review.  It doesn't, of course, deal with every aspect
+of language, but it does cover a very broad
+spectrum.  In fact, anyone who pretends to have an
+interest in language and who has a library of worthwhile
+works on the subject must have all of Safire's
+language books in his library.  This is the sixth, to
+which must be added Words of Wisdom and Good
+Advice , which he wrote with his brother, Leonard
+Safir.  The indexes are quite good, though not as exhaustive
+as one might have wished; yet one is likely
+to find what he is looking for without difficulty.
+Moreover, the books are attractively set out, which
+adds to their readability.  Even the title design is
+clever: it is shown on the jacket (over his photo,
+which the wretch clearly got his son to pose for),
+cover, and title page as,
+
+
+William Safire
+Language Maven Strikes Again.
+            
+
+            It is a pity that the articles are not provided with
+the dates of their publication, though it is not difficult
+to understand why the publisher might be reluctant
+to do so.  Yet, when I read that a subscription
+to VERBATIM costs $10.00, while I am grateful for
+the plug, I realize that the piece must have appeared
+quite some time ago.  A certain amount of updating
+might be in order, perhaps by enclosing in square
+brackets subscription rates in effect at the time of
+publication of the book.  Occasionally wrong, not
+only is Bill not reluctant to admit his errors, he may
+be one of the few who literally profited from their
+mistakes by compiling a book containing many of
+them: called I Stand Corrected (Times Books, 1984),
+it actually contains other matter, too.
+
+            To a subject that is treated in the most turgid
+fashion by linguists and with unusually irresponsible
+scholarship by many other commentators, Bill Safire
+brings just the right, literate, human touch, often
+funny, ever lively, and always friendly, informative,
+and entertaining.
+
+            Laurence Urdang.
+         
+         
+            The Power and the Word
+            In his Preface, the author offers, “My purpose in
+writing this book is quite simple: to draw together
+and make accessible some of the academic and other
+reading that I have done in the past few years.’  In
+this aim, he has succeeded quite admirably, though
+one might be given to wonder what, if anything, he
+reads for amusement.  There are many extremely abstruse
+notions in linguistics, and if any one might find
+useful a brief summarization [ sic ] of many of the linguistic
+philosophies of the past 150 years, this is a
+convenient, minimalist approach.  I say “minimalist’
+because the ideas are watered down, then doubledistilled,
+then compressed, then encapsulated.  Because
+linguists are atrociously bad writers, in most
+cases, this would be a merciful deliverance from the
+agony of wading through their texts at first hand
+were it not for the unfortunate fact that Andersen is
+a pretty boring writer himself.  Also, it would have
+been useful (and not necessarily munificent) to have
+provided such a book with a reasonably replete index.
+Alas, that is also a barebones affair.  I was unable
+to find Wittgenstein in the Index, but I would
+not lay odds on his having been omitted from the
+text.
+
+            The book is uneven, here summarizing an important
+scholar's work in a paragraph or two, there
+devoting one entire chapter to women's English and
+another to black English, both rather disproportionately
+trivial in the general scheme of linguistic theory.
+Missing is coverage of more important areas of
+linguistics, like computational linguistics, mechanical
+translation, lexicography, language analysis by
+computer, and some others.  But that may merely be
+reflective of my own interests, or does not reflect
+the author's readings, or, probably, both.  Well, one
+cannot have everything, and, as I sometimes maintain
+but rarely believe, a book should be reviewed
+for what it contains and not condemned for what it
+omits.
+
+            If you are a professional linguist, you can pass
+this one by, unless you teach and need a crib for
+your students.  If you are a student of linguistics (in
+any sense of the term), you might find it convenient
+to have this book to save your running to the multivolume
+encyclopedia or the original text (if you have
+it) in order to see what B. F. Skinner and Noam
+Chomsky were on about.  Had it been more complete
+and better done, the book might have served
+as a survey text for linguistics, a work that is sorely
+needed.  The linguists who write books seem invariably
+to be scholars who are touting their own points
+of view, some of which are recondite, to say the
+least.  Surely there must be a teaching linguist out
+there, somewhere, capable of putting together a cogent,
+readable text that discusses not only the field
+of linguistics but its various theories and their interrelations.
+Unfortunately, there has not been a good
+(bookwriting) linguist who was also a good writer of
+expository prose since Otto Jespersen, the Santayana
+of linguistics, and he died in 1943.
+
+            Laurence Urdang
+
+         
+         
+
+
+            I admire Stephen Hirschberg's mnemonic tricks
+[XVI, 3], but he has left out an important postscript
+to the Ogden Nash poem about the one- I lama and
+the two-l llama .  When Nash gets to the three- l
+lllama and concludes there isn't any, he amends
+himself in a footnote: “The author's attention has
+been called to a type of conflagration known as the
+three-alarmer .  Pooh.’  I suppose this just supports an
+old adage: footnotes are forgettable.
+
+
+
+
+
+         
+         
+
+
+            I have recently met two phrases that I cannot
+find in the sort of reference books that might be expected
+to define them if they are, as the author I was
+reading implied, recognized political or economic
+terms.  The first, sobornostic collectivism , is said to
+refer to a Leninist school of thought; the second,
+agathistic distributism , is called “a theory of economic
+nationalism.’
+
+            
+               Sobornost is a word used by some Russian Orthodox
+theologians, and there is, or was, a philosophic
+position called agathism .  (The curious are directed
+to OED2.)  Collectivism is part of the common
+vocabulary now, and distributism was a movement
+that enjoyed Chesterton and Belloc as its chief advocates.
+I am however, unable to see much meaning
+in those two-word phrases.  Can any reader of VERBATIM
+offer information about them?
+
+
+
+
+         
+         
+
+
+
+            People often ask me how they can “improve’
+their vocabularies and what books I can recommend
+as aids.  My invariable reply is that the only genuine
+way to increase one's vocabulary is by reading, reading,
+reading.  It may not be an immediately obvious
+fact, but it is significant that the people who ask the
+question--strangers, who telephone me--are quite
+articulate, from which I deduce that one must have
+reached some proficiency in language before becoming
+aware that there might be some deficiency.
+I can get by in a couple of other languages, chiefly in
+reading, not speaking them, but feel that I cannot
+afford the time to improved my control of other languages
+at the expense of my continuing efforts to
+learn what I can about English.  That is, of course, a
+purely personal view and should under no circumstances
+be construed as an adverse comment on the
+study of foreign languages.  But there is a difference
+between learning about them and trying to gain fluency
+in them: I think I know a fair amount about
+many languages in which I have no speaking or writing
+ability; however rewarding fluency in them
+might be for aesthetic reasons (to read their literature,
+for example), one has just so much time...;
+those who need them for practical reasons, should
+not be deterred or discouraged by these remarks,
+nor should those who wish to study them for any
+other reason.  The study and acquisition of foreign
+languages, living and dead, is both intellectually and
+practically rewarding.  By the time I graduated from
+college, I had studied Latin and French for eleven
+years, Greek for four, German and Old English for
+two, Lithuanian and Sanskrit for one, and had established
+a passing acquaintance with Swedish, Danish,
+Norwegian, Italian, Spanish, Portuguese, and Polish.
+I can get by in French (after I have spoken it for
+several hours), but I do not speak much Latin,
+partly, perhaps, because of the paucity of conversational
+companions.  I bring this up not to vaunt any
+great accomplishments but to emphasize that I am
+the first one to encourage the study of foreign languages.
+I simply draw the line between studying
+them and learning them: learning a foreign language
+is extremely difficult, and most of those who are
+truly fluent in a second language have been brought
+up in bilingual (or, sometimes, trilingual) situations.
+
+            I raise the matter of foreign languages in connection
+with vocabulary partly because familiarity
+with Greek and Latin and French and German is
+particularly useful in establishing an intimate relationship
+with the English language.  I have often
+been told that English is a difficult language to learn,
+but, as a native speaker, I have no personal opinion
+about that.  I do know, however, one person who
+acquired English relatively late in life and whom I
+consider to have a better command of the medium
+than most native speakers.  That person is an exception;
+indeed, she has a younger sister who acquired
+English at the same time who has difficulty expressing
+herself.  These examples may serve to confirm
+what we all already suspect, that there is a spectrum
+of natural ability for language, with the gifted at one
+end--presumably, our poets, writers, lawyers, politicians,
+teachers, and so forth--and the less gifted at
+the other.  The former possess Sprachgefühl `a sensitivity
+for language; language sense'; from among the
+latter I exclude pathological cases.  In that connection
+I am constrained to express my skepticism about
+the accuracy and wisdom of diagnosing everyone
+who has difficulty learning to read and write as being
+afflicted with dyslexia: learning is sometimes difficult--I
+had terrible trouble with history when I was
+a student--and it is wrong to attribute a large percentage
+of failures and difficulties to some disorder
+rather than to the (possible) failings of a teacher or,
+more often, to a simple lack of interest and motivation
+in the student.
+
+            Fortunate are those who have been raised in a
+reading household or have acquired a thirst and opportunity
+for reading early in life.  Fortunate, too,
+are those who were given the opportunities of being
+exposed to teachers who were not too busy or lazy
+to assign weekly essays and to mark them for style as
+well as for grammar and mechanics.  For the manipulation
+of language as an art one must first view it as a
+craft, and the acquisition of any craft cannot be accomplished
+without effort: one does not become a
+writer by sitting around thinking about it or by saying
+he is a writer when someone asks, “What do you
+do?’; one is a writer by virtue of the fact that he
+writes, with no regard whatsoever to publication.
+
+            In this connection, it is not the quantity of vocabulary
+that marks a good writer but the quality.
+When people ask me about increasing their vocabularies,
+often suggest that they read The Growth of the
+Soil , by Knut Hamsun.  Hamsun, a Norwegian, won
+the Nobel prize in 1920 and is seldom talked about
+these days, though, as far as I am aware, his books
+are in print; in any event, they are available from the
+library.  Hamsun wrote in Norwegian, of course; I do
+not know who translated Growth in the edition in
+which I originally read it (which I think was Modern
+Library), but as a teenager I was terribly impressed
+by the writing.  The story is unimportant--some bucolic
+tale--but the writing is extraordinary, and I
+must assume that while the art of the original remains,
+no small credit is due to the translator.  What
+makes this book such an exemplary piece of work is
+that I doubt it contains many words of more than
+one syllable (so to speak).  It is consequently a model
+of clarity as well as of simplicity and an abiding lesson
+to all who think that increasing their vocabularies
+will make them more articulate.
+
+            It is interesting to note that one of the most successful
+vocabulary books bears the title, It Pays to
+Increase Your Word Power , that is, not something
+like “It Pays to Increase Your Vocabulary.’  In other
+words, memorizing a slew of arcane, recondite sesquipedalianisms
+is not what gives one the edge, it is
+knowing how to use the language one already possesses.
+“Use a word five times and it is yours’ is a
+slogan that is occasionally seen blazoned across mail-order
+advertising.  It conjures up the picture of
+someone boning up on his “word for the day’ just
+before attending a cocktail party and then awkwardly
+trying to steer the conversation in such a way
+that he can insert a word like paradigm, paragon , or
+parameter .
+
+            Those who wish to sharpen their language skills
+are best advised to read and write, and to do both as
+much as possible, perhaps trying to emulate an admired
+writer.  If it is felt that some guidance is
+needed, then they should hire a tutor--there ought
+to be plenty of good ones available everywhere.  Attending
+writing classes is a possible alternative, but
+those vary so in quality as well as purpose that an
+individual's needs might not be met.  Finally, they
+should not view editors as their tutors, submitting
+their writings in the hope of critique: however good
+they might be as editors, they are not necessarily
+good teachers and are usually focused very specifically
+on the demands of their publication.
+
+         
+         
+            
+“An investigation found the employee occasionally slept
+on duty for almost five years.’  [From the York (Pennsylvania)
+Daily Record , .  Submitted by ]
+
+         
+         
+            
+“No detail is too small to overlook.’  [From an advertisement
+for a lawn product on KCMO-TV, Kansas City, Missouri,
+.  Submitted by 
+.]
+         
+         
+            
+“The podium erected in front of building A was surrounded
+by a semicircle of spectators on wooden chairs.’
+[From Doctors by Erich Segal, p. 316.  Submitted by ]
+         
+         
+            
+“Asked about social needs, Burdette said, `Our safety
+net has a lot of holes in it.' ’  [From the Parkersburg (West
+Virginia) News , .  Submitted by 
+.]
+         
+         
+            
+“Our special tunic lets you breastfeel discreetly anywhere....’
+[From The Right Start Catalogue, .  Submitted by ]
+         
+         
+            Verbal Analogies V--Divination
+
+
+
+            Throughout their existence on earth, people have
+sought ways to predict future events.  Below is a small
+sampling of the strange methods employed.  See if you
+can make the Verbal Analogy by selecting the appropriate
+term or description from among the Answers
+provided.  The solution appears on page 24.
+
+            1.shoulder blades: omoplatoscopy:: mice:?
+            2.molybdomancy: molten lead:: ichnomancy:?
+            3.eggs: oomancy:: snakes:?
+            4.gyromancy: walking in a circle:: genethlialogy :?
+            5.clouds: nephelognosy:: fingernails:?
+            6.dactyliomancy: finger rings:: astragalomancy/cleromancy:?
+            7.axheads: axinomancy:: keys:?
+            8.crithomancy: grain strewn on corpses of sacrificial animals:: empyromancy:?
+            9.neighboring of horses: hippomancy:: moon:?
+            10.scyphomancy: cup:: scatomancy:?
+            11.ashes: spodomancy:: coagulation of cheese:?
+            12.uromancy: urine:: pessomancy:?
+
+            
+               Answers
+
+               
+(a) Astrology       (e) Fire and      (i) Ophiomancy
+(b) Cleidomancy         smoke         (j) Pebbles
+(c) Dice/Knuckle-   (f) Footprints    (k) Selenomancy
+    bones           (g) Myomancy      (l) Tyromancy
+(d) Excrement       (h) Onychomancy
+
+            
+         
+         
+            
+“That dive was right on the edge of new exploration
+and new technology.  Taking new technology into unexplored
+realms of the earth is a once in a lifetime opportunity
+that I hope to repeat many times.’  [From Underwater
+USA , .  Submitted by ]
+         
+      
+   

@@ -1,0 +1,3530 @@
+
+
+
+
+Final Report
+
+
+STRATEGIES
+
+
+clobtloa
+The U. S. Environmental Protection Agency is charged by Congress
+with protecting the Nation's land, air, and water resources. Under
+a mandate of national environmental laws, the Agency strives to
+formulate and implement actions leading to a compatible balance
+between human activities and the ability of natural systems to
+support and nurture life. To meet this mandate, EPA's research
+program is providing data and technical support for solving
+environmental problems today and building a science knowledge base
+necessary to manage our ecological resources wisely, understand how
+pollutants affect our health, and prevent or reduce environmental
+risks in the future.
+The National Risk Management Research Laboratory is the Agency's
+center for investigation of technological and management approaches
+for reducing risks from threats to human health and the
+environment. The focus of the Laboratory's research program is on
+methods for the prevention and control of pollution to air, land,
+water, and subsurface resources, protection of water quality in
+public water systems; remediation of contaminated sites and
+groundwater; and prevention and control of indoor air pollution.
+The goal of this research effort is to catalyze development and
+implementation of innovative, cost-effective environmental
+technologies; develop scientific and engineering information needed
+by EPA to support regulatory and policy decisions; and provide
+technical support and information transfer to ensure effective
+implementation of environmental regulations and strategies.
+This publication has been produced as part of the Laboratory's
+strategic long-term research plan. It is published and made
+available by EPA's Office of Research and Development to assist the
+user community and to link researchers with their clients.
+E. Timothy Oppelt, Director
+National Risk Management Research Laboratory
+
+
+EPA REVIEW NOTICE
+This report has been peer and administratively reviewed by the
+U.S. Environmental Protection Agency, and approved for publication.
+Mention of trade names or commercial products does not constitute
+endorsement or recommendation for use.
+This document is available to the public through the National
+Technical Information Service, Springfield, Virginia 22161.
+EPA-600/R-02/073 October 2002
+
+
+
+
+Engineering and Economic Factors Affecting the Installation of
+Control Technologies for Multipollutant Strategies
+Prepared by:
+ARCADIS Geraghty & Miller
+4915 Prospectus Drive, Suite F
+Durham, NC 27713
+
+EPA Contract No. 68-C-99-201
+Work Assignment 3-034
+
+U.S. EPA Project Officer: Ravi K. Srivastava
+National Risk Management Laboratory
+Research Triangle Park, NC 27711
+
+Prepared for:
+U.S. Environmental Protection Agency
+Office of Research and Development
+Washington, DC 20460
+
+
+^ÅâåçïäÉÇÖÉãÉåíë
+ARCADIS would like to acknowledge the many contributors to this
+document, without whose efforts this report would not be complete.
+In particular, we wish to acknowledge the advice of Chad Whiteman
+of Clean Air Markets Division, Office of Air and Radiation, U.S.
+Environmental Protection Agency. Helpful suggestions were received
+from Kevin Culligan and Mary Jo Krolewski, both of Clean Air
+Markets Division. Technical guidance was received from Dr. Ravi
+Srivastava of the National Risk Management Research Laboratory,
+Office of Research and Development, U.S. Environmental Protection
+Agency.
+ARCADIS would also like to acknowledge other organizations,
+which provided research that was incorporated into the report.
+These organizations include ESI International and Andover
+Technology Partners.
+
+
+bñÉÅìíáîÉ=pìãã~êó
+This report evaluates the engineering and economic factors of
+installing air pollution control technologies to meet the
+requirements of multipollutant control strategies. The
+implementation timing and reduction stringency of such strategies
+affect the quantity of resources required to complete the control
+technology installations and the ability of markets to adjust and
+to provide more resources where needed. Using the Integrated
+Planning Model (IPM), the U.S. Environmental Protection Agency
+(EPA) estimated the number and size of facilities that need to
+install new emissions control equipment to meet the implementation
+dates and emission reductions set forth in the Clear Skies Act.
+This study provides an estimate of the resources required for
+the installation of control technologies to obtain emission
+reductions of sulfur dioxide (SO2), nitrogen oxides (NOx), and
+mercury under the Clear Skies Act. More innovative control
+technologies and compliance alternatives requiring fewer resources
+than those considered for this study are likely to be developed
+with the implementation of the Clear Skies Act. Market based
+approaches reward firms for finding cost-effective measures that
+exceed emission reduction targets. For example, improved scrubber
+performance and the ability of some firms to switch to lower sulfur
+fuels under the Acid Rain Program were reasons the cost of that
+program were less than projected. The development of control
+technology alternatives to selective catalytic reduction (SCR)
+under the NOX State Implementation Plan (SIP) Call is another
+example of how alternative solutions may require fewer resources
+than the projected approach. In addition to innovative
+technologies, the time allowed for installation of significant
+numbers of control technologies is an important factor to consider,
+especially for the near future. While it is expected that markets
+for the materials and labor used in the construction and operation
+of the control technologies will respond to increased demand, this
+response will not be instantaneous. It is likely that the strength
+of this market response will increase as time progresses. It is
+expected that the market would have sufficient time to respond to
+phase II of the program as the more stringent emission targets for
+phase II are set for 2018. Even though this analysis looks at the
+resource availability beyond 2010, these projections are of limited
+value as they do not take into account this market response.
+However, it is projected that there are sufficient resources
+available to complete the projected control technology
+installations for phase I by 2010. It should also be noted that
+decreasing the amount of time provided to install control
+technologies to meet a given strategy has the potential to affect
+the cost of compliance as this will accelerate their
+installation.
+The control technologies considered by this report as candidates
+to be used for multipollutant control strategies include: limestone
+forced oxidation (LSFO) flue gas desulfurization (FGD) for the
+control of SO2, SCR for the control of NOX, and activated carbon
+injection (ACI) for the control of mercury.
+Installation of LSFO presents a conservatively high estimate of
+anticipated resources and time to provide additional control of SO2
+emission, since LSFO systems commonly are more resource intensive
+than many other FGD technologies. Conservatively high assumptions
+were made for the time, labor, reagents, and steel needed to
+install FGD systems. For LSFO installation timing, it is expected
+that one system requires about 27 months of total effort for
+planning, engineering, installation, and startup, with connections
+occurring during normally scheduled outages. Multiple retrofits at
+one plant would take longer to install (e.g., approximately 36
+months for the
+retrofit of three absorbers for six boilers). Limestone is the
+reagent used in LSFO to remove SO2 from the flue gas stream. Steel
+is the major hardware component for FGD systems and is used
+primarily for the absorber, ductwork, and supports.
+Other elements of FGD installations, such as construction
+equipment requirements, are typically modest, particularly given
+that systems are installed at the back end of the facility and
+close to the ground. More recently, improvements in technology have
+been implemented where space requirements were an issue for
+construction and accommodating the FGD system, including fewer and
+smaller absorbers and more efficient on-site use and treatment of
+wastes and byproducts.
+SCR is currently the predominant technology to be used for NOX
+control and is also the most demanding in terms of resources and
+time to install when compared to other NOx control technologies. It
+is expected that one SCR system requires about 21 months of total
+effort for planning, engineering, installation, and startup.
+Multiple SCR systems at one facility would take longer to install
+(e.g., approximately 35 months for seven SCRs). Ammonia and urea
+are the reagents used along with a catalyst to remove NOX from the
+flue gas stream. Experience in installing SCRs for the NOX SIP Call
+has shown that the SCR equipment can be installed on the facilities
+in the space provided. In some cases, some moving of equipment has
+been necessary. One of the primary pieces of specialized
+construction equipment that can be useful for SCR installations are
+tall, heavy-lift cranes, and these appear to be in adequate
+supply.
+ACI was presumed to be the technology that would be used to
+reduce mercury where dedicated mercury controls were needed.
+Planning, engineering, installation, and start up of one ACI system
+is only about 15 months. Multiple ACI systems at any one facility
+are assumed to take longer to install (e.g., approximately 16
+months for two ACI). ACI hardware is comprised of relatively common
+mechanical components and is largely made of steel. An ACI system
+requires much less in terms of steel, labor, or other resources to
+install than either FGD or SCR technology. Therefore, the impact of
+ACI hardware on resource demand is much less than that of FGD or
+SCR technologies for SO2 or NOX control, respectively.
+The resources required for the installation of control
+technologies to achieve the emission reductions under the Clear
+Skies Act were estimated and compared to their current market
+availability. For the Clear Skies Act, control technology
+installations have been looked at for the periods between now and
+2005, 2005 and 2010, 2010 and 2015, and 2015 and 2020. For the
+first period, it is assumed that all controls need to be installed
+in a 31-month period. This will provide a conservatively high
+estimate of the required resources because many of the necessary
+control installations have already begun. For the other five
+year-periods, it is conservatively estimated that all installations
+will be completed within three years. However, the estimates
+indicate that there is ample steel and general construction labor
+to support the installation of these technologies over these time
+periods. As noted above, projections beyond 2010 are of limited
+value as market conditions could change significantly between now
+and 2010 in response both to demand for resources for a
+multipollutant program and because of other market factors. Skilled
+labor requirements, specifically for boilermakers, were estimated
+and have the potential to be the more limiting resource requirement
+in phase I of the program. The demand for boilermaker labor due to
+the NOX SIP Call over the next few years is likely to be limiting,
+but through the implementation of the Clear Skies Act, additional
+recruiting and training of new boilermakers would create a stronger
+market for skilled labor, ultimately increasing the supply.
+With regards to reagents and other consumables, it is projected
+that there is sufficient supply of limestone for additional FGD
+systems. It is estimated that there is also enough SCR catalyst
+capacity to supply this market. Ammonia and urea supply is also
+plentiful, although it is expected that NOX reduction will cause a
+moderate increase in U.S. demand. Bolstered by the fact that there
+is currently a worldwide excess capacity problem for suppliers of
+these globally traded commodity chemicals, it is projected that
+there will be an ample supply of ammonia and urea. U.S. demand for
+activated carbon is expected to slightly increase as a result of
+the Clear Skies Act. Activated carbon is traded on a global basis
+and there is currently substantial excess capacity that can readily
+provide for this increase in demand.
+
+
+`çåíÉåíë
+Acknowledgements
+.........................................................................................................................iv
+Executive
+Summary..........................................................................................................................v
+List of Figures
+.................................................................................................................................xi
+List of
+Tables.................................................................................................................................
+xii
+List of
+Acronyms..........................................................................................................................
+xiii
+
+Chapter 1 Background
+............................................................................................................1
+
+Chapter 2 SO2 Control Technology Retrofits
+.........................................................................3
+2.1 System
+Hardware................................................................................3
+2.2
+Reagents..............................................................................................6
+2.3 Construction Equipment
+.....................................................................7
+2.4 Installation
+Time.................................................................................7
+2.5
+Labor.................................................................................................11
+2.6 Space
+Requirements..........................................................................12
+
+Chapter 3 NOX Control Technology Retrofits
+......................................................................15
+3.1 System
+Hardware..............................................................................15
+3.2 Catalyst and
+Reagents.......................................................................18
+3.3 Construction Equipment
+...................................................................19
+3.4 Installation
+Time...............................................................................20
+3.5
+Labor.................................................................................................22
+3.6 Space
+Requirements..........................................................................24
+
+Chapter 4 Mercury Control Technology
+Retrofits................................................................26
+4.1 System
+Hardware..............................................................................26
+4.2 Reagent
+.............................................................................................29
+4.3 Construction Equipment
+...................................................................30
+4.4 Installation
+Time...............................................................................30
+4.5
+Labor.................................................................................................32
+4.6 Space
+Requirements..........................................................................34
+
+Chapter 5 Synergies of Combinations of Control Retrofits on a
+Single Unit.......................35
+5.1 SCR and FGD (Scrubber) Installations
+............................................35
+5.2 Mercury Control Technology and Scrubber
+Installations.................35
+5.3 Mercury Control Technology and SCR
+Installation.........................36
+
+Chapter 6 System Resource Availability
+..............................................................................37
+6.1 System
+Hardware..............................................................................40
+6.2
+Labor.................................................................................................41
+6.3 Construction Equipment
+...................................................................46
+6.4
+Reagents............................................................................................47
+6.5 Creation of Jobs under Clear Skies Act due to Control
+Technology
+
+
+Installations.......................................................................................53
+Chapter 7 Conclusions
+..........................................................................................................54
+Chapter 8 References
+..........................................................................................................58
+Appendix A Implementation Schedules for Control Technology
+Installations ..................... A-1
+
+
+
+iáëí=çÑ=cáÖìêÉë
+2-1. Gas path for coal-fired boiler with FGD
+..................................................................................4
+2-2. Major components of Wet FGD
+..............................................................................................5
+3-1. Gas path for coal-fired boiler with SCR, ESP, and
+FGD.......................................................15
+3-2. SCR installation at 675 MWe AES Somerset Station
+............................................................16
+3-3. Plate and honeycomb catalyst
+................................................................................................17
+4-1. Gas path for coal-fired boiler with SCR, ACI, and ESP
+........................................................27
+4-2. Gas path for coal-fired boiler with SCR, ACI, ESP, and
+FF..................................................27
+4-3. Simplified schematic of ACI
+system......................................................................................28
+6-1. U.S. construction employment and unemployment
+...............................................................42
+6-2. Boilermaker Demand Under Clear Skies Act (32 GWe of FGD
+Installations) ......................44
+6.3. Boilermaker Demand Under Clear Skies Act (10 GWe of FGD
+Installations) ......................45
+6.4. Cumulative SCR Catalyst Demand Compared To Cumulative
+Production Capacity............50
+6-5. SCR installations on coal-fired plants in
+Germany................................................................51
+
+
+
+iáëí=çÑ=q~ÄäÉë
+2-1. Estimated Resources Needed for Single and Multiple FGD
+Retrofits...................................13
+3-1. Estimated Resources Needed for Single and Multiple SCR
+Retrofits ...................................24
+4-1. Estimated Steel Requirement for 500 MWe ACI
+System.......................................................29
+4-2. Estimated AC Injection Rates for a 500 MWe Boiler
+............................................................30
+4-3. Estimated Man-hours for Supply of an ACI System for a
+500 MWe 0.6 % Bituminous
+
+Coal Boiler Coal with ESP (Example 1 from Table
+4-4)33...................................................32
+4-4. Estimated Performance and Resources Needed for Single
+ACI Retrofit ...............................33
+4-5. Estimated Performance and Resources Needed for Single
+and Multiple ACI Retrofits........34
+6-1. a) FGD Retrofits, b) SCR Retrofits, c) ACI
+Retrofits............................................................38
+6-2. Estimated Steel Required for Multipollutant Initiative
+..........................................................40
+6-3. Estimated Annual Construction and Boilermaker Labor
+Required for Clear Skies Act........41
+6-4. Estimated Annual Boilermaker Demand Created by the Clear
+Skies Act .............................46
+6-5. Crushed Limestone Sold or Used By U.S.
+Producers............................................................47
+6-6. Estimated FGD Limestone Consumption and U.S. Production
+.............................................48
+6-7. SCR Catalyst Capacity for Coal-fired Boilers
+.......................................................................48
+6-8. Estimated Annual SCR Catalyst Demand Resulting from
+Clear Skies Act
+
+and NOX SIP Call
+.................................................................................................................49
+6-9. Projected AC Demand Due to Multipollutant Initiative
+.......................................................52
+7-1. Estimated Resources Needed for Installation and
+Operation of Technologies ......................57
+
+
+
+iáëí=çÑ=^Åêçåóãë
+
+AC Activated carbon
+ACI Activated carbon injection
+CAAA Clean Air Act Amendments
+DCS Distributed control system
+ESP Electrostatic precipitator
+FF Fabric filter
+FGD Flue gas desulfurization
+GWe Gigawatt (electric)
+IPM Integrated Planning Model
+LSD Lime spray dryer
+LSFO Limestone forced oxidation
+MEL Magnesium enhanced lime
+MWe Megawatt (electric)
+NAAQS National Ambient Air Quality Standards
+PJFF Pulsejet fabric filter
+PLC Programmable logic controller
+SCR Selective catalytic reduction
+SIP State Implementation Plan
+TVA Tennessee Valley Authority
+
+
+
+`Ü~éíÉê=N _~ÅâÖêçìåÇ
+In response to continuing concerns about emissions from electric
+generating units, further reductions of emissions of multiple
+pollutants from electric power sector are being considered. Because
+the largest portion of emission reductions are expected to come
+from the coal-fired electricity-generating segment of the electric
+power sector, this report considers environmental improvement for
+coal-fired electricity generating power plants. Strategies enabling
+the control of multiple pollutants (multipollutant control
+strategies) from these plants have recently been receiving
+increased attention.
+Currently, power plants are required to reduce emissions of
+nitrogen oxides (NOX) and sulfur dioxide (SO2). The revisions of
+the National Ambient Air Quality Standards (NAAQS) aimed at
+reducing haze may require electric utility sources to adopt
+additional control measures. In addition, the U.S. Environmental
+Protection Agency (EPA) has determined that the regulation of
+mercury emissions from coal-fired power plants is appropriate and
+necessary. Concurrently, legislation has been proposed in previous
+and current Congresses that would require simultaneous reductions
+of multiple emissions, and the Administration's National Energy
+Policy recommends the establishment of "mandatory reduction targets
+for emissions of three main pollutants: sulfur dioxide, nitrogen
+oxides, and mercury."
+The administration's multipollutant proposal, a far reaching
+effort to decrease power plant emissions, was introduced as the
+Clear Skies Act in the U.S. House of Representatives on July 26,
+2002 and in the U.S. Senate on July 28, 2002. This legislation is
+intended to reduce air pollution from electricity generators and
+improve air quality throughout the country. The Clear Skies Act is
+designed to decrease air pollution by 70 percent through an
+emission cap-and-trade program, using a proven, market-based
+approach that could save consumers millions of dollars. The Clear
+Skies Act calls for:
+■ Decreasing SO2 emissions by 73 percent, from current emissions
+of 11 million tons to a cap of 4.5
+million tons in 2010, and 3 million tons in 2018, ■ Decreasing
+NOx emissions by 67 percent, from current emissions of 5 million
+tons to a cap of 2.1
+million tons in 2008, and to 1.7 million tons in 2018, and ■
+Decreasing mercury emissions by 69 percent by implementing the
+first-ever national cap on mercury
+emissions. Emissions will be cut from current emissions of 48
+tons to a cap of 26 tons in 2010, and
+15 tons in 2018.
+Therefore, it is timely to review the engineering and resource
+requirements of installing control technologies for multipollutant
+control strategies.
+This report analyzes the resources required for installing and
+operating retrofit control technologies for achieving reductions in
+multiple pollutants from coal-fired power plants in the United
+States. It examines the control technology's hardware, reagents,
+availability of the needed construction equipment, time required to
+implement at plants with single and multiple installation
+requirements, and the availability of labor needed for
+installation. The control technologies considered in this report
+include limestone forced oxidation (LSFO) wet flue gas
+desulfurization (FGD), selective catalytic reduction (SCR), and
+activated carbon injection (ACI) for the control of SO2, NOX, and
+mercury, respectively.
+The report is organized into eight chapters and one appendix.
+Chapter 1 provides general background information on emission
+control technologies. Chapter 2 analyzes the SO2 control technology
+resource
+requirements by providing information on control technology's
+hardware and reagents, the construction equipment necessary to
+install a control technology, time required to implement this
+control technology at plants with single and multiple installation
+requirements, and the amount of labor needed to install the control
+technology. Chapters 3 and 4 review, in the same fashion, the
+resource requirements of installing NOX and mercury control
+technology, respectively. Chapter 5 focuses on synergistic
+combinations of control retrofits on a single unit. Chapter 6
+examines the availability of resources necessary for the
+installation of SO2, NOX, and mercury control retrofit technologies
+for the timing and emission reductions proposed under the Clear
+Skies Act. Conclusions are presented in Chapter 7 and references in
+Chapter 8. Appendix A is located at the end of this report. It
+provides implementation schedules for single and multiple control
+technology installations.
+
+
+`Ü~éíÉê=O plO=`çåíêçä=qÉÅÜåçäçÖó=oÉíêçÑáíë
+In this chapter, the resource requirements to retrofit FGD
+systems to remove SO2 are examined for existing coal-fired electric
+utility boilers. The FGD technology most commonly installed in the
+U.S. and worldwide is LSFO. Material, labor, and construction
+equipment resource estimates presented in this chapter are for LSFO
+systems and are a conservative estimate compared to less resource
+intensive magnesium enhanced lime (MEL) or lime spray dryer (LSD)
+technologies. Typically, MEL and LSD technologies rely upon
+increased reactivity of reagents with flue gas and require fewer
+resources for installation. Advances in FGD technology, design,
+materials, and expertise available for retrofit installations made
+over the last decade form a sharp contrast to earlier retrofit
+systems. Technology to remove SO2 is anticipated to continue along
+current trends and rely heavily on wet FGD and other advanced
+technologies. This chapter examines the experience and issues for
+the retrofit installation of LSFO technology.
+The chapter focuses on the resources needed for typical or
+normally constrained wet FGD, specifically LSFO, retrofit
+installations. Wet FGD retrofit technology generally provides a
+conservatively high estimate of most resources. However, it is
+likely that other SO2 removal technologies, as well as upgrades or
+enhancements to existing FGD systems, will compete in the market
+under a multipollutant strategy. Upgrades to existing FGD systems
+would include a case-by-case examination of the absorber tower,
+flue gas inlet, absorber gas velocity, reagent preparation, upgrade
+pumps, and potential changes to some internals, the type of
+reagent, and to the chemical processes to increase performance.
+Scrubber upgrades were not considered in this analysis in order to
+provide a conservative estimate of the resource demand for a
+multipollutant strategy. This is because upgrades to existing
+retrofits will generally consume fewer resources than full
+retrofits regardless of the technology.
+
+OKN póëíÉã=e~êÇï~êÉ
+The wet FGD process operates by reacting SO2 in the flue gas
+with a reagent in an absorber. FGD systems are typically positioned
+after the particulate control device. FGD retrofits are positioned
+downstream, typically at the back end of the facility, and are not
+intrusive to the boiler. Typical configuration is shown in Figure
+2-1. At the typical unit, hot corrosive flue gases leaving the
+particulate control device (149- 182 ºC) are cooled, or quenched,
+before entering the main absorber device. Quenching cools and
+saturates the flue gas with absorber slurry. Quenching can occur in
+a prescrub area or more commonly an area integral to the absorber.
+After quenching, the less corrosive flue gases entering the
+absorber decrease to temperatures of 49 - 66 ºC with pH values
+between 5 and 6.5. Some higher efficiency boilers may have
+increased flue gas velocities and can result in corrosive flue gas
+"blow through" to the absorber. The chemical reactions that occur
+with the limestone reagent form a corrosive environment requiring
+many of the system components to be corrosion and abrasion
+resistant. The quenching area is typically a highly corrosive
+environment and the reagent slurries are highly abrasive. The
+handling and processing of the reagent, commonly limestone, is
+often done onsite, as is the treatment of the effluent as waste or
+processing into a saleable product (e.g., gypsum handling
+facility).
+
+FGD
+
+Stack
+
+Disposal
+Figure 2-1. Gas path for coal-fired boiler with FGD.
+The major systems and components of a wet FGD limestone reagent
+system include:
+Reagent Feed
+
+■ Limestone conveying and crushing (e.g.,
+ball mills) equipment
+■ Slurry preparation tank and reagent feed equipment
+SO 
+2 
+Removal
+
+■ Absorber tower or reactor (tray optional)
+■ Absorber slurry recirculation/reaction tank and optional
+air sparger (forced oxidation operation)
+■ Mist eliminator wash system
+■ Slurry bleed
+■ Pipes, pumps, and valves
+■ Gas reheaters
+Flue Gas Handling
+
+■ Ductwork
+■ Support steel
+■ Fans, blowers, and dampers
+Waste/By-Product
+
+■ Dewatering system (settling tanks/vessels,
+hydrocyclones, and/or vacuum filters)
+■ Stacking equipment
+
+Major wet FGD system components are shown in Figure 2-2. The
+hardware and equipment to support wet FGD technology involves five
+major systems. Two systems are primarily responsible for the direct
+scrubbing and handling of flue gases, and three systems are
+involved with delivery of reagents, processing of wastes (air,
+solids, and water), and the processing of wastes into saleable
+by-products. Typically, the greatest hardware requirements involve
+the systems for SO2 removal, primarily the absorber vessel, and
+flue gas handling, particularly ductwork and support steel. Much of
+the equipment for these systems will be unique to the site and
+project requirements, although the equipment
+specifications may be repeated if multiple absorbers are
+involved. Typically an FGD retrofit can use an existing chimney or
+stack.
+
+The material used in the largest quantity for an FGD retrofit,
+aside from reagent, is steel. In general, the amount of structural
+steel for a typical FGD retrofit system is equal to or less than
+the steel requirements for a SCR retrofit of the same size.1 The
+reduced requirement for structural steel is due to the FGD absorber
+usually being self-supporting, weighing less, and being installed
+closer to the ground. In contrast, a typical SCR installation is
+heavier, elevated, and adjacent to the boiler. The majority of
+structural steel in modern FGD installations is dedicated to
+ductwork and supports. Other steel may be needed to reinforce
+existing steel at a facility. In addition to structural steel,
+additional light, or gallery, steel may be used in the limestone
+preparation area and for the processing of waste or byproducts
+(e.g., buildings). Modern FGD systems are more attuned to the
+corrosive SO2 scrubbing environment and therefore increasingly
+utilize fiberglass, rubber lined steel, and alloys in construction.
+In addition, because of existence of corrosive zones, preference is
+often given to the use of large-sized sheets that minimize
+welding.2 Large-sized sheets are used to fabricate the absorber
+vessel, the ductwork, and supports. Particularly over the past
+decade, there has been greater availability of plate steel for FGD
+projects due to the global sourcing of carbon steel.
+Total steel requirements for retrofitting a typical 500 mega
+Watt, electric (MWe) FGD system are in the range of 1000 to 1125
+tons of steel, or between 2.0 and 2.25 tons of steel per MWe. This
+range assumes approximately 80 percent of the structural steel is
+for ductwork and supports and 20 percent is required for
+miscellaneous steel such as reagent conveying equipment, buildings,
+and solids handling systems. An assumption of 1125 tons of steel is
+a conservatively high estimate since 500 MWe FGD retrofit
+installations have been completed with as little as 250 to 375 tons
+of steel, or 0.5 tons of steel per MWe..1,3 Often a single absorber
+will serve multiple boilers and reduce much of the steel that would
+be required if absorbers had been fed by individual boilers.
+Currently, the installed maximum single absorber capacity in the
+U.S. is 890 MWe being fed by 2 boilers at Tampa Electric's Big Bend
+Station. It is likely that two 450 MWe boiler units will use a
+common single absorber with commensurate reduction in required
+steel from efficiencies gained by common areas. For example, a 900
+MWe system is estimated to use approximately 2000 tons of steel, or
+about 2.2 tons of steel per MWe, rather than a combined maximum of
+2025 tons for a situation in which the boilers required separate
+absorbers.
+In general, a better understanding of the chemical processes in
+an FGD system allows designers to maximize mass transfer in a
+minimum amount of space.4 More efficient designs can also reduce
+the amount of steel needed for the absorber and ductwork. Other
+advanced design factors reduce steel requirements, including the
+virtual elimination of redundant absorbers, the ability to
+down-size absorbers without sacrificing performance (e.g., by
+increasing flue gas velocity, advanced placement of spray nozzles,
+enhancing limestone characteristics), and material changes
+including wallpapering with alloys and utilizing fiberglass.5 A new
+generation of wet FGD systems, pioneered in the mid to late 1990's,
+improved mass transfer, which resulted in the usage of more compact
+absorbers that are estimated to require 50 percent less material,
+compared to an older generation of wet FGD systems.5 In addition,
+typical MEL absorber units need less steel due to the use of
+smaller absorbers enabled by shorter residence time requirements
+than for LFSO systems.==In this report, the estimate of typical
+LFSO FGD system hardware requirements provides a conservatively
+high estimate of installation resources compared to other SO2
+control technologies.
+The majority of hardware required for FGD systems is commonly
+available. Storage tanks, nozzles, and piping for the reagent
+storage and delivery system are also common and therefore widely
+available. The major hardware for an FGD system includes the flue
+gas duct system, limestone storage (including loading and conveyer
+equipment), gypsum dewatering and wastewater treatment, gypsum
+storage, piping, valves, pumps and tanks, electricity supply,
+controls, instrumentation, pipe bridges and cable channels, and
+foundations and buildings as needed. FGD systems also include
+hardware such as inlet fans, dampers, absorber internals,
+recirculation pumps, and oxidation blowers that are commonly used
+in other large industries. Because this hardware is used
+extensively throughout industry, availability should not be an
+issue, except that supply of this type of equipment needs to be
+integrated into the overall project schedule so it does not cause
+bottlenecks. Early FGD systems were designed with separate
+quenching, or prescrubber, systems to cool the flue gas coming off
+the particulate control device. Modern systems take the hot flue
+gas directly into the absorber, where quenching occurs. Limestone
+and gypsum handling also includes milling, conveying, and
+wastewater treatment systems.
+
+
+OKO oÉ~ÖÉåíë
+Wet FGD systems require a continuous feed of reagent to remove
+SO2. Generally, if pH of scrubbing liquor falls below a range of
+5.0 to 6.0, additional reagent is required to maintain the
+reactivity of the absorbent. Limestone is the most commonly used
+reagent, with the quantity of its consumption depending primarily
+on coal sulfur levels. For example, even in the range of 3 percent
+to 4 percent coal
+sulfur levels, a 4 percent sulfur coal can increase consumption
+by about one-third.6 It is not uncommon for modern FGD systems to
+achieve 97 percent utilization of limestone.7 Generally, higher
+percent utilization equates to higher reactivity of the reagent,
+and, therefore, less reagent is needed to achieve a given level of
+SO2 removal. The production of gypsum requires a minimum of 92
+percent limestone utilization.
+A 500 MWe plant uses roughly 25-32 tons per hour of limestone. A
+coal with 4 percent sulfur, conservatively, will require 32 tons*
+of limestone per hour, or 0.064 tons per MWe per hour. This
+estimate is based on an 85 percent load factor, 10,500 Btu/kWh,
+stoichiometry of 1.1 for limestone, SO2 removal rate of 95 percent,
+and a minimum purity of 95 percent for CaCO3. Any enhancement of
+the reagent (i.e., magnesium or buffering agents) will reduce the
+amount of limestone needed. MEL sorbent consumption for a 4 percent
+sulfur coal is approximately 17-18 tons per hour.6 These estimates
+are conservatively high given that recent FGD systems are operating
+at near stoichiometric levels8 and additives are commonly used to
+achieve higher SO2 removal, particularly to enhance the performance
+of existing retrofits. Limestone stoichiometry is the number of
+moles of Ca added per mole of SO2 removed. Typically the required
+stoichiometry of a wet FGD limestone system is in the range of 1.01
+to 1.1, with 1.01 to 1.05 typical for modern wet FGD systems.8 A
+stoichiometry of 1.03 is typical when the FGD process is producing
+gypsum by-product, while a stoichiometry of 1.05 is needed to
+produce waste suitable for a landfill. Grinding limestone to an
+ultrafine particle size improves dissolution rate of limestone in
+the slurry and can decrease the size requirement of the reaction
+tank.8
+
+
+OKP `çåëíêìÅíáçå=bèìáéãÉåí
+The construction equipment required for typical FGD
+installations is standard construction equipment - welders,
+excavation equipment, concrete pouring equipment, cranes, etc.
+Crane requirements for FGD technology retrofits are generally site
+specific, although these requirements are generally less demanding
+than requirements for SCR retrofits. Generally, FGD systems tend to
+be constructed closer to the ground compared to SCR technology
+retrofits. Lift at a site rarely exceeds 30 meters (100 feet) and
+100 tons. The use of modular and fabricated absorbers shifts much
+of the construction off-site, reducing the need for specialized
+cranes and equipment. The usefulness and appropriateness of using
+cranes in an FGD installation is dependent on several factors,
+including the ability to physically place a crane on site or
+adjacent to the site (e.g., on a barge) and the use of modular
+construction of major FGD technology components. Prefabrication has
+been used since the early 1990's, notably on two large retrofit
+projects: the 1300 MWe Zimmer Station and the 2600 MWe Gavin
+station. Both facilities had limited lay-down area to perform the
+retrofit installation. In these two retrofits, the absorber modules
+were fabricated in two pieces, shipped by barge, and assembled on
+site. Often modular units can be transported via barges or trucks
+to the site for assembly. Component modularization and
+prefabrication off-site can reduce the amount of time cranes are
+needed on a site, as well as provide opportunities to reduce
+project schedules and construction costs and to concentrate jobs
+locally at the prefabrication facility.
+
+
+OKQ fåëí~ää~íáçå=qáãÉ
+Implementation of an SO2 control technology at a plant involves
+several activities contingent upon each other. These activities may
+be grouped under the following phases of an implementation project:
+(1)
+* EPA cost modeling for wet scrubber installations estimate 29
+tons of limestone required to achieve 95 percent SO2 removal while
+burning a 4 percent sulfur coal.
+conducting an engineering review of the facility and awarding a
+procurement contract; (2) obtaining a construction permit; (3)
+installing the control technology; and (4) obtaining an operating
+permit.
+Modular construction can minimize field labor and construction
+time on a site by prefabricating at a shop and then transporting
+large sections, such as ductwork or absorber modules, by barge or
+truck. For example, the 550 MWe boiler at Kansas City Power &
+Light Company's Hawthorne Generating Station required rebuild and
+NOX, SO2, and PM simultaneous control retrofits. To expedite
+placing the facility back into use, large sections were fabricated
+off site and transported by barge to the site. Shop fabrication has
+also been used outside of the U.S. For example, ten absorber
+modules handling a combined capacities of 2000 MWe and 3000 MWe at
+two facilities were installed during December 1995 (order placed)
+through March 2000. The ten absorbers were mostly installed
+sequentially with startup of the units staggered over 22 months.
+The 2000 MWe FGD systems at the Taean facility in South Korea were
+fabricated off-site in three modules, shipped by barge, and then
+assembled on-site.
+FGD installation plans and experience have been extensive in the
+U.S. and abroad. To date, there have been approximately 94 GWe of
+scrubber capacity built on coal-fired power plants in the US. Over
+200 GWe of capacity has been built worldwide.
+Exhibits A-1 and A-2 in Appendix A depict the timelines typical
+to complete a single absorber module and a three absorber-module
+installation of FGD, respectively. The three absorber-module
+installation assumes each absorber module can treat up to 900 MWe
+of boiler capacity. Currently, approximately 900 MWe of single
+absorber capacity has been successfully installed in the U.S.
+However, greater absorber capacities are being offered outside of
+the U.S.9 While the sum of the time estimated to complete
+individual tasks generally exceeds the overall estimated
+installation time, the overall installation schedule accounts for
+overlap in these tasks. These timelines also indicate that
+completion of some of the activities is contingent upon completion
+of some other activities. In general, the FGD implementation
+schedule appears to be driven primarily by the pre-hookup
+construction activities. Multiple absorber installations will
+typically add a few months to the implementation schedule,
+particularly to connect additional absorbers during scheduled
+outages. Prefabrication of absorber modules can reduce the overall
+construction schedule. The major phases of the implementation
+schedule are discussed below.
+
+
+båÖáåÉÉêáåÖ=oÉîáÉï
+As shown in Exhibits A-1 and A-2 in Appendix A, in the first
+phase of technology implementation, an engineering review and
+assessment of the combustion unit is conducted to determine the
+preferred compliance alternative. During this phase, the
+specifications of the control technology are determined, and bids
+are requested from the vendors. After negotiating the bids, a
+contract for implementing the SO2 control technology is awarded.
+The time necessary to complete this phase is approximately four
+months.
+
+
+`çåëíêìÅíáçå=mÉêãáí
+Before the actual construction to install the technology can
+commence, the facility must receive a construction permit from the
+applicable State or local regulatory authority. The construction
+permit process requires that the facility prepare and submit the
+permit application to the applicable State or local regulatory
+agency. The State or local regulatory agency then reviews the
+application and issues a draft approval. This review and approval
+process is estimated to take about six months. The draft
+construction permit is then made available for public comment.
+After any necessary revisions, a final construction permit is
+issued. The estimated time to obtain the construction permit is
+approximately=nine months10 but can vary with State and local
+permitting procedures as well as other interests in the
+project.
+
+
+`çåíêçä=qÉÅÜåçäçÖó=fåëí~ää~íáçå
+In the second phase, the control technology is installed. This
+installation includes designing, fabricating, and installing the
+control technology. In addition, compliance testing of the control
+technology is completed in this phase. Since FGD technology is not
+invasive to the boiler, most of the construction activities, such
+as earthwork, foundations, process electrical, and control tie-ins
+to existing items, can occur while the boiler is in operation. The
+time needed to complete this phase of an implementation project is
+about 23 months.
+An important element of the overall control technology
+implementation is the time needed to connect, or hook up, the
+control technology equipment, particularly in relationship to the
+planned outage time for the unit. On average, it takes about four
+to seven weeks to connect FGD.1, 3 For example, the Homer City and
+Centralia facility FGD retrofit connections were performed during
+the scheduled outages in approximately five weeks. Based on
+experience in Germany in response to a compliance directive, a
+significant quantity of SO2 and NOX control installations were
+performed within outage periods consisting of less than four
+weeks.11 Electricity generating facilities often plan the
+connection to occur during planned outages to avoid additional
+downtime. Additional downtime leading to loss of a unit's
+availability to supply electricity is atypical for FGD technology
+installations.3,12 Because peak electricity demand generally occurs
+during the summer months (May through September), typically control
+connections occur during months of other seasons, notably the
+spring or fall.10 For example, FGD connections to the two Centralia
+units were performed outside of the peak electricity demand period.
+Sources located where peak demand does not occur during the summer
+months may be less time-constrained to connect the FGD controls.
+However, FGD connections for single and multiple systems can
+typically be performed during planned outage times. Multiple
+systems normally are installed in sequence and overlapping to
+maintain a high level of activity at the site. Installation of the
+control device hookup on a sequential basis usually involves an
+overlap of compliance testing of FGD system on one unit with hookup
+of an FGD system with the next unit. The total implementation time
+for sequential hookup for multiple systems is estimated at between
+32 months for two absorber modules and 36 months for three absorber
+modules. Although not as common, multiple systems installed at a
+single facility can be performed simultaneously. Generally,
+scheduled outages will govern which method can be used for multiple
+FGD system installations.
+
+
+léÉê~íáåÖ=mÉêãáí
+Facilities will also need to modify their Title V operating
+permit to incorporate the added control devices and the associated
+reduced emission limits. In some States, an interim air-operating
+permit may need to be obtained until the Title V permit is
+modified. The operating permit modification process consists of
+preparation and submission of the application to the applicable
+State or local regulatory agency. This process can occur
+simultaneously with the processing of the construction permit
+application.10 The process of transitioning from the construction
+permit to the operating permit varies among States, but the
+application review process is estimated to take between 9 - 11
+months. The Title V operating permit must also be made available
+for public comment. The Title V operating permit is then not made
+final until compliance testing on the control device is completed.
+Therefore, the total estimated time to modify the Title V operating
+permit is about 17 months, plus the additional time to complete
+compliance testing.
+Based on the estimated time periods needed to complete each of
+the four phases described above, the estimated time period to
+complete the implementation of a single FGD installation is
+conservatively 27 months. For the Clear Skies Act, EPA's
+projections reflect that the majority of FGD installations will
+involve a single absorber unit installation per plant; however, the
+maximum projected number of scrubbers retrofitted at any facility
+is three absorber modules serving six boilers with a maximum of
+2400
+MWe of boiler capacity. Changes in FGD technology and
+reliability have resulted in planning for smaller and fewer
+absorbers per retrofit installation. For example, the Zimmer and
+Gavin station FGD retrofits performed in the early 1990's both
+involve three absorbers on each 1300 MWe unit. If these retrofits
+were being planned today, these stations' two 1300 MWe units would
+likely require only two absorbers per unit rather than three.6
+Average FGD installation times have commonly been within 24-27
+months. For example, recent FGD retrofit systems installed at Homer
+City (September 2001) and Centralia (July 2001) were both completed
+within approximately 24 months.13 Although these FGD system
+installations are considered typical, the Homer City FGD retrofit
+installation was performed during the same time frame as the
+installation of three SCR units. Both of these units provide more
+recent insight into the ability and scheduling to install FGD
+systems during a period of high demand for SCR installations.
+One factor that can increase the time to install a scrubber is
+competition for resources with other emission control projects.
+During the first time period analyzed (through the end of 2005),
+EPA projects that a large number of SCR's will be installed to meet
+the requirements of the NOX SIP Call. However, SCR installations
+designed to comply with the NOX SIP Call are generally already into
+the installation process or, at a minimum, into the engineering
+phase of the project.13 Furthermore, construction has already begun
+or been completed for 4 GWe of the scrubbers that EPA projects will
+be built by 2005 under current regulatory requirements. Typically
+the overall engineering, fabrication, and construction resources
+would remain the same as the scenario analyzed above, with the
+exception that these resources are reallocated over an extended
+schedule. One estimate is that, as demand for installation
+resources increase for FGD and other air pollution control
+installations, planned FGD retrofit installations could be between
+30 and 42 months1 while another source estimates FGD installations
+at 36 months.14 It should be noted, however, that some recent
+contracts have been signed to install scrubbers between now and
+2005 that would be installed in less than 36 months. For instance,
+a contract to install a scrubber on a 500 MWe unit at the Coleman
+Station in Kentucky is scheduled to be completed in early 2004
+(approximately 24 months after the contract was announced, which is
+several months shorter than the installation schedule set forth in
+Exhibit A-1). This suggests that labor demands to install SCR's for
+the NOX SIP Call may not lead to increased installation time for
+scrubbers.
+Single-unit FGD installations have occurred in as little as
+20-21 months9, and multiple FGD systems have been installed within
+36 months. In addition, owners of new, or "greenfield," power
+generation facilities often request 24 months for completion of
+these projects, including installation of the boiler, FGD system,
+and SCR. Primarily as a cost cutting option, more relaxed
+installation schedules of up to 36 months for a single FGD retrofit
+installation may be planned, but are not common. Despite changes in
+overall installation schedules, efficient utilization of labor and
+sequencing the installation during planned outages will continue to
+be planning issues. In summary, the total time needed to complete
+the design, installation, and testing at a typical 500 MWe facility
+with one FGD unit is 27 months, 32 months at a facility with two
+boilers being served by a single absorber module, and approximately
+36 months at a facility with three absorber modules (six boiler
+units). For the multiple installation of three absorber modules at
+one plant (six boiler units), an additional four months may be
+needed to schedule the outage for the FGD hookup outside of the
+high electricity demand months. Typically, multiple absorbers will
+be installed sequentially with some overlap to conserve and
+schedule continuous use of labor, as well as keep associated
+installation costs down.
+
+
+OKR i~Äçê
+The installation of an FGD system requires a significant amount
+of labor. Approximately 80 percent of the labor is for construction
+of the system, and 20 -25 percent of the labor is for engineering
+and project management. The installation of the FGD control
+technologies may require the following types of labor:
+■ general construction workers for site preparation and storage
+facility installation;
+■ skilled metal workers for specialized hardware and/or other
+material assembly and construction;
+■ other skilled workers such as electricians, pipe fitters,
+millwrights, painters, and truck drivers; and
+■ unskilled labor to assist with hauling of materials and
+cleanup.
+A typical turnkey 500 MWe unit FGD system retrofit requires
+380,000=man-hours, or approximately 200 person-years, of which 20
+percent, or 72,000 man-hours, are dedicated to engineering and
+project management,3 and roughly 40 percent of man-hours are for
+boilermakers.14 The labor required to install an absorber vessel
+and ductwork is a major portion of the system installation
+man-hours. Generally, construction labor is proportional to the
+amount of steel used in the system. The greatest labor requirement
+occurs for FGD on a single unit (i.e., 500 MWe), and additional
+efficiencies in incremental labor occur when scheduling multiple
+units at one facility, particularly when combining multiple boilers
+into a single absorber. In general, large numbers of boilermakers
+have been used in this industry; however, it is not expected that
+this demand will impact other industries. A more thorough
+discussion of boilermaker labor demand is given in Chapter 6.
+There are some efficiencies that result when multiple systems
+are installed at one site. In engineering alone, there is a 10-15
+percent savings in engineering and project management labor
+commonly realized when installing multiple units of similar design.
+In addition, other increases in project management and labor
+productivity and efficiencies in using resources and equipment can
+occur with multiple system installations on one site. While
+multiple systems on one site are common, the number of required
+systems to serve large MWe of capacity has been decreasing. For
+example, in the past FGD systems for 2,600 MWe stations included
+six absorbers; however, today these systems would likely be
+designed for four absorber systems, or approximately 650 MWe of
+boiler capacity per absorber.6 Using the methodology described for
+900 MWe of capacity, today a six-absorber system could serve as
+much as 5,400 MWe of capacity, or more than double the capacity
+served in installations in the early 1990's.
+A reasonable estimate of multiple FGD installations at one site
+includes 380,000 man-hours for the initial 500 MWe of capacity (or
+760 man-hours/MWe) and an additional 500 man-hours per MWe, up to a
+total of 900 MWe, for any combination into a single common
+absorber. Therefore, a 900 MWe system requires the initial 500 MWe
+at 380,000 man-hours, and the second 400 MWe at about 273,200, for
+a combined labor requirement of 653,200 man-hours, or approximately
+300 person-years, or the equivalent of about 725 man-hours per MWe.
+As another example, a 1400 MWe system retrofit using 2 (700 MWe)
+turnkey systems requires 700,000 man-hours, or only 500 man-hours
+per MWe.6 Generally, extending FGD installation schedules may
+reduce the number of persons on a job at one time but will not
+reduce the overall labor requirement.
+While, it is likely that installation of multiple systems will
+benefit from economies of scale to reduce labor requirements, the
+range for man-hours per MWe for multiple systems is bounded by 500
+and 725 man-hours per MWe. It is also clear that boiler capacities
+of at least 900 MWe can be served by a common absorber, and a
+minimum 10 percent reduction in engineering and project management
+labor will result from multiple absorbers being installed at a
+single site. For example, procurement contracts only need to be
+negotiated once, and common site issues need only be addressed
+once. Therefore,
+653,200 man-hours is a conservative estimate of labor required
+to install FGD at a 900 MWe facility. Because no additional
+efficiencies in engineering and project management are assumed for
+larger installations, multiple 900 MWe absorber systems each add
+another 653,200 man-hours. A 2,700 MWe facility requires
+approximately 1,960,000 man-hours for the retrofit installation.
+This produces a conservatively high estimate bounding the
+uncertainties of labor and how many boilers or units will be
+combined into a single absorber.
+The above estimates of labor are conservative particularly given
+efficiencies realized in recent retrofit installations. In many
+cases, portions of retrofit construction can be performed off-site,
+particularly with modular designs. For example, at the Gavin
+scrubber retrofit installation the absorber modules were fabricated
+at the vendor's shop and then shipped by barge to the site for
+hookup. To take advantage of off-site fabrication requires that a
+shop and facility are available and collocated with an adequate
+shipping and transport facilities (i.e. water accessible facility
+and a barge). When the requirements are met the fabrication has the
+potential to employ and retain a skilled work force as well as
+opportunity to save time and reduce field labor requirements.
+Based upon the discussion from sections 2.1 through 2.5, the
+total resources needed for a single 500 MWe FGD retrofit and
+multiple FGD retrofits are shown in Table 2-1.
+
+
+OKS pé~ÅÉ=oÉèìáêÉãÉåíë
+Generally 1-acre on-site will allow the installation of an FGD
+retrofit.1 The need for additional space for support systems ranges
+from no additional space needed to 2.5 acres typical for up-front
+reagent processing and 1 acre for dewatering when reagent
+processing and dewatering operations are selected as part of the
+FGD system design. Space issues also include the positioning of the
+FGD after the particulate control device and before the stack. This
+area of the power unit is generally referred to as the "back
+end"
+- an area where there is typically ample space for retrofit
+installations.
+The FGD retrofit on the Cinergy's Gibson Unit 4 is an example of
+an extremely space limited retrofit.1 Gibson Unit 4 is a 668 MWe
+inhibited oxidation limestone FGD retrofit designed for 92 percent
+SO2 removal and completed in late 1994. In the case of this
+scrubber retrofit, the congestion at the site did not allow for a
+clean pick by a standard sized crane. With up-front planning, one
+module was raised by less conventional means (jacking
+construction), allowing for the second module to be constructed
+using more conventional methods. Because of the difficulty due to
+congestion of the site, this retrofit required additional time and
+labor, but worked within space constraints. This method of jacking
+construction has been used in other retrofits. The wet FGD retrofit
+at the Bailly Generating Station, Units 7 & 8, is an example
+where a full service system (single limestone absorber for combined
+528 MWe capacity, 2-4.5 percent sulfur coal, >95 percent SO2
+removal) was able to significantly reduce space requirements while
+also decreasing cost by about one-half and creating no new waste
+streams. Much of the success of this public/private project
+(DOE/operator and vendors) was due to a more compact and
+multi-functional (pre-quenching, absorption, and oxidation)
+absorber vessel that used a co-current flow design. As a result,
+the FGD system required only modest space requirements.15 In most
+locations connection space is not a problem since there is usually
+adequate space behind the flue gas stack to perform the scrubber
+retrofit. If connection space is limited, additional ductwork may
+be necessary.
+
+q~ÄäÉ=OJNK==bëíáã~íÉÇ=oÉëçìêÅÉë=kÉÉÇÉÇ=Ñçê=páåÖäÉ=~åÇ=jìäíáéäÉ=cda=oÉíêçÑáíëK
+= råáíë låÉ=_çáäÉê qïç=_çáäÉêë páñ=_çáäÉêë
+`~é~Åáíó=oÉíêçÑáí kìãÄÉê=çÑ=^ÄëçêÄÉê=jçÇìäÉë eÉ~í=o~íÉ
+`~é~Åáíó=c~Åíçê
+mÉêÅÉåí=oÉÇìÅíáçå
+Ä
+råÅçåíêçääÉÇ=plO= Å
+råÅçåíêçääÉÇ=plO= Ä
+`çåíêçääÉÇ=plO= Å
+`çåíêçääÉÇ=plO=
+plO=oÉÇìÅÉÇ=éÉê=óÉ~ê=Ä
+plO=oÉÇìÅÉÇ=éÉê=óÉ~ê=Å
+
+píÉÉä
+=
+i~Äçê
+====mêçàÉÅí=aìê~íáçå
+====båÖáåÉÉêáåÖLmêçàÉÅí=jÖíK
+====`çåëíêìÅíáçå
+====qçí~ä=i~Äçê
+====qçí~ä=i~Äçê
+
+iáãÉëíçåÉ=`çåëìãéíáçåÄ
+iáãÉëíçåÉ=`çåëìãéíáçåÅ
+jbi=iáãÉëíçåÉ=bèìáî~äÉåíÅ
+
+
+~
+íçåë NINOR OIMMM SIMMM
+
+íçåëLóê NORIORM OORIQRM STSIPRM íçåëLóê ORRIMMM QRVIMMM
+NIPTTIMMM íçåëLóê NQOIRSM ORSISMU TSVIUOQ
+~
+
+==råÇÉê=íÜÉ=`äÉ~ê=pâáÉë=^ÅíI=bm^=ãçÇÉäáåÖ=éêçàÉÅíë=íÜ~í=íÜêÉÉ=éä~åíë=ïáíÜ=ëáñ=ÄçáäÉêë=É~ÅÜ=ïáää=ÄÉ=êÉíêçÑáííÉÇ=ïáíÜ=cdaK==qÜÉ
+
+ã~ñáãìã=Å~é~Åáíó=~í=~åó=çåÉ=çÑ=íÜÉ=íÜêÉÉ=éä~åíë=ï~ë=OIQMM=jtÉ
+Ä==P=éÉêÅÉåí=ëìäÑìê=Åç~ä
+Å==Q=éÉêÅÉåí=ëìäÑìê=Åç~ä
+
+Ç==j~ó=êÉèìáêÉ=~å=~ÇÇáíáçå~ä=Ñçìê=ãçåíÜë=íç=~îçáÇ=ëÅÜÉÇìäáåÖ=çìí~ÖÉë=Ñçê=Åçåíêçä=Üççâìé=ÇìêáåÖ=éÉ~â=ÉäÉÅíêáÅáíó=ÇÉã~åÇ=ãçåíÜëK
+Often absorbers can be designed to accommodate site-specific
+requirements. Smaller absorbers, use of common absorbers for
+multiple boilers, and technology advances that supplant the need
+for redundant absorbers, have decreased the footprint needed for a
+modern FGD retrofit installation. Where space for the FGD
+installation is an issue, reducing the overall absorber size can be
+accomplished by using multiple absorber trays (within one absorber)
+and improving mass transfer with the use of a fan.16 Improved
+absorption at higher velocities has contributed to smaller, more
+compact absorbers. For example, designers are continually improving
+absorber efficiencies by increasing absorber gas velocities in the
+range of 5 m/s (15 feet/s) and greater. Velocities of 6.1 m/s (20
+feet/s) have been demonstrated.8 By contrast, earlier systems'
+design capacities were based on absorber flue gas velocities of 3
+m/s (10
+feet/s). In addition to smaller absorbers, single absorbers
+commonly serve multiple boilers, reducing the overall footprint of
+the FGD retrofit. To date, a single absorber has been successfully
+installed to serve up to 900 MWe of capacity in the U.S. while even
+larger absorber modules (i.e. 1000 MWe and greater) are now being
+offered for purchase overseas.
+Space for an FGD installation may also include areas for reagent
+processing and treatment of the waste or byproduct. Complete
+limestone processing (delivery, crushing, slurry preparation,
+reagent feed equipment, etc.) requires as much as 2 to 3 acres;
+however, this space is a one-time requirement and does not increase
+with increasing FGD capacity being served. Conservatively, when
+on-site reagent processing is selected, an additional 2.5 acres for
+an entire facility will be sufficient. While limestone processing
+can be performed at the facility, purchased powdered limestone is
+an option that also reduces or eliminates the requirement for
+on-site reagent preparation and other equipment, as well as the
+space these processes would occupy. Ultra-fine limestone has been
+demonstrated as an optional enhancement over typical limestone
+reagent feed.17 In areas where the ability to deliver limestone on
+a continuous basis during winter months may be limited, storage of
+limestone may be needed. For example, a 30-day supply of limestone
+to feed a 500 MWe FGD system (95 percent control efficiency, 85
+percent capacity, 4 percent sulfur coal) will require approximately
+40 by 40 m (120 by 120 foot) storage area to handle approximately
+23,000 tons of limestone.
+Traditionally, FGD systems have produced a solid waste product
+that can be sent to a landfill, or an increasingly attractive
+alternative is to treat the byproduct for the manufacture and sale
+of gypsum. If dewatering is required, typically 1-acre will be
+needed for an entire facility regardless of the amount of FGD
+capacity being served. One approach to improving sorbent
+utilization is recycling the spent sorbent for multiple exposure to
+the SO2 in the flue gas. The result is less unreacted sorbent and
+smaller quantities of end product.18 Improved performance and
+alternative reagents are becoming common. By the mid-1990's, at
+least one FGD vendor was supplying a system that took advantage of
+a water treatment system's precipitated calcium and magnesium
+carbonates that produced a high quality, fine calcium and magnesium
+carbonate FGD reagent. In addition to reducing the facility's
+dependence on limestone, this process also reduced equipment
+required for limestone handling and milling.4
+More efficient use of water in modern systems has almost
+completely removed the need for dewatering and containment ponds.
+Typically, purge streams are used if the wastewater contains high
+levels of chlorides. However, usually water is either evaporated
+from the system or remains in the by-product or waste. Techniques
+for wastewater minimization or elimination are commonly available.
+For example, many FGD systems repeatedly cycle the cooling tower
+blow-down before being treated in the wastewater system. As a
+result, the wastewater has a high solids content as well as high
+alkalinity for improved performance. Since large amounts of water
+are evaporated during this cycling, this method also benefits from
+reduced effluent that requires treatment by a wastewater
+system.16
+While water treatment of FGD effluent was once a concern,
+contemporary FGD systems are much more effective in limiting
+production of waste water and can achieve zero, or near-zero,
+wastewater discharge.9 Many of the wastewater advances being used
+outside of the U.S., including conserving blowdown in the absorber
+vessel primarily for chloride control, are now being used or
+considered in the U.S. For example, the 446 MWe Hunter Unit 3
+(operated by PacifiCorp) installed a wet FGD limestone reagent
+system in 1983; and, by use of mechanical draft cooling towers, the
+plant is zero-discharge for waste water. The FGD system operates at
+0.12 lb SO2/MMBtu and is designed for 90 percent SO2 removal. An
+additional example of zero wastewater discharge is the 446 MWe
+Craig Units 1 & 2 (installed 1980) that are designed for 85
+percent SO2 removal and also employ limestone reagent and
+mechanical draft cooling towers.
+`Ü~éíÉê=P
+
+
+
+
+klu=`çåíêçä=qÉÅÜåçäçÖó=oÉíêçÑáíë
+In this chapter, retrofit of SCR will be assessed for coal-fired
+electric utility boilers that would be affected by a multipollutant
+regulation. SCR is the NOX control technology that is expected to
+have the greatest impact on future utility boiler NOX emissions and
+is the most difficult NOX control technology to install. It is,
+therefore, the most important NOX control technology to understand
+from both a NOX reduction and resource requirement perspective.
+
+PKN póëíÉã=e~êÇï~êÉ
+The SCR process operates by reacting ammonia with NOX in the
+exhaust gas in the presence of a catalyst at temperatures of around
+315 to 370 ºC. For most applications, this temperature range makes
+it necessary to locate the SCR reactor adjacent to the boiler -
+immediately after the boiler and before the air preheater as shown
+in Figure 3-1. An infrequently used alternative approach is to
+locate the SCR after the FGD. This approach, however, increases
+operating costs, as it requires additional heating of the gas. By
+locating the SCR reactor as in Figure 3-1, it is often necessary to
+install the catalyst reactor in an elevated location, which may
+result in a structure hundreds of feet tall. Figure 3-2 shows the
+configuration of the SCR that was retrofit onto AES Somerset
+Station, a 675 MWe boiler already equipped with an electrostatic
+precipitator (ESP) and wet FGD system. In this common installation,
+the SCR reactor is installed on structural steel that elevates it
+above existing ductwork and the ESP (designated "precipitator" in
+the Figure 3-2). In the lower right corner of Figure 3-2, an image
+of a person provides a perspective of the size of the SCR
+installation.
+
+Figure 3-1. Gas path for coal-fired boiler with SCR, ESP, and
+FGD.
+
+The SCR system reduces NOX through a reaction of ammonia and NOX
+in the presence of oxygen and a
+catalyst at temperatures around 315 to 370 °C (600 to 700
+ºF). The products of this reaction are water
+vapor and nitrogen. The catalyst is mounted inside an
+expanded section of ductwork and is configured
+for the gas to pass through it as in Figure 3-2.
+
+The major components of an SCR system include:
+■ Ammonia or urea storage
+■ Ammonia vaporization system (if aqueous ammonia is used)
+■ Urea to ammonia converter (if urea is used)
+■ Ammonia or urea metering and controls
+■ Dilution air blowers
+■ Ammonia injection grid
+■ Catalyst
+■ Catalyst reactor, ductwork and support steel
+■ Catalyst cleaning devices (soot blowers, sonic horns, etc)
+■ Instrumentation
+
+Except for the catalyst, most of the material/equipment used to
+assemble an SCR system is either standard mechanical and electrical
+components (pumps, blowers, valves, piping, heaters, pressure
+vessels, temperature and pressure sensors, etc.) or is largely
+manufactured for other power plant applications and has been
+adopted for use in SCR systems (cleaning devices such as soot
+blowers or sonic horns, gas analyzers, etc.). The catalyst,
+however, is a specialized product designed specifically for this
+purpose.
+The catalyst is typically a ceramic material that, in most
+cases, is either extruded into a ceramic honeycomb structure or is
+coated onto plates, as shown in Figure 3-3. The catalyst is
+assembled into modules at the factory. The modules are shipped to
+the site and installed into the SCR reactor in layers. Each layer
+of catalyst is comprised of several individual modules that are
+installed side-by-side.
+
+The material used in the largest quantity, aside from a catalyst
+or reagent, is steel. The amount of steel required for an SCR in
+the range of 300-500 MWe is about 800 to 1200 tons,20 or about 2.4
+to 2.6 tons per MWe. About 4,000 tons of steel is necessary for
+retrofit of two 900 MWe units (1,800 MWe total),20 or about 2.2
+tons per MWe. The steel used for an SCR includes large structural
+members, plates, and sheets. These steel pieces are used to
+fabricate the catalyst reactor, the ductwork, and the support
+steel. There is typically less of a requirement for corrosive
+resistant alloys for an SCR installation when compared to a
+scrubber installation. Steel is also needed for boiler
+modifications. In this case, large pieces of steam piping or other
+large steel boiler components may need to be replaced. The catalyst
+reactor is often fabricated on-site. Sections of the catalyst
+reactor and ductwork may be fabricated off-site and shipped in
+pieces to the site for final assembly, or they may be fabricated
+on-site into subassemblies and lifted into place during
+erection.
+If more than one boiler at a facility is to be retrofit with
+SCR, then some, but not all, equipment can be made common. For
+example, it may be possible, and is probably preferable, to have a
+common ammonia
+or urea storage facility. Reagent storage is probably the only
+major equipment item that lends itself to sharing between adjacent
+boilers. Therefore, there is some gained efficiency in the use of
+equipment at a site with multiple units. However, this gain in
+efficiency is generally small compared to the total project. The
+major synergy will be in construction equipment and in labor, as
+will be discussed in Sections 3.3 and 3.5, respectively.
+
+
+PKO `~í~äóëí=~åÇ=oÉ~ÖÉåíë
+An SCR system requires an initial and ongoing supply of
+catalyst. It also requires reagent. The reagent can be ammonia or
+urea. Most facilities to date have used ammonia; however, urea is
+becoming an increasingly popular reagent due to its inherent safety
+and the recent availability of systems to convert urea to ammonia
+on-site.
+
+
+`~í~äóëí
+The amount of catalyst required for an SCR system is directly
+proportional to the capacity (or gas flowrate) of the facility, if
+all other variables are equal. The actual amount of catalyst for
+any specific plant depends upon several parameters; in particular,
+the amount per MWe (measured in m3 per MWe) for a given level of
+reduction and lifetime will fall within a general range. Therefore,
+it is possible to make an estimate of how much catalyst would be
+necessary to retrofit a particular facility or a large number of
+facilities if the total capacity is known. It is assumed that most
+SCR systems to be retrofit onto electric utility boilers will be
+designed for about 90 percent reduction. For most boilers, this
+level of reduction may initially require about 0.90 to 1.3 m3 of
+catalyst for each MWe of coal-fired boiler capacity.18,21,22 For
+example, a 500 MWe plant would be expected to have about 450 to 650
+m3 of catalyst. The amount of catalyst for a particular situation
+will vary somewhat depending on the catalyst supplier and the
+difficulty of the application. At the 675 MWe AES Somerset Boiler,
+90 percent NOX reduction was achieved with SCR using 897 m3 of
+plate catalyst,19 or about 1.33 m3 per MWe. This unit fires 2.5
+percent sulfur coal. At each of the 745 and 755 MWe Montour Units
+1&2, 671 m3 of ceramic catalyst were used,22 or about 0.89 m3
+per MWe. This unit fires 1.5 percent sulfur coal that can have
+arsenic levels as high as 100 ppm (limestone injection is used to
+reduce gaseous arsenic concentration in the furnace). The amount of
+catalyst will tend to be lower in situations that are less
+challenging, such as with lower sulfur coals or situations expected
+to have lower gaseous arsenic concentration (gaseous arsenic is a
+catalyst poison that originates in the coal; it will reduce the
+lifetime of the SCR catalyst). Hence, less than 0.90 m3 per MWe may
+be sufficient in some cases.
+The catalyst is typically loaded in three or more layers. This
+permits replacement of sections of the catalyst as activity is
+reduced. The advantage of this approach is that it permits lower
+overall catalyst usage over the economic lifetime of the plant.
+Normally, room for an extra layer is provided, so a fourth layer
+can be added, if necessary. At the first catalyst addition
+(typically, after about 24,000 operating hours), the fourth layer
+will be filled or half filled. Once the SCR reactor is full, layers
+of catalyst are replaced after catalyst activity drops to a minimum
+level. At the first catalyst replacement, new catalyst will replace
+the original first layer; at the next catalyst replacement, new
+catalyst will replace the original second layer, and so on. EPA
+modeling projections conservatively assumed that one layer of
+catalyst is replaced for every 15,000 - 20,000 hours of operation
+for coal-fired units. Therefore, after the initial installation,
+there is a need to replace roughly one fourth of the total catalyst
+reactor volume every 24- 32 months or so - or conservatively about
+1/8 of the installed volume should be replaced each year for the
+coal-fired installations.
+The catalyst may also be regenerated rather than replaced.23
+This will reduce the amount of new catalyst that must be purchased.
+However, due to the limited experience with this method, it will be
+assumed that the catalyst is replaced according to the catalyst
+management plan.
+oÉ~ÖÉåíë The amount of reagent consumed in the SCR process is
+directly proportional to the amount of NOX reduced. Although
+ammonia is the chemical that actually participates in the chemical
+reaction, some suppliers have developed equipment to convert urea
+to ammonia on-site. According to one supplier of urea-to-ammonia
+converters, each mole of urea within the conversion system is
+converted to two moles of ammonia.24 For example, reducing one
+pound of NOX will require roughly 0.176 kg of ammonia or about
+0.312 kg of urea. This includes a ½ percent increase in reagent
+demand due to ammonia slip and a five percent increase to account
+for a small amount of nitrogen dioxide (NO2) in the flue gas.
+Therefore, for any given plant size, the amount of catalyst and
+reagent consumption can be estimated. For a 500 MWe plant reducing
+NOX from 0.50 lb/MMBtu to 0.05 lb/MMBtu and 85 percent capacity
+factor (this is conservatively high for most coal boilers),
+approximately 3,400 tons/yr of ammonia (anhydrous equivalent) or
+about 6,100 tons/yr of urea (as 100 percent urea) would be needed.
+The same 500 MWe plant would have around 450-650 m3 of catalyst
+with roughly 120-160 m3 replaced about every three years. This is,
+if a third of the initial catalyst loading must be replaced, on
+average, every 15,000 to 20,000 operating hours, then 0.015 to
+0.0289 cubic meters per MWe per 1000 hours must be replaced.
+
+
+PKP `çåëíêìÅíáçå=bèìáéãÉåí
+Construction equipment needed for installation of an SCR
+includes standard construction equipment - welders, excavation
+equipment, concrete pouring equipment, cranes, etc. In some cases,
+installers may use tall-span heavy-lift cranes. These cranes are
+capable of lifting heavy loads, as much as 100 tons or more,
+several hundred feet. The advantage of this crane type is realized
+when lifting assembled sections of catalyst reactor or other large
+pieces high off the ground. If lower capacity cranes are used,
+smaller pieces must be lifted, which means that less
+pre-fabrication is possible and more assembly must be done in
+place. Less pre-fabrication could lengthen the necessary boiler
+outage somewhat. Although the availability of the largest cranes is
+reported to about 60 or more, about 12 new cranes can be supplied
+every six months.25 It has been reported that, in some cases, it
+has been necessary to go further away from the plant to source
+cranes with adequate lift and reach capacity. In other cases,
+engineers found that by changing the design/fabrication method to
+meet the available crane, the project could be managed with lower
+capacity cranes (lifting smaller pieces).26,27 If more than one
+boiler is retrofit at one facility, then the crane can be used for
+both boilers, saving cost and time when compared to boilers
+retrofit separately. It is important to note that in many cases the
+erection method is not limited by the available crane, but is
+limited by the access to the plant (For example, can large sections
+be delivered by barge, rail, or roadway?) and by the available
+lay-down area for material and construction equipment on site. At
+many facilities, there is inadequate area to prefabricate large
+sections. In some instances, transportation routes to the facility
+do not permit transporting large, pre-assembled equipment to the
+site. In such cases, it will not be possible to do much
+pre-assembly, and a smaller, less expensive crane may be adequate.
+As a result, the type of crane that is best for a particular SCR
+installation frequently is not the largest crane available. The
+crane selected for a project will be determined as part of an
+overall construction plan developed to optimize all of the
+available resources - labor, material, and equipment - for a
+particular project.
+The need to lift material to high elevations is a result of the
+location of the SCR - often above existing ductwork and adjacent to
+existing equipment. Figure 3-2 provided one good example of this.
+It may be necessary to move existing equipment, such as the air
+preheater, in order to accommodate the addition of the SCR reactor.
+As a result, every retrofit is a custom fit. However, engineers
+have been very innovative when installing these systems, even on
+facilities that apparently had little room available for the SCR.
+Hence, the physical size of the technology has not been
+limiting.
+
+
+PKQ fåëí~ää~íáçå=qáãÉ
+Implementation of a NOX control technology at a plant involves
+several activities contingent upon each other. These activities may
+be grouped under the following phases of an implementation project:
+(1) conducting an engineering review of the facility and awarding a
+procurement contract; (2) obtaining a construction permit; (3)
+installing the control technology; and (4) obtaining an operating
+permit.
+Exhibit A-3 in Appendix A depicts the timeline expected for
+completing a single unit installation of SCR. Completion of some of
+the activities is contingent upon completion of some other
+activities. For example, construction activities cannot commence
+until a construction permit is obtained. In general, the SCR
+implementation timeline appears to be driven primarily by the
+engineering activities (i.e., design, fabrication, and
+construction).
+
+båÖáåÉÉêáåÖ=oÉîáÉï
+As shown in Exhibit A-3 in Appendix A, an engineering review and
+assessment of the combustion unit is conducted in the first phase
+of technology implementation to determine the preferred compliance
+alternative. During this phase, the specifications of the control
+technology are determined, and bids are requested from the vendors.
+After negotiating the bids, a contract for implementing the NOX
+control technology is awarded. The time necessary to complete this
+phase is approximately four months for SCR.
+
+
+`çåëíêìÅíáçå=mÉêãáí
+Before the actual construction to install the technology can
+commence, the facility must receive a construction permit from the
+applicable state or local regulatory authority. The construction
+permit process requires that the facility prepare and submit the
+permit application to the applicable state or local regulatory
+agency. The state or local regulatory agency then reviews the
+application and issues a draft approval. This review and approval
+process is estimated to take about six months. The draft
+construction permit is then made available for public comment.
+After any necessary revisions, a final construction permit is
+issued. The actual time needed will depend on the size and
+complexity of the project and the local procedures for issuing a
+permit. Exhibit A-3 in Appendix A shows that nine months are
+allowed for the construction permit. This is expected to be ample
+time. In one case, only about 4-5 months were needed for obtaining
+the construction permit,26 and only six months were needed to
+obtain the construction permit for retrofit of two 900 MWe boilers
+in another case.21 Shorter periods for construction permit
+authorization would allow earlier commencement of construction
+activities and could potentially shorten the overall schedule.
+
+
+`çåíêçä=qÉÅÜåçäçÖó=fåëí~ää~íáçå
+In the second phase, the control technology is installed. This
+installation includes designing, fabricating, and installing the
+control technology. In addition, compliance testing of the control
+technology is also completed in this phase. Most of the
+construction activities, such as earthwork, foundations,
+process
+electrical and control tie-ins to existing items, can occur
+while the boiler is in operation. The time needed to complete this
+phase of an implementation project is about 17 months for SCR.
+An important element of the overall control technology
+implementation is the time needed to connect, or hook up, the
+control technology equipment to the combustion unit because the
+boiler typically must be shut down for this period. SCR connection
+can occur in a three to five week outage period.28 In some cases
+longer outages are needed. When Babcock & Wilcox retrofitted
+the 675 MWe AES Somerset boiler, the outage began on May 14, and
+the boiler was returned to service on June 26 - about a six-week
+outage.19 One major SCR system supplier in the U.S. stated that
+they would want in the range of one to two months of boiler down
+time and have never required more than two months.27 Difficulty is
+increased as the extent of boiler modifications necessary to fit
+the SCR into the facility is increased. A German SCR system
+supplier installed SCR on a significant portion of the German
+capacity within outage periods consisting of less than four
+weeks.11 Based upon outages in this time range for SCR connection,
+electricity-generating facilities would normally be able to plan
+the SCR connection to occur during planned outages to avoid
+additional downtime. Some facility owners have been innovative in
+their construction plans to minimize down time. At the Tennessee
+Valley Authority's (TVA's) 700 MWe Paradise Unit 2, it was
+necessary to demolish the existing ESP with the unit on line. TVA
+installed a construction bypass to send gas from the air preheater
+outlet directly to the FGD, while the ESP was being demolished and
+the SCR reactor erected in its place.11 However, in more difficult
+retrofits, down time might be impacted in a significant way. In
+some cases it may be desirable to plan a brief outage in advance of
+the hook-up to install structural steel through sleeves placed in
+existing equipment, such as the ESP, or to relocate existing
+equipment that would otherwise interfere with erection of the SCR.
+This permits erection of the catalyst reactor above existing
+equipment while the unit is on line.26 However, because an SCR
+project is expected to extend close to two years (see Exhibits A-3
+and A-4 in Appendix A), it should be possible to incorporate this
+work into planned outages, which would have occurred regardless of
+whether an SCR was to be installed.
+
+
+léÉê~íáåÖ=mÉêãáí
+Facilities will also need to modify their Title V operating
+permit to incorporate the added control devices and the associated
+reduced emission limits. In some states, an interim air-operating
+permit may need to be obtained until the Title V permit is
+modified. The operating permit modification process consists of
+preparation and submission of the application to the applicable
+state or local regulatory agency. As shown in Exhibit A-3 in
+Appendix A, this process can occur simultaneously with the
+processing of the construction permit application. The process of
+transitioning from the construction permit to the operating permit
+varies among states and appears to be somewhat unclear due to the
+infancy of the Title V operating permit process. Nonetheless, based
+on discussions with several states, the application review process
+is estimated to take approximately 9-11 months. The Title V
+operating permit must also be made available for public comment.
+Following public comment, the Title V operating permit is not made
+final until compliance testing on the control device is completed.
+Therefore, the total estimated time to modify the Title V operating
+permit is about 17 months, plus the additional time to complete
+compliance testing.10
+Based on the estimated time periods needed to complete each of
+the four phases described above, the estimated time period to
+complete the implementation of SCR on one combustion unit is about
+21 months. This time period is shown in Exhibit A-3 in Appendix A.
+However, depending upon the specifics of the project, the time
+needed could vary by a couple of months. For example, at AES
+Somerset station, the time to complete the retrofit from the point
+of contract award was nine months.19 Assuming four months of work
+prior to contract award, a total elapsed time of 13 months would
+have been necessary to retrofit this 675 MWe boiler. Another
+facility, Reliant Energy's Keystone plant, has
+two 900 MWe, 8-corner, T-fired combustion engineering units that
+burn approx 1.5 percent sulfur bituminous coal. Reliant intends to
+reduce the NOX from a baseline of 0.40 lb/MMBtu to 0.04 lb/MMBtu.
+The permit to construct was received in approximately six months.
+The time from placing the order to completion of commissioning
+activities is 46 weeks for both units. However, preliminary
+engineering was accomplished earlier. Even if preliminary
+engineering and contract negotiation took as long as six to eight
+months, the total time for completing two 900 MWe units would be
+about 17 to 19 months.21 For the New Madrid plant, units 1 & 2
+(600 MWe each), the specifications were released to turnkey
+contractors in February 1998, the project specification was
+released in March 1998, the contract was awarded on June 26, 1998,
+and the first unit was in operation by February 2000. In this
+project, an option for a second unit was available (and was
+exercised), and air preheaters were replaced.29 Therefore, 21
+months should be a reasonable, and in some cases a conservative
+estimate of the total time necessary to retrofit a single utility
+boiler.
+Under the Clear Skies Act, EPA does not expect that SCR will be
+implemented at every facility. For those plants where EPA projects
+SCR retrofits will occur, EPA's projections reflect that these
+facilities will typically have 1 to 4 boilers retrofit per site.
+However, for one facility, seven SCR retrofits are projected to be
+installed by 2020. Exhibit A-4 in Appendix A examines a schedule
+for retrofitting a facility with multiple (seven) SCR retrofits.
+This examines the installation of the control device hook-up on a
+sequential basis. Installation is staggered by two to three months
+between sequential units to enable more efficient utilization of
+manpower and project management than if multiple units were
+connected at one time. This approach also assures that at least
+about 83 percent of the plant capacity is available at any given
+time (only one boiler is shut down), and during most of the time
+there is no impact to the plant availability at all. This approach
+requires a total time of 35 months for seven SCR retrofits. An
+alternative approach might be to schedule outages to avoid any
+outage during high electricity demand periods. This might extend
+the total elapsed time by about four months. However, because there
+is a substantial amount of work that can be accomplished with the
+boiler on line, the additional time would be much less than the
+number of high electricity demand months that are accommodated by
+this approach. Another alternative approach would involve retrofit
+of more than one unit at a time during low-demand periods and
+avoiding any outage during high demand periods. This alternative
+could result in a faster project completion, but would have less
+even labor utilization, which is an important cost-benefit
+tradeoff.30
+In summary, the total time needed to complete the design,
+installation, and testing at a facility with one SCR unit is about
+21 months; at a facility with multiple SCR (seven) units, total
+time is approximately 35 months. Based on these timelines, it is
+estimated, in principal, that the NOX controls needed to comply
+with a multipollutant strategy can be met provided that: (1) an
+adequate supply of materials and labor is available, and (2) the
+control technology implementation process begins at least about 35
+months prior to the date controls must be in place. However,
+ideally, longer than 35 months would allow for all of the retrofits
+to occur over a period of several years so that facility owners can
+properly plan outages and suppliers can properly plan for resource
+availability.
+
+
+
+PKR i~Äçê
+The installation of an SCR system requires a significant amount
+of labor. Most of the labor is necessary for the construction of
+the facility. However, engineering and project management labor are
+also needed for the project. The total construction labor for an
+SCR system of 500 MWe is in the range of 333,000 to 350,000
+man-hours.22,27 Typically, approximately 40-50 percent of the labor
+is for boilermakers.31 However, the percent of labor for
+boilermakers will vary from one project to another, with 40-50
+percent
+being an average for several projects.32 Some projects require a
+higher degree of boiler integration and less erected steel and,
+therefore, have a higher percentage of boilermaker labor. Other
+projects require extensive steel erection with less boiler
+integration and will, therefore, have a lower percentage of
+boilermakers versus other trades. For a 500 MWe plant, the
+construction labor would be about 340,000 man-hours, of this
+roughly 136,000-170,000 man-hours would be boilermaker activity.
+Engineering and project management are about 5 percent of the total
+cost, while construction is about 50 percent of the total cost.19
+If labor rates for engineering and project management is 50 - 100
+percent greater than construction labor, then about 17,000 to about
+28,000 man-hours of engineering and project management are needed
+for the project. Total labor man-hours of construction and
+engineering labor are then about 365,000 man-hours for a single 500
+MWe unit.
+Construction man-hours are approximately proportional to the
+tons of steel fabricated. As noted earlier, the material needed for
+multiple boiler installations is generally not reduced
+significantly over the projects if they were installed separately.
+However, if more than one system is installed at a site, some
+significant efficiencies result.
+When there are multiple units retrofit at one site only, one
+mobilization is needed for all of the boilers, only one
+construction supervisor is required, and equipment is more
+efficiently used. As a result, 15-20 percent efficiencies can be
+realized from these activities and can be planned into the
+project.22 Long-term projects, such as retrofits of more than one
+unit at one site, also lend themselves to additional efficiencies
+from learning curves. Learning curves result from productivity
+improvements over the duration of the project. Productivity
+measures the actual man-hours used versus those planned. A
+productivity value over 100 indicates that fewer man-hours are
+needed to accomplish the goal than expected. A labor productivity
+value of 110 means that 10 percent more work was accomplished for
+the level of labor expended than if a productivity value of 100 was
+achieved. There are examples of productivity improvements of 9 to
+19 percent during the project due to additional efficiencies gained
+from learning curves.30 If only 10 percent or less improved
+efficiency results from planned reduced labor and from productivity
+improvements that occur after the project commences, the labor for
+
+each additional 500 MWe plant might be reduced from 340,000
+man-hours to about 310,000 man-hours, or about 2,170,000
+construction man-hours for seven 500 MWe units at one plant.
+For a site with multiple units, the total engineering and
+project management man-hours are likely to be significantly less
+than the total if each unit were addressed separately. This is
+because there will be many common site issues that need to be
+addressed and engineered only once. Procurement contracts need to
+be negotiated only once, and only one project management team is
+needed over the duration of the contract. However, it is difficult
+to say how much engineering will be reduced, because adjacent units
+may be very similar or very different. One approximation is to make
+total engineering, project management, and testing proportional to
+the project duration. Thus, a seven-unit facility would require
+about 42,000 man-hours of engineering and project management.
+Based upon the discussion from sections 3.1 through 3.5, the
+total resources needed for a single 500 MWe plant and a site with
+seven 500 MWe plants is shown on Table 3-1.
+
+q~ÄäÉ=PJNK==bëíáã~íÉÇ=oÉëçìêÅÉë=kÉÉÇÉÇ=Ñçê=páåÖäÉ=~åÇ=jìäíáéäÉ=p`o=oÉíêçÑáíë
+= råáíë låÉ=_çáäÉê pÉîÉå=_çáäÉêë
+`~é~Åáíó=oÉíêçÑáí eÉ~í=o~íÉ `~é~Åáíó=c~Åíçê mÉêÅÉåí=oÉÇìÅíáçå
+råÅçåíêçääÉÇ=klu `çåíêçääÉÇ=klu kl =oÉÇìÅÉÇLóê
+u
+=
+píÉÉä
+`~í~äóëí=J=áåáíá~ä=Ñáää
+qáãÉ=ÄÉíïÉÉå=Ñáääë
+`~í~äóëí=J=êÉéä~ÅÉãÉåí=~ääçï~åÅÉ
+^ããçåá~=pâáÇë
+^ããçåá~=píçê~ÖÉ
+=
+i~Äçê
+====mêçàÉÅí=aìê~íáçå
+====båÖáåÉÉêáåÖLmêçàK=jÖíK
+====`çåëíêìÅíáçå
+====qçí~ä=i~Äçê
+=
+^ããçåá~=`çåëìãéíáçå EÉèìáî~äÉåí=^åÜóÇêçìëF
+rêÉ~=bèìáî~äÉåí
+
+ãçåíÜë ON PRÄ ã~åJÜçìêë ORIMMM QOIMMM ã~åJÜçìêë PQMIMMM
+OINTMIMMM ã~åJÜçìêë PSRIMMM OIONOIMMM
+íçåëLóê PIQMM OPIMMM
+íçåëLóê SINMM QOITMM
+~
+
+=råÇÉê=íÜÉ=`äÉ~ê=pâáÉë=^ÅíI=bm^=ãçÇÉäáåÖ=éêçàÉÅíë=íÜ~í=íÜÉ=éä~åí=ïáíÜ=íÜÉ=ã~ñáãìã=åìãÄÉê
+
+
+çÑ=p`o=êÉíêçÑáíë=áë=çåÉ=éä~åí=ïáíÜ=ëÉîÉå=ÄçáäÉêë=~åÇ=~=Å~é~Åáíó=çÑ=OIQMM=jtÉK
+Ä
+
+=j~ó=êÉèìáêÉ=~å=~ÇÇáíáçå~ä=Ñçìê=ãçåíÜë=íç=~îçáÇ=ëÅÜÉÇìäáåÖ=çìí~ÖÉë=Ñçê=Åçåíêçä=Üççâìé
+ÇìêáåÖ=éÉ~â=ÉäÉÅíêáÅáíó=ÇÉã~åÇ=ãçåíÜëK
+
+PKS pé~ÅÉ=oÉèìáêÉãÉåíë
+An SCR system for a coal-fired boiler may have a negligible
+impact on the footprint of the boiler. This is because the SCR is
+frequently installed in an elevated position near the boiler and
+well off of the ground. The choice of installing the SCR reactor
+near the ground level or elevated well above ground level depends
+upon which configuration is viewed as most cost effective while
+considering installation cost and operating cost. Locating the SCR
+in an elevated location near the boiler economizer and air
+preheater is frequently done to minimize the length of ductwork
+(with the associated pressure loss) and because no additional real
+estate is necessary for the SCR reactor. When this type of
+installation is performed, the SCR reactor is installed atop a
+steel structure that must be erected above existing equipment, such
+as the electrostatic precipitator. This is an approach that is
+frequently used because engineers have developed cost effective
+methods to install the SCR reactor while addressing potential
+interferences from existing equipment. Section 3.4 of this document
+discussed how brief outages, in advance of the outage to connect
+the SCR, were taken to address interferences and permit SCR
+reactor
+construction with the unit on line. In some cases, however, the
+preferred approach has been to locate the SCR reactor on the ground
+near the boiler and to route the ductwork to and from the SCR
+reactor. This is the approach that was taken on the retrofit of
+PSNH Merrimack Unit 2, the first retrofit of a coal-fired boiler in
+the United States. In this case there was a large amount of space
+near the boiler to permit this approach. Regardless of where the
+SCR reactor is located, ductwork from the economizer outlet to the
+SCR reactor and back to the air preheater inlet must be
+accommodated. In cases where space for this ductwork was extremely
+limited, the air preheater was relocated. However, relocation of
+the air preheater(s) usually is not necessary. Only a few
+installations have required the relocation of the air
+preheater.
+The other item that must be located is the reagent storage
+system. This usually does not take up as much room as the SCR
+reactor itself. However, the storage and unloading system must be
+located near rail or truck access to permit delivery of reagent. In
+some cases, long piping is run from the storage and unloading area
+to the SCR reactor. In these cases, the piping may be insulated and
+heat traced to prevent condensation of the ammonia vapor.
+
+
+
+
+`Ü~éíÉê=Q jÉêÅìêó=`çåíêçä=qÉÅÜåçäçÖó=oÉíêçÑáíë
+Under a multipollutant control scenario, mercury emissions would
+be controlled from coal-fired power plants by equipment that
+reduces emissions of other pollutants (e.g., scrubbers and SCR) and
+the use of sorbent injection. Other methods are being investigated
+(such as oxidation and scrubbing technologies), which utilize
+ozone, barrier discharge, and catalyst and/or chemical additives in
+combination with existing technologies. To the extent that other
+technologies are developed, these would provide more options for
+compliance, so their introduction would serve to reduce issues
+related to resource requirements of installing controls. Similarly,
+with regard to sorbent injection, sorbents other than activated
+carbon (AC) may ultimately prove to be superior for this
+application in terms of cost or collection efficiency performance
+and may reduce the likely demand for ACI from what is projected
+here. Nevertheless, all of the sorbent-based approaches use similar
+hardware to inject sorbent as ACI. Therefore, the assumption of ACI
+as a control method will provide a fairly representative indication
+of the demand for hardware and construction resources regardless of
+which sorbents are used in the market. The assumption of ACI as a
+mercury control method will be more conservative with regard to
+sorbent consumption since it will assume that all of the facilities
+installing sorbent injection for mercury control require AC.
+
+QKN póëíÉã=e~êÇï~êÉ
+The AC is typically injected at the lowest temperature available
+that is upstream of a particle-collecting
+device because experience has found that mercury collection
+is most efficient at lower temperatures. On
+a boiler equipped with an ESP or a fabric filter (FF) for
+particle collection, the configuration would look
+as in Figure 4-1. Collection of mercury is somewhat more
+efficient when a FF is used for particle
+collection because of the higher gas-sorbent contact in the
+filter cake. Another approach is to have
+injection downstream of an ESP, which would collect most of
+the coal fly ash, and upstream of a fabric
+filter (FF), which would mostly capture sorbent. This
+approach is shown in Figure 4-2. The advantages
+of this approach are that greater mercury capture occurs
+because of the additional mercury capture that
+can occur on the FF filter cake; and, because the ash is
+largely separated from the sorbent, more efficient
+sorbent utilization is possible through sorbent recycling.
+This approach could be implemented through
+addition of a Pulse Jet Fabric Filter (PJFF) when ACI is
+installed.
+
+The ACI System consists of the following components, as shown in
+the simplified schematic of Figure
+4-3:
+
+■ A silo for storing the sorbent
+■ A metering system for metering the amount of sorbent
+injected into the ductwork - typically a rotary
+
+metering valve ■ A pneumatic or mechanical conveying system for
+moving the sorbent to the injection location
+■ An injection system for dispersing and distributing the
+sorbent in the boiler ductwork. For many facilities, injection of
+sorbent will occur after the air preheater and upstream of the ESP
+or FF. This injection system is principally made from piping that
+may split off to manifolds for injecting in multiple locations.
+Special nozzles or other hardware are generally not required.
+■ A blower to provide a carrying medium
+■ Associated piping for the blower and the distribution
+system
+■ A humidification system may be used in some cases to reduce
+temperature and improve mercury capture. The humidification system
+will typically consist of water spray injectors (possibly air
+atomized) located upstream of the ACI injectors, a grid for the
+spray injectors, and a water supply system that will include
+pumping and metering systems.
+■ A control system that may utilize a programmable logic
+controller (PLC) or may be accommodated by the plant distributed
+control system (DCS)
+
+
+Stack
+
+Activated Carbon Sorbent Storage Silo
+
+From air preheater Exhaust Gas Duct
+
+
+To ESP Or FF
+Regardless of boiler size, an ACI system will require the same
+equipment. The principal differences will be the size of the
+sorbent storage silo, the size of the metering and conveying
+system, and the size and number of injectors for the sorbent
+injection system.
+There are also several other combinations that may be used,
+including combinations of ACI with spray dryer and FF and
+combinations of ACI with FGD.32 The various combinations will be
+discussed further in Section 4.2. In each of these combinations,
+the actual equipment associated with the ACI system is similar. The
+particular combination of equipment chosen for mercury reduction at
+a particular facility is largely determined by the existing
+equipment and conditions at the facility. However, most facilities
+are currently equipped with ESPs, and some are equipped with FFs.
+Thus, the most likely scenario for application of ACI is in a
+configuration with ESP or FF.
+Most existing facilities have ESPs for particle emission control
+and do not have any SO2 removal technology. Therefore, injection of
+sorbent, and possibly water for humidification, will most often be
+performed downstream of the air preheater and upstream of the
+electrostatic precipitator, where the gas temperature is typically
+in the range of 280-300 ºF. In this part of the boiler ductwork,
+there are no water wall tubes. Therefore, the mechanical interface
+between the ACI system and the boiler is through the duct walls,
+and high-pressure boiler tubing will not be affected by the
+retrofit of ACI.
+Some companies offer other sorbent-based methods for reduction
+of mercury emissions; however, the equipment used is very similar
+in scope to the equipment used for ACI.32
+The majority of the equipment used for an ACI system is produced
+from standard mechanical or electrical hardware that is sold for a
+wide range of purposes. The total amount of steel is relatively
+small in comparison to an SCR or an FGD for a 500 MWe plant.27 The
+estimated steel requirement for a 500 MWe ACI system is indicated
+in Table 4-1.33 Since the largest item contributing to the steel
+requirement is the storage silo, it will be assumed that the total
+steel requirement is proportional to the capacity of the unit, as
+the storage requirement would be proportional to the capacity. For
+multiple units at one site, all but the silo would certainly need
+to be duplicated. It is possible that there might be one large silo
+serving several units with more than one feed off of it, or, that
+individual silos may be needed. In any event, the synergies in
+reducing total steel requirement over what would be needed for
+individual units is expected to be small.
+
+q~ÄäÉ=QJNK==bëíáã~íÉÇ=píÉÉä=oÉèìáêÉãÉåí=Ñçê=RMM=jtÉ=^`f=póëíÉãPP
+fíÉã bëíáã~íÉÇ=tÉáÖÜí=EäÄëF
+NÒ=pÅÜK=QM=máéÉI=NRMM=Ñí QIMMM OÒ=ëíÉÉä=íìÄáåÖ=NRMM=Ñí QIRMM
+jáëÅ=píêìÅíìê~ä=pìééçêí=píÉÉä RIMMM
+mêçÅÉëë=bèìáéãÉåí=Eãçëíäó=ëíÉÉäF NRIMMM píçê~ÖÉ=páäç POMIMMM qçí~ä
+PRMIMMM=äÄë=ENTR=íçåëF
+
+
+QKO oÉ~ÖÉåí
+AC is assumed to be the principal reagent used to absorb the
+mercury in the exhaust gases. Most of the information on the AC
+injection requirements for a coal-fired power plant is from pilot
+studies and demonstrations of ACI technology. Table 4-2 shows AC
+injection rates estimated from the data provided a comprehensive
+assessment of ACI under a range of scenarios.34 For example, to
+achieve 80 percent mercury reduction from a low sulfur bituminous
+coal using an ACI system with humidification will require a
+treatment rate of about 8 lb/million acf (MMacf).34 If a pulsejet
+FF (PJFF) is used downstream, the sorbent injection rate can be
+reduced to about 4.6 lb/MMacf. If the facility fires high sulfur
+coal and is equipped with FGD, then the estimated sorbent rate is
+between 6.1 lb/MMacf to 2.0 lb/MMacf, without and with a PJFF,
+respectively. For a high sulfur coal application, humidification
+would not be performed due to risk of acid condensation. Table 4-2
+summarizes estimated injection rates for a 500 MWe boiler under
+various scenarios.34 As shown, the injection rates vary
+substantially based upon the circumstances.
+Because combination of SCR and FGD are expected to have high
+mercury removal due to the SCR and FGD systems, those facilities
+that are so equipped are not expected to add ACI systems.
+There are really no synergies in consumption if multiple ACI
+units are installed at one site. Therefore, the total AC
+consumption at a plant will be roughly proportional to the total
+plant capacity equipped with ACI.
+
+q~ÄäÉ=QJOK==bëíáã~íÉÇ=^`=fåàÉÅíáçå=o~íÉë=Ñçê=~=RMM=jtÉ=_çáäÉêPQ
+bñ~ãéäÉ eÖ `ç~ä pìäÑìêI bñáëíáåÖ ^ÇÇáíáçå~ä fåàÉÅíáçå
+bëíK=^`=ê~íÉ=Ñçê=RMM=jtÉ=éä~åí êÉÇìÅíáçåI éÉêÅÉåí `çåíêçäë~
+bèìáéãÉåíÄ o~íáçI éÉêÅÉåí äÄLjj~ÅÑPQ äÄLÜê íçåëLóê=Å
+
+~
+
+=bpm=Z=ÉäÉÅíêçëí~íáÅ=éêÉÅáéáí~íçêX=cda=Z=ÑäìÉ=Ö~ë=ÇÉëìäÑìêáò~íáçåX=cc=Z=Ñ~ÄêáÅ=ÑáäíÉêX=p`o=Z=ëÉäÉÅíáîÉ=Å~í~äóíáÅ=êÉÇìÅíáçå
+Ä
+
+=pf=Z=ëçêÄÉåí=áåàÉÅíáçåX=tf=Z=ï~íÉê=áåàÉÅíáçåX=mgcc=Z=éìäëÉàÉí=Ñ~ÄêáÅ=ÑáäíÉê
+Å
+
+=qçåëLóê=Éëíáã~íÉÇ=~í=UR=éÉêÅÉåí=Å~é~Åáíó=Ñ~Åíçê=EäÄLÜê=G=UTSM=G=MKURLOMMMF
+
+
+QKP `çåëíêìÅíáçå=bèìáéãÉåí
+Construction equipment needed for installation of an ACI system
+includes standard construction equipment - welders, excavation
+equipment, concrete pouring equipment, cranes, etc. Since an ACI
+system is much smaller and uses substantially less steel than an
+SCR or FGD system, cranes and other lifting equipment can be of low
+to moderate lifting capacity. Blowers, the sorbent storage silo,
+and other equipment will be mounted on concrete pads or
+foundations. In most cases, the sorbent storage silo will be field
+erected; however, for some facilities that require less sorbent, a
+smaller, prefabricated silo may be installed. Steel erection and
+minor excavation and concrete work is necessary for an ACI system,
+and this work should not require any more than very common
+construction equipment. Piping for sorbent transport will typically
+be welded steel and can be erected in the field in many cases. It
+should not be necessary to relocate any existing boiler equipment
+to install an ACI system. Therefore, the construction effort and
+need for equipment is relatively modest compared to the more
+involved SCR and FGD projects.
+
+
+QKQ fåëí~ää~íáçå=qáãÉ
+Implementation of a control technology at a plant involves
+several activities contingent upon each other. These activities may
+be grouped under the following phases of an implementation project:
+(1) conducting an engineering review of the facility and awarding a
+procurement contract; (2) obtaining a construction permit; (3)
+installing the control technology; and (4) obtaining an operating
+permit.
+Exhibit A-5 in Appendix A depicts the timeline expected for
+completing a single unit installation of ACI. Completion of some of
+the activities is contingent upon completion of other activities.
+For example, construction activities cannot commence until a
+construction permit is obtained. In general, the ACI implementation
+timeline appears to be driven primarily by the engineering
+activities (i.e., design, fabrication, and construction).
+
+båÖáåÉÉêáåÖ=oÉîáÉï
+As shown in Exhibit A-5 in Appendix A, in the first phase of
+technology implementation, an engineering review and assessment of
+the combustion unit, is conducted to determine the preferred
+compliance alternative. During this phase, the specifications of
+the control technology are determined and bids are requested from
+the vendors. After negotiating the bids, a contract for
+implementing the control technology is awarded. The time necessary
+to complete this phase is approximately four months.
+
+
+`çåíêçä=qÉÅÜåçäçÖó=fåëí~ää~íáçå
+In the second phase, the control technology is installed. This
+installation includes designing, fabricating, and installing the
+control technology. In addition, compliance testing of the control
+technology is also completed in this phase. Most of the
+construction activities, such as earthwork, foundations, process
+electrical and control tie-ins to existing items, can occur while
+the boiler is in operation. The time needed to complete this phase
+of an implementation project is expected to be less than three
+months.33
+An important element of the overall control technology
+implementation is the time needed to connect, or hook up, the
+control technology equipment to the combustion unit. As a result of
+the minimal mechanical interface between the sorbent injection
+system and the boiler, retrofit of an ACI system will typically
+require a fairly short outage - one week or less.33,34 This brief
+outage is necessary to install injection hardware and to make any
+control system connections that may be necessary between the ACI
+control and the boiler control. Other equipment associated with the
+ACI system can be installed with the boiler on line, as it does not
+require any interfacing with the boiler and should not require
+moving any essential boiler equipment.
+It should be possible to complete a project in less than 4
+months from receipt of order.34 If construction and operating
+permits are included in the analysis, the project is likely to take
+longer than would be necessary only for engineering, supply,
+installation, and startup of the ACI system. This is because the
+permitting activities might become the time-limiting steps. In some
+localities, it is possible that the permitting activities will not
+be the limiting steps. In this case, a faster execution is possible
+than shown on Exhibit A-5 in Appendix A.
+
+
+léÉê~íáåÖ=mÉêãáí
+Facilities will also need to modify their Title V operating
+permit to incorporate the added control devices and the associated
+reduced emission limits. In some states, an interim air-operating
+permit may need to be obtained until the Title V permit is
+modified. The operating permit modification process consists of
+preparation and submission of the application to the appropriate
+state or local regulatory agency. As shown in Exhibit A-5 in
+Appendix A, this process can occur simultaneously with the
+processing of the construction permit application. The process of
+transitioning from the construction permit to the operating permit
+varies among states and appears to be somewhat unclear due to the
+infancy of the Title V operating permit process. Nonetheless, based
+on discussions with several states, the application review process
+is estimated to take approximately 38 weeks (9-10 months). The
+Title V operating permit must also be made available for public
+comment and is not made final until compliance testing on the
+control device is completed. Therefore, the total estimated time to
+modify the Title V operating permit is about 12 months, plus the
+additional time to complete compliance testing.10
+Based on the estimated time periods needed to complete each of
+the four phases described above, the estimated time period to
+complete the implementation of ACI on one combustion unit is about
+15 months, as shown in Exhibit A-5 in Appendix A. Since the
+permitting process limits the timeline, a faster permitting process
+will shorten the time necessary to install ACI on a single
+unit.
+Under the Clear Skies Act, EPA does not expect that ACI will be
+implemented at many facilities due to the co-benefit of mercury
+removal from other control technologies. For those plants where EPA
+projects ACI retrofits will occur, EPA's projections reflect that
+these facilities will either have 1 to 2 boilers retrofit per site.
+Exhibit A-6 in Appendix A examines a schedule for retrofitting a
+facility with multiple (two) ACI retrofits. This examines the
+installation of the control device hook-up on a sequential basis.
+Installation is staggered by one month between sequential units to
+enable more efficient utilization of manpower and project
+management than if multiple units were connected at one time. This
+approach requires a total time of 16 months.
+In summary, the total time needed to complete the design,
+installation, and testing at a facility with one ACI unit is about
+15 months, at a facility with two ACI units is approximately 16
+months. Based on these timelines, it is estimated that, in
+principle, the mercury controls needed to comply with a
+multipollutant strategy can be met provided that (1) an adequate
+supply of materials and labor is available and (2) the control
+technology implementation process begins at least 16 months prior
+to the date controls must be in place. However, ideally, longer
+than 16 months would allow retrofits to occur over a period of
+several years so that facility owners can properly plan outages and
+suppliers can properly plan for resource availability. Erection of
+a PJFF would typically take 16 to 20 months from award of contract
+to start up.35 If 4 months is added for pre-contract effort and 1-2
+months is provided for start up and commissioning, the total
+project duration would be anywhere from about 21 months to 26
+months. However, EPA's modeling under the Clear Skies Act projects
+that the units installing ACI will not be installing PJFFs.36
+
+
+
+QKR i~Äçê
+The man-hours of labor estimated to be required for supply of an
+ACI system are listed in Table 4-3, which includes a breakdown of
+man-hours by task.33 Craft labor for installation is also
+indicated.
+
+q~ÄäÉ=QJPK==bëíáã~íÉÇ=j~åJÜçìêë=Ñçê=pìééäó=çÑ=~å=^`f=póëíÉã=Ñçê=~=RMM=jtÉ=MKSB=p=_áíìãáåçìë=`ç~ä=_çáäÉê=ïáíÜ
+bpm=Ebñ~ãéäÉ=N=Ñêçã=q~ÄäÉ=QJQFPP
+q~ëâ j~åJÜçìêë
+lÑÑJpáíÉ=båÖáåÉÉêáåÖ=~åÇ=låJpáíÉ=qÉëíáåÖ NISMM
+fåëí~ää~íáçåI=ÉñÅÉéí=ëáäç=EáêçåïçêâÉêëI=éáéÉ=ÑáííÉêëI=ÉäÉÅíêáÅá~åëF
+NIOMM bêÉÅíáçå=çÑ=páäç=EáêçåïçêâÉêëI=éáéÉ=ÑáííÉêëF OIMMM
+qçí~ä=j~åJÜçìêëG QIUMM
+
+Gbëíáã~íÉÇ=íáãÉ=Ñçê=ÉåÖáåÉÉêáåÖI=ÇÉëáÖåI=ÉèìáéãÉåí=éêçÅìêÉãÉåíI=~åÇ=~ëëÉãÄäó=áë=S=ãçåíÜëK
+In summary, a 500 MWe boiler firing eastern bituminous coal with
+0.6 percent sulfur, an ESP, and no SCR or FGD, is estimated to
+provide the performance and require the resources listed in the
+first column of Table 4-4, and estimates of performance and
+resources needed for other types of fuels and boiler configurations
+are shown in the other columns. A boiler firing subbituminous coal
+and with only an ESP for particle collection and pollution control
+will require the most activated carbon consumption and the most
+steel for the ACI system. Table 4-5 shows the estimated performance
+and resources needed for a single and multiple (two) ACI retrofit
+on a 500 MWe boiler firing subbituminous coal and equipped with an
+ESP. As shown, as long as at least 16 months are provided for
+installation of ACI control technology,
+then there should be sufficient time for the technology to be
+installed. If a facility owner chose to install a Pulse-Jet Fabric
+Filter (PJFF) in addition to the ACI system for the purpose of
+improving sorbent utilization, the project time would necessarily
+be lengthened beyond this 16-month period to allow for the
+installation of the PJFF. As stated in section 4.4, the total
+duration for a PJFF retrofit is estimated to be anywhere from about
+21 months to 26 months, including pre-contract effort and start up
+and commissioning. Since the Clear Skies Act provides much more
+than 26 months of notice for any mercury control regulation, there
+should be adequate time for compliance even if some facilities
+install PJFFs.
+
+q~ÄäÉ=QJQK==bëíáã~íÉÇ=mÉêÑçêã~åÅÉ=~åÇ=oÉëçìêÅÉë=kÉÉÇÉÇ=Ñçê=páåÖäÉ=^`f=oÉíêçÑáí
+råáíë bñ~ãéäÉ=N bñ~ãéäÉ=O bñ~ãéäÉ=P bñ~ãéäÉ=Q bñ~ãéäÉ=R
+bñ~ãéäÉ=S bñ~ãéäÉ=T
+
+
+kçíÉW==^ååì~ä=Åçåëìãéíáçå=î~äìÉë=~êÉ=Éëíáã~íÉÇ=ìëáåÖ=UR=éÉêÅÉåí=Å~é~Åáíó=Ñ~ÅíçêK==eçìêäó=Åçåëìãéíáçå=î~äìÉë=~êÉ=~í=Ñìää=äç~ÇK===píÉÉä=~åÇ=i~Äçê=Çç
+åçí=áåÅäìÇÉ=ëíÉÉä=~åÇ=ä~Äçê=Ñçê=~=mgccI=áÑ=~ÇÇÉÇK
+
+q~ÄäÉ=QJRK==bëíáã~íÉÇ=mÉêÑçêã~åÅÉ=~åÇ=oÉëçìêÅÉë=kÉÉÇÉÇ=Ñçê=páåÖäÉ=~åÇ=jìäíáéäÉ=^`f=oÉíêçÑáíë=EìëáåÖ=bñ~ãéäÉ
+R=Ñêçã=q~ÄäÉ=QKQF
+kìãÄÉê=çÑ=_çáäÉêë råáíë N O bñáëíáåÖ=`çåíêçäë _çáäÉê=eÉ~í=o~íÉ
+cìÉä=eÉ~í=s~äìÉ qçí~ä=jtÉ qçí~ä=eÉ~í=fåéìí mä~åí=`~é~Åáíó=c~Åíçê
+`ç~ä=cäçïê~íÉ `ç~ä=jÉêÅìêó=`çåíÉåí råÅçåíêçääÉÇ=jÉêÅìêó
+råÅçåíêçääÉÇ=jÉêÅìêó mÉêÑçêã~åÅÉ
+cìää=iç~Ç=^`=áåàÉÅíáçå=ê~íÉ ^`=fåàÉÅíáçå=o~íáç
+cìää=iç~Ç=^`=áåàÉÅíáçå=ê~íÉ ^ååì~ä=^`=êÉèìáêÉÇ eÖ=Åçåíêçä=iÉîÉä
+`çåíêçääÉÇ=eÖ
+
+~
+
+=bm^=ãçÇÉäáåÖ=éêçàÉÅë=íÜ~í=íÜÉ=éä~åí=ïáíÜ=íÜÉ=ã~áãìã=åìãÄÉê=çÑ=^`f=êÉíêçÑáë=áë=çåÉ=éä~åí=ïáíÜ=íïç
+ÄçáäÉêë=~åÇ=~=íçí~ä=Å~é~Åáíó=çÑ=VMM=jtÉK
+
+kçíÉW==^ååì~ä=Åçåëìãéíáçå=î~äìÉë=~êÉ=Éëíáã~íÉÇ=ìëáåÖ=UR=éÉêÅÉåí=Å~é~Åáíó=Ñ~ÅíçêK==eçìêäó=Åçåëìãéíáçå
+î~äìÉë=~êÉ=~í=Ñìää=äç~ÇK
+
+QKS pé~ÅÉ=oÉèìáêÉãÉåíë
+Most of the equipment and piping associated with a sorbent
+injection system is fairly small and can be easily accommodated on
+any facility. The only piece of equipment that could potentially be
+a challenge to locate on site is the sorbent storage silo, the
+other equipment largely being piping and a blower. The storage silo
+is, by far, the largest part of the ACI system. It is estimated
+that a storage silo that is sized for 15 days of AC storage at full
+load for a 500 MWe plant firing bituminous coal and with only an
+ESP would be about 10.7 m in diameter and about 26.7 m high.33 This
+sized piece of equipment, while large, should be readily
+accommodated on most sites large enough for a 500 MWe boiler. For
+boilers with fabric filters, the size of the silo would be less
+because of the lower sorbent injection rate. Some facility
+operators may choose to install a PJFF in order to reduce sorbent
+consumption and to segregate carbon from the ash. In this case,
+more space would be needed for the PJFF. The dimensions for a PJFF
+on a 500 MWe plant would be roughly 62 feet wide x 92 feet long x
+90 feet high.35
+
+
+
+
+`Ü~éíÉê=R
+póåÉêÖáÉë=çÑ=`çãÄáå~íáçåë=çÑ=`çåíêçä=oÉíêçÑáíë=çå=~=páåÖäÉ=råáí
+This chapter will explore the combination of these technologies
+and how deployment of more than one technology at a unit could
+potentially result in improved resource utilization. It is assumed
+that the ACI, FGD, and SCR would not be necessary at a single unit
+because of the high mercury removal efficiencies expected through
+combination of FGD and SCR. Hence, the synergies of combining all
+three technologies were not explored.
+
+RKN p`o=~åÇ=cda=EpÅêìÄÄÉêF=fåëí~ää~íáçåë
+In some cases, facility owners may choose to retrofit their
+plants with both SCR and FGD technology to achieve both NOX and SO2
+reduction. Combination of SCR and FGD will also result in
+significant reduction of mercury emissions, thereby mitigating the
+need for the addition of ACI. However, both SCR and FGD are very
+capital-intensive projects, which require a substantial level of
+material and construction. Therefore, it is worthwhile to consider
+if both SCR and FGD installations can be combined efficiently.
+An SCR project involves retrofitting in the boiler and its
+immediate area. Therefore, an SCR retrofit project may require
+relocation of equipment in the boiler area. An FGD system is
+installed farther downstream in the plant, after the ESP.
+Occasionally, it is necessary to install a new smoke stack, and it
+may be necessary to add more fan capacity. However, an additional
+smoke stack is normally unnecessary. The FGD connection with the
+facility is generally less difficult than with SCR because it does
+not require modification of the boiler, just connection to ductwork
+in the vicinity of the stack. As a result, the construction
+activities would normally be in different locations at the plant,
+reducing the interference between the two projects. The SCR might
+be the limiting item on the boiler outage because of its more
+complex connection. In any event, the tie-in of the SCR and the FGD
+systems could be done in the same outage, and it has been confirmed
+that the installation of SCR and scrubber could be performed
+simultaneously without interference.37 Therefore, installing these
+at the same time on a boiler is preferable to doing them separately
+as they may be able to use the same outage, and project
+efficiencies result from a single mobilization, a single
+construction manager, and sharing of large construction equipment
+for the two projects. At Kansas City Power and Light's Hawthorn
+Power Station, Unit 5 was replaced (excluding turbine) in under 22
+months. This included the boiler, an SCR, and an LSD/FF.38
+Although, in this case the equipment did not have to be erected
+adjacent to an operating boiler, the erection included demolishing
+and erecting a complete boiler island and demolishing the existing
+electrostatic precipitator. Hence, this was a very complex project
+that was completed approximately within the time frame estimated
+and shown in Exhibit A-7 in Appendix A.
+
+
+RKO jÉêÅìêó=`çåíêçä=qÉÅÜåçäçÖó=~åÇ=pÅêìÄÄÉê=fåëí~ää~íáçåë
+As noted in Chapter 4, ACI entails a much smaller construction
+project than either an FGD or an SCR. Moreover, the ACI is located
+in a different part of the plant than FGD or SCR and activated
+carbon injection occurrs in the ductwork between the air preheater
+and the ESP or FF. One benefit of combining
+these two projects is that the ACI hookup can be completed
+during the outage for the scrubber hookup, since the installation
+effort necessary for the FGD will far outweigh that of the ACI
+system. A second benefit is better planning of material storage and
+handling equipment. Both FGD and ACI require a substantial amount
+of material (limestone and AC, respectively) and associated storage
+and handling facilities. Installing both technologies at the same
+time will permit better planning of material storage and equipment
+locations, thereby avoiding interference. Other benefits, such as a
+single mobilization, a single construction manager, and sharing of
+large construction equipment for the two projects exist, but they
+are not expected to make a significant difference due to the
+difference in size between the portions of the combined FGD and ACI
+project. Therefore, as shown in Exhibit A-8 in Appendix A, the
+schedule for a combined FGD and ACI project is expected to be the
+same as the schedule of an FGD project.
+
+
+RKP jÉêÅìêó=`çåíêçä=qÉÅÜåçäçÖó=~åÇ=p`o=fåëí~ää~íáçå
+As noted in Chapter 4, ACI entails a much smaller construction
+project than either an FGD or an SCR. The primary benefit of
+combining these two projects is that the ACI hookup can be
+completed during the outage for the SCR hookup, since the
+installation effort necessary for the SCR will far outweigh the ACI
+system. Other benefits, such as a single mobilization, a single
+construction manager, and sharing of large construction equipment
+for the two projects exist, but they are not expected to make a
+significant difference due to the difference in size between the
+SCR and ACI portions of the combined project. Therefore, as shown
+in Exhibit A-9 in Appendix A, the schedule for a combined SCR and
+ACI project is expected to be the same as the schedule of an SCR
+project.
+
+
+
+`Ü~éíÉê=S póëíÉã=oÉëçìêÅÉ=^î~áä~Äáäáíó
+Having assessed the resource requirements for individual or
+multiple retrofits of control technologies, this chapter will
+assess the resource availability in the United States for retrofit
+of control technologies for the Clear Skies Act. This analysis
+considers the current availability of resources for the
+construction of control technologies and does not consider any
+potential increase in production of resources due to the demand
+created by the Clear Skies Act. Because this effect will be more
+pronounced in the period following 2010 and because other market
+factors may also change over time, the longer term projections are
+of less value than those out to 2010. EPA has made preliminary
+estimates of the retrofits of each technology that would result
+from the Clear Skies Act. Tables 6-1a, b, and c list the expected
+total MWe of facilities that would be equipped with SCR, FGD, or
+ACI after response to a multipollutant rule. It is important to
+note that the "Current Air Quality Rule Retrofit MWe" row of the
+table includes only the projected retrofits under the current air
+quality rules. The control technology retrofits estimated to result
+from the Clear Skies Act, including the retrofits from current air
+quality rules, is listed in the "Multipollutant & Current
+Retrofits MWe" row of the tables. The "Cumulative Total" MWe shown
+in Table 6-1 includes facilities that currently are equipped with
+the technology or are expected to be equipped with the technology
+as a result of current air quality rules, such as SCRs resulting
+from the NOX SIP Call as well as the projected retrofits under the
+Clear Skies Act. EPA estimated that up to 72 GWe of SCR would
+result from the NOX SIP Call and an additional 13 GWe from
+individual state multipollutant rules with approximately 14 GWe
+currently installed. However, facilities are responding to the NOX
+SIP Call at this time and it is uncertain exactly how many
+facilities will ultimately be equipped with SCR in 2004 when the
+NOX SIP Call deadline arrives.
+EPA projections estimate that it would be cost effective for
+32,000 MWe of FGD retrofits to be installed under the Clear Skies
+Act by 2005 even though the first phase of the SO2 cap is not in
+effect until 2010. These retrofits would be early installations
+that sources initiate due to the economic benefits of banking SO2
+allowances. It is estimated that there are about 4,000 MWe of FGD
+capacity being constructed or just recently completed. Based on
+availability of resources, particularly labor, it is projected that
+an additional 6,000 MWe of FGD capacity could be built for a total
+of 10,000 MWe by 2005. Because the FGD estimate based on
+availability of resources is much less than the amount of FGD
+capacity that would be cost effective to build, EPA ran model
+sensitivities constraining the amount of scrubber capacity that
+could be installed by 2005 at 10,000 MWe. This estimate for the
+potential number of FGD retrofits considers the resource and labor
+requirements of the simultaneous installation of SCRs, which is
+further discussed under the labor section (6.2) of this chapter.
+The 22,000 MWe difference, between the number of FGDs which would
+be cost effective to build and the estimated number based on
+resources, would be pushed back a few years to be completed by
+2010. Therefore, the 53,000 MWe of FGD retrofits projected to be
+built by 2010 for Clear Skies and current requirements remains the
+same under both scenarios. It is likely that additional FGD
+retrofits could be completed by 2005, but there would be the
+potential for an increase in the cost of construction due to
+decreased implementation time.
+A typical unit size of 500 MWe was selected for each technology.
+In previous sections, capacity factors of 85 percent were assumed.
+In reality, coal-fired facilities, on average, have lower capacity
+factors. For example, in 1999, 39.8 percent of 786 GWe of
+generating capacity in the U.S., or 313 MWe, was coal fueled. In
+that same year, coal-fired U.S. plants produced about 51 percent of
+3,691 billion kWh, or
+1,882 billion kWh.39 This corresponds to a capacity factor of
+68.7 percent (Data is from Energy Information Administration Web
+Site; Capacity Factor is total MWe-h produced divided by the total
+MWe-h that would be produced if the plant were run at full capacity
+for 8,760 h in the year). As a result, assuming a capacity factor
+of 85 percent will result in a much more conservative (high)
+estimate of resources needed than is likely to be the case.
+In estimating the resources necessary to put new control
+technology capacity in place (labor, steel, etc.), the
+"Multipollutant & Current Rule Retrofits MWe" values of Tables
+6-1a, b and c are of greatest interest. For estimating the
+consumables necessary for the technologies, such as limestone,
+ammonia, catalyst, or activated carbon, the "Cumulative Total MWe"
+value is most important. The multipollutant and total MWe of
+control technology retrofits are given for 2005, 2010, 2015, and
+2020. To provide a conservative estimate of required resources, the
+following analysis looks at implementing the retrofits for 2005 in
+31 months prior to 2005 and retrofits for 2010, 2015, and 2020
+three years prior to each five-year period. For example, it
+estimates the resource requirements from the period between 2005
+and 2010 over three years prior to 2010 instead of five years.
+Thirty-one months was used for 2005, because the analysis for 2005
+was based on the projected number of retrofits needed by 2005, less
+the amount of capacity installed by May 2002. It should also be
+noted that most of the retrofits needed by 2005 are being installed
+to meet existing requirements under the NOX SIP Call or other
+regulatory requirements as opposed to the requirements of a
+multipollutant program such as the Clear Skies Act.
+q~ÄäÉ=SJN~K==cda=oÉíêçÑáíë
+pÅêìÄÄÉêë OMMR OMNM OMNR OMOM
+
+~=J=VQIMMM=jtÉ=çÑ=ëÅêìÄÄÉêë=ÅìêêÉåíó=áåëí~äÉÇ
+
+Ä=Ó=áåÅäìÇÉë=íÜÉ=êÉíêçÑáíë=Ñêçã=ãìäíáéçääìí~åí=ëíê~íÉÖó=~ë=ïÉää=~ë==íÜÉ=éêçàÉÅíÉÇ=êÉíêçÑáíë=ÇìÉ=íç=ÅìêêÉåí=êÉÖìä~íáçåë
+
+Å=Ó=fmj=êÉëìäíë=êÉÑäÉÅí=íÜ~í=áí=ïçìäÇ=ÄÉ=ÅçëíJÉÑÑÉÅíáîÉ=íç=áåëí~ää=POIMMM=jtÉ=I=Äìí=Ä~ëÉÇ=çå=êÉëçìêÅÉ=~î~áä~Äáäáíó=áí=áë=Éëíáã~íÉÇ=íÜ~í=NMIMMM=jtÉÅ~å=ÄÉ=Äìáí
+
+Ç=J=OVO=áë=íÜÉ=íçí~ä=åìãÄÉê=çÑ=éêçàÉÅíÉÇ=ìåáíë=íç=ÄÉ=êÉíêçÑáííÉÇ=ïáíÜ=ëÅêìÄÄÉêë==Ñêçã=éêÉëÉåí=íç=OMOM
+
+É=J=QMQ=áë=íÜÉ=~îÉê~ÖÉ=ëáòÉ=êÉíêçÑáí=çÑ=íÜÉ=OVO=ìåáë=íç=ÄÉ=êÉíêçÑáíÉÇ=ïáíÜ=ëÅêìÄÄÉêë=EÇçÉë=åçí=áåÅäìÇÉ=íÜÉ=ÅìêêÉåí=VQ=dtÉ==F
+
+Ñ=J=åìãÄÉê=áå=é~êÉåíÜÉëÉë=êÉéêÉëÉåíë=Åìãìä~íáîÉ=åìãÄÉê=çÑ=éä~åíë=ïáíÜ=?ñ?=ÄçáäÉêë=êÉíêçÑáííÉÇ=Ñêçã=éêÉëÉåí=íç=ÖáîÉå=óÉ~ê
+
+fåÅêÉãÉåí~ä=kìãÄÉê=p`o ^îÉê~ÖÉ=páòÉ=råáí=EjtÉF
+j~ñáãìã=kìãÄÉê=çÑ=råáíë=~í=låÉ=mä~åí
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=T=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=S=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=R=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=Q=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=P=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=O=p`o=oÉíêçÑáíëÑ
+kìãÄÉê=çÑ=mä~åíë=ïáíÜ=N=p`o=oÉíêçÑáíëÑ
+
+
+Ö=Ó=ìé=íç=TO=dtÉ=çÑ=p`o=íç=ÄÉ=áåëí~ääÉÇ=Ñçê=kl=pfm=`~ää=ïáíÜ=NQ=dtÉ=çÑ=íÜÉ=íçí~ä=UR=dtÉ=~äêÉ~Çó=áåëí~ääÉÇI=NP=dtÉ=çÑ=áåëí~ää~íáçåë=éêçàÉÅíÉÇ
+u
+Ñçê=áåÇáîáÇì~ä=ëí~íÉ=ãìäíáéçääìí~åí=êìäÉë
+
+Ü=J=QST=áë=íÜÉ=åìãÄÉê=çÑ=íçí~ä=p`oë=áåëí~ääÉÇ=Ñêçã=éêÉëÉåí=íç=OMOM=EáåÅäìÇÉë=klu=pfm=`~ää=êÉíêçÑáíëFX=QRR=áë=íÜÉ=åìãÄÉê=çÑ=íçí~ä=p`oë=áåëí~ääÉÇ
+Ñêçã=OMMR=íç=OMOM
+
+áJ=QNP=áë=íÜÉ=~îÉê~ÖÉ=ëáòÉ=êÉíêçÑáí=çÑ=íÜÉ=QST=éêçàÉÅíÉÇ=p`oë=EáåÅäìÇÉë=klu=pfm=`~ää=êÉíêçÑáíëF
+q~ÄäÉ=SJNÅK==^`f=oÉíêçÑáíë
+^`f OMMR OMNM OMNR OMOM
+
+à=J=P=áë=íÜÉ=åìãÄÉê=çÑ=íçí~ä=^`f=áåëí~ääÉÇ=Ñêçã=éêÉëÉåí=íç=OMOM
+â=J=QPP=áë=íÜÉ=~îÉê~ÖÉ=ëáòÉ=êÉíêçÑáí=çÑ=íÜÉ=P=éêçàÉÅíÉÇ=^`fë=êÉíêçÑáíë
+
+SKN póëíÉã=e~êÇï~êÉ
+The hardware items such as steel, piping, nozzles, pumps, soot
+blowers, fans, tower packing, and related equipment required for a
+typical SCR, FGD, or ACI systems installation are used in large
+industries such as construction, chemical production, auto
+production, and power production. Consequently, installation of
+these technologies on many coal-fired utility boilers is not
+expected to result in severe changes in demand for the hardware
+items listed.
+From Chapter 2, roughly 1,125 tons of steel is needed for a 500
+MWe FGD system, which is about 2.25 tons per MWe. This is
+conservatively high since there are some significant synergies
+possible when there are multiple units on site. In particular, two
+boilers with 900 MWe of capacity require approximately 2.1 tons per
+MWe. From Chapter 3, an SCR for a coal-fired utility boiler
+requires roughly 2.5 tons of steel per MWe for the typical size.
+From Chapter 4, a 500 MWe facility will need about 175 tons of
+steel to install an ACI system, or about 0.35 tons per MWe.
+Estimated steel requirements for the projected retrofit MWe are
+shown in Table 6-2 assuming that the retrofits occur over 31 months
+prior to 2005 and over three years prior to 2010, 2015, and 2020.
+For retrofits starting in 2005 facility owners are likely to have
+more than three years to complete this work as many of these
+retrofits have already begun. These time periods were chosen to
+show that even under short periods of time, no significant impact
+to U.S. steel supply is expected.
+Census Bureau data on=U.S. steel shipments in 2000 was
+approximately 108,703,000 tons, and imported steel was 30,993,000
+tons for a total demand of about 140 million tons. An assumed
+growth rate of US steel demand was chosen at 3 percent, a typical
+number for growth in GDP. For each increment of time, the impact to
+US steel demand was less than one tenth of one percent. Even if
+there were no growth in the US steel production and imports from
+2000 out to 2020, the amount of steel needed to complete the
+retrofits for the Clear Skies Act would still be less than one
+tenth of one percent of US production including imports.
+Similarly, available supplies of piping, nozzles, pumps, soot
+blowers, fans, and other related standard component necessary for
+SCR, FGD or ACI installations are not expected to present
+constraints on the ability of facilities to install the technology.
+SCR catalyst is the only specialized piece of equipment that is
+needed. Catalyst is discussed in Section 6.4.
+
+q~ÄäÉ=SJOK==bëíáã~íÉÇ=píÉÉä=oÉèìáêÉÇ=Ñçê=jìäíáéçääìí~åí=fåáíá~íáîÉ
+vÉ~ê OMMR OMNM OMNR OMOM
+
+
+kçíÉW=^ëëìãÉë=íÜ~í=~ää=êÉíêçÑáíë=çÅÅìê=çîÉê=PN=ãçåíÜ=éÉêáçÇ=éêáçê=íç=OMMR=~åÇ=~=PJóÉ~ê=éÉêáçÇ=éêáçê=íç=OMNMI=OMNRI=~åÇ=OMOMK==píÉÉä
+ÇÉã~åÇ=ï~ë=ÇÉíÉêãáåÉÇ=Ñêçã=íÜÉ="jìäáéçäìí~åí=~åÇ=`ìêÉåí=oìäÉ=oÉíêçÑáë=jtÉÒ=êçï=çÑ=q~ÄäÉ=SJN~IÄIÅK==qÜÉëÉ=Éëíáã~íÉë
+
+áåÅäìÇÉ=íÜÉ=êÉíêçÑáë=ÇìÉ=íç=íÜÉ=kl=pfm=`~ääI=ÅìêêÉåí=êìäÉëI=~åÇ=ëí~íÉ=êìäÉëK==qÜÉ=ëíÉÉä=ÇÉã~åÇ=Ñçê=p`o=ï~ë=~ÇàìëíÉÇ=Ñêçã=UR=dtÉçÑ
+
+uÇÉã~åÇ=áå=OMMR=íç=TN=dtÉ=íç=~ÅÅçìåí=Ñçê=NQ=dtÉ=çÑ=p`oI=ïÜáÅÜ=Ü~îÉ=ÄÉÉå=ÅçãéäÉíÉÇ=Äó=j~ó=OMMOK
+
+
+SKO i~Äçê
+The installation of the SCR, FGD, and ACI control technologies
+will require the following types of labor:
+• general construction workers for site preparation and storage
+facility installation;
+• skilled metal workers for specialized metal and/or other
+material assembly and construction; • other skilled workers such as
+boilermakers, electricians, pipe fitters, painters, and truck
+drivers; and
+• unskilled labor to assist with hauling of materials, placing
+of catalyst elements, and clean up.
+From Chapter 2, it takes roughly 760 man-hours of labor per MWe
+of FGD built. Chapter 3 showed that about 700 man-hours of labor
+per MWe are required for an SCR system on a coal-fired boiler, and
+Chapter 4 showed that roughly 10 man-hours of labor are needed per
+MWe for an ACI system. Using these factors and the expected
+retrofits, the labor requirement for SCR, FGD, and ACI retrofits
+can be determined and are shown in Table 6-3. These estimates do
+not take into account any synergies or efficiencies realized from
+retrofitting multiple units on a site, as are described in Section
+2.5 and 3.5, or from a combination of technologies, as described in
+Chapter 5. Roughly 50 percent of an SCR project man-hours and 40
+percent of an FGD project man-hours are for boilermakers.40 There
+is little data on ACI breakdown of labor; however, a conservative
+level of 50 percent is assumed. Using these rates and assuming the
+above mentioned construction periods, it is possible to estimate
+the number of fully employed laborers and boilermakers. The results
+are shown in Table 6-3. The actual annual requirement for labor
+would be less if the estimated number of retrofit installations
+were evenly distributed over the full five-year increment of time
+instead of the conservative three-year increment.
+q~ÄäÉ=SJPK
+bëíáã~íÉÇ=^ååì~ä=`çåëíêìÅíáçå=~åÇ=_çáäÉêã~âÉê=i~Äçê=oÉèìáêÉÇ=Ñçê=`äÉ~ê=pâáÉë=^Åí=Eã~åJóÉ~êëF
+vÉ~ê OMMR OMNM OMNR OMOM
+
+M ^`f=_çáäÉêã~âÉêë MNN
+qçí~ä=i~Äçê NMISTR NOIROR PIURO UIURO qçí~ä=_çáäÉêã~âÉêë RIOMM
+RITRM NISMN QIMMN
+
+kçíÉW=^ëëìãÉë=íÜ~í=~ää=êÉíêçÑáíë=Ñçê=OMMR=çÅÅìê=çîÉê=íÜáêíóJçåÉ=ãçåíÜë=éêáçê=íç=OMMR=~åÇ=çîÉê=~=íÜêÉÉJóÉ~ê=éÉêáçÇ=Ñçê=É~ÅÜ=ÑáîÉJóÉ~ê
+áåÅêÉãÉåí=~ÑíÉê=OMMR=íÜêçìÖÜ=OMOMK==p`o=ä~Äçê=~åÇ=ÄçáäÉêã~âÉê=ÇÉã~åÇ=ïÉêÉ=~ÇàìëíÉÇ=Ñêçã=UR=dtÉ=çÑ=ÇÉã~åÇ=áå=OMMR=íç=TN
+dtÉ=íç=~ÅÅçìåí=Ñçê=NQ=dtÉ=çÑ=p`o=ïÜáÅÜ=Ü~îÉ=ÄÉÉå=ÅçãéäÉíÉÇ=Äó=j~ó=OMMOK
+Figure 6-1 shows a summary of construction worker labor
+available in the United States. The data shows steady growth in
+construction industry employment at the national level during the
+1992 to 2000 period. Employment in the construction sector grew by
+49.1 percent (4.1 percent annualized) over the period compared to
+21.7 percent (2.0 percent annualized) for the economy as a whole.
+The unemployment rate of 6.4 percent in 2000 compares to 4.0
+percent for the whole economy.41
+Figure 6-1. U.S. construction employment and unemployment
+(Source: Bureau of Labor Statistics).
+The available construction labor in the United States, about 6.7
+million, will provide a large labor pool for the trades that are
+not unique to the power industry, such as iron and steel workers,
+pipe fitters, and electricians. In other words, that the estimated
+demand of under 20,000 full-time workers represents only about 0.3
+percent of the current total labor pool.
+Boilermakers are a skilled labor source that is fairly unique to
+utility work. Sixty percent of the demand for boilermakers in the
+construction division is from the utility industry.31 Other
+industries requiring boilermaker labor include refinery (13
+percent), chemical (6 percent), paper (7 percent), and metals (6
+percent). These are the industries where boilers and high-energy
+vessels are most likely to be found. Retrofit of equipment on
+utility boilers often requires a significant number of boilermakers
+due to the integration that is needed with the boiler that often
+requires modification of steam piping or other boiler equipment.
+Also, in response to the increase in demand for boilermakers over
+the last few years, their ranks have increased from 15,444 active
+members in 1998 to 17,587* members in 2000 - an annualized growth
+rate of 6.7 percent.31 Employment level also increased during this
+time from 69.8 percent to 81.8 percent (employment level is equal
+to the total man-hours worked in the year divided by total active
+members time 2080 h/yr). During much of the 1990's the number of
+active boilermakers had been declining due to very low employment
+levels resulting from very low activity in the utility power plant
+construction business.30 Therefore, the increased activity of the
+last few years has been a welcome change to boilermakers.
+Several sources have mentioned that the availability of
+boilermakers has been tight for the SCR projects underway for the
+NOX SIP Call.42, 43 However, where shortages have been experienced
+in manning SCR construction projects with adequate numbers of
+boilermakers, manpower planning had been done with short notice.44
+Many boilermakers travel to work sites that are out of their local
+area. A large project may require mobilization of several hundred
+boilermakers to a site, which will frequently require pulling
+* It is assumed that this number is for journeyman boilermakers
+and does not include persons in apprenticeship programs.
+members from other parts of the country. In the current,
+competitive environment for utilities, power plant owners are
+reluctant to provide much advance notice of when outages will
+occur. Therefore, in some cases contractors must find manpower on
+very short notice. The boilermaker's union (The International
+Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths,
+Forgers and Helpers) attempts to provide the necessary manpower to
+the contractors. However, with very short notice, it is sometimes
+difficult to move the manpower to the site in the short time
+desired. Nevertheless, the union has been successful in providing
+sufficient manpower to the project sites where they have had
+adequate advance notice.44 Therefore, although there is little
+slack in the availability of boilermakers, better coordination may
+have avoided the labor shortage problems.
+It is worthwhile to consider the expected future state of the
+supply of boilermakers. The total number of members in the
+boilermaker's construction division is currently about 24,000
+journeymen and apprentices.44 The union has about 4000 members in
+Canada. These numbers are up from the 1990's when a severe drought
+of work for boilermakers caused many boilermakers to seek other
+lines of work. Due to the current workload, the boilermaker ranks
+are growing. However, the average age of the work force is about
+48. Because of the aging workforce and because of the anticipated
+demand for work at power plants, the union has made it an objective
+to have at least 28,000 members in the construction division by
+2005, or at least a 5.3 percent annual growth rate. The
+boilermaker's union is working to recruit new members into their
+apprenticeship programs, which takes four years to complete. Also,
+skilled workers from other trades may choose to work as a
+boilermaker, so a shorter apprenticeship may be possible, depending
+upon the experience and skill level of the individual. For example,
+iron and steelworkers who had been boilermakers in the past could
+move back into boilermaker work very quickly. Since, boilermakers
+earn somewhat more than ironworkers,42 it is reasonable to expect
+that with increased job stability in the boilermaker trade, some
+ironworkers might choose to move to the boilermaker trade for the
+higher pay, especially if they had worked as boilermakers in the
+past. The iron and steelworkers union has 150,000 members.45 Even
+without prior boilermaker experience, some of these iron and
+steelworkers could choose to move to boilermakers with much less
+than a full four-year training requirement because of their
+knowledge and skill level. In addition, the boilermaker's
+shipbuilding division has about 30,000 members45 who, depending
+upon industry conditions, could move over to the construction
+division quickly.
+As noted earlier, the number of boilermakers dropped quickly
+during the 1990s when little work was available. Conversely,
+increasing demand for boilermakers that would result from a
+multipollutant rule should stimulate more workers to enter the
+trade. The overall employment outlook for boilermakers should be
+quite good, considering the work created by a multipollutant
+initiative and the work on new power plants that is projected over
+the next 20 years. As stated in the National Energy Policy (May
+2001):
+Over the next 20 years, the United States will need 1300 to 1900
+new power plants. Electricity demand is expected to increase at a
+rate of 1.8 percent per year over the next 20 years, creating the
+need for 393,000 MWe of generating capacity. At a 1.5 percent
+growth rate that number is reduced by between 60,000 to 66,000 MWe
+to about 330,000 MWe of new generating capacity.
+A large quantity of new generating capacity, consisting mostly
+of gas combined cycle units, has been built within the last several
+years. Since 1998, close to 200 GWe of new capacity have been built
+or is currently under construction with an even larger quantity
+being proposed. This excess in capacity is projected to create an
+overall reserve margin greater than 25 percent in the US over the
+next few years. By comparison, this is a significant increase in
+the reserve margin since it dipped below 10 percent in the late
+1990's. As the demand in electricity grows, the need for new
+generating capacity will not be felt
+until the excess capacity is worked off. Assuming new capacity
+will be needed when the reserve margin approaches 15 percent, it is
+expected to push back the need for additional capacity beyond 2005
+and in some regions as late as 2010.
+Due to the installation of SCR units for the NOX SIP Call, a
+significant percentage of the boilermakers who are currently
+working in the utility industry would be needed to complete those
+retrofits by 2004. Integrated Planning Model (IPM) projections
+indicate that it would be cost effective to install 32 GWe of
+scrubbers by 2005 in addition to the projected SCR installations;
+however, boilermaker labor is not expected to be sufficient to meet
+this demand even if their numbers grow at the projected 5.3 percent
+annual growth rate. Figure 6.2 shows the boilermaker labor
+requirements out to 2010 assuming 32 GWe of scrubbers and 85 GWe of
+SCR installations are installed by 2005 and compares the demand to
+the supply of labor.
+
+Assuming that the boilermaker membership grows at a 5.3 percent
+growth rate out to 2005, it is estimated that there will be
+sufficient new boilermaker labor to complete approximately 10 GWe
+of scrubber retrofits by 2005. Considering that 4 GWe of scrubber
+capacity is either being built or recently constructed, it is
+conservatively assumed than an additional 6 GWe could be completed
+by 2005. This estimate of 10 GWe of scrubber retrofits by 2005 was
+determined from the difference between the boilermaker labor hours
+available from the boilermaker membership working in the electric
+utility industry and the labor hours needed to complete control
+technology retrofits and other electric utility projects. This
+estimate is supported by the number of orders of FGDs for 2001 and
+projected orders through 2002 by the electric utility industry,
+which totals over 11 GWe46, and over 13 GWe of announced scrubbers
+which are scheduled to start up by 2005. Orders for scrubbers, such
+as the recent order for the Coleman Station in Kentucky, are
+continuing to be received in spite of the concerns raised about the
+availability of boilermaker labor during the simultaneous
+installation of SCRs for the NOX SIP Call. The other electric
+utility projects that boilermakers work on include such projects as
+routine maintenance at operating plants and new plant construction,
+which account for approximately 13,500,000 man-hours of
+boilermaker labor per year.30 Figure 6-3 compares the available
+boilermaker labor to the demand from the electric utility industry
+which includes the retrofits from the Clear Skies Act.
+
+Since boilermakers earn more money than most other craft
+trades42 and the demand for boilermakers should be steady and
+increasing, it is reasonable to expect that the growth in
+boilermaker numbers experienced these last few years should
+continue for many more years. To assess the impact of this, it was
+assumed that the boilermakers in the U.S. continued to grow at the
+5.3 percent pace that the International Brotherhood of
+Boilermakers, Iron Ship Builders, Blacksmiths, Forgers, and Helpers
+has set as a minimum growth target. Based upon the estimates of
+Table 6-3 and the assumed growth rates, the annual boilermaker
+demand created by the Clean Skies Act can be estimated and is shown
+in Table 6-4. Table 6-4 was derived considering that 14 GWe of SCRs
+have already been installed for the NOX SIP Call, so the remaining
+71 GWe of SCR and 10 GWe of scrubber installations were considered
+for 2005. According to Table 6-4, if the retrofit of the FGD, SCR,
+and ACI systems for 2005 occur over thirty-one months prior to 2005
+and over a three-year period for each five-year increment after
+2005 to 2020, the maximum demand would be about 23 percent of the
+journeyman boilermakers or about 19 percent for journeymen and
+apprentices combined.
+Considering only the boilermakers who are currently in demand by
+the utility industry, the demand would be about 38 percent of the
+journeyman boilermakers or about 31 percent for journeymen and
+apprentices combined. These percentages of demand are expected to
+be experienced prior to 2010, but with growth in the boilermaker
+numbers out to 2010, the percent of boilermakers affected drops
+off. The number of boilermakers in demand for retrofit
+installations under the Clear Skies Act is spread fairly evenly out
+to 2010 when the demand begins to decrease. However, there may
+still be significant demand for boilermakers after 2010 from other
+power plant construction programs.
+
+q~ÄäÉ=SJQK==bëíáã~íÉÇ=^ååì~ä=_çáäÉêã~âÉê=aÉã~åÇ=`êÉ~íÉÇ=Äó=íÜÉ=`äÉ~ê=pâáÉë=^Åí
+vÉ~ê OMMM OMMR OMNM OMNR OMOM
+
+
+kçíÉ=NW=^=RKP=~åÇ=SKT=éÉêÅÉåí=ÖêçïíÜ=ê~íÉ=áå=ÄçäÉêã~âÉê=àçìêåÉóãÉå=~åÇ=~ééêÉ
+
+åíáÅÉë=áë=~ëëìãÉÇ=çîÉê=íÜÉ=éÉêáçÇK==få=êÉ~
+óI=íÜáë=ÖêçïíÜ
+ê~íÉ=ïçìäÇ=éêçÄ~Ääó=Çêçé=çÑÑ=ëçãÉ=íáãÉ=~ÑíÉê=OMNM=ìåäÉëë=íÜÉêÉ=ïÉêÉ=çíÜÉê=ÇÉã~åÇJÖÉåÉê~íáåÖ=ÉîÉåíëK==qÜÉ=ã~ñáãìã=ÖêçïíÜ
+ê~íÉ=~ëëìãÉë=íÜÉ=ÄçáäÉêã~âÉê=ãÉãÄÉêëÜáé=ãÉÉíë=íÜÉ=ìåáçå=Öç~ä=çÑ=OUIMMM=áå=OMMR=Ñêçã=OMMO=äÉîÉäë=çÑ=OQIMMM=~åÇ=íÜÉå=Öêçïë=~í
+RKP=éÉêÅÉåí=íÜÉêÉ~ÑíÉêK
+
+kçíÉ=OW=fí=áë=ÅçåëÉêî~íáîÉäó=~ëëìãÉÇ=íÜ~í=~ää=ÅçåëíêìÅíáçå=Ñçê=êÉíêçÑáíë=Äó=OMMR=çÅÅìê=çîÉê=íÜáêíóJçåÉ=ãçåíÜë=éêáçê=íç=OMMR=~åÇ=çîÉê=~=íÜêÉÉJ
+óÉ~ê=éÉêáçÇ=Ñçê=É~ÅÜ=ÑáîÉ=óÉ~ê=áåÅêÉãÉåí=~ÑíÉê=OMMR=íÜêçìÖÜ=OMOMK==p`o=ä~Äçê=~åÇ=ÄçáäÉêã~âÉê=ÇÉã~åÇ=ïÉêÉ=~ÇàìëíÉÇ=Ñêçã=UR
+dtÉ=çÑ=ÇÉã~åÇ=áå=OMMR=íç=TN=dtÉ=íç=~ÅÅçìåí=Ñçê=NQ=dtÉ=çÑ=p`o=ïÜáÅÜ=Ü~îÉ=ÄÉÉå=ÅçãéäÉíÉÇ=Äó=j~ó=OMMOK
+The actual impact on the demand for boilermakers could be lower
+for several reasons. Due to the longer increments of time that the
+Clear Skies Act provides facility owners to comply than was assumed
+in this analysis, installation of these technologies will extend
+over more than three years, spreading out the demand. As stated
+earlier, this analysis does not consider any of the synergies or
+efficiencies that have been demonstrated to occur on multiple unit
+retrofits or multiple-technology retrofits. The boilermaker
+population has been growing at a faster rate- 6.7 percent annually
+- in recent years than the union's minimum target of 5.3 percent
+that was assumed. Therefore, the number of boilermakers may
+actually grow more quickly than what was assumed. This analysis
+also neglects overtime, which would reduce the demand for workers
+somewhat.
+
+
+SKP `çåëíêìÅíáçå=bèìáéãÉåí
+Most of the construction equipment necessary for the
+installation of SCR, FGD, and ACI technology is standard
+construction equipment that is used for most construction
+activities. The piece of equipment that is not standard that may be
+needed for SCRs and possibly for FGD systems is a tall-span
+heavy-lift crane. These cranes are necessary to lift heavy pieces
+(sometimes over 100 tons) several hundred feet and are not needed
+for all projects. When the largest piece to be lifted is determined
+from the construction plan, the necessary crane can be determined.
+In some cases, the available crane or the crane pricing may limit
+the largest piece to be lifted, and the construction plan may be
+modified to accommodate a smaller crane by lifting smaller pieces.
+In many instances, the best crane for the job is
+not the largest because the large cranes are very expensive to
+rent (one size up could double or triple the monthly charges for
+renting the crane30). As a result, it may be more cost effective
+overall to use a smaller crane and lift smaller pieces. This may
+lengthen the installation time slightly, but it will reduce crane
+rental fees. Therefore, an economic trade off must be assessed for
+each project.
+As discussed in Section 3.3, utility engineers reported that
+while installing SCRs for the NOX SIP Call, crane availability has
+been an issue that can be accommodated with proper planning. The
+construction plan could be modified to employ the available or most
+cost-effective crane. Therefore, sufficient supply of construction
+equipment is expected to be available for installing air pollution
+control equipment.
+SKQ oÉ~ÖÉåíë
+The major groups of reagents considered in this Section include
+limestone for FGD systems, SCR catalyst, Ammonia/Urea, and AC for
+ACI systems.
+
+
+iáãÉëíçåÉ=Ñçê=cda=póëíÉãë
+Limestone is used for a wide range of purposes in the United
+States. Overall limestone usage increased 22 percent over the four
+years from 1995 to 1999 (annualized growth of 5.1 percent). Table
+6-5 shows the production of crushed limestone sold or used by U.S.
+producers.
+q~ÄäÉ=SJRK==`êìëÜÉÇ=iáãÉëíçåÉ=pçäÇ=çê=rëÉÇ=_ó=rKpK=mêçÇìÅÉêë
+qçí~ä=rëÉvÉ~ê EíÜçìë~åÇ=íçåëF
+NVVV NIMUMIMMM NVVU NIMRMIMMM NVVT NIMNMIMMM NVVS VRSIMMM NVVR
+UUQIMMM
+
+pçìêÅÉW=rKpK=dÉçäçÖáÅ~ä=pìêîÉóI=jáåÉê~äë=vÉ~êÄççâI=sçäìãÉ=fK=jÉí~äë=~åÇ=jáåÉê~äëI
+`êìëÜÉÇ=píçåÉI=NVVR=J=NVVVK==ÜííéWLLãáåÉê~äëKìëÖëKÖçîLãáåÉê~äëLéìÄëLÅçããçÇáíóL
+
+ëíçåÉ|ÅêìëÜÉÇLáåÇÉñKÜíã 
+ä
+As noted in Chapter Two, 500 MWe plant firing 4.0 percent sulfur
+coal and equipped with LSFO FGD technology will use about 32 tons
+per hour of limestone, or about 240,000 tons/yr (about 0.064
+tons/MWh), and limestone consumption for MEL technology would be
+less.6 Using an LSFO consumption rate is conservatively high, and
+Table 6-6 shows expected consumption rates if all projected FGD
+retrofits were LSFO technology and operated at 85 percent capacity
+factor. The row "Multipollutant & Current Rule FGD Limestone
+Consumption (tons)" provides an estimate of the limestone
+consumption for the projected retrofits due to the multipollutant
+strategy and current air quality rules. The row "Cumulative FGD
+Limestone Consumption (tons)" provides an estimate of the limestone
+consumption for the cumulative total number of FGD installations,
+which includes 94 GWe of current installations. As shown, the
+impact to total U.S. production for the multipollutant strategy
+remains less than 2 percent out to 2020 while the overall demand
+from all installed FGD remains less than 4 percent out to 2020.
+
+
+
+p`o=`~í~äóëí
+SCR catalyst is a critical part of the SCR system that is
+manufactured on a worldwide basis by some of the largest companies
+in the world. Manufacturing is largely in the United States,
+Europe, and Japan, and the worldwide capacity is used to support
+worldwide sales. The current and planned capacity of SCR catalyst
+supply available to the U.S. market for coal-fired boilers is
+nearly 90,000 m3/yr. Table 6-7 shows the results of a survey of
+major suppliers of SCR catalyst to coal-fired boilers. The
+suppliers provided EPA their current capacity and the capacity that
+will be on line in the year 2002. The estimated capacity of other
+suppliers of catalyst to coal-fired boilers that could not be
+reached in time for this study is listed also. Suppliers that have
+offered catalyst for coal applications in the past but currently
+focus strictly on gas and oil -fired applications were not
+included. However, it is recognized that these companies could
+shift their product mix if the market conditions justified it, so
+the capacity value shown could be quickly increased if
+manufacturers simply changed product focus.
+The current capacity was originally built overseas to meet
+overseas demand or was subsequently built to meet U.S. demand for
+catalyst spurred by the NOX SIP Call and the build up of gas
+turbine power plants in the U.S. Except for a moderate demand for
+replacement catalyst, much of this capacity will be available after
+2004 because these large demand peaks will have mostly passed.
+Because most of the companies that supply catalyst are divisions of
+very large companies with the resources to rapidly expand their
+manufacturing capacity to meet increases in market demand, it is
+reasonable to assume that this manufacturing capacity could be
+expanded if the market demand justified it. In fact, recent
+capacity expansions provide strong evidence of this.
+q~ÄäÉ=SJTK==p`o=`~í~äóëí=`~é~Åáíó=cçê=`ç~äJÑáêÉÇ=_çáäÉêë
+`~é~Åáíó=íóéÉ `~é~Åáíó=s~äìÉ
+`ìêêÉåí=`çåÑáêãÉÇ=`~é~Åáíó RRIPMM=ãPLóê
+kÉï=`~é~Åáíó=`çãáåÖ=lå=iáåÉ OOIMMM=ãPLóê qçí~ä=`çåÑáêãÉÇ=`~é~Åáíó
+TTIPMM=ãPLóê ^ÇÇáíáçå~ä=bëíáã~íÉÇ=`~é~Åáíó NMIMMM=ãPLóê
+qçí~ä=bëíáã~íÉÇ=`~é~ÅáíóG UTIPMM=ãPLóêG
+
+GqÜáë=çåó=áåÅäìÇÉë=Å~í~óëí=ã~åìÑ~ÅíìêÉë=ïÜç=ÅìêêÉåíó=ëìééäó=Å~í~óëí=Ñçê=Åç~äJÑáêÉÇ=~ééäáÅ~áçåëK
+páÖåáÑáÅ~åí=~ÇÇááçå~ä=Å~é~Åó=ë=~î~ä~ÄäÉ=Ñêçã=ëìééäáÉë=íÜ~í=ã~ó=Ü~îÉ=çÑÑÉêÉÇ=Å~í~óëí=Ñçê=Åç~ä
+~ééäáÅ~áçåë=áå=íÜÉ=é~ëíI=Äìí=ÅìêêÉåíó=ÑçÅìë=çå=Ö~ë=~åÇ=çä=JÑáêÉÇ=~ééäáÅ~áçåë=~åÇ=ÅçìäÇ=éçíÉåíá~ó
+ëÜáÑí=Å~é~Åáíó=íç=~=Åç~ä=éêçÇìÅíK
+Currently, the equivalent of approximately 100 GWe of coal, oil,
+and gas-fired capacity worldwide utilizes SCR technology. At these
+worldwide installations, the volume of SCR catalyst in use is
+estimated to be approximately 55,000 to 95,000 m3.10 Assuming that
+one-twelfth of the current catalyst is
+replaced each year on average, the annual demand for replacement
+SCR catalyst is approximately 5,000 to 8,000 m3/yr. Note that the
+estimate for the current annual demand is quite conservative since
+the catalyst replacement rate on oil- and gas-fired combustion
+units is likely to be less frequent than one-twelfth of the
+catalyst per year. By 2005, an additional 85 GWe of coal-fired SCR
+capacity is expected to be on line in response to the NOX SIP Call
+and recently promulgated State rules (this includes anticipated SCR
+retrofits under the state rules for Missouri, Connecticut, and
+Texas). Assuming conservatively that one-eighth of the catalyst is
+replaced each year on average for coal-fired units, the annual
+demand for replacement SCR catalyst would increase by 12,600 m3/yr
+by 2005. Adding the current annual replacement demand from
+worldwide installations to the projected annual replacement demand
+under the Clear Skies Act would yield a total of 17,600 - 20,600
+m3/yr demand for replacement catalyst by 2005.10
+The estimated annual demand for catalyst from the Clear Skies
+Act, which consists of the demand due to new installations and
+annual replacement is shown in Table 6-8. The highest catalyst
+demand will occur by 2010. From Table 6-7, the estimated capacity
+of catalyst supply is 87,300 m3/yr. Considering the initial fill
+demand of 26,000 m3/yr from 65 GWe of SCR installations and
+replacement demand of 22,300 m3/yr from 150 GWe of cumulative SCR
+installations plus the worldwide catalyst replacement demand of
+between 5,000 and 8,000 m3/yr, the annual excess capacity is
+estimated to be 31,000 to 34,000 m3/yr. A more conservative
+approach to determining if there is sufficient catalyst supply to
+meet the demand from the Clear Skies Act is demonstrated in Figure
+6-4. It compares the current cumulative production capacity for SCR
+catalyst to the cumulative annual demand for SCR catalyst from the
+total SCR installations in 2005 and 2010. This approach assumes
+that the annual production of catalyst continues at the current
+level of 87,300 m3/yr and starts accumulating in May 2002. If all
+SCR systems were loaded with catalyst in just a one year period
+prior to 2005 and 2010 instead of spreading out the loading over
+several years, there would be sufficient accumulated supply to meet
+the increased demand.
+
+q~ÄäÉ=SJUK==bëíáã~íÉÇ=^ååì~ä=p`o=`~í~äóëí=aÉã~åÇ=êÉëìäíáåÖ=Ñêçã=`äÉ~ê=pâáÉë=^Åí=~åÇ=klu=pfm=`~ää
+vÉ~ê OMMR OMNM OMNR OMOM
+`~í~äóëí=Ñçê=åÉï=áåëí~ää~íáçåë=~I=ãPLóê PPIMMM OSIMMM NIOMM
+NSIMMM oÉéä~ÅÉãÉåí=Å~í~äóëí=ÄI=ãPLóê NOISMM OOIPMM OOIUMM =OUITMM
+qçí~ä=Å~í~äóëíI=ãPLóê QRISMM QUIPMM OQIMMM =QQITMM
+~
+
+=fí=áë=~ëëìãÉÇ=íÜ~í=áåëí~ää~íáçåë=Äó=OMMR=çÅÅìê=çîÉê=PN=ãçåíÜë=éêáçê=íç=OMMR=~åÇ=çîÉê=~=íÜêÉÉJóÉ~ê=éÉêáçÇ=éêáçê=íç=OMNMI=OMNRI=~åÇ=OMOMK==p`oÅ~í~äóëí=ÇÉã~åÇ=ï~ë=~ÇàìëíÉÇ=Ñêçã=UR=dtÉ=çÑ=ÇÉã~åÇ=áå=OMMR=íç=TN=dtÉ=íç=~ÅÅçìåí=Ñçê=NQ=dtÉ=çÑ=p`o=ïÜáÅÜ=Ü~îÉ=ÄÉÉå=ÅçãéäÉíÉÇ=Äó=j~ó
+OMMOK Ä
+=qÜÉ=êÉéä~ÅÉãÉåí=Å~í~
+í=ï~ë=Éëíáã~íÉÇ=Ä~ëÉÇ=çå=íÜÉ=éêçàÉÅíÉÇ=åìãÄÉê=çÑ=p`o=áåëí~ä~áçåë=ÖáîÉå=áå=q~ÄäÉ=SJNÄ=~åÇ=ÇçÉë=åçí=áåÅäìÇÉ=íÜÉ
+Å~í~äóëí=êÉéä~ÅÉãÉåí=ÇÉã~åÇ=Ñêçã=ÅìêêÉåí=NMM=dtÉ=çÑ=ïçêäÇïáÇÉ=p`o=áåëí~ää~íáçåëK
+
+Utility power plants are already installing SCR catalyst for the
+purpose of NOX SIP Call compliance in 2004. As shown in Figure 6-4,
+the cumulative demand from the Clear Skies Act plus the worldwide
+demand can be met with the total cumulative confirmed capacity.
+Consequently, adequate capacity of SCR catalyst supply is available
+to satisfy the demand that may result from the projected
+installations. Of course, as demonstrated by the catalyst
+suppliers, if more capacity was desirable to satisfy the market, it
+could be added given sufficient lead time for the construction of
+the catalyst production facility.
+The ability to retrofit a large number of SCR systems over a
+short period of time was exemplified in Germany during the late
+1980s. Figure 6-5 shows the number of systems installed over an
+eight-year period, with most of these systems (97 of 137) installed
+during two consecutive years (1989-1990). This pattern of
+installations exhibits that the catalyst market demonstrated the
+ability to respond to the surge in demand resulting from a dramatic
+increase in SCR installations.
+
+
+^ããçåá~=~åÇ=rêÉ~
+The installation and operation of SCR systems is not expected to
+be constrained by the future availability of ammonia or urea. The
+production of anhydrous ammonia in the U.S. in 2000 was
+approximately 17,400,000 tons (equivalent anhydrous) with apparent
+consumption of 22,000,000 tons and about 4,600,000 met through net
+imports, as shown in a 2001 edition of U.S. Geological Survey
+Minerals Commodity Summaries. Ammonia demand is directly
+proportional to the tons of NOX reduced. The increased ammonia
+demand from a multipollutant rule is estimated to increase to about
+1,040,000 tons per year by 2020. This 4 percent increase in demand
+over a nearly 20-year period can easily be met. Moreover, the U.S.
+and worldwide ammonia business is struggling because of slumping
+domestic demand and increased global capacity for the product and
+other nitrogen fertilizers derived from it, such as urea.
+Nevertheless, more capacity is scheduled to come on in the U.S.
+during the near future. In addition, 1.2 million tons of capacity
+is being built in Trinidad and Venezuela. Algeria and the former
+Soviet Union have also added significant capacity. Another problem
+is the withdrawal of China as an importer of ammonia. China
+traditionally bought 3 to 6 million tons of urea annually (which is
+produced
+from ammonia), but in 1996, the country launched a drive to
+become self-sufficient in urea, a move that has displaced 1.9 to
+3.7 million tons of ammonia.47 Based on these estimates, the
+ability to supply of ammonia will continue to exceed its demand,
+even with the additional demand from newly installed SCR
+systems.
+SCR systems can also use urea as a reagent, and it is becoming
+preferred to ammonia in many cases because of its safety. Urea is a
+commonly available chemical with approximately 11,760,000 tons of
+domestic annual production capacity.48 For SCR purposes, this adds
+effectively another 6.7 million tons of ammonia annually available
+as SCR reagent.* Additionally, U.S. urea manufacturers and
+distributors routinely trade within a 130,000,000 tons worldwide
+annual production capacity.10 Based on total world urea trade,
+increased demand due to a multipollutant regulation would be well
+under 2 percent of world trade if all SCRs used urea rather than
+ammonia. And, like ammonia, the urea market is currently
+experiencing an oversupply situation. Urea prices have fallen
+precipitously since China, formerly a major buyer, decided to
+strive for self-sufficiency. From 1994 to 1997, China opened nine
+new urea plants and raised its domestic production by 50 percent.
+U.S. producers knew China would bring on the new, more-efficient
+plants, but they did not expect that country to continue running
+its smaller, less-efficient ones.48 Thus, it is expected that this
+worldwide supply will provide additional flexibility in meeting any
+significant increases in demand. Since urea production is performed
+on a worldwide basis, plants producing urea would be able to expand
+their capacity if needed. Based on these considerations, adequate
+urea supply is expected to be available for the SCR systems.
+60
+50
+40
+30
+20
+10
+
+
+# of Installations Per Year
+* It takes about 1.76 lbs of urea to make one lb of ammonia
+reagent in a urea to ammonia conversion.
+
+
+^`=Ñçê=^`f=póëíÉãë
+AC is produced in the United States and abroad for filtration
+and other manufacturing purposes. Total AC usage in the United
+States was 182,887 tons/yr in 2000, as given in the U.S. Census
+Bureau Summary Current Industrial Reports for the Inorganic
+Chemical Industry. Capacity in the U.S. is equal to 465 million
+pounds/yr, or 233,000 tons.49 Both of these numbers include both
+granular and powdered carbon, powdered being preferable to granular
+for ACI applications. U.S. demand is projected to grow to 454
+million pounds, or about 227,000 tons, in 2004.49 However, large
+underutilized capacity overseas will provide a ready supply of
+potential imports, which will tend to limit price increases for
+most grades.49 The competition from Chinese and South-East Asian
+producers remains strong.50 Chinese exports quadrupled from 53,230
+tons in 1995 to 224,331 tons in 1997, with the average product cost
+dropping by 16 percent to 660/ton. Therefore, growth in demand
+experienced in the 1990's has not been reflected in the value of
+the market due to over-capacity and the continued rise in Asian
+exports. AC producers are concentrating increasingly on the
+Asia-Pacific region to exploit growing markets and take advantage
+of lower production costs; reported capacity expansions of over
+15,000 tons/yr are all planned for Asia-Pacific and Russia.50
+According to Norit, the largest supplier of AC for air pollution
+control purposes, there is currently adequate excess capacity to
+accommodate significant growth in the demand (tens of millions of
+pounds/yr, or roughly tens of thousands of tons/yr).51 However,
+depending upon how much growth occurs as a result of regulation,
+additional capacity may be necessary. It would take 2-3 years to
+add a plant; and this would only be done after a regulation was put
+in place, the technical advantages of ACI for mercury removal were
+proven relative to other approaches, and a clear time-line for
+compliance was mandated.51 Therefore, even if a multipollutant
+strategy implementation causes a large increase in demand for AC,
+provided that the timing of compliance was clear and far enough in
+the future, adequate supply of AC should be assured.
+EPA estimated that, of the total 1,300 MWe to be retrofit by
+2020 with ACI, all of that capacity would have existing fabric
+filters. 36 As mentioned before, EPA's modeling indicates that none
+of the total MWe of ACI retrofits will include a PJFF.36 AC usage
+nationally for mercury control from power plants should be roughly
+proportional to the total MWe of coal-fired facilities that are
+equipped with the technology (this assumes an average capacity
+factor of 85 percent and other assumptions of Tables 4-4 and 4-5).
+Table 6-9 shows the results of this analysis. Based upon this
+analysis, it is possible that existing excess capacity in AC
+production could adequately address the increased demand for AC.
+And, even if ACI is more broadly used than anticipated by EPA (more
+than 1,300 MWe), it is clear that with at least 2-3 years of
+preparation time to build more production capacity the AC industry
+can accommodate any additional demand.
+q~ÄäÉ=SJVK
+mêçàÉÅíÉÇ=^`=aÉã~åÇ=aìÉ=íç=jìäíáéçääìí~åí=fåáíá~íáîÉ=EjtÉ=î~äìÉë=Ñçê=êÉíêçÑáí=~êÉ=Ä~ëÉÇ=çå=bm^Ûë
+Éëíáã~íÉë=Ñêçã=fmjF
+vÉ~ê OMMR OMNM OMNR OMOM
+bpm=H=^`fI=íçåë=éÉê=óÉ~êG M M M M cc=H=^`fI=íçåë=éÉê=óÉ~ê M M
+RRM TOM qçí~äI=íçåë=éÉê=óÉ~ê M M RRM TOM
+GléÉê~áçå=oÉëçìêÅÉëI=éêçàÉÅíÉÇ=~ååì~ä=~Åî~íÉÇ=Å~êÄçå=ÇÉã~åÇ
+
+
+
+SKR`êÉ~íáçå=çÑ=gçÄë=ìåÇÉê=`äÉ~ê=pâáÉë=^Åí=ÇìÉ=íç=`çåíêçä=qÉÅÜåçäçÖó
+fåëí~ää~íáçåë
+The Clear Skies Act is expected to create jobs for those
+directly involved in the retrofit of facilities. These have been
+estimated in Section 6.2 of this document. In addition to the jobs
+that are directly created by this activity, jobs will be created
+indirectly as a result of the economic activity that is stimulated
+by additional discretionary income workers will have. Workers that
+are directly employed on these clean air projects will purchase
+consumer goods and services, which will stimulate additional
+economic activity. To account for these indirect effects of
+economic activity, economists use economic multipliers that are
+related to worker's marginal propensity to consume. Economic
+multipliers of 2 to 3 are often used.52 Using the lower multiplier
+of 2 and the total labor estimates of Table 6-3, 25,000 additional
+jobs may be created through indirect economic activity (2 times the
+peak direct labor level of 12,500 workers indicated in Table 6-3).
+This effect does not consider the additional job-gain potential
+from U.S.-based equipment suppliers that export to other countries
+the clean-air technology know-how they will gain from these
+clean-air programs.
+
+
+`Ü~éíÉê=T `çåÅäìëáçåë
+This report evaluated the resources necessary to comply with the
+Clear Skies Act for which EPA estimated, by using the IPM, the
+number, and size of facilities that will have to install new
+hardware. The control technologies considered by this report as
+candidates to be used for this multipollutant control strategy
+include:
+■ LSFO for the control of SO2; ■ SCR for the control of NOX; and
+■ ACI for the control of mercury.
+Based upon the IPM-generated information from EPA and the
+characteristics of the technologies listed above, the total
+resources needed to comply with the multipollutant control strategy
+were estimated and compared to the available resources. The
+availability of resources was based on their current market demand
+and does not reflect the increased production capacity that a
+multipollutant strategy may create. It is likely that the market
+for materials, labor, construction equipment, and other resources
+used in the construction and operation of air pollution control
+technologies would respond by increasing production to meet demand
+where needed.
+Installation of wet FGD, specifically LSFO, presents a
+conservatively high estimate of anticipated resources and time to
+provide additional control of SO2 emissions. LSFO systems commonly
+are more resource intensive than many other FGD technologies.
+Conservatively high assumptions were made for the time, labor,
+reagents, and steel needed to install FGD systems. Although FGD
+installations are time and labor intensive, they are typically
+planned and installed within normally scheduled outages. It is
+expected that one FGD system requires about 27 months of total
+effort for planning, engineering, installation and startup. Modern
+FGD systems typically use fewer and smaller absorbers and
+increasingly control greater amounts of generating capacity using
+common absorbers fed by multiple boilers. Under the Clear Skies
+Act, three absorber systems for six boilers are anticipated to
+handle 2,400 MWe of capacity. The estimate of labor includes
+planning and engineering, general labor, and skilled boilermakers.
+Construction of absorbers off-site is one way that projects can
+control project resources, schedules, and labor.
+Steel is the major hardware component for FGD systems.
+Structural steel is used primarily for the absorber, ductwork, and
+supports, and secondarily in miscellaneous components including
+reinforcement of existing structures at a facility. FGD systems are
+installed on the back end of a facility, are usually built close to
+the ground, and do not require the amounts of structural steel
+generally associated with elevated installations such as SCR. By
+comparison, the conservative estimate of the amount of steel
+required for a full FGD system is less than or equal to that
+required for an SCR retrofit. Corrosion and abrasion resistant
+materials are increasingly being applied with success in modern FGD
+systems to improve reliability and long-term performance. The total
+demand for additional FGD installations will be modest and is
+expected to be well within the anticipated steel capacity, even
+with demands from other applications.
+Construction equipment requirements for FGD installations are
+typically modest, particularly given that systems are installed at
+the back end of the facility and close to the ground. However,
+experience has indicated that project planning can surmount even
+difficult situations (e.g., prefabrication and jacking up
+components). Experience has also shown that specific site issues,
+while often a planning challenge, have not prevented installations
+of FGD systems. More recently, space requirements for construction
+and accommodating the FGD system have been addressed with the
+implementation of improvements in technology, including fewer and
+smaller absorbers and more efficient on-site use and treatment of
+wastes and byproducts.
+Limestone was used as an estimate of reagent for FGD systems.
+Experience indicates that the quantity of limestone is
+conservatively high compared to other enhanced reagents such as
+fine-ground limestone and MEL. Even with the assumption that all
+new FGD capacity will require limestone, the amount of limestone
+needed as a reagent is projected to be within availability of
+supply.
+SCR is the technology that will primarily be used for NOX
+control. Since it is also the most demanding in terms of resources
+needed for installation, it was assumed to be the only technology
+used for NOX control. SCR systems are primarily made from steel,
+standard mechanical hardware, and catalyst. Conservatively high
+assumptions were made for steel, catalyst, reagents, and the labor
+and equipment necessary to install the systems projected by the IPM
+that result from a multipollutant control strategy. The amount of
+ammonia or urea reagent needed can be estimated with good
+confidence as constituting a small portion of available supply.
+Experience in installing SCRs for the NOX SIP Call has shown
+that the SCR equipment can be installed on the facilities in the
+space provided. In some cases, moving of equipment has been
+necessary, but this has not proved to be limiting. The only
+specialized construction equipment that can be useful for SCR
+installations are tall, heavy-lift cranes. These appear to be in
+adequate supply and are not essential, since the erection plan can
+be modified to accommodate the use of smaller cranes, which are
+frequently more economical. The only specialized labor necessary
+for SCR installations are members of the boilermakers trade, and
+estimates of boilermaker demand were made. It is expected that one
+SCR system requires about 21 months of total effort for planning,
+engineering, installation, and start-up. Experience has shown that
+many installations have been completed in much shorter times.
+Therefore, 21 months appears to be somewhat conservative.
+ACI was presumed to be the technology that would be used to
+reduce mercury where dedicated mercury controls were needed because
+the hardware is representative of most sorbent injection
+technologies. Also, other sorbent-based approaches in development
+may prove in time to be preferable to ACI, making the use of ACI
+only a conservative assumption. ACI hardware is comprised of
+relatively common mechanical components and is largely made of
+steel. An ACI system requires much less in terms of steel, labor,
+or other resources to install than either FGD or SCR technology.
+Therefore, the impact of ACI hardware on resource demand is much
+less than that of FGD or SCR technologies for SO2 or NOX control,
+respectively. The only piece of equipment of any consequence in
+terms of size is the storage silo, and this piece of equipment is
+not so large as to pose a problem with regard to location for most
+facilities. Planning, engineering, installation, and start-up of an
+ACI system is only about 15 months and could be done in much less
+time if administrative matters, such as permitting, occur more
+quickly than assumed. Figures for consumption of AC were based on
+prior, peer-reviewed EPA work, and conservative operating
+conditions were assumed.
+In summary, this study found that the expected demand for
+resources resulting from a multipollutant control strategy could be
+met. However, the market is expected to adjust to changes in both
+the demand for resources under a multipollutant program and other
+market factors. For this reason, the longer term
+projections are of less value than those for the 2005 and 2010
+time period. Table 7-1 shows a summary of resource demand and its
+effect on current supply. In Table 7-1 the Supply Basis may be
+current U.S. demand, capacity available to U.S. users, or other
+basis as appropriate and described in the table notes. For all
+resources needed for installation, it is assumed that these
+resources are required over a 31-month period prior to 2005 and a
+three-year period prior to 2010, 2015, and 2020. This is a very
+conservative assumption because the most complex FGD installations
+will require three years while the actual available time to
+complete the projected retrofits for each period, except prior to
+2005, is five years.
+As shown in Table 7-1, there is ample steel and general
+construction labor to support the installation of these
+technologies, assuming a 31-month period of installation prior to
+2005 and a three-year installation prior to 2010, 2015, and 2020.
+Moreover, the demand assumptions do not consider any efficiencies
+that can be achieved at multiple unit installations or
+installations of multiple technologies at a site. As discussed in
+this document, these efficiencies can reduce steel requirement
+somewhat and labor needs substantially. Demand for boilermaker
+labor is significant when compared to the boilermaker labor supply
+basis. However, most boilermakers (60 percent) work in the electric
+power industry, so it should not be surprising that the percentage
+is high. It should also be considered that the value in this table
+assumes conservatively high proportion of boilermaker labor and
+that the boilermaker trade grows at its minimum target rate of 5.3
+percent. In fact, the boilermaker trade has been growing at about
+6.7 percent annually in recent years due to the improving
+employment prospects for boilermakers.
+There is also ample SCR catalyst capacity to supply this market.
+SCR catalyst manufacturing is almost entirely dedicated to power
+generating applications. Thus, it should not be surprising that
+demand for initial fill and periodic replacement catalyst should
+account for a significant portion of the supply basis. Moreover,
+the U.S. market for catalyst is currently larger than all of the
+other national markets combined. With regard to reagents and other
+consumables, clearly there is ample supply of limestone for
+additional FGD systems, especially in light of conservatively high
+assumptions that were used to make these estimates. Ammonia and
+urea supply is also plentiful, although it is expected that NOX
+reduction will cause a modest increase in U.S. demand. In fact,
+there is currently a worldwide excess capacity problem for
+suppliers of these commodity chemicals that are traded globally.
+Although U.S. demand for activated carbon is expected to increase
+by a small amount as a result of a multipollutant strategy,
+activated carbon is traded on a global basis, and there is
+currently substantial excess capacity that can readily provide for
+this increase in demand. Suppliers have also indicated that new
+plants could be brought on line within 3 years, if needed, to
+satisfy increased demand. Additionally, there are other
+technologies under development that potentially could reduce
+activated carbon demand from what is estimated here.
+
+q~ÄäÉ=TJNK==bëíáã~íÉÇ=oÉëçìêÅÉë=kÉÉÇÉÇ=Ñçê=fåëí~ää~íáçå=~åÇ=léÉê~íáçå=çÑ=qÉÅÜåçäçÖáÉë
+fåëí~ää~íáçå=oÉëçìêÅÉë == =
+
+
+G=oÉëçìêÅÉ=ÇÉã~åÇ=Ñêçã=p`o=ï~ë=~ÇàìëíÉÇ=Ñêçã=UR=dtÉ=çÑ=ÇÉã~åÇ=áå=OMMR=íç=TN=dtÉ=íç=~ÅÅçìåí=Ñçê=NQ=dtÉ=çÑ=p`o=ïÜáÅÜ=Ü~îÉ=ÄÉÉå=ÅçãéäÉíÉÇ=Äó
+j~ó=OMMOK
+
+
+`Ü~éíÉê=U oÉÑÉêÉåÅÉë
+1. Personal Communication with R. Telez, Babcock & Wilcox,
+August 2001.
+2. DOE/EPRI: Materials & Components Newsletter, No. 141,
+August 1, 1999.
+3. Personal Communication with P. Croteau, Babcock Borsig
+Power, August 2001.
+4. Feeney, S., Gohara, W.F., Telez, R.W., "Beyond 2000: Wet FGD
+in the Next Century," ASME International Joint Power Generation
+Conference, October 1995.
+5. Fukasawa, K., "Low Cost, Retrofit FGD Systems," IEA Coal
+Research, London England, September 1997.
+6. Personal Communication with D. Foerter, Institute of Clean
+Air Companies, August 28-29, 2001.
+7. Wu, Z., "Materials for FGD Systems," IEA Coal Research,
+London England, January 2000.
+8. Srivastava, R. K., Jozewicz, W., "Controlling SO2 Emissions:
+A Review of Technologies," EPA-600/R-00-093 (NTIS PB2002-101224),
+Research Triangle Park, NC, December 2000.
+9. Personal Communication with S.Kumar, FLS miljo, September
+2001.
+10. U.S. Environmental Protection Agency, "Feasibility of
+Installing NOX Control Technologies by May 2003," September
+1998.
+11. Bultmann, A., Watzold, F., "The Implementation of National
+and European Legislation Concerning Air Emissions from Large
+Combustion Plants in Germany," UFZ-Centre for Environmental
+Research Leipzig-Halle, August 2000.
+12. North American Electric Reliability Council (NERC), "Impact
+of FGD Systems: Availability Losses Experienced by Flue Gas
+Desulfurization Systems," NERC Generating Availability Trend
+Evaluations Working Group, July 1991.
+13. Personal Communication with J. Bushman, Alstom Power,
+February 19, 2002.
+14. Klingspor, J.S., Brown, G.N., "Techniques for Improving FGD
+System Performance to Achieve Ultra-High SO2 Removal Efficiencies,"
+In the Proceedings of the U.S. EPA-DOE-EPRI Combined Power Plant
+Air Pollutant Control Symposium: The Mega Symposium and The
+A&WMA Specialty Conference on Mercury Emissions: Fate, Effects,
+and Control, Chicago, IL, August 20-23, 2001.
+15. Advanced Flue Gas Desulfurization Demonstration Project,
+DOE/NETL project fact sheet,
+http://www.lanl.gov/projects/cctc/factsheets/puair/adflugasdemo.html
+16. Feeney, S., Gohara, W.F., Telez, R.W., "Beyond 2000: Wet
+FGD in the Next Century," Presented at the ASME International Joint
+Power Generation Conference, October 1995.
+17. CT-121 Chiyoda Thoroughbred 121 Flue Gas Desulfurization
+Process, http://www.chiyodacorp.com/select business, environmental
+preservation, Chiyoda Thoroughbred 121 (CT-121) FGD process
+18. Claussen, R. L., Martin, C. E., Smith, P. V., Oberjohn, W.
+J., Weber, G. F., "Engineering and Design Guidelines for Duct
+Injection Retrofits," In the Proceedings of the 1993 SO2 Control
+Symposium, Boston, MA, 1993.
+19. Nischt, W., Woolridge, B., Hines, J., Robison, K.,
+"Selective Catalytic Reduction Retrofit of a 675 MWe Boiler at AES
+Somerset," Presented at the ICAC Forum 2000, Washington, DC, March
+23-24, 2000.
+20. Siemens, Kat Treff '97, Washington, D.C. June 3-5,
+1997.
+21. Personal Communication with J. Urbas, Reliant Energy,
+August 13, 2001.
+22. Glaser, R., Licata, A., Robinson, T., "The SCR Retrofit at
+the Montour Steam Electric Station," Electric Power Generation
+Association Meeting, Hershey, PA, October 24-25, 2000.
+23. Hartenstein, H., Servatius, P., Schluttig, A., "Lifetime
+Extension of SCR De-NOx Catalysts Using SCR-Tech's High Efficiency
+Ultrasonic Regeneration Process," Presented at the Coal-Gen
+Conference, Chicago, IL, July 25-27, 2001.
+24. Personal Communication with M. Gialanella, Hamon Research
+Cottrell, August 7, 2001.
+25. Air Daily, "For Now, Labor Capable of Meeting SCR Demand,"
+Clear Air Regulations and Markets, Vol. 8, No. 138, July 18,
+2001.
+26. Personal Communication with a utility engineer that asked
+to remain anonymous, August 6, 2001.
+27. Personal Communication with J. Bushman of Alstom, August 8,
+2001.
+28. Babb, B., Angelini, E., Pritchard, S., "Implementation of
+SCR System at TVA Paradise Unit 2," Presented at the ICAC Forum
+2000, Washington DC, March 23-24, 2000.
+29. Cochran, J., Hellard, D., Rummenhohl, V., "Design and
+Initial Startup Results from the New Madrid SCR Retrofit Project,"
+Presented at the ICAC Forum 2000, Washington DC, March 23-24,
+2000.
+30. Hines, J., Kokkinos, A., Fedock, D., "Design for
+Constructability - A Method for Reducing SCR Project Costs," In the
+Proceedings of the U.S. EPA-DOE-EPRI Combined Power Plant Air
+Pollutant Control Symposium: The Mega Symposium and The A&WMA
+Specialty Conference on Mercury Emissions: Fate, Effects, and
+Control, Chicago, IL, August 20-23, 2001.
+31. Personal Communication with T. Licata, Babcock Borsig
+Power, February 20, 2002.
+32. Personal Communication with T. Licata, Babcock Borsig
+Power, August 3, 2001.
+33. Personal Communication with C. Martin of ADA Environmental
+Solutions, August 14, 2001.
+34. Personal Communication with M. Durham, ADA Environmental
+Solutions, August 3, 2001.
+35. E-mail from Rich Miller, Hamon Research-Cottrell, March 19,
+2002.
+36. Personal Communication with Chad Whiteman, U.S.
+Environmental Protection Agency, February 22, 2002.
+37. Personal Communication with John Bushman, Alstom, July 10,
+2001.
+38. Burnett, G., Tonn, D., Redinger, K., Snyder, R., Varner,
+M., "Integrated Environmental Control On the 21st Century's First
+New Coal-Fired Boiler," In the Proceedings of the U.S. EPA-DOE-EPRI
+Combined Power Plant Air Pollutant Control Symposium: The Mega
+Symposium and The A&WMA Specialty Conference on Mercury
+Emissions: Fate, Effects, and Control, Chicago, IL, August 20-23,
+2001.
+39. Electricity production, Energy Information Administration
+web site
+http://www.eia.doe.gov/cneaf/electricity/epav1/elecprod.html .
+40. Personal Communication with Tony Licata, Babcock Borsig
+Power, February 20, 2002.
+41. Bureau of Labor Statistics Website, Industry at a Glance,
+Construction, http://www.bls.gov/iag/ iag.construction.htm.
+42. "Market Gyrations Make Hitting Targets for Skilled Crafts
+an Art", Power Magazine 
+, vol. 146, no. 1, January/February 2002, pp.
+28-32.
+43. Hines, J., Jones, W., Wasilewski, K., "Reliant Energy SCR
+Construction Implementation Plan", presented at ICAC Forum 2002,
+Houston, February 12-13, 2002.
+44. Personal Communication with Ande Abbot, International
+Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths,
+Forgers and Helpers, February 5, 2002.
+45. Personal Communication (2) with Ande Abbot, International
+Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths,
+Forgers and Helpers, February 22, 2002.
+46. Institute of Clear Air Companies, "Equipment Market
+Forecasts," Issue Number 20, September 2001.
+47. Chemexpo.com web site, November 29, 1999,
+http://www.chemexpo.com/news/newsframe.cfm? 
+framebody=/news/profile.cfm.
+48. Chemexpo.com web site, December 13, 1999,
+http://www.chemexpo.com/news/newsframe.cfm? 
+framebody=/news/profile.cfm.
+49. Chemexpo.com web site, April 23, 2001,
+http://www.chemexpo.com/news/PROFILE010423.cfm.
+50. Roskill Information Services Website,
+http://www.roskill.co.uk/acarbon.html 
+
+51. Personal Communication with Bob Thomas, Norit Americas,
+September 6, 2001.
+52. Institute of Clean Air Companies, White Paper, November
+2001.
+^ééÉåÇáñ=^
+
+
+
+fãéäÉãÉåí~íáçå=pÅÜÉÇìäÉë=Ñçê=`çåíêçä=qÉÅÜåçäçÖó=fåëí~ää~íáçåë
+Exhibit A-1: Single FGD
+Exhibit A-2: Three FGD Modules on Six Units
+Exhibit A-3: Single SCR
+Exhibit A-4: Seven SCRs
+Exhibit A-5: Single ACI
+Exhibit A-6: Two ACIs
+Exhibit A-7: Single FGD and SCR
+Exhibit A-8: Single FGD and ACI
+Exhibit A-9: Single SCR and ACI
+
+
+iÉÖÉåÇW
+Major Task - Dark Gray
+Subtask - Light Gray
+Key Completion Point - Black
+
+A-2
+
+
+A-3
+
+
+A-4
+
+
+A-5
+
+
+A-6
+
+
+A-7
+
+
+A-8
+
+
+A-9
+
+
+A-10
+
+
+A-11
+
+
+
+
+
+
+
+
+

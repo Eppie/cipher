@@ -1,0 +1,2657 @@
+
+   
+      
+         
+            Plane Speaking
+
+
+
+
+            Nothing underscores the subtle complexities of
+language more strikingly than the miscommunications
+that occur among pilots, crew members,
+and air traffic controllers.  An experienced flight instructor
+reports noticing considerable power on, just
+before touching down, while checking out a pilot in a
+small airplane.  He had thought he was saying Back—
+on the power , with a stress on Back and a pause before
+on , but he was interpreted by the pilot as having said
+Back on—the power , with the stress on on and the
+pause after it.  A pilot who had been instructed to
+maintain 7000 feet and who was then told,
+
+
+traffic at ten o'clock, three miles,
+level at 6,000, to pass under you,
+
+            
+
+            responded, We have him , and was then challenged
+by the controller when he was observed descending
+through 6800 feet.  The pilot had misconstrued the
+phrase level at 6,000 imperatively, as an instruction
+for himself, meaning [Descend to and remain] level
+at 6,000, rather than understanding it declaratively,
+as it had been intended, as an assertion about his
+traffic, meaning [The traffic is] level at 6,000.  On
+January 25, 1990, an aircraft over Cove Neck, New
+York, ran out of fuel, and 73 of the 159 persons
+aboard died in the resulting crash, including the
+three crew members in the cockpit.  The flying pilot
+had instructed the copilot Digale que estamos en
+emergencia and the copilot had responded Si, senor,
+ya le dije ; but what he had actually radioed to the
+controller was We're running out of fuel .  The specific
+English word emergency is required in the aviation
+protocol to convey to the controller that the
+disaster is imminent, but the copilot failed to use
+that word, even though the pilot had used its exact
+Spanish equivalent in telling him what to say.
+
+            As I show in my book Fatal Words: Communication
+Clashes and Aircraft Crashes (University of Chicago
+Press, 1994), these examples are representative
+of a wide range of accidents and near misses in
+which language misunderstandings or omissions
+have played a contributing and sometimes central
+role.  An instructor reports responding to the tower
+calling traffic by saying I got it , with the intended
+meaning I see the traffic but being interpreted by
+his student as meaning that the instructor was now
+flying the aircraft.  In similar incident, a copilot reports
+that the landing field was in sight by saying I've
+got it , with the result that the flying pilot let go of
+the controls.  The sentence Maintain runway heading
+is interpreted sometimes as meaning that the pilot
+maintain the heading indicated when lined up on the
+extended center line of the runway and sometimes
+as meaning that the pilot take a heading after liftoff
+to keep the aircraft traveling on that line.  In some
+situations this difference can lead to a conflict between
+aircraft in a cross wind after takeoff.  At an
+airport at which Local Control and Ground Control
+were combined, a construction vehicle, B1, called,
+At the localizer road to proceed to the ramp .  A controller,
+knowing that B1 had called but not sure
+what the request had been, replied B1, Ground, Go
+Ahead and then proceeded to talk to aircraft while
+waiting for a reply.  B1 misinterpreted the phrase
+Go Ahead as referring to his driving, rather than his
+speaking, and was halfway down his normal route of
+travel before the controller realized what had happened.
+
+            Homophony and, more commonly, near-homophony,
+in which different words or phrases
+sound exactly or nearly alike, can be just as problematic
+as syntactic ambiguity.  For example, the
+sentence Pass to the left of the tower is ambiguous
+because left can mean either the speaker's left or the
+hearer's left; but further confusion is also possible,
+because left can sound very much like west .  A pilot
+reports practicing short field landings in a small airplane
+as a student when his instructor said Last of
+the power , meaning to reduce to zero while flaring.
+However, the pilot thought the instructor had said
+Blast of power , fearing an imminent stall.  The result
+was confusion and a longer landing.  A pilot who was
+observed on radar to be somewhat higher than
+called for and flying in the wrong direction turned
+out to have misheard a clearance for a Maspeth climb
+as a clearance for a massive climb .  Maspeth is a fix in
+the New York metropolitan area, but the pilot was
+unfamiliar with the local geography.  An outbound
+pilot who was told to receive his clearance from the
+Center when he was on the deck misheard this as off
+the deck and proceeded with his takeoff, consequently
+finding himself head-on with an inbound aircraft.
+In another incident, one widebody airplane
+barely missed colliding with another after landing,
+because the pilot heard Hold short as Oh sure in response
+to his asking the controller May we cross ? in
+reference to a runway.
+
+            An international carrier inbound to the United
+States was handed off to a new Center after the captain
+had read back the clearance Cleared to descend
+to two zero zero, cross two zero miles south of XYZ at
+two two zero and the First Officer had set the altitude
+selector to 20,000 feet.  To the initial contact
+from the flight, Leaving two two zero for two zero
+zero , the new Center responded, Were you cleared
+to two zero zero ?  The Center claimed later that the
+clearance had been only to 220, that is, 22,000 feet,
+but the crew had understood otherwise.  A Captain
+who was flying with an assigned altitude of 10,000
+feet while being vectored for a landing on runway
+27L thought he heard the copilot say Cleared to
+seven, took this to mean Cleared to seven thousand
+feet, and started to descend.  The copilot had really
+said Cleared two seven in reference to the runway.
+Confusions between the identical sounding to and
+two almost led to a mid-air collision, when a pilot
+misheard Climb to five zero as Climb two five zero,
+putting him on a collision course with another aircraft
+that was just fifteen hundred feet above him; it
+did lead to a fatal accident, when a pilot, in another
+incident, read back the instruction Descend two four
+zero zero as O.K. Four zero zero and then proceeded,
+without correction from the controller, to descend
+to four hundred, rather than twenty-four hundred
+feet.
+
+            To is not the only preposition that can kill.  On
+March 27, 1977, the pilot of a KLM 747 radioed We
+are now at take-off, as his plane began rolling down
+the runway in Tenerife, the Canary Islands.  The air
+traffic controller mistakenly took this statement to
+mean that the plane was at the take-off point, waiting
+for further instructions, and so did not warn the pilot
+that another plane, a Pan Am 747 that was invisible in
+the thick fog, was already on the runway.  The resulting
+crash killed 583 people in what is still the most
+destructive accident in aviation history.  The KLM
+pilot's otherwise perplexing use of the very nonstandard
+phrase at take-off, rather than the more standard
+phrase taking off, appears to have been a subtle
+form of what linguists call code-switching, a process in
+which bilingual or multilingual speakers inadvertently
+switch back and forth from one of their languages
+to another in the course of a conversation.  In
+the KLM pilot's case, what linguists call the present
+progressive aspect, which is expressed in English by a
+verb's -ing form, can be expressed in Dutch by the
+equivalent of at plus the verb's infinitive.  Perhaps
+because of fatigue or the stress of having to work in
+conditions of no visibility, the Dutch-speaking pilot
+switched into the Dutch grammatical construction
+while keeping his words in English, as required.  The
+Spanish-speaking controller had no clue that this was
+going on and so interpreted the at in the most natural
+way, as indicating a place, the take-off point.
+
+            Code-switching can take place even within the
+same language, when different dialects or variants
+are available.  On February 17, 1981, at John Wayne
+Orange County Airport in Santa Ana, California, Air
+Cal 336 was cleared to land while Air Cal 931 was
+cleared to taxi into position for takeoff, but the controller
+then decided that more time was needed between
+the takeoff and the landing and so told 336 to
+go around.  The 336 Captain resisted this instruction
+by having his copilot radio to ask for permission to
+continue landing, but he switched from technical
+aviation jargon to ordinary English and used the
+word hold to express this request.  In aviation parlance,
+to hold some action always means to stop
+what you are doing and thus to go around in a landing
+situation; but in ordinary English hold can also
+mean to continue what you are doing and thus to
+land in such a situation.  The resulting confusion
+led to 34 injuries, four of them classified as serious,
+and the complete destruction of the aircraft by fire,
+for Air Cal 336 landed with its landing gear retracted,
+the Captain having finally decided to follow
+instructions to go around, but too late to do so.
+
+            There are technological means of ameliorating
+miscommunications in the aviation setting, as I discuss
+in Fatal Words, but there are broader lessons to
+be learned from these examples.  Not only pilots and
+controllers, but people in general need to learn to
+be more mindful of their own language use and to be
+willing to use more words to get meanings across.
+We all need to learn to listen with more care and to
+ask for clarification, rather than assuming that we
+already know what is going to be said to us in advance.
+         
+         
+            
+Available for priv parts [Legend on the marquee of
+a cocktail lounge in Waltham, Massachusetts, Christmas-time
+.  Submitted by .]
+         
+         
+            
+ I don't mind having my feet to the fire.  It focuses
+everybody's mind, Mr. Doroniuk said of the short time
+frame.  My problem is I've got so many balls in the air. 
+[From the (Toronto) Globe and Mail , .
+Submitted by .]
+
+         
+         
+            What Is Dementia?
+
+
+
+
+            
+               Dementia is a term often used by laypersons and
+by medical personnel, both of which have
+employed the word in different ways at various
+times.  The resulting confusion is furthered by inconsistencies
+among definitions in medical dictionaries
+and textbooks.  A survey of source material was
+therefore undertaken to provide a history of the
+word and of how its use has evolved.
+
+            
+               Dementia derives from the Latin, de - away or
+from, and ment- , root of mens `mind.'  The OED incorrectly
+attributes the initial use of dementia to
+Philippe Pinel in 1806: the word was first used in an
+English text in 1592 by Richard Cosin, Member of
+Parliament, in defense of the hanging of a conspirator
+against the monarchy.  Cosin defined dementia as
+...a passion of the minde, bereaving it of the
+light of understanding...  The word first appeared
+in an English medical dictionary in 1775.
+George Motherby ( A New Medical Dictionary ) said it
+was madness, or a delirium and used the same
+definition for insania .  Dementia, insanity , and madness
+were synonyms throughout most of the 19th
+century.  Robley Dunglison in his series of medical
+dictionaries (1833—1903) echoes medical thinking
+of the time when he says of dementia in common
+parlance, and even in legal language, this word is
+synonymous with insanity... It is characterized by
+a total loss of the faculty of thought.  Medical use of
+madness then disappeared, but the word was retained
+by the laity.  In the 1900s, insanity also faded
+from the medical vocabulary, and it is now used by
+lawyers and judges when deciding on responsibility
+for acts committed while mentally deranged: not
+guilty by reason of insanity.
+
+            Modern understanding of the meaning of dementia
+began in 1892 with A Dictionary of Psychological
+Medicine , by Daniel Tuke, where it was defined
+as a state in which manifestations of mind are
+to a greater or less degree absent in consequence of
+disease or decay of the brain itself.  It is always an
+acquired condition, and as such is to be distinguished
+from amentia, which is either a congenital
+state or one closely connected with that period.
+Tuke's definition has a remarkably contemporary
+sound.  It recognizes degrees of the syndrome rather
+than the previously described total loss of mentality.
+The condition is attributed to disease or decay of
+the brain and is acquired.  Tuke also commented on
+reversibility and dismissed acute dementia as really
+instances of Melancholia cum stupore .  In the late
+19th century he listed nineteen forms of dementia,
+from acute and accidentalis to senile and toxica .
+
+            The meaning of dementia frequently changed in
+the 20th century; the word lost popularity in the
+1940s and '50s.  Selected definitions from Dorland's
+Medical Dictionary illustrate some of the shifts:
+
+
+1917, 9th ed.: Insanity characterized by loss or
+impairment of intellect, will, and memory.
+
+1941, 19th ed.: A generic designation for mental
+deterioration, less frequently used than formerly,
+except in the term dementia praecox.
+
+1957, 23rd ed.: A general designation for mental
+deterioration.
+
+1974, 25th ed.: A generic designation for mental
+deterioration; called also aphrenia, aphronesia,
+and athymia.
+
+1981, 26th ed.: Organic loss of intellectual function,
+called also aphrenia, aphronesia, and
+athymia.
+
+1988, 27th ed.: [DSM-III] An organic mental disorder
+characterized by a general loss of intellectual
+abilities involving impairment of memory,
+judgment, and abstract thinking as well as
+changes in personality.  It does not include loss
+of intellectual functioning caused by clouding
+of consciousness... nor that caused by depression...
+Dementia may be caused by a number
+of conditions, some reversible, some progressive...
+
+            
+
+            Each definition has deficiencies.  Will (1917)
+is difficult to determine, and was soon abandoned.  If
+dementia means only mental deterioration (1941
+to 1974), it is not separated from neuroses and psychoses.
+The word organic (1981) addresses this
+problem.  The three synonyms cited in 1974 and repeated
+in 1981 came from a lexicographer whose
+mind was fixed in an earlier (19th) century.  The
+1988 quotation of the Diagnostic and Statistical
+Manual (DSM-III) returned Dorland's Medical Dictionary
+to the 20th century: DSM-III is the standard
+psychiatric manual defining mental disorders.
+
+            In the 1940s and '50s, dementia was seldom
+used except for types of schizophrenia, e.g., dementia
+praecox , or catatonic and paranoid dementia.
+Psychiatrists during that time officially replaced the
+word dementia with chronic brain syndrome , a useless
+phrase now almost completely abandoned.
+
+            Let us examine critically some representative
+definitions of the word dementia to illustrate the
+complex nature of the term and to marvel at the diversity
+of words used to define this single concept:
+
+
+Lishman, Organic Psychiatry, 1978: An acquired
+global impairment of intellect, reason and personality
+but without impairment of consciousness.
+
+            
+
+            
+               Global , meaning all aspects of intellect, is used
+by many medical authors, but is incorrect.  The decay
+is not global at onset; discrete disorders of mention
+may dominate the clinical picture in midcourse; and
+even in the final stages cognitive impairment may be
+selective.  Maintained consciousness is accepted by
+modern authors as necessary to the definition, but
+nothing is said here of the cerebral origin of dementia,
+its organic nature, or its degree of permanence.
+
+
+Butterworths Medical Dictionary, 1978: A form of
+mental disorder in which the cognitive and intellectual
+functions of the mind are prominently
+or predominantly affected; invariably a
+symptom of organic cerebral disease, and as a
+rule, impairment of memory is one of the earliest
+symptoms.  Dementia necessarily implies
+some degree of permanent change; totally recoverable
+confusional states in which cognitive
+changes are prominent are thus excluded.
+
+            
+
+            
+               Cognitive and intellectual are synonyms for the
+faculty of knowing ( OED ): use of both words is redundant.
+Of the mind is unnecessary—where else is
+knowing located?  Impairment of memory is a frequent
+early symptom of Alzheimer's dementia, but
+not necessarily of other types.  The concept of irreversibility
+arose from initially equating all dementias
+with senile dementia.  Toxic and infectious dementias
+can be halted or reversed, as illustrated by the
+effect of penicillin on dementia paralytica , the cerebral
+form of neurosyphilis.  It is therefore incorrect
+to state that some degree of permanent change is
+implied for all types of dementia.
+
+
+Diagnostic and Statistical Manual DSM-III-R),
+1987: The essential feature of Dementia is impairment
+in short-and long-term memory, associated
+with impairment in abstract thinking, impaired
+judgment, other disburbances of higher
+cortical function, or personality changes.  The
+disturbance is severe enough to interfere significantly
+with work or usual social activities or
+relationships with others.  The diagnosis of Dementia
+is not made if these symptoms occur
+only in the presence of reduced ability to maintain
+or shift attention to external stimuli, as in
+Delirium; however, Delirium and Dementia
+may coexist... an underlying causative organic
+factor is always assumed... Dementia
+may be progressive, static, or remitting...
+
+            
+
+            Emphasis on memory loss does not take into account
+dementias other than Alzheimer's.  Insistence
+on severity eliminates mild cases of dementia or instances
+where a mildly demented person is able to
+manage when little intellectual ability is needed.  All
+mental and physical disorders may interfere with
+work or usual social activities, hence these losses
+are not diagnostic of dementia.  The assumption that
+a causative organic factor is always present is not
+proved in rare cases.  Complete studies including autopsy
+may occasionally fail to disclose the cause.
+
+            The definition of dementia has changed often
+since it was used by Richard Cosin in 1592, and it
+will continue to change as new information becomes
+available.  Any definition, therefore, must be tentative,
+but it should not contain outmoded concepts,
+as occurs too often in medical dictionaries.  Current
+meaning may be sought in articles published in recent
+medical journals, but authors are contentious,
+and judgment must be used.
+
+            Dementia is not a single symptom but a syndrome,
+a group of symptoms and signs that occur in
+different combinations depending on the site and
+nature of changes in brain tissue.  It therefore cannot
+be properly defined in a few words.  A synthesis
+of current uses of the word would include the following
+concepts: an acquired syndrome of mental
+deterioration without loss of consciousness; onset
+often uncertain; early changes from normal to abnormal
+frequently imperceptible.  Furthermore, dementia
+is chronic and usually progressive, but it may
+be static or reversible.  It arises secondary to structural
+or biochemical alterations of the brain, hence
+its medical description is organic.  Dementia is characterized
+by changes in personality and behavior
+with disturbances of orientation, memory, abstract
+thinking, and judgment.  Altered cerebral function
+may also result in disordered language and difficulty
+in movements requiring dexterity.
+
+            It should be noted that individual symptoms
+may occur in normal persons at various times and
+that memory commonly declines in normal old age.
+Popular and medical use of dementia first associated
+it with senility but since World War II has linked it
+predominantly with the type first described by Alois
+Alzheimer in 1907.  Alzheimer's and multi-infarct
+dementia, the result of multiple small strokes, are
+currently considered the most frequent causes of dementia.
+The devastating and untreatable effects of
+senility and of these two types of dementia excite
+horror and pity.  Other causes of dementia, however,
+although less common, can be treated effectively
+and reversed.  These conditions include thyroid
+deficiency, mercury poisoning, infectious
+diseases such as neurosyphilis and meningitis, nutritional
+disorders, including pellagra and pernicious
+anemia that involve deficiency of elements of the
+vitamin B complex, and chronic alcoholism.  Unfortunately,
+AIDS is a recent addition to the list of
+causes of dementia that lack an effective treatment.
+         
+         
+            The True Meaning of Christmas
+
+
+
+
+            Mistletoe and festivities, holly and ivy, peace to
+the world, commerciality... Just what is
+the meaning of Christmas?  This is a question asked
+all too often these days.  A little research soon
+reveals the true meaning of the season of good will
+to all men.
+
+            The word Christmas derives from the late old
+English Christes mæsse , meaning the mass of
+Christ.  That is easy enough to follow, but digging a
+little deeper into the meaning of Christmas leads us
+to a strange anomaly.  Mass has its roots, as already
+noted, in the old English mæsse which itself derives
+from the written Latin missa which means send,
+send away, or dismiss.  The earliest occurrences of
+the word being used to refer to a religious service
+are to be found in the epistles of Saint Ambrose and
+the itinerary of Silvia of Aquitania in the last quarter
+of the fourth century, when it was applied to matins
+and vespers; however, in its most eminent sense,
+mæsse was used to denote the Eucharist.
+
+            Some etymologists believe that missa at first denoted
+the solemn conclusion of a religious service,
+the words Ite, missa est Go, it is the dismissal being
+uttered at the end of the ceremony but later applied
+to the service itself.  And it is here that the anomaly
+can be seen; in its most rudimentary form, Christmas
+means Christ's dismissal, quite the opposite of its
+meaning of Christ's birth today.
+
+            The angel may well have sung The First Noel ,
+but what exactly is a Noël?  A Noël originally was a
+canticle or song sung at Christmas time in country
+churches in France, but it soon became a general
+term for a Christmas carol.  The English word
+nowel is closely related to Noël , although there is a
+slight difference in meaning: nowel was a word
+shouted or sung as an expression of joy to commemorate
+the birth of Christ.  Both words derive from
+the Latin nātālis birth.
+
+            Another term used to describe Christmas is
+Yule.  Yule has its roots in both Christianity and paganism.
+In Old English the word \?\eól was used to
+mean Christmas Day or Christmastide.  It corresponds
+to the old Norse jól which was a heathen festival
+lasting twelve days, from December to January.
+It was this festival that was adopted by the Christians
+and later became known as Christmas, hence
+the twelve days of celebration around the Christmas
+period.
+
+            Christmas is known as the Festive Season.  The
+time of year when we remember the poor and needy
+by spending wallets full of money and gorging ourselves
+on turkey, sage and onion stuffing, and Christmas
+pudding.  Indeed, the word festive comes from
+the word feast which derives from the Latin festa
+which was a feastal ceremony.  Festa itself derives
+from festus which probably, according to etymologists,
+had the same root as feria fair.
+
+            Such is the true meaning of Christmas .  It is exactly
+the same as it means to us now: twelve days of
+ceremonial feasting.  Maybe Christmas has always
+been the most commercial time of year, and it is just
+our perception of it that has changed.
+         
+         
+            Reading Non-Sequentially: The Peculiar Kanbun System
+
+
+
+
+            European languages are written from left to
+right, Hebrew and Arabic from right to left,
+Chinese and Japanese may be written vertically, and
+Ancient Egyptian was written multidirectionally.
+The word boustrophedon is used to describe inscriptions
+that run as the ox ploughs (left to right, then
+right to left, and back again).  Despite the wide
+range of directional options, all writing systems have
+one thing in common: they are intended to be read
+in the direction they are written.  Actually, there is
+one significant exception to this rule, a written language
+used in Japan called kanbun .
+
+            
+               Kanbun \?\ \?\ is essentially Classical Chinese
+( wényánwén \?\ \?\ \?\ ) as read by Japanese scholars.
+It began as a decoding system in which the
+reader learned to read texts from China as though
+they were Japanese, and developed into a way of
+writing employed by Japanese themselves.
+
+            In the Kanbun system, special punctuation enables
+the reader to convert phrases presented in
+Chinese order (usually subject-verb-object) to Japanese
+order (usually subject-object-verb), and to
+supply missing inflectional endings to produce
+something approximating Classical Japanese.  For example,
+let us consider the phrase:
+
+
+             Mandarin    English translation
+\?\   shào    young
+\?\   nián    year
+\?\   yì      easy
+\?\   lăo     old
+\?\   xué     study
+\?\   nán     difficult
+\?\   chéng   accomplish
+
+            
+
+            The Mandarin Chinese speaker from Beijing
+would read this from top to bottom (it may also be
+written left to right) as shàonián yì lăo, xué nán
+chéng , and understand it to mean something like
+It is easy for a youth to grow old, but harder to
+complete one's studies.  Speakers of other dialects
+would pronounce the characters differently but
+would associate the same meaning with the sentence.
+A Mandarin speaker from Chengdu would
+say săonián y\?\ nào, xüó nán cén , while a Southern
+Min speaker from Amoy would say siàoliân \?\ ló, hák
+lân sêng .
+
+            The Japanese speaker, educated in Kanbun
+would punctuate this sentence with the aid of the
+symbol:
+
+
+           Japanese pronunciation
+\?\   shō
+\?\   nen
+\?\   yasu(ku)
+\?\
+\?\   o(i)
+\?\   gaku
+\?\   gata(shi)
+\?\
+\?\   na(ri)
+
+            
+
+            The symbol indicates that the character above it is
+to be read after the following character.  Parentheses
+indicate inflectional endings not found in Chinese, inferred
+by the Japanese reader.  The text would thus
+be read shōnen o(i) yasu(ku), gaku na(ri) gata(shi) ,
+which retains the meaning of the original, as much as
+any translation can.
+
+            Note that some of the Japanese readings are
+very similar to the Chinese original: shō, nen , and
+gaku are etymologically related to shào, nián and xué
+(originally gak ).  On the other hand, the readings
+o(i), yasu(ku), na(ri) and gata(shi) , are unrelated
+to Chinese lăo, yì, chéng , and nán .  Characters are
+either pronounced in a Japanized version of the
+Chinese ( on reading), or else a synonymous Japanese
+word ( kun reading) is read in place of the Chinese
+word.  The choice of which reading to use for a specific
+character is determined by context.
+
+            Sometimes, for additional clarity, kanbun writers
+will add the inflectional endings to the right of
+the line, using phonetic symbols called katakana :
+
+
+\?\   Shō
+\?\   nen
+\?\   yasu
+\?\   \?\
+\?\
+\?\
+\?\   gaku
+\?\   gata
+\?\   \?\
+\?\
+
+            
+
+            Of course, to get from Chinese to Japanese
+word order, a simple transposition of two characters
+may not suffice.  More complex reordering may be
+indicated through punctuation as well.  A sequence
+of \?\ signs means that the text so marked is read in
+reverse order:
+
+
+\?\   1
+\?\   5
+\?\           [Circles represent any character,
+\?\   4       and numbers indicate
+\?\   3       the order in which they are to
+              be read.]
+\?\   2
+
+            
+
+            In addition to the symbol, there are two other
+devices for indicating that characters are to be read
+out of sequence.  First, the characters - ichi , one
+and= ni , two may be used:
+
+
+\?\   1
+\?\   4
+\?\   2
+\?\   3
+\?\
+
+            
+
+            Note that these numbers may be used more than
+once in a long phrase:  
+
+
+\?\   1
+\?\   2
+\?\       [The first occurence of = fol-
+          lows the first occurence of -,
+\?\   3   etc.  That is, the application of
+\?\   4   the reversals must be consecu-
+\?\   8   tive, without overlapping or
+          nesting.]
+\?\   6
+\?\   7
+
+            
+
+            In cases where reversals overlap, or nest, a second
+pair of characters is used, namely, \?\ ue , up
+and \?\ shita , down.  Here are two examples:
+
+
+\?\  7      \?\   8
+\?\  1      \?\   3
+\?\  4      \?\   1
+\?\  2      \?\   2
+\?\  3      \?\   6
+\?\  5      \?\   4
+\?\  6      \?\   5
+\?\  8      \?\   7
+
+            
+
+            In general, the reordering markers are easily understood;
+the main source of ambiguity relates to the
+choice of on or kun readings, and, if a kun reading has
+been selected, the choice of inflectional endings intended.
+Not surprisingly, this arcane system of reading
+contrary to written order takes years to learn and
+has fallen out of fashion in recent decades.  While
+there are still many people who can read kanbun
+texts, very few can actually write them.  In the nineteenth
+century, however, kanbun was still widely
+used, and it is interesting to note that some of the first
+European language instruction books written in Japan
+employ similar systems for reading English and
+other languages in Japanese!
+         
+         
+            A Balance of Trade
+
+
+
+
+            I was amused and bemused by Martyn Ecott's The
+Franglais Blues [XX, 3].  My bemusement led to
+my wondering how many English words in the story
+of youpie Marc, where the vocabulary has been selected
+to illustrate the relentless incursion of English
+expressions into modern French, were borrowed
+into English from French, either the Old, Anglo-,
+Middle, or Modern language.  Here is a copy of Martyn
+Ecott's little story, with the Franglais expressions
+left in italics but with the English morphemes
+originally borrowed from French underlined in the
+mainly English text.  My etymological authority is
+the Random House Dictionary of the English Language .
+
+
+A friend of mine, let's call him Marc, was finishing
+his work for the day.  He consulted his
+agenda diary, appointment book to check
+whether he was keeping to his planning schedule.
+His listing computer printout list helps him
+keep track of his customers and is used by his
+secretary for un mailing despatch of letters; mail
+drop.  He picked up his brake (Brit. shooting
+brake) Brit. estate car, US station wagon from
+the parking (-lot) and drove home.  It had been
+raining so he had to avoid un aquaplaning skid
+on the slippery surface.  Marc is a bit of a youpie
+yuppie and has to ensure he is keeping his
+standing social status.  He has his own box private
+garage.  His home, too, is standing conferring
+status, as is his wife who regularly has her
+lifting face-lift to make sure she is sufficiently
+liftée to face up to his friends.  She does not want
+to be snobée looked down upon.  He himself
+goes in for a brushing blow-wave.
+
+Their house not only has a sizable living
+(-room), but also un dressing (-room).  For dinner
+he will put on his smoking dinner jacket, tuxedo,
+though he really prefers to be in by driving the
+kids down to a snack (-bar), un fast (probably un
+Mac Do) for un big (-Mac) or un cheese (-burger)
+with French (-fries).  If the kids have been good
+he might buy them un pin's (no, not possessive in
+French!)—un badge would be too passé.  Sometimes
+a magnet's fridge magnet, (again not a possessive)
+might be given away.  The kids are very
+hip hop (they like rap music) and spend most
+of their time on their skate (-board).  But their
+parents do not mind.  Anything, as long as they
+do not se shooter take drugs, not just shoot up
+like some children their age.  But, unlike other
+children, they do have une nurse nanny to look
+after them.
+
+By the end of the week Marc is completely
+stone dog tired, so he just wants to get away
+from it all.  Saturdays and Sundays the family
+spends time at le week-end weekend retreat, holiday
+home by the sea, and the bobtail Old English
+sheepdog gets more exercise than in town.
+Marc gets his exercise by putting on his baskets
+training shoes and probably un training or un
+jogging track suit and goes out for un footing
+a jog.
+
+In the meantime, his wife pops along to the local
+self self-service market for her favorite: un
+cake (only ever fruitcake).  To work that off, she
+gets her exercise down at le fitness gym.  She
+also wears baskets, but with un body stretch fluo
+fluorescent elasticated leotard.  During the
+warm-up, she will wear un sweat `sweatshirt.'
+
+            
+
+            In this calculatedly selective text I count only a
+few more Franglais words or morphemes, forty-four,
+than English morphemes originally, in most cases
+centuries ago, borrowed from French, forty by my
+count.  However, of the sixty-six words in the closing
+paragraph of the article, where the language is not
+artificially loaded, I find seven words derived from
+French, including Académie , which is French, but
+not a single word of Franglais, nor would any Franglais
+expression appear in the paragraph were it
+translated into French.  The current balance of trade
+may be in favor of English, but overall it is clearly
+still heavily in favor of French.
+
+            As Martyn Ecott cleverly demonstrates, francophone
+purists have reason for alarm; the flow, absolute
+flood of vocabulary from French into English,
+once resulting in a kind of hybridization, has lately
+been somewhat reversed, depositing in the elegant
+French language such grotesque neologisms as un
+pin's or hip hop.  Certainly, though, most of these
+freaks will be dislodged and swept away by the passage
+of time while those already rooted in the
+French language, like smoking and week-end, have
+become naturalized and no longer jar in the Gallic
+ear.  The real threat to the French language is not
+that some faddish expressions and technical terms
+are invading French.  No, the real menace, already
+almost a fait accompli, is that English will replace
+French altogether in science and technology, commerce,
+and international communication.  At the
+present rate, French, which still appears along with
+English in my American passport and which sometimes
+still fills full-page ads in The New Yorker, may
+wind up like Greek—a language providing access to
+the roots of world culture but hardly worth learning
+for the conduct of mundane affairs.
+         
+         
+            
+At Terrace [a restaurant], Chef Ossama Mickail
+and owner Nada Bernic stepped in after the death of
+Mrs. Bernic's husband and savored its best aspects.
+[Caption of a photo in Restaurant Review in Crain's
+New York Business , , page 10.  Submitted
+by .]
+         
+         
+            
+...Please bare with us and I think everyone
+will enjoy themselves.  [From the Harvard Heights
+Apartments tenants' letter, n.d. Submitted by .]
+
+         
+         
+            The Columbia Guide to Standard American English
+            A reader, a former student of the author's at the
+University of Connecticut, recently called this book
+to my attention, and I am pleased that he did, for it
+gives advice on a number of issues—6500, according
+to the jacket blurb—that is stalwart, which is to
+say, advice with which I agree.
+
+            Before getting into that, I feel compelled to reiterate
+my perpetual complaint about the prospective
+users of such books: in order to look something up in
+a reference book of any kind—dictionary, thesaurus,
+usage book, encyclopedia—a person must either
+acknowledge that he does not know something
+or, at least, have doubts about the information he
+already possesses.  Not everyone can always be sure
+of everything, but it has always seemed to me that
+one of the functions of education is to implant doubt
+in a student's mind: in other words, it is not so important
+that he remember, a dozen years after leaving
+school, what a dangling modifier, split infinitive,
+agreement between the number of a subject and its
+verb, etc., might mean, but the process of education
+should have created a (minor) circuit in the brain of
+the pupil so that when a certain situation is encountered
+later on, he acknowledge a nagging suspicion
+that there might be something wrong and that it
+would be best were he to look it up in an authoritative
+source to see what is written there by people
+who know such things.  Had the semi-educated computer
+experts who gave us programmed, programming,
+and programmer labored under any doubt
+about their ability to spell according to standard
+American practice, they might have looked it up in a
+dictionary or other source and got it right.
+
+            The proliferation of printed media and the
+amount of text appearing on television screens these
+days requires a lot of writers; the problem is that
+writer is these days construed in its minimalist sense
+of a person who is literate: that is, a person who
+knows how to write but by no means necessarily a
+person who knows how to write .  As the standards
+slip in the marketplace, so they move on down the
+slippery slope in the education place, with older,
+wiser, more dedicated, better educated teachers
+gradually but ineluctably replaced by those who
+have not a scintilla of enlightenment regarding the
+meaning of contrary-to-fact condition, comma splice ,
+or double genitive .  The result is that quality and art
+of expression continue to deteriorate, and we are
+left with performers who spend five or ten minutes
+to deliver a three-minute weather report on
+television, housewives and househusbands who delight
+in revealing intimate, revolting, and highly suspect
+details of their childhood on national television,
+and channels devoted entirely to charlatans perpetrating
+psychic rubbish.
+
+            Kenneth G. Wilson is clearly of the old school
+(or, to make him seem younger, I should write
+older school).  His advice, couched in language
+that reflects the tolerance of one who has spent
+years correcting English themes, flows from an enviable
+intimacy with, confidence in, and control of the
+language.
+
+            Entries range from grammatical matters (like
+agreement between various elements that ought to
+agree), to questions of syntax (like the placement of
+adjectives), to matters of semantics (like the discussion
+of adequate ), to the meaning, usage, spelling,
+inflection, and pronunciation of a large number of
+words and phrases that might be confused ( adduce,
+deduce ; plural/singular status of addendum, agenda ;
+spelling of practice, practise ; plurals of words ending
+in -o , etc.).  I agree with Wilson's comments almost
+entirely, but he fails to criticize severely enough
+those who say i.e. and e.g. (rather than confine
+their use solely to writing), and, in general, he seems
+to avoid condemning poor style; also, the pronunciation
+system he employs may be a little crude for this
+sort of book, being derived from the Moo Goo Gai
+Pan school of phonetics.
+
+            On balance, though, it is a relief to see a well-rounded,
+sensible approach to the questions of
+grammar, usage, and other aspects of language Wilson
+covers.  Would that we could do something to
+induce people to use it!
+
+            Laurence Urdang
+         
+         
+            
+Wandering around the transformed city of Bergen,
+Norway in search of old haunts, I felt like Gulliver waking
+from a long sleep.  [From Going Home to/Retour à
+Bergen, by Helga Loverseed, in Empress (C. P. Airlines magazine),
+:52.  Submitted by .]
+         
+         
+            
+Regardless of anything to the contrary in this booklet,
+if your medical insurance terminates for any reason
+including death, you...may elect within 30 days...to
+continue such medical insurance... [From Group Insurance
+for 1-14 Employees , Consolidated Group Trust, The
+Hartford, p. 70.]
+         
+         
+            The New York Public Library Writer's Guide to
+Style and Usage
+            This welcome work is directed toward writers
+and editors who have the wit to harbor doubts about
+their infallibility (which ought to include just about
+anyone worthy of consideration as a professional).
+As I have said on numerous occasions, books that
+inform are of no use to people who think that they
+know it all, for it never occurs to them to look up the
+standard American spelling of words like programed,
+programing , and programer.
+            
+
+            But let me interrupt: what is a frontispiece?  I
+always thought it was a full-page illustration at the
+front of a book.  I checked in the RHD Unabridged
+and found that definition.  What made me check was
+a reference in the editor's Preface to names listed
+on the frontispiece.  Sure enough, on the page facing
+the title page is a list of, among other things, the
+contributing editors.  Maybe I was out of date with
+my understanding of frontispiece , so I looked it up in
+the Writer's Guide itself.  Sure enough:
+
+
+A frontispiece is an illustration that appears opposite
+the title page.  If there is no frontispiece,
+this page may contain a list of the author's other
+works or information about other books in the
+series.
+            
+
+            New to me.  I checked in what I consider one of the
+best authorities on books, Glaister's Glossary of the
+Book , by Geoffrey Ashall Glaister, University of California
+Press, 2nd edition, 1979.  Glaister's has:
+
+
+an illustration facing the title-page, either
+printed with the prelims or separately pasted and
+guarded into a book.
+
+            
+
+            From the wording, it is obvious that Glaister is British,
+and either frontispiece might not be used that
+way in Britain or perhaps this is a new sense of frontispiece
+not in use in 1979.  I checked in MWIII and
+in the OED 2e : neither yielded the definition sought
+(though the OED2e has a definition, labeled obsolete
+and obviously not the meaning sought, the first
+page of a book).  That may not seem an auspicious
+beginning, but we must not despair, for an authority—if
+one is needed—must be lurking somewhere:
+either we have not found it or we must recognize
+the Editor's right to Humpty-Dumpty meanings into
+existence at a whim.
+
+            The foregoing is not very important, but it does
+show what can happen when a person keen on words
+is let loose.
+
+            A few of the names on the so-called frontispiece
+are familiar, particularly that of Priscilla S. Taylor,
+consultant editor to the Editorial Eye (or to EEI, in
+Alexandria, Virginia) and editor of the Phi Beta
+Kappa Newsletter , a person of formidable qualifications
+and one whom I trust.
+
+            The Writer's Guide is divided into five parts, Usage,
+Grammar, Style, Preparing the Text, and Production
+and Printing.  There is an annotated bibliography,
+which lists my Oxford Theasurus but fails to
+include notice of the myriad illustrative sentences it
+contains.  I trust that I shall be forgiven for skimming
+over the Usage chapter, partly because much of it is
+cut and dried and the parts that are not confuse the
+issue of avoiding prejudice with political correctness,
+a subject that gives me dyspepsia.  (It is beyond
+me, for example, why people in eastern Asia should
+be offended by the word orient , which is no more
+than a reference to the place where the sun rises.)  I
+shall also skip Grammar, which seems quite straightforward
+and predictable.  Scattered here and there
+are helpful vignettes that focus on ancillary matters—SPOTTING
+A RESTRICTIVE CLAUSE, THE HISTORY
+OF THE SEMICOLON, etc.
+
+            In the chapter on Style, I expected to find under
+punctuation a fuller treatment than that afforded: I
+looked in vain for two things, the wisdom offered regarding
+serial commas (whether or when the second
+comma is required or desirable in A, B, and C, and
+what the position is on the use of a comma following
+etc. in the middle of a sentence).  I found neither, nor
+did I find the common editorial term serial commas in
+the Index, which seems a little thin.  It seemed best
+not to try to go through the book systematically but
+to dip into it here and there.  Good advice is given
+about hyphens and adverbs ending in -ly preceding
+adjectives: were I being pernickety, I should say that
+the word modifier is not necessarily applied only to
+words that precede a noun, and that the rules change
+when a modifier is in apositive or predicative position,
+as in a well-known man vs. a man well known for
+his generosity .  Would that it were possible to distill
+the vagaries of English compounding into a five-page
+table: the editors are forced to offer comments like
+equal titles of functions (equality is not always easy
+to decide), words go together naturally (naturally
+for whom?), etc., and even then to include a column
+of exceptions.  (If you want my advice, settle on one
+large dictionary as a standard and look up any compounds
+it contains, following it slavishly: your writing
+is more important than whether vice president has a
+hyphen or not.  However, that does not apply as consistently
+to editors as to the authors of what they are
+editing.)
+
+            I disagree with the suggested treatment of fractions,
+in which we are told to write two-thirds, three-eighths ,
+etc.  Nonsense!  Two thirds and three eighths
+are exactly the same in construction as two thousand,
+three millions , and four birdhouses.  Third and eighth
+are perfectly legitimate nouns in English and do not
+conform to the convention that requires eighty-six.
+            
+
+            In the section on Computers, I was particularly
+interested in reading a vignette on spelling checkers
+(p. 695), made to appear ludicrous, and on scanning
+(p. 705).  I agree that no nonparsing checker could
+find the error of writing ewe for you , wile for while ,
+bin for been , or sum for some .  Such errors—but not
+halve for have—are unlikely if the text was written
+by a literate person.  In any event, I have found that
+spelling checkers do find typographical errors that
+result in nonwords (like fulkly for fully ), which result
+from fast hunt-and-peck typing.  As far as scanning
+goes, I have been shopping for a flatbed scanner
+because there are many sources I am now using
+that I should like to have in machine-readable form
+for sorting and other processing.  The hand-held
+scanner I have used is very tricky and sensitive, and,
+as the Writer's Guide admonishes, creates as many
+problems as it solves; but I am going to pursue the
+subject nonetheless, hoping that a useful balance
+might be struck in which less time is spent correcting
+than in initial keyboarding plus correcting.
+
+            In the chapter on Typography, information that
+appears in an illustration (p. 730) is somewhat misleading,
+for the inference is that small capitals are
+the same height as x-high letters of a given font.
+That might not have been the implication, for small
+caps are usually sixty per cent of cap height (though
+there is no standard).  In the example shown, a sansserif
+face, the x-height of the characters is quite
+large; in different faces, the x-height to cap-height
+ratio varies, as does the small-cap height.  I have my
+own notions of typographic design which are likely
+to be at odds with those of many designers, and I
+have seen fit to comment on particularly heinous examples
+of design encountered in reviewing.  This is
+not, however, the place to embark on a disputatious
+wrangle leading nowhere.  Suffice it to say, I find
+nothing serious to quibble with in the basic advice
+given, though I would caution against using the
+Guide as a quick course to typographic design.
+
+            The Writer's Guide contains a huge amount of
+useful information, and if one does not already have
+a style manual, it might be as good as another,
+though many would argue that nothing could equal
+(let alone surpass) the Chicago Manual of Style .  If
+one has become accustomed to a particular manual,
+the temptation is to stay with it: it is like a comfortable
+old shoe; even when a new edition becomes
+available, the information appears in approximately
+the same place and in a familiar format.  Things are
+changing, though, and I am a little surprised that I
+have heard nothing about the availability of a style
+manual integrated with the software of a word processing
+package.
+
+            Laurence Urdang
+         
+         
+            Random House Historical Dictionary of American
+Slang
+            To refer to the publication of the first volume of
+the HDAS is long-awaited would be to give away
+no secret, for many linguists have long been aware
+of Jonathan Lighter's announcement of his project
+several years ago, and it was Stuart Flexner's coup to
+grab it for Random House.
+
+            In his substantial Introduction, Lighter treats
+several aspects of his subject, from What Is Slang?
+through Slang in Its Cultural Environment, Some
+Features of Slang, The History of Slang, Influences on
+Slang: Military and Civilian, Slang in Other English-Speaking
+Countries, to Motives for Using Slang and a
+final word, History of the Project, the last revealing
+that the editor's initial interest in such a project went
+back to 1968.  The Introduction is followed by a Bibliography
+with useful, brief annotations; the following
+pages are occupied by the usual paraphernalia involved
+in a Guide, etc.
+
+            So many reviews of the HDAS will have been
+published in the press by the time this appears that
+most of our comments will seem redundant.  Still, it
+is useful to note a few things that journalists are
+likely to overlook or pay little or no heed.  For instance,
+it is worth noting that although the Dictionary
+of American Regional English , edited by Frederic
+G. Cassidy, serves as a source for Lighter, it is
+not listed among the titles in the Selected Bibliography.
+It is not in the slightest way suggested that
+picking up citations from other works is in any way
+curious or reprehensible—anyone would be a fool
+to research any subject without relying on the scholarship
+that has gone before—but one would have
+expected the DARE to be found among books like
+Farmer and Henley's Dictionary of Slang and Its
+Analogues , Chapman's New Dictionary of Slang ,
+Wentworth and Flexner's Dictionary of American
+Slang , and the others listed.
+
+            A dictionary is a reference book, not a text, and,
+with few exceptions, its purpose is to provide a reliable
+source of information about the words and
+phrases one looks up.  It is not a text whose purpose
+is to teach users words that they do not already
+know.  Yet the writing of a review puts a different
+complexion on the use of a dictionary, and I have
+often remarked that the most useful, realistic reviews
+of such works can be written only after one
+has lived with the subject book for many months,
+using it all the while.  It is thus with some of the
+reference books that I have edited: users have told
+me that although the style of a given work was unfamiliar
+to them at first, they made the effort to master
+it and were rewarded by information (and its
+treatment) not available from books previously used.
+
+            For many, slang and its treatment—however
+clinical—is taboo, for it is loaded language, not so
+much with the expected four-letter words (of which
+there are only a handful) but with racial, religious,
+and ethnic slurs, which are both derogatory and offensive
+and are shunned like the plague by liberals.
+A high percentage of slang consists of such matter.
+
+            Like other reviewers who have not had the leisure
+to become acquainted with the HDAS gradually,
+I am compelled to browse through, snatching
+at pieces here and there.  Because of a recent criticism
+I was recently moved to express concerning the
+spelling of flack for press agent, I looked it up and
+found it under flack , where the fancied etymology is
+quoted from Better English ([June 28] 1939):
+
+
+That alert weekly, Variety...is trying to coin
+the word flack as a synonym for publicity
+agent.  The word is said to be derived from Gene
+Flack, a movie publicity agent... A Yiddish
+word similar in sound means one who goes
+around talking about the other fellow's business.
+
+            
+
+            The editor's comment is, the Yiddish word referred
+to is unkn.; the closest words available are unlikely on
+various grounds.  I have known the term for most of
+my life, and its source was never a mystery to me;
+still, I must allow that, like others, I am not immune
+to succumbing to the trap of believing in the infallibility
+of a fact that is simply not so.  My own etymology,
+which seems painfully obvious, is revealed if
+one acknowledges that the proper spelling is flak ,
+which at once clarifies the etymological origin: flak .
+The metaphor is too transparent to waste the space
+for an explanation.
+
+            I confess to being less gregarious than the rest
+of the population: much of my contact with the
+world comes through periodicals, radio, and television.
+Consequently, I am known to vent my spleen
+with a hearty Caramba!, a loancurseword not to
+be found in the HDAS .  Neither is the (so-called by
+puzzlers) minced oath Egad! , which was uttered
+by a blimpish comic-strip character whose identity I
+am too lazy to look up.  These interjections could be
+considered marginal slang; but they are not so labeled
+in dictionaries and do not meet Lighter's criteria.
+On the other hand, egg in the good/bad egg
+context is in, and I should not expect many dictionaries
+to label that sense (in contrast to the aerial
+bomb sense, which is slang) anything but Informal
+or, depending on their style, Colloquial .  Still, the
+labeling in dictionaries is not only erratic but internally
+inconsistent.  The Random House Unabridged -
+Second Edition labels fuck as Vulgar , but none of the
+definitions given for that term in the dictionary itself
+seems to fit.  The label for cunt is Slang ( vulgar ), and
+the distinction is lost on me.  My vote would have
+been for Taboo for all such terms (and these days
+there are fewer and fewer).  The pattern of labeling
+at shit in the RHD is quite arcane.  (I ought to mention
+that, as Managing Editor of the First Edition of
+the RHD , such matters fell into my purview, but
+only shit (labeled Slang (vulgar) ) was entered in that
+book.  I cannot recall the reasoning behind the label,
+over which we agonized for many hours, but it
+means nothing to me now.)
+
+            Noteworthy are shifts in language levels.  Dingbat ,
+in the printing sense of a typographic ornament
+[like the open book symbol at the end of this
+review], was once slang but is now standard English.
+Cook , in the sense of juggle (the books), was once
+standard but is now slang.  It would be interesting to
+find more of these.
+
+            Humility is a desirable attribute of those who
+deal with language, and it ill behooves purists
+and precisions to turn their noses up at vulgarians
+and others who fail to preserve the language in its
+supposedly pristine condition.  People who cleave to
+such attitudes may also scorn slang, but they are
+very often unaware of the true pristine condition
+of the language or of the origins of words that are
+standard in contemporary speech.  Such people
+should be advised that much, if not most slang is
+metaphoric in origin and that much of it can be quite
+subtle.  True, there is not much subtlety in calling
+a gun a cannon , a ship a canoe , or an incompetent
+prizefighter a canvasback ; but that a canoe inspector
+is a gynecologist is not immediately obvious, that Cement
+City might be thought picturesquely oblique
+for a cemetery, and that chain lightning is certainly
+as descriptive as rotgut for cheap potent liquor cannot
+escape anyone's notice.  When overworked,
+such images cloy, which is why slang is constantly
+shifting and why some of its elements (like neat and
+keen ) are occasionally recycled—why waste a good
+word?  It must also be said that the 20th century
+more than any earlier time has seen the accumulation
+of a more detailed documentation of life, as anyone
+knows from the plethora of scratchy, saccadic,
+often soundless images thrown on our television
+screens: a series on American gangsters, for instance,
+repeats radio broadcasts of the 1920s and
+30s, bringing to us vividly not only the pictorial
+images of the day when, to modern youth, everyone
+wore black and white clothing and makeup but the
+words and accents of Franklin D. Roosevelt, Huey
+Long, Walter Winchell, and others who epitomize
+the era.  Such language ought not be allowed to go
+to waste; it is ripe for recycling.
+
+            What is also brought dramatically to the attention
+of a reader of the HDAS is the relatively large
+number of words and expressions that have remained
+current in the language over the years.
+Some have been retained by becoming standard, often
+because there is no other convenient or adequately
+descriptive standard term for the same
+thing, like Charley horse for a leg cramp; others are
+genuinely standard words but were applied in a
+slang context, like chassis for a woman's body; many
+are not frequent enough to have bored their users
+sufficiently to drop them, like chew out for scold;
+some might have been dropped by those who are in,
+only to be picked up by the squares to make themselves
+appear to be in, like cheeba for (a) cannabis
+(cigarette).  Many have little use today but are colorful,
+like Chicago piano or typewriter for machine
+gun.  Some have experiential reference for some
+people but are obscurely metaphoric for others, like
+catbird seat vantage point, which is often treated as
+arcane but which is meaningful to anyone who has
+seen the way a catbird alights on a tree branch from
+where the surrounding territory can be surveyed for
+provender or predators.
+
+            As one might expect, I enjoy reading dictionaries,
+but some make more interesting reading than
+others.  The HDAS should serve not only as superb
+documentation of an aspect of the language too often
+left to amateurs among whom most professional
+lexicographers, including me, must be counted but
+also as an engaging colorful source of the pleasure to
+be derived from revelation and reminiscence.  Further
+volumes are eagerly awaited.
+
+            Laurence Urdang
+         
+         
+            Ship to Shore
+            Those of us who deal with the lexicographic
+side of language are well aware of what Jeans characterizes
+as the astonishing debt that our idiomatic
+speech owes to the nautical language of the past.
+(Preface, p. ix) There are the obvious examples—
+come adrift, go overboard (about something), get under
+way , even skyscraper —but there are far more
+common words and expressions that have a far more
+subtle, less direct connection with maritime affairs,
+some of which I shall come to.  The only quibble I
+might have with Jeans's statement is with his use of
+astonishing , for English was born and nurtured on an
+island culture that depended heavily on the sea for
+food, commerce, and transport.  Perhaps what is
+astonishing is the increasing distance, chiefly during
+the past century, that landlubbers have put between
+the sea and themselves: knowledge and awareness of
+such matters now rests largely among naval types,
+those yachtsmen who enjoy the leftover jargon of
+the sea, and a handful of eccentrics, like Jeans, a few
+others I could mention, and me.  My own connection
+stems from a lifetime of sailing, a brief stint in
+the WWII US Navy, and an abiding lexicographic
+concern for terms nautical, the last of which is manifesting
+itself in the preparation of a historical nautical
+dictionary.
+
+            Jeans, an Australian as his spellings confirm,
+has ferreted about in the language to uncover words
+and phrases that have—and might have—some nautical
+provenance.  He has not always been successful,
+but, undaunted, he soldiers on.  In a random
+browse through the book jerry-built caught my eye,
+mainly because, recalling it as a reference to buildings
+ashore, I was surprised to find it among nautical
+words.  Jeans does not deny that—indeed, provides
+his own quotation from the Pall Mall Gazette of February
+15, 1884, (not listed in the OED2e ) to support
+the architectural reference—but he persists in offering
+the opinion that because the word is used in association
+with buildings in Liverpool, this makes it
+... likely that the word is of nautical origin.  That
+is imaginative but unsupported by the evidence, and
+I fear that Jeans has stretched a point.  My suspicions
+aroused, I found that a number of entries had
+neither a nautical origin nor, perceivably, any nautical
+connection: jingo , offered as probably a Basque
+word, acquires a nautical connection because
+Basques were among the earliest organised whalers
+in Europe, and as harpooners their expressions
+would have carried some weight with other seafarers.
+That is a fancied nautical origin at best.  Kedgeree ,
+a vegetable curry, popular with seamen,
+has, notwithstanding tarry appetites, not the remotest
+connection with matters nautical; kickback is
+shown by the OED2e to be a 20th-century coinage,
+and there is not evidence to suggest it ever had anything
+to do with maritime affairs; and kite , for which
+the OED2e includes a 7th-century quotation for the
+(original) bird sense, found a metaphoric application
+to sail not much before the middle of the 19th
+century.
+
+            I must say that I was quite disappointed to find
+the foregoing examples; alas! there are many more.
+Of course, there are genuine nautical expressions as
+well, some of which have been given thorough treatment:
+I have not seen elsewhere as complete a discussion
+of loggerheads , but it is offset by the very
+inclusion of mind your p's and q's , about which Jeans
+writes, the phrase is not nautical in origin.  If not,
+then why is it here?  Why is space devoted to entries
+like misfire, Morse code, muster, nickname, nip short
+drink, nous brains, slate , etc.?  Either the author
+lost his way or, as often happens, the (original, probably
+Australian) publisher was dissatisfied with a
+shorter book for which less could be charged.  As it
+is, the book is greatly bulked up: its wide hanging
+indentions, large type, ragged-right setting, open
+spaces make for an attractive package; the illustrations
+are pretty and, in some cases (various sails),
+useful, but many of them are gratuitous and purely
+decorative ( helm, scrimshaw , five pages of different
+rigs).
+
+            Consequently, I did not expect much when I
+looked up my favorite entry, horse latitudes , for
+which Jeans repeats the conventional theory (to the
+effect that the Spaniards used to throw starving
+horses overboard when they were becalmed, which
+I maintain to be an incredibly poor fiction); he also
+brings in Golfo de las Yeguas gulf of mares, which I
+have been able to find, with the help of the Royal
+Geographical Society, only inland in Spain.  Jeans
+mentions one modern authority, whose identity I
+should like to know, who makes the intriguing
+suggestion that horses aboard sailing ships often
+had to be lifted overboard into the sea to relieve
+their thirst, a theory that even Jeans regards as ludicrous.
+
+            There are four appendices: Nautical Prepositions
+(many of which would be classed (also) as adverbs
+by a grammarian); Changed Spellings and Corrupted
+Word Forms; Nautical Terms Related to
+Human Anatomy; Nautical Terms Derived from the
+Land.  There is also a Bibliography of sorts: the OED
+was, but the OED2e was not consulted; Brewer's
+Dictionary of Phrase & Fable was, perhaps somewhat
+uncritically; and, among works that either fail to reflect
+the latest scholarship, are not pertinent to the
+task set, or are just plain awful, the following are
+listed: Wilfred Funk's Word Origins and Their Romantic
+Stories , (a 1978 reprint of a 1950 work); Universal
+Dictionary of the English Language (1897); a
+modern selection from Johnson's Dictionary (1755);
+Partridge's Origins (1977), a work long criticized for
+its errors; and Webster's New Twentieth Century Dictionary
+of the English Language (1965), which is a
+$15 reprint, cursorily updated, of the 19th-century
+Ogilvie edition of Annandale's Dictionary .  Some of
+these are useless and inaccurate, others are picturesque
+but useless.  In all, aside from the dictionaries,
+Jeans lists twenty-eight books plus fifteen of Patrick
+O'Brian's novels; no mention is made of the Mariner's
+Mirror , the journal of the Society of Nautical
+Research, or of other essential source materials.
+Nautical language deserves more respect.  By contrast,
+the bibliography for my historical nautical dictionary
+already numbers close to 285 works.  Readers
+should not for a moment think that my adverse
+criticism of Jeans's book has anything remotely to do
+with my own: the two are of entirely different purpose
+and scope, and I would have welcomed any
+help or new insight into some of the problems and
+questions that vex anyone trying to deal with such
+an elusive subject as nautical language.
+
+            Laurence Urdang
+         
+         
+            
+Through the use of ultrasound, University of Washington
+researcher ... studies women who develop high
+blood pressure during pregnancy with the assistance of
+AHA-WA funds.  [From Heartlines , a Washington affiliate
+newsletter of the American Heart Association, Vol. VI, No.
+2, .]
+         
+         
+            
+A woman gave birth to two of her triplets a month
+after delivering the third, a rare occurrence, physicians
+said Thursday.  [From The Philadelphia Inquirer , .  Submitted by .]
+         
+         
+            
+... photographs of the very, very young girls with
+which Peter Altenberg, poet in prose, lined the walls of
+his room at the Graben Hotel.  [From Art View, by John
+Russell, in The New York Times , .  Submitted
+by .]
+         
+         
+            Sound and Sense
+
+
+
+
+            Two women in the supermarket were talking
+about somebody else's child.  And then, said
+the first woman, after all the money she gave him,
+he asked for another five dollars!
+
+            Tisk tisk, said the second.
+
+            I know because I was five feet away and I heard
+her.  Only after I had ferried my cart to the next
+aisle did I figure out what she meant: tsk tsk , that
+half-pitying, half-disapproving sound made by pressing
+the tongue against the upper palate and teeth
+and sucking in slightly.  She had obviously read the
+expression tsk tsk somewhere, and this was how she
+concluded that it should sound.  Or her mother had
+made the mistake and passed it on.  The British often
+spell it tchah , and I wondered whether some British
+matron in Harrod's wasn't even now saying cha
+for the same reason.
+
+            The alteration of tsk to tisk is like the back-formation
+of certain words.  Someone comes up with
+a spelling to approximate a sound, which someone
+else eventually reads, mispronounces, and thus turns
+into a new sound.  Over the years, the new sound
+may acquire its own distinction: a dignified gentleman
+announcing Ahem! to gain attention, rather
+than actually clearing his throat, or someone cackling
+Yukkety yuk yuk! at a lousy joke.
+
+            Onomatopoeia adds zest to language, from
+aagh! to zzz ..., but somewhere between print and
+enunciation, the exact equivalence between sound
+and sense can get lost.  In fact, I recently heard
+someone pronounce zzz ... to mimic sleep, and it
+sounded nothing like the faint sussurus that the
+word implies.  There are linguistic terms for these
+sorts of sounds, from bilabial implosives—a kiss becomes
+a smooch —to dental or alveolar stops— tut
+tut , scolds the cautious professor.  In a few rare instances,
+one can actually see the transmogrification
+at work.  The childish exclamation peeyoo! , for instance,
+probably stems from a distorted rendering of
+phew! , just as another air-and-spit expression of disgust
+was once rendered as pfui! but gradually turned
+into fooey! , which is both easier to read and pronounce.
+A near relative, the mucus release known as
+something like huk-ptui , has similarly eased into the
+accipitrine hawk patooie.  The polite forms may still
+be hem and haw , but the polite forms are from a
+bygone era.  Others have supplanted them.
+
+            In fact, the amount of back-formed onomatopoeia
+devoted to sounds of human manufacture is
+astounding.  People now exclaim whew! after a close
+call, or humph or harrumph when impatient.  But
+these sounds are meant to be said in haste and
+slurred slightly, so that whew comes across as a half-whistled
+expulsion of breath, not a precise word
+with the wh of what and the ew of ewer .  The same is
+true of humph , a nasal snort of derision rather than
+something akin to what a camel has on its back.
+When you become disgusted, the sound from your
+throat sounds like a gathering of phlegm, variously
+rendered as ugh, yuk , or Mad magazine's famous
+yecch —but often when people repeat those sounds,
+what comes out is ug, yuck , and even yetch .  Ick also
+belongs somewhere in there.  Certain aspects of revulsion,
+such as eeeuew! (a guess as to the spelling),
+still have no agreed-upon form.
+
+            Other spelled-out bodily reactions range from
+eructation to fright, though admittedly people
+sometimes over-pronounce the sounds for a humorous
+effect.  L'il Abner's Gulp! might have shown that
+his heart was in his throat, but these days when
+someone says gulp , it is more likely tongue in cheek.
+Gasp! says someone is more amused than scared.
+Yikes, yipes, eek , and eep now function similarly, the
+last two originally mimicking the response of someone
+encountering a mouse in a darkened kitchen.  In
+fact, the sheer pronunciation of the letters in sounds
+like the lip-smacking yum yum or the postprandial
+urp and sigh provokes a chuckle.
+
+            Laughter itself has its own onomatopoetic
+codes.  Ha-ha, he-he , or hee-hee may be the closest
+spelled-out equivalents, with te-hee as a feminine
+version, dating back to the laugh that Chaucer assigned
+the reeve's wife in the Miller's Tale.  Hardy
+har har is the hearty masculine equivalent, a guffaw
+compared to a titter.  But retro-punk culture now
+dominates the arena of cachinnation, with Beavis
+and Butthead's heh-heh ... heh-heh ... echoing
+from MTV to the schoolyards.  The only appropriate
+response is boo-hoo .
+
+            Comic books also contribute a lot to this fracas.
+Much comic-book onomatopoeia comes from the
+fights of good guys versus bad guys, specifically the
+sound of fists against bodies.  Bif and bam were early
+favorites, followed by an off!  Then newer impacts
+came along, pow and kazowie , and in this age of electronic
+armaments, whoosh and zap have replaced the
+standard artillery bang bang and rat-a-tat-tat .
+
+            
+               Bloosh , spotted in both X-Men and Superman , is
+the sound a body makes when hitting the water and
+sinking.  Fzzssh and fwwwp indicate sudden appearance
+and disappearance (or materialization and dematerialization)
+in Captain America comic books.
+And while Archie comics are still using the old standbys
+of crunch and swish , the heavier impacts of action
+comics have gone beyond boom and kablooie to
+ktoom, bdoom , and even skrakataboom for the detonation
+of an entire building.  Similarly, the old elastic
+collision of boing sounds tame compared to the
+clash of metal on metal: bladang .  Of course, these
+words appear simply as large colored letters within a
+given frame, but if you have ever read a comic book
+to a young audience perched on your lap, you have
+had to figure out a pronunciation key.  Luckily, since
+most comics are aimed at those with unsophisticated
+reading skills, most of the onomatopoeia inside is
+spelled the way it sounds.  The one puzzlement is
+how to pronounce comic puzzlement, variously
+spelled as ??? or ?!
+            
+
+            Beyond the realm of human ken lie animal
+sounds, a fine mess for most people.  Again, the villain
+is precise pronunciation: with the possible exception
+of Little Orphan Annie's dog Sandy, no mutt
+barks arf .  The same is true of woof and bow-wow ,
+though all dogs can be heard to approximate these
+sounds.  If only dogs could spell.  Cats only vaguely
+cry meow (James Joyce bravely tried mkgnao ), hapless
+pigs have the choice of only oink or ooee , horses
+bray neigh and mules hee-haw .  The rooster crows
+cock-a-doodle-doo , which for anyone who has spent
+time on a farm is a sad travesty of the deep, throaty
+ur-ur-ur-ur-urrh!  In other countries, animals are
+similarly saddled with precisely imprecise sound effects,
+such as gnaf-gnaf for a French poodle, or wanwan
+for a Japanese akita.
+
+            Of course, these vile approximations are not always
+the reader's fault.  The ruminative uh , which
+most people can faithfully reproduce, used to be
+spelled as unh , in an attempt to get in that glottal
+effect, but all it did was mislead youngsters into pronouncing
+an n where none was intended.  Some old
+novels similarly have characters expressing surprise
+by hanh? in the days before the ubiquitous huh?
+Pepsi-Cola's famous Uh-huh! commercials have
+made bare assent into a ringing affirmative, though
+no one has yet done a similar campaign on uh-uh .
+
+            Nowadays the unh or ungh combination tends to
+convey exertion or being stifled.  But then, Americans
+have always had trouble with ch and gh .  Blame
+the Scottish and their Loch Lomond, or the English
+language that produces such sentences as The
+tough cough ploughs him through.  This may be
+one reason, besides orthographic brevity, that
+American English has changed doughnuts to donuts
+and hiccough to hiccup .
+
+            Even sounds that should be simple to execute,
+such as ah , and oh , have hidden traps.  Is it eh as
+in pest , or eh as in pay ?  It depends on whether you
+are in Canada or Britain.  When ah is drawn out to
+ahhhhhh! , it evokes deep satisfaction, but spelled as
+aaaaaah! , it is more a sign of fright.  In the same
+way, people often try to convey a drawn-out oh by
+writing oooooh , which should be another sound entirely,
+with the u of tube .  Maybe those who want to
+prolong oh by more than a breath should learn to
+write ohhhhhh .
+
+            Perhaps the logical endpoint of onomatopoetic
+spelling is eye-dialect, as in wimmin for women,
+gotcha for got you , and so on.  Victuals , still the correct
+spelling, has yielded an alternate version
+spelled vittles .  Will solder spelled as sodder come
+next (for the American pronunciation)?  It would be
+a shame to lose the etymology buried in the original
+spelling, though it would be a boon for easy pronunciation.
+Or maybe some sounds will never have absolute
+phonetic accuracy bestowed on them, as in
+ring —or is it rrring , or some other sound altogether?
+Can a sudden intake of breath be shown
+as hi , or does that monosyllable have too friendly
+associations?  Mood and personal intonation also
+play a part in many sounds: is oops meant to be ups ,
+ups , or whoops ?  And what should one make of the
+rappers' cry,  Whoomp! —there it is!, when they
+spot a woman with big breasts?
+
+            Questions multiply quickly— sproing .  What really
+is whir meant to imitate?  Where does wow
+come from?  How does whoosh! manage to maintain
+its phonic integrity?  Is the u in buzz really necessary?
+Gaak is often used for gagging, but gag itself
+was originally onomatopoetic, which raises the
+thorny issue of how much language was all imitative
+at one time.  In place of answers, a thoughtful hmmm
+... will have to suffice.
+         
+         
+            
+... Lewis's sparse prose gives her tale the mysterious
+inexorability of an ancient saga.  For many years I have
+seen her name championed by other writers in lists of neglected
+authors: now I know why.  [From book catalog,
+A Common Reader , Spring , page 65.  Submitted by
+.]
+         
+         
+            
+ Incredible is too conservative an adjective.  They
+are unbelievable!  [From a sportscast on Channel 4, .  Submitted by .]
+         
+         
+            How Manieth?
+
+
+
+
+            I am very fond of the English language, to which I
+took a great fancy when I was twelve years old.
+It is no exaggeration when I say that I prefer English
+to my native tongue, Malayalam, the language spoken
+by the people of Kerala, a southern state in India,
+the language which has entered the pages of the
+Guinness Book of Records as the longest palindromic
+language in the world.  To tell the truth, it is the
+little knowledge that I have of the English language
+that has made me what I am now.  Had it not been
+for this knowledge, I would not have been a teacher,
+a writer, an English language columnist and an author.
+
+            I know that English has merits and demerits.
+Not all ideas that arise in my mind in my own tongue
+can be expressed in English as well because not all
+words, phrases, sayings, and usages in my mother
+tongue have English equivalents.  It was when I was
+a high-school student that I became convinced of
+this fact for the first time.
+
+            A classmate of mine came to me one afternoon
+with a question.  As I was the best student in English,
+he expected a correct answer.  What he asked
+me was, How can we ask a question in English that
+elicits an ordinal number as answer?  Abraham Lincoln
+was the 16th President of the US; try to form a
+question to which the answer is the 16th.  I was—
+still am—at a loss for an answer.
+
+            When, seven years back, I started writing an
+English language column entitled English Corner in
+a well-known Malayalam magazine for students and
+candidates, it became evident, from the letters of
+my readers, that most of them wanted to know how
+to ask such a question.  I had already learnt that although
+there is no idiomatic way in English of asking
+such a question, it is very common in Malayalam and
+also, I think, in other Indian vernaculars.  Unlike
+English, those languages do not distinguish between
+order or position.
+
+            As a consequence, we have found our own ways
+of asking such questions in English.  I have collected
+the following ones:
+
+
+1.  What is the rank/position/ordinal number of
+Bill Clinton as the President/among the
+presidents of the US?
+
+2.  What is the chronological/numerical order
+of Bill Clinton as the President/among the
+presidents of the US?
+
+3.  Which of the presidents of the US is Bill
+Clinton?
+
+            
+
+            But none of them is really acceptable as idiomatic to
+English speakers.  The second one would be acceptable
+to them if it is changed into Where, in the
+numerical order of the presidents of the US, does
+Bill Clinton come?
+
+            Sir Randolph Quirk, the most famous British
+grammarian, says that the ordinal question can be
+obliquely asked in English like this: How many
+presidents were there before Bill Clinton?  But
+such a question does not satisfy us.  Our answer to
+that question will be the total number of former
+presidents.
+
+            I have recently come to know that it is correct
+in colloquial British speech to ask What number
+president of the US is Bill Clinton?  In my estimation,
+this question is undoubtedly the best solution.
+
+            Recently, a reader of my column sent me a letter
+asking me whether it would be correct to use
+How manieth to form an ordinal question.  How
+many yields answers with cardinal numbers like
+five, ten, fifteen: How many children have you?  I
+have five .  Then, what about using How manieth/
+How manyeth for an answer that contains an ordinal
+number like fifth, tenth, fifteenth?  Unfortunately,
+How manieth president of the US is Bill
+Clinton? does not exist in English.
+
+            Do you know any other good ways of asking
+such a question in English?  If you do, please let me
+know of them so that I can include them in my next
+book on enjoyable English.  I will give you credit.
+Please send your letters to O. Abootty/ K.T.82/
+Cannanore City- 670 003 / Kerala, India.
+         
+         
+            
+               AUTHOR'S QUERY
+            
+
+            In Tender Is the Night , F. Scott Fitzgerald uses
+the expression he saw with his heels .  Does anyone
+know of other appearances of the phrase?
+
+
+Matthew J. Bruccoli
+2006 Sumter Street
+Columbia, SC 29201-2157
+
+            
+         
+         
+            Isms
+            As the authors acknowledge in Notice to Readers,
+Part 2, almost any word can become an Ism.
+Rather than turn this into a 12-volumes set, they
+continue, we decided to limit the words included
+to those noted in one of our source dictionaries or
+used in a recent book, magazine, or newspaper.  All
+the more surprising, then that they missed, among
+the available sources, -Ologies & -Isms , Urdang,
+Laurence, Gale Research Company, published in
+three editions (1978, 1981, and 1986).  Considering
+the fact that there are not a lot of books dealing with
+isms, one might have expected the Altendorfs to
+have found that one.
+
+            Still, that has nothing to do with the present
+work, which focuses on isms alone and is far more
+thorough in its detailed treatment and explanations
+of the nature of isms not treated in -Ologies & -Isms .
+The selection does not exclude ordinary language,
+for Goldwynism, hermaphroditism, iotacism, opportunism,
+optimism , and toadyism are included among
+the scores of entries.  I am not sure whether to categorize
+the first three of the preceding as Concepts,
+Doctrines, Traits, or Beliefs, but no matter.  The
+definitions are quite good and straightforward, despite
+the facetious tone of the prefatory matter and
+the illustrations.  It seems that the authors enjoyed
+their labors, and they have produced a work which
+I consider a valuable, useful addition to anyone's
+library.
+
+            Laurence Urdang
+         
+         
+
+            
+SIC! SIC! SIC!
+
+Readers who have submitted SIC!³ items, never
+to see them again are owed an explanation.  We do
+not use items that are simply errors: they have to be
+funny or, to clarify that point, the Editor has to find
+them funny.  Some slips that pass in the type might
+send their clippers; into paroxysms of hysterical
+laughter, but if they have no effect on the Editor,
+they are consigned to oblivion.  Submitters should
+include their names and addresses, so that we can
+properly acknowledge their eagle-eyed acumen.
+Also, we must have the name of the periodical or call
+letters of the radio or TV station and the date of
+perpetration.  The name of the program for radio
+and TV citations is essential.
+
+SIC!³s are usually saved up for typesetting in
+batches.  Because they are used as fillers, they might
+not be used for some time, depending on how long
+they are and on filling needs.  If they start looking a
+bit hoary, we discard them on the grounds that there
+are always new ones appearing, and, these days, language
+changes are so rapid that a usage might have
+become standard by the time a five-year interval has
+passed.
+
+To those whose SIC!³s we have not used, our
+thanks for sending them.  To all, please understand
+that SIC!³s arrive in such profusion that we cannot
+acknowledge their receipt.
+
+Laurence Urdang
+
+
+
+         
+         
+            Reflections on Unitedstatesese and other-eses
+
+
+
+            Arnold Toynbee, distinguished philosopher of
+history, in his old age wrote about his having learned
+about the difference between the American language
+and my native Unitedkingdomese.  He said
+that as a young man recently out of Oxford in 1911
+he encountered Americans other than the few
+highly educated Rhodes scholars he had met at Oxford.
+He then became aware of the significant differences
+between the two Englishes and of the increasing
+dominance of American English.  He told about
+this in his book of reminiscences and reflections, Experiences,
+which was published in 1969, seven years
+before his death:
+
+
+England was now in a minority in the English-speaking
+World.  The majority of the people whose
+language was English were now living in North
+America; and North American English had become
+the standard form of the language.  It was irrelevant
+that English had been spoken in England long before
+America had been heard of in Europe.  History
+never stands still; and this had reduced my Unitedkingdomese
+dialect to the status of being a bizarre
+provincial brogue.
+
+            
+
+            Toynbee's dialect actually was Englandese: Scotlandese
+and Irelandese are quite distinct from that
+dialect.  And Unitedstatesese had become a linguistic
+reality before the thirteen American colonies had rebelled
+and declared their independence.  Soon after
+the American Revolution several of the founding fathers
+of the new nation advocated establishing an
+academy, similar to those of France and Sweden, to
+standardize and, in effect, enshrine an official American
+form of English.  The academy was not established.
+Soon after the independence treaty between
+Great Britain and the United States had been signed
+in 1784, Noah Webster, then in his mid-twenties, issued
+his book, Grammatical Institute of the English
+Language.  This was the first of the several books
+which made him a leading authority on Unitedstatesese,
+and in some ways a creator of it.  His most
+important work, The American Dictionary of the English
+Language, was published in 1812.
+
+            Today—as English-speaking people in all parts
+of the world should be aware—there are several distinct
+dialects in American English.  The predominant
+one, which in itself has sub-dialects, is conveniently
+called General American.  Experts estimate that
+about two thirds of the American people, living on
+about 80 per cent of the land area speak this dialect—or
+with this accent, if one prefers that term.
+(The terms are not quite synonymous, but in this
+context they can be taken as such.)  Recently a polished,
+precise form of General American has come
+to be called Network Standard: it is the speech of
+many of the prominent announcers and commentators
+on national television.
+
+            General Canadian English—Canadese?—is closer
+to General American than it is to any of the British
+Englishes, but it is distinct from the American ones in
+some spellings, usages, and pronunciations and in a
+few peculiar intonations.
+
+         
+         
+            Borrowings
+
+
+
+
+            Borrowed words fill gaps in a language for which
+they were not designed, much as if one were
+to take pieces from one jig-saw puzzle and use them
+in another which happens to be missing a few.  Or,
+to use another simile, they are like shrubs transplanted
+to an alien climate: sometimes the shrub
+loses its spreading habit or becomes dwarfed; sometimes
+it expands luxuriantly, taking up more space
+than when on native ground; occasionally, it keeps
+its original shape and size.
+
+            These were some of my reflections as, more
+than a decade ago, I watched the evening news
+broadcasts and accompanying advertisements.  By
+then.  I had lived in Greece for more than two decades
+and was aware of the many English words also
+at home there; but now, I was struck not just by the
+large number but by their use in official Greek.
+Until then, I think I had assumed that only the
+everyday speech of the man in the street and
+the very demotic Greek of some magazines and
+newspapers had incorporated these borrowings.  In
+the space of a few weeks, I jotted down several hundred
+English loanwords, most of which could be
+grouped under the headings of Entertainment,
+Food, Games and Sports, Technology, and Transportation.
+
+            Predictably, Hollywood has given a good many
+words to Modern Greek.  Cowboy, detective, gangster,
+thriller, western —all refer to film categories,
+though gangster (or, rather, gangsterism ) can be
+many kinds of coercive behavior, even schoolyard
+bullying.  Picnic, rock, striptease , and video have entered
+Greek with their meanings intact, rock considerably
+narrowed, confined as it is to rock music.
+Camping , however, is a place, not an activity, and
+cocktail party has shrunk to koktél , while show and
+star refer only to the theater.
+
+            In the area of food, bacon, bar where drinks are
+served, cake, cornflakes, cornflour, custard powder
+pudding mix to Americans, ketchup, popcorn , and
+rum have retained their English meanings.  Baking
+powder has been shortened to mpékin ; Quaker oats
+is kouáker ; American style potato chips are tsíps ; and
+anyone who orders tóst in Greece will be served not
+toast but a grilled cheese sandwich.  Sántouïts itself—two
+thick chunks of bread with nothing between
+them but a thin slice of cheese or salami—is
+not exactly what Americans have in mind; and, although
+there are snákmpar in Greece, there are no
+snák , for the very good reason that Turkish meze was
+in use long before snackbars arrived on the scene.
+
+            But perhaps the greatest number of loanwords
+has been provided by games and sports.  Some have
+been trimmed: basketball , to mpásket .  Others are
+unaltered: baseball, football, golf, jogging, ping
+pong, soccer, surfing, tennis, volleyball, water polo .
+But bridge, foul, goal , (team) manager, match, out ,
+and rally have, in Greek, none but the meanings
+pertaining to games and sports.  A record-breaker or
+-holder is a rékorntman (or rékorntgouman) , no
+doubt coined by some enterprising sports repórter
+or spíker ( speaker announcer).
+
+            Technology and transportation have yielded
+computer, laser, transistor , and watt , all unchanged
+in Greek, as are bulldozer, ferryboat, tunnel , and
+yacht.  Pullman , however, is a large, long-distance
+bus most of the time (occasionally, a city bus), and
+station-wagon has lost its wagon .
+
+            Allowing, as always, for a difference in pronunciation,
+many other words are perfectly recognizable
+and many acronyms, too ( BBC, CIA, FBI, FOB,
+NASA, NATO, UFO , et al.).  Nevertheless, the usage of
+some recognizable words can certainly muddle conversations
+between foreign English-speakers and
+Greeks.  Flirt (Gk. phlért ) is no longer a person who
+indulges in harmless dalliance but a lover, male or
+female or the love affair itself (more often than
+not, illicit); hula hoop means leotards; nylon is the
+transparent kind of plastic; shocking, used as a plural
+noun (Gk. sókin ), means off-color or risqué stories;
+and Texas , as in the sentence, It has become texas,
+means out of control, maniacally chaotic and violent
+(though this may be an idiosyncratic use by a
+small group of people).
+
+            Words that are or become nouns in Greek are
+assigned articles indicating gender, and some words
+are also inflected like Greek nouns; but the majority,
+become uninflected neuters, which, anyway, have
+fewer inflections than feminines or masculines, so
+that a change in the article is often the only indication
+of case and syntax.  One inference to be drawn
+from this might be that the choice of neuter is inevitable
+since the gender of most English nouns is inscrutable.
+Another inference might be that the same
+tolerance displayed by Greeks in their dealings with
+resident foreigners—at any rate, American and European
+ones—has been extended to English words
+which are, as noted, largely exempted from the
+strictures of Greek grammar and allowed to retain
+their alien habit.  A third—perhaps only a corollary
+to the second—might be that the longer a borrowing
+remains in use, the more likely it is to be treated
+like a native.  Recordwoman , if it was not a nonce
+word and is still in use, may be an example of this:
+though obviously feminine, it was uninflected,
+whereas lady , a Greek resident of much longer
+standing, has acquired all the inflections of a feminine
+noun.  Further evidence is that the many Turkish
+loanwords, in use for centuries and with no obvious
+preponderance of one gender, are, with very
+few exceptions, fully inflected, as are Italian musical
+and nautical terms, likewise of long standing.  In
+short, it seems that a process of naturalization has
+been and may still be at work.
+
+            If, in the future, Modern Greek continues to be
+as hospitable to English words as it has been in the
+recent past, there are likely to be more and more
+neuter nouns with few inflections or none at all, at
+least until the new words have put down roots.  Still,
+because these borrowed, aberrant words represent
+relatively rare infractions of the time-honored rules
+of grammar, I doubt that matters will ever reach the
+point where literate Greeks would be driven to
+gnashing of teeth and tearing of hair by Greek
+equivalents of barbarisms such as to you and I and Us
+teachers are ....  Such trials and temptations to mayhem
+are reserved for the literate—and hapless—
+speakers of English.
+         
+         
+            Living with Fossilized Ears
+
+
+
+
+            I returned to England in 1989 after spending 17
+years in Canada.  Since then, I have had to do
+almost as much readjusting to this changed England
+as I did when I moved to Canada for the first time.  I
+expected many details of daily life to have changed
+or to be unfamiliar, but I was not prepared for the
+alterations in the pronunciation of words which had
+occurred in such a relatively short time.  I have also
+noticed a sharp acceleration in the decline of dialectal
+usages, less in pronunciation than in vocabulary: I
+find that many people in my own county of Suffolk,
+for example, no longer know dialect words and expressions
+that were universal currency as recently as
+the 1950s.
+
+            Some quite common words have undergone
+striking changes.  I am still waiting for somebody to
+explain to me just how and when yoghurt , which had
+always been pronounced YOH\?\gert, mysteriously
+metamorphosed into YOG\?\ert.  At first I suspected
+that some television advertising campaign had
+caused the change, but then I remembered that the
+Blue Band Margarine commercials of the 1950s and
+1960s never did succeed in reviving the old pronunciation
+of margarine with a hard g .
+
+            It seems that nobody calls the police any more;
+they dial 999 for the pleece .  If houses sink into the
+earth, the cause is no longer subsidence , pronounced
+SUB'sidence, it is subSIDE\?\ence, an obvious back-formation
+from the verb subside .  The inhabitants of
+my own home county of Suffolk used to be noted for
+pronouncing the word wholly to rhyme with bully ,
+just as Elizabeth I would have done, while everyone
+else rhymed it with holy .  I keep hearing it pronounced
+as HOL\?\ly.  How did this start?
+
+            It is possible that radio and TV announcers are
+to blame, although the Blue Band example shows
+that TV is not accepted as an authority on pronunciation,
+when the purchasers of the product kept on
+calling it marjoreen in spite of the manufacturer's
+instructions to the contrary.
+
+            TV and radio announcers seem to obey changes
+in pronunciation rather than initiating them.  I find
+myself often confused by the accelerating trend
+towards adopting back vowels in diphthongs to replace
+front vowels.  I was baffled for quite a long
+time by a conversation on a bus, in which someone
+announced that because the cool autumn weather
+had arrived they were going to buy a kite .  I was
+trying to speculate on how a kite could keep you
+warm when I finally realized from the context that
+they were planning to purchase a coat .
+
+            This particular alteration in pronunciation seems
+to have been widely accepted.  Many people now
+seem to live in a hice rather than a house, and this
+pronunciation is by no means confined to Royalty and
+the aristocracy, speakers of the famed Received Pronunciation
+Plus.  The BBC announcer Michael Buerk
+is an invariant user of this diphthong for what was
+formerly a low back diphthong.  He stumped me
+when reporting that the dissident physicist Andrei
+Sakharov had been shited dine when trying to
+speak in the Soviet Parliament.  Sakharov had of
+course, been shouted down.  It would be an interesting
+experiment for phoneticians to ask Michael Buerk
+to recite the line how now brown cow .
+
+            There seem to me to be numerous explanations
+for these phenomena.  The continuing drift from back
+vowels to front vowels is surely no more than the
+continuation of the Great Vowel Shift, which began in
+the fifteenth century.  Like the building of the Alps
+and the Himalayas, it is a process that is so slow that
+we cannot perceive it happening.
+
+            Another factor, not quite as old although not a
+novelty, either, is the pressure of the speak-as-you-spell
+movement first described by the Fowler brothers
+in Modern English Usage .  The pronunciation of
+place names has been tending to conform to their
+written appearance ever since the coming of the
+railways, and I notice that the letter t is now always
+sounded in Hertfordshire , as is the letter l in Colchester .
+The speak-as-you-spell faction have definitely
+won a final victory over the Fowlers when it
+comes to the word conduit .  The pronunciation
+KON\?\dewit has now established itself as the standard
+form, and there is no point in trying to revive
+KUN\?\dit.  The same applies to untoward: the once-correct
+pronunciation unTOE\?\erd is dead and might
+as well be buried.
+
+            Now of course conduit and untoward are not
+words common in everyday conversation, so it is
+hardly surprising that when people have to say them
+for the first time they guess the pronunciation from
+the spelling, always a dangerous procedure in English.
+It is a puzzle, though, that the verb conflict
+should have had its stress changed to CON\?\flict so as to
+conform to the stress in the noun conflict .
+
+            One important lesson to be learned from these
+changes is that the expected tendency of recordings
+to stabilize pronunciation has not in fact happened.
+When sound recording was first invented, many people,
+remembering how the invention of printing had
+frozen grammar in its Renaissance forms, thought
+that recordings would do the same for the spoken
+language.  I can remember that as late as the 1950s
+many people conscientiously pronounced glue as
+glyoo, and went to the office wearing a syoot.
+I have not heard suit pronounced that way for
+decades.
+
+            One might look ahead a hundred years to imagine
+the squeaky English pronunciation of the late 21st
+century, all front vowels, and with a heavy rhythm
+caused by habitual stressing of the first syllable in
+words.  Perhaps Old English sounded something like
+that.
+
+            My French mother, who has lived in English-speaking
+environments since 1947, still uses the
+French pronunciations and expressions from that period,
+to the great amusement of her younger relatives.
+I find it fascinating to observe the parallel
+changes in English pronunciation, particularly so
+because everyone I ask assures me that no such
+changes have taken place and that everyone has always
+called yoghurt YOG\?\ert.  It is strange that a back
+vowel has displaced a diphthong there: I would have
+expected YIE\?\gert instead.  Where is there a Ph.D.
+student, some latter-day Grimm, who will propound
+the laws by which our pronunciation is still evolving?
+         
+         
+
+            Titillating Titles, Allison Whitehead's engaging
+exploration of schools of titling [XX, 4], cautions
+against titles that give the game away.  However, it
+has been postulated that the best titles are those
+that manage to embrace an entire plot (without, of
+course, tipping the ending).
+
+            Titles that reveal (without giving away) the are
+of the plot are typified, quite randomly, by: Witness
+for the Prosecution, Don't Look Now, Beware of Pity,
+Deliverance, Portnoy's Complaint, Crime \?\ Punishment,
+The Informer, A Doll's House, Hunger, Pygmalion,
+The Ransom of Red Chief, Before the Fact ,—
+once started, the list is endless.
+
+            Supreme at this art are Austen, Dickens, Conrad,
+James 'n Wharton, Trollope, Collins,... and
+there are many, many more of these not so terribly
+strange bed-fellows.
+
+            Name titles, a category Ms. Whitehead supports,
+present an even greater challenge: to delineate
+plot trajectory via. a name.  It can be done.
+Think Rebecca .  Or try Hedda Tesman .  Parse Cousin
+Bette .  Encompass Anna Karenina : while not as revelatory
+as War \?\ Peace , that title is every bit as
+sweeping in a related arena: do not forget that the
+eponymous character departs the book some fifty
+pages before it ends, leaving her name as a metaphor
+for the deadly effects of society's conventions, as
+Tolstoy saw them, on the soul.  Thus, the title becomes
+equally appropriate as an umbrella for Anna's
+story, its consequences on her contemporaries, and
+the novel's preoccupation with the agrarian defection
+from that society of (Tolstoy's stand-in) Levin.
+
+            Subtitling, also encouraged by Ms. Whitehead,
+can conspire magnificently with a plot-revealing title:
+A Novel Without a Hero says it all; Or, The
+Modern Prometheus tells us what Mrs. Shelley had
+in mind; A Tale of the Christ prepares us for more
+than chariot races, and so on.
+
+            Opening lines of a novel, play, or short story can
+also reveal plot schema.
+
+            Punning titles, I would suggest, as titillating as
+they may be, have become an editorial addiction of
+popular magazines.  If they are not fed to us with
+restraint, they can soon render us dangerously
+overgorged on pop corn.
+
+
+
+
+         
+         
+
+            When I first read [in XX, 3, BIBLIOGRAPHIA that
+A Dictionary of American Proverbs contains data on
+the recording of the proverbs and that it contains
+historical information on earliest appearances: for
+example, Money is the root of all evil is traced to
+Aelfric's Homilies (c. 1000), I assumed that the
+original statement, The love of money is the root of
+all evil, was not being traced back there.  That,
+clearly, would have produced a date nearly a millennium
+earlier, for it is a quote from the New Testament
+(I Timothy, 6:10, KJV).  I supposed that since
+the quote is given as Money is the root of all evil,
+the editors of the Dictionary were tracing back the
+American misquotation-as-proverb that one usually
+hears.
+
+            When, however, I looked up Aelfric in The
+Reader's Encyclopedia (Benét) I found:
+
+
+Aelfric, called Grammaticus, or the Grammarian
+(c. 955-c. 1020).  English clergyman and scholar, a
+prolific writer in both Latin and Old English....
+Concerned with the revival of learning, he wrote a
+Latin grammar and Latin-English glossary.
+
+            
+
+            Surely, this man could not have mistranslated Radix
+malorum est cupiditas as Money is the root of all evil!
+He might have translated it Cupidity is ...,Avarice
+is..., or even The love of money is ..., but
+never Money is ...!  The Old English word for
+cupiditas is gitsung avarice, greed, a word not easily
+confused with feoh cattle; property; money.  Having
+no copy of Aelfric's Homilies available to me, I am
+unable to see exactly what this cleric and grammarian
+wrote c. 1000, but I will lay you dollars to doughnuts
+( low colloq ., ca. 1920, Partridge) that the Grammarian
+is not the source of the misquote qua proverb,
+Money is the root of all evil.
+
+
+
+
+         
+         
+            [As far as the English quotation is concerned, one
+would expect it to be traceable to the Tyndale or
+King James Version, not scripture of a date nearly a
+millennium earlier.—Editor]
+         
+         
+            
+               VERBUM SAP
+            
+         
+         
+            To Verb or Not to Verb
+
+
+
+            Language, like water, tends to seek the path of
+least resistance—not, I think, because tongues
+are naturally indolent, but because their owners are
+instinctively efficient.  Nowhere in English is this human
+impulse to simplify and streamline more evident
+than in the formation of verbs.
+
+            One of the oldest, tidiest and least ambiguous
+methods of verbification is to take a noun and put it
+to work, either by adding a prefix or suffix as in simplify
+in the paragraph above, or by merely activating
+an unadorned and unaffixed substantive, as in streamline .
+When the Anglo-Saxons wanted a word to express
+the activity of traveling in a ship powered by
+wind in sails, they saved themselves a lot of breath by
+forming the verb sail .  When they wanted to moor
+the ship, they dropped a heavy object attached to a
+line, and they termed this anchoring , because the object
+was called an anchor (rather ankor, anker , or
+ancre ), When it was time to return to terra firma,
+they chose a short, appropriate noun to describe that
+action, to land .
+
+            Through the easy and logical expedient of converting
+nouns to verbs, our linguistic forebears established
+a tradition that has continued through every
+age.  Probably somewhere in the English-speaking
+world, a noun was verbified yesterday.  And undoubtedly
+today it is being greeted with gasps and sputters
+of incoherent outrage.
+
+            Why is such a time-tested device viewed with
+such utter revulsion?  In an article in the September
+1978 VERBATIM [V,2], Prof.  Noel Perrin explained the
+technical reasons behind the verbification of other
+parts of speech—why, for example, we breafkast and
+lunch , but do not dinner .  He did not, alas, illuminate
+the inexplicable horror with which modern English
+speakers regard this venerable practice.
+
+            What brought the phenomenon to mind was the
+recent publication of a new BBC Style Guide for
+News and Current Affairs Programmes.  It was written,
+or at least endorsed, by Tony Hall, Managing
+Director of Current Affairs, and is for the most part
+a reasonable exposition on the need for plain English.
+But in a chapter entitled—make that titled—
+Americanisms, the manual betrays both an unseemly
+nationalistic bias and an ignorance of the history
+of its own language.
+
+            While admitting that some Americanisms, such
+as teenager, babysitter, know-how, gimmick, stunt,
+commuter , and blurb add vigour and dynamic expression
+to the language, the book draws the line at
+diaper, drug-store , and sidewalk (for which the English
+have the patently superior nappy, chemist's and
+pavement ), and at the American habit of turning
+nouns into verbs (to hospitalise) [ sic ].
+
+            Mr. Hall may be pleased to know that the OED
+does not list hospitalise.  On the other hand, he
+may be surprised to learn that it does contain hospitalize,
+a verb with no stigmatizing labels like
+orig.  U.S. slang or U.S. colloq.  In fact, all six
+illustrative citations, dating from 1901, are from
+British sources.
+
+            As is usual with such quasi-official language arbiters,
+the BBC guide falls into the deadly snare of
+inconsistency.  Tut-tutting the fixation of newspaper
+sub-editors on short words like probe and
+row because they fit in headlines, it adds, somewhat
+pompously: These words usually hype the story,
+and that is never our job.
+
+            
+               Hype ?  Egad, sir!  This one is labeled by Oxford
+as U.S. slang.  What is more, it is probably a verbified
+short-form of hypodermic ( needle ) or hyperbole ,
+both of which are nouns!  The next thing we shall
+hear is that Mr. Hall and his colleagues use such
+noun-verb abominations as film, record, tape, schedule,
+plan, program(me), screen, air, monitor , and
+view .
+
+            This erratic neophobia is by no means restricted
+to those blessed and sometimes smug beneficiaries
+of Received Standard English.  Benjamin Franklin, a
+Yankee, returned home after nine years in France to
+find an infestation of nefarious noun-verb weeds, including
+advocate, notice, progress , and oppose .  In a
+1789 letter to Noah Webster, he pleaded: If you
+should happen to be of my opinion with respect to
+these inventions, you will use your authority in reprobating
+them.
+
+            
+               Harper's magazine in 1955 rebuked a government
+official for using re-think , and another publication
+pilloried the monstrous verb unfreeze in
+1933.  In 1859, the Edinburgh Review excoriated
+another party, who are [sic] striving to debase the
+language by introducing the verb to wire instead of
+the word hitherto used, to telegraph.   That
+writer's puritanical heirs today rail against the verb
+fax, even though they likely think nothing of cabling,
+telexing , or the dialing and ringing involved in
+telephoning .
+
+            Certainly, some verbifications sound sappy.  I
+admit I did a double-take when I read that a New
+Jersey Nets basketball player, accused of rape, said
+his involvement with the woman never got beyond
+conversating.  Oxford would probably call that
+an ignorant back-formation, as it does the useful
+and unambiguous enthuse .  But Oxford provides no
+reliable guidance in the whole matter.  It labels the
+well-established verb contact , meaning to figuratively
+get in touch with a person, as U.S. Colloq.,
+even though it has citations going back to 1927.  The
+much newer (1962) transitive verb access , as of a
+data base, bears no such oblique opprobrium in Oxford ,
+even though it induces epidemic apoplexy
+among the self-appointed sentinels of linguistic correctness.
+
+            What are the criteria?  William Safire took a futile
+stab in 1980, opining that when the purpose of
+turning a thing into an act is trendy brevity, or chicspeak
+[!], the practice is bad style.  He mentioned
+to host, to enthuse , to critique , and to author among
+these affectations.  But what has intent to do with
+it, even assuming you can accurately impute motive?
+I argue that all four of Safire's examples, no matter
+how vile the coiner's design, serve useful purposes.
+Certainly, to critique fills a gap left by the pejoration
+of criticize , and in any event is not new, having appeared
+in 1751.
+
+            Safire's prissy and presumptuous subjectivity is
+exemplified by the experts in the public relations
+department of Lake Superior State University in
+Sault Ste. Marie, Michigan.  Each year since 1976,
+they have published a List of Words Banished from
+the Queen's English for Mis-use, Over-use or General
+Uselessness, and each year news media across
+the continent gleefully and unthinkingly report their
+edicts—which this year included the fairly innocuous
+verbs skyrocket and spearhead .  These may be
+overused, and they are certainly noun-verbs; but
+they most decidedly are not non-verbs, as the
+LSSU P.R. pundits declared.
+
+            So one knee-jerk reaction begets another, and
+our peculiar penchant for verbal infanticide—or infantile
+verbicide—continues.  It is probably bootless
+to beseech that the noun-verb nay-sayers withhold
+snap judgments at least until a new, verb's utility has
+been duly usaged.
+         
+         
+            
+Due to the fact that the patient is an extremist and is
+responding poorly to fluids, the patient will be taken immediately
+to the operating room, where exploratory laparotomy
+will be done.  [From a  hospital chart
+review.  Submitted by .]
+         
+         
+            
+Every minute was more exciting than the next.
+[From an on-camera interview with Linda Evans, commenting
+on Night of 100 Stars party in New York to
+promote Lifestyles of the Rich & Famous.]
+         
+         
+            
+In keeping with Hershey's commitment to excellent
+products, please call us if this product does not meet your
+expectations....  [From the text on a pint container of
+Hershey's Chocolate Milk.]
+         
+         
+            
+               Answers to Anglo-American Crossword No. 68
+            
+         
+      
+   

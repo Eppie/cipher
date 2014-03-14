@@ -1,0 +1,587 @@
+
+
+
+
+I. The President's Approach - Building on Success
+The President's Energy Plan includes a number of conservation,
+advanced research and development, and other efforts that will
+reduce electricity usage. Reducing the amount of electricity we use
+and the amount of fuel needed to produce it are part of the answers
+to the challenge of providing energy in an environmentally
+responsible way.
+The President's Energy Plan goes even further. The President has
+directed me to develop proposed legislation that would
+significantly reduce and cap NOx, SO2 and mercury emissions from
+power generation. Such a program (with appropriate measures to
+address local concerns) would provide significant health benefits
+even as we increase electricity supplies. The proposed legislation
+will:
+
+
+-
+establish reduction targets for emissions of SO2, NOx and
+mercury,
+
+
+-
+phase in reductions over a reasonable time period,
+similar to the successful Acid Rain Program established by the 1990
+amendments to the Clean Air Act and to state programs,
+
+
+-
+provide regulatory certainty to allow utilities to make
+modifications to their plants without fear of new litigation,
+and
+
+
+-
+provide market-based incentives, such as emissions
+trading, to help achieve the required reductions.
+
+
+Nationwide reductions of the three emissions, SO2, NOx and
+mercury, in an integrated approach would result in key benefits
+including thousands of avoided premature deaths and aggravation of
+respiratory and cardiovascular illness due to fine particles,
+reduced hospitalization and emergency room visits due to fine
+particles and continued exposure to ground-level ozone. It would
+also address interstate transport issues as they relate to meeting
+the new particulate matter and ozone air quality standards.
+Visibility improvement would be anticipated over large areas
+including national parks and wilderness areas and recovery of many
+freshwater and coastal ecosystems would be likely. Public health
+risks associated with mercury, particularly those posed to children
+and women of child bearing age, may be reduced. This includes risks
+of neurotoxic effects such as mental retardation, cerebral palsy,
+difficulty speaking and hearing others, and other learning
+disabilities. Currently, current forty plus states have fish
+advisories; that number would be reduced.
+The President's approach builds on the Acid Rain Program, which
+provides a wonderful model for future programs. It has not only met
+expectations, but exceeded them. Administering the Acid Rain
+Program has been a cost-effective experience. The program will
+achieve about 40% of the total emission reductions required under
+the 1990 Clean Air Act Amendments at a low cost to industry and to
+the government. The program is administered with a relatively small
+staff relying on strong and state-of-the-art data tracking and
+reporting capabilities.
+When President George H.W. Bush signed the Clean Air Act
+Amendments of 1990, it revolutionized clean air policy regarding
+regional and national air pollution issues and drove environmental
+protection in new directions. First, the President and Congress
+designed the Acid Rain Program to focus on reducing the SO2
+emissions that cause acid deposition and translated the emission
+reduction goal into a nationwide cap on emissions from electric
+generating sources. Second, Congress provided EPA with a tool to
+achieve this reduction - - an innovative market-based allowance
+trading program. This "cap and trade" approach provided greater
+certainty that the emissions reductions would be achieved and
+sustained while at the same time allowing industry unprecedented
+flexibility in how to achieve the needed emission reductions. In
+return for this flexibility, sources were to provide a full
+accounting of their emissions through continuous monitoring and
+reporting, and there would be consequences for failing to comply.
+The objective was for sources to find the most cost-effective means
+for limiting SO2 emissions and to be responsible for achieving
+those emission reductions. There would be no government second
+guessing and lengthy permit reviews.
+Compliance with the Acid Rain Program began in 1995 and is now
+in its seventh year. It has been a resounding success, with SO2
+emissions from power generation dropping 4.5 million tons from 1990
+levels and NOx emissions down 1.5 million tons from 1990 levels
+(about 3 million tons lower than projected growth). In addition,
+during the first Phase of the program (1995-1999), SO2 emissions
+were between 20 to 30 percent below their allowable levels.
+Furthermore, environmental monitoring networks tracked important
+environmental improvements - - acid deposition was reduced by up to
+30 percent in certain areas of the country.
+And, these environmental improvements cost less than predicted
+because of the built-in market based incentives. In 1990, EPA
+projected the cost of full implementation of the SO2 emissions
+reduction with trading at $5.7 billion per year (1997 dollars). In
+1994, GAO projected the cost at $2.3 billion per year (1997
+dollars). Recent estimates of annualized cost of compliance are in
+the range of $1 to $1.5 billion per year at full
+implementation.
+President Bush has not only promised to take the SO2 trading
+program to the next level but he has experience to lend to the
+matter. In 1999, then-Governor Bush signed legislation that
+permanently caps NOx and SO2 emissions from older power plants in
+Texas starting in 2003 and requires utilities to install a certain
+quantity of renewable and clean energy capacity by 2009.
+Environmental Defense hailed this legislation as a model for the
+country. The Emission Banking and Trading of Allowances Program is
+expected to achieve substantial reductions when it is fully phased
+in by 2003. It is estimated that this program will reduce NOx by
+75,000 tons per year and SO2 by 35,000 tons per year. It is
+designed to give the utilities flexibility in determining how and
+where to achieve the reductions. Allowances are allocated to each
+power plant based on 1997 emissions using a formula that does not
+penalize the "clean" plants that already have a low NOx or SO2
+emission rate. Permitted power generating plants may opt into the
+trading program.
+
+
+II. Regulating Emissions from Power Generation
+The President's legislative approach stands in sharp contrast to
+the complex web of existing regulations which currently confront
+the industry. Over the years, Congress, EPA and the States have
+responded to specific environmental and public health problems by
+developing separate regulatory programs for utilities to address
+the specific problems. Each individual program uses its own
+approach to serve its own purpose. As I describe the different
+regulatory programs, I think you will understand why we believe it
+is time to simplify. If we have a new legislation that
+significantly reduces emissions of SO2, NOx and mercury, we can
+eliminate many of the individual programs that apply to the power
+generation sector and replace them with a system that will reduce
+the administrative burden on industry and governments, use
+market-based incentives to keep compliance costs low, and provide
+the industry with more certainty about its future regulatory
+obligations.
+There are many regulatory initiatives in place that will lead to
+reductions in air emissions from electric power generation. These
+regulations include both federal and State requirements that
+address a variety of emissions including SO2, NOx, CO, PM10, and a
+number of hazardous air pollutants. The requirements also vary
+depending on the characteristics of the generating facility,
+including its boiler type, size, age and location. These programs
+include the National Ambient Air Quality Standards for particulate
+matter and ozone, the section 126 and the NOx SIP Call rules, new
+source review and new source performance standards, the regional
+haze rule and mercury regulation as a hazardous air pollutant,
+among others.
+EPA has set national ambient air quality standards (NAAQS) for
+six pollutants: ozone, carbon monoxide (CO); particulate matter
+(PM); SO2; NO2; and lead (Pb). The Clean Air Act calls upon States
+to adopt emissions control requirements in the form of State
+Implementation Plans ("SIPs") to bring nonattainment areas into
+compliance with the NAAQS. Historically, most States' strategies to
+attain the SO2 and PM NAAQS included power plant controls.
+EPA has taken two actions to address the contribution of
+interstate transport of NOx emissions to downwind ozone
+nonattainment problems, and both of these actions affect the power
+sector. In 1998, EPA finalized the NOx SIP call, which now requires
+19 states and the District of Columbia (whose emissions
+significantly contribute to downwind ozone nonattainment problems)
+to revise their SIPs to control summertime NOx emissions. In
+response, all of these States are choosing control strategies that
+focus on reducing power plant emissions. In a separate action aimed
+at the same interstate NOx transport problem, in January 2000, EPA
+finalized a rule which was issued in response to petitions from
+several northeastern states under section 126 of the CAA. In this
+rule, EPA found that emissions from large electric generating units
+and large industrial boilers and turbines in 12 States and the
+District of Columbia are significantly contributing to downwind
+states' ozone nonattainment problems. The rule requires these
+sources to control their summertime NOx emissions under the Federal
+NOx Budget Trading Program beginning May 1, 2003.
+The electric power generation sector is also regulated through a
+variety of traditional and innovative programs. Consistent with the
+Clean Air Act, many States have adopted NOx reasonably available
+control technology requirements for combustion facilities. In
+addition, several States have adopted market-based approaches. The
+South Coast Air Quality Management District in Southern California,
+for example, adopted a NOx and SO2 emissions trading program
+(called RECLAIM). The Northeast and mid-Atlantic States that
+comprise the Ozone Transport Region have developed a region-wide
+NOx emissions trading program (the Ozone Transport Commission NOx
+Budget Program). The revised ozone NAAQS and new PM2.5 NAAQS could
+lead to further regulation of power plant SO2 emissions (a
+precursor to ambient PM2.5) and NOx emissions (both for PM2.5 and
+ozone attainment strategies).
+The Act also requires State Implementation Plans to include a
+preconstruction permit program for new or modified major stationary
+sources, referred to as new source review ("NSR"). This program
+ensures that when large, new facilities are built -- or major
+modifications to existing facilities are made that result in a net
+emissions increase -- they include state-of-the-art air pollution
+control equipment. It also assures citizens who live near new major
+sources of air pollution that the facilities will be as clean as
+possible. The requirements are different for (1) the part of the
+program called the Prevention of Significant Deterioration program
+that applies to construction projects in areas where the air is
+already clean, and (2) the part of the program called the
+non-attainment NSR program that applies to construction projects in
+areas where the air is unhealthy to breathe. For attainment areas,
+to prevent significant deterioration of our nation's air quality,
+new major sources and major modifications to existing sources must
+apply the best available control technology and ensure that the new
+pollution introduced into the environment does not adversely impact
+the air quality, such as in pristine areas like national parks. For
+nonattainment areas, in addition to applying control technology
+that represents the lowest achievable emission rates, new major
+sources and major modifications must offset their emissions
+increases. This can be done by getting reductions from other
+sources in the general area to compensate for the increases
+resulting from the new air pollution sources.
+The Act also requires EPA to establish new source performance
+standards ("NSPS") that all new or modified sources must meet
+regardless of their location. The NSPS are technology-based
+numerical performance standards that apply to all sources in a
+particular source category, such as electric utility steam
+generating units or stationary gas turbines. These standards are
+intended to "level the playing field" so that all new facilities
+install a minimum amount of air pollution control equipment.
+The recently finalized regional haze rule will also require
+power generators to reduce SO2 and NOx emissions either through the
+implementation of best available retrofit technology (BART) or a
+trading program yet to be developed. States must show "reasonable
+progress" in their state implementation plans toward the
+congressionally mandated goal of returning to natural conditions in
+national parks and wilderness areas.
+EPA is developing a rule to limit mercury emissions from
+utilities. The 1990 CAA Amendments required EPA to study and
+prepare a report to Congress on the hazards to human health that
+can reasonably be expected to occur as a result of emissions of
+hazardous air pollutants (air toxics or HAPs) from fossil
+fuel-fired electric power plants. Based on the Report to Congress
+and on other available information, EPA found in December 2000 that
+air toxics control is appropriate for coal-fired and oil-fired
+utility boilers. As a result of that regulatory determination, EPA
+is scheduled to propose "Maximum Achievable Control Technology"
+(MACT) standards for these source categories by 2003. Given the
+conclusions of the Report, the regulation is likely to focus on
+mercury emissions.
+The utility industry is also required to reduce SO2 emissions
+through the Acid Rain Trading Program described above. In addition,
+to address acid rain, the Clean Air Act requires utilities to
+reduce their emissions through emissions limits, which EPA
+established based on unit type.
+
+
+III. Health and Environmental Benefits of the President's
+Energy Plan
+The President's Energy Plan recognizes that by conserving energy
+and limiting NOx, SO2 and mercury emissions, we can provide the
+country with significant public health and environmental benefits.
+The problems we would address include: fine particle pollution,
+visibility degradation, ozone pollution, mercury deposition, acid
+rain, nitrate deposition and climate change. In turn, this will
+avoid incidences of premature mortality, aggravation of respiratory
+and cardiopulmonary illnesses, and diminished lung function which
+results in lost work days, school absences and increased
+hospitalizations and emergency room visits, and will also avoid
+damage to eco-systems, fish and other wildlife. To understand the
+tremendous benefits of the President's plan, we need to understand
+the public health and environmental issues.
+
+
+Emissions from Power Generation
+Power generators are a significant source of three key
+emissions: sulfur dioxide (SO2), nitrogen oxide (NOx), and mercury
+(Hg). The Clean Air Act has been, and will continue to be, a
+successful tool in reducing these emissions. However, while we are
+observing significant environmental improvement, power generation
+still contributes 67% of SO2, 25% of NOx, and 37% of man-made
+mercury. (Power generation has other emissions, such as carbon
+monoxide and coarse particles, but the level of these emissions
+poses smaller risks for public health and the environment.)
+One of the reasons power generation accounts for such a large
+share of these key emissions is that significant emissions
+reductions have already been required from other sources. For
+example, a new car today is more than 90% cleaner than it was
+before federal laws limiting emissions of CO, NOx and volatile
+organic compounds - and they are subject to further reductions
+starting in 2004, as are heavy duty trucks in 2007. In contrast,
+some older power plants, built before certain Federal performance
+standards were put into place, are still operating without modern
+pollution control equipment for some emissions.
+
+
+Air Quality Effects
+FINE PARTICLE POLLUTION:
+The President's Energy Plan will reduce fine particle pollution.
+SO2 and NOx emissions from power generation react in the atmosphere
+to form nitrates and sulfates, which are a substantial fraction of
+fine particle (PM2.5) pollution. (Some PM2.5 comes from direct
+emissions from a variety of sources.) A source emitting NOx and SO2
+can cause PM2.5 many miles away. A substantial body of published
+scientific literature recognizes a correlation between elevated
+fine particulate matter and increased incidence of illness and
+premature mortality. The health impacts include aggravation of
+chronic bronchitis, hospitalizations due to cardio-respiratory
+symptoms, emergency room visits due to aggravated asthma symptoms,
+and acute respiratory symptoms. Based on these findings, EPA and
+others estimate that attaining the fine particle standards would
+avoid thousands, and up to tens of thousands, of premature deaths
+annually.
+The significant expansion in scientific research in recent years
+has enhanced our understanding of the effects of particles on
+health. EPA is summarizing all new information in the ongoing
+review of the particulate matter standard in a "criteria document"
+that will undergo extensive peer and public review.
+• VISIBILITY AND REGIONAL HAZE IMPACTS:
+The President's Energy Plan will improve visibility by reducing
+SO2 and NOx emissions. Sulfates and nitrates that form in the
+atmosphere from SO2 and NOx emissions are significant contributors
+to visibility impairment in many national parks and wilderness
+areas, as well as urban areas across the country. Sulfates are a
+key factor in all areas of the United States, particularly in the
+East, where high humidity increases the light extinction efficiency
+of sulfates. Sulfates are responsible for 6080% of total light
+extinction in the East, based on data collected during the 1990's
+in eastern national parks such as Acadia, Everglades, Great Smoky
+Mountains, Shenandoah, and in Washington, DC.
+In the West, sulfates account for approximately 25-50% of
+visibility impairment. Nitrates can play a larger role in
+visibility problems in some portions of the West than in the East.
+For example, nitrates account for 20-40% of visibility impairment
+in national parks and wilderness areas in Southern California. In
+many urban areas, NOx emissions from cars, trucks, and power plants
+contribute to winter time "brown cloud" situations.
+
+C OZONE:
+The President's Energy Plan will reduce ozone by reducing NOx, a
+key contributor to the formation of ground-level ozone. In the
+presence of sunlight, NOx and volatile organic compounds react
+photochemically to produce ozone. NOx can be transported long
+distances and contribute to ozone many hundreds of miles from its
+source. More than 97 million people live in areas that do not yet
+meet the health-based 1-hour ozone standard (based on 1997-1999
+data). The number would be even higher for the new 8-hour ozone
+standard. Reducing ozone levels will result in fewer
+hospitalizations, emergency room and doctors visits for asthmatics,
+significantly fewer incidents of lung inflamation for atrisk
+populations, and significantly fewer incidents of moderate to
+severe respiratory symptoms in children.
+Not only will reducing ozone provide public health benefits, but
+it will avoid damage to ecosystems and vegetation. Ozone causes
+decreased agricultural and commercial forest yields, increased
+mortality and reduced growth of tree seedlings, and increased plant
+susceptibility to disease, pests, and environmental stresses (e.g.,
+harsh weather). Since NOx emissions result in formation of
+ground-level ozone, reducing NOx emissions will reduce ozone levels
+and thus reduce the deleterious effects of ozone on human health
+and ecosystems.
+Deposition Effects
+
+
+C MERCURY:
+The President's Energy Plan will benefit public health by
+reducing mercury air emissions. Mercury is highly toxic in small
+quantities and Americans with diets with high levels of mercury are
+at risk for adverse health effects. Mercury is a naturally
+occurring element, but human activity mobilizes mercury in the
+environment, making it more bioavailable. After mercury is emitted
+to the air, it can be transported through the atmosphere for days
+to years before being deposited into water bodies.
+Once mercury is deposited in lakes, rivers, and oceans, it
+bioaccumulates in the food chain, resulting in high concentrations
+in predatory fish. In the U.S., most human exposure to mercury is
+the result of consumption of fish contaminated with methylmercury.
+A recent report of the National Academy of Sciences (NAS) concluded
+that while most Americans face a very low risk from methylmercury,
+children of women who consume large amounts of fish during
+pregnancy face a much higher risk. Fetuses are particularly
+vulnerable to methylmercury because of their rapidly developing
+nervous systems. These effects include cognitive, sensory, and
+motor deficits. The NAS study estimates as many as 60,000 children
+annually may develop neurological problems because of low-level
+methylmercury exposure through their mother prior to birth.
+Forty-one states have advisories warning the public to restrict
+eating fish from local waters due to methylmercury. EPA estimates
+that 5.6 million acres of lakes, estuaries and wetlands and 43,500
+miles of streams, rivers and coasts are impaired by mercury
+emissions.
+ACID RAIN:
+The President's Energy Plan will reduce acid rain by reducing
+SO2 and NOx. Acidic deposition or "acid rain" occurs when SO2 and
+NOx in the atmosphere react with water, oxygen, and oxidants to
+form acidic compounds. These compounds fall to the Earth in either
+dry form (gas and particles) or wet form (rain, snow, and fog).
+Some are carried by the wind, sometimes hundreds of miles, across
+state and national borders. In the United States, about 67 percent
+of annual SO2 emissions and 25 percent of NOx emissions are
+produced by electric utility plants that burn fossil fuels.
+Although we have made progress as a result of the 1990 Acid Rain
+Program, we have not fully addressed the problem. Indicators of
+recovery of lakes and streams do not show consistent change in
+response to reduced SO2 emissions. In sensitive areas such as the
+Adirondacks, for example, the majority of lakes have remained
+fairly constant in terms of acidification levels, while the most
+sensitive lakes continue to acidify. Overall, acid deposition
+continues to impair the water quality of lakes and streams in the
+Northeast: 41 percent of lakes in the Adirondack region of New York
+and 15 percent of lakes in New England exhibit signs of chronic
+and/or episodic acidification. Although sulfur deposition has
+declined, nitrogen emissions have not changed substantially
+region-wide. Moreover, recent findings also suggest that nitrogen
+is quantitatively as important or, in some areas, possibly more
+important than sulfur as a cause of episodic acidification because
+of short-term acidic pulses occurring during the most biologically
+sensitive time of the year, when fish reproduce. Reductions of NOx,
+particularly during winter and spring, are critical for addressing
+these concerns.
+� NITROGEN DEPOSITION:
+The President's Energy Plan will improve eco-systems and water
+bodies by reducing NOx emissions. Some air emissions of NOx from
+power generation result in deposition of nitrogen in soils and
+water. While nitrogen is an essential nutrient, its availability is
+naturally limited, making it an important factor in regulating the
+structure and functioning of both terrestrial and aquatic
+ecological systems. Human activity has greatly altered the
+terrestrial and atmospheric nitrogen cycle, doubling the annual
+amount of nitrogen available in forms that are useful to living
+organisms. Nitrogen saturation of watersheds contributes to
+environmental problems such as reduced drinking water quality,
+nitrateinduced toxic effects on freshwater organisms, increased
+soil acidification and aluminum mobility, increased emissions from
+soil of nitrogenous greenhouse trace gases, reduction of methane
+consumption in soil, and forest decline and reduced
+productivity.
+Coastal water and marine environment are also impacted by
+atmospheric deposition of nitrogen. Depending upon the location,
+from 10 to more than 40 percent of new nitrogen inputs to coastal
+waters along the East Coast and Gulf Coast of the United States
+come from air pollution. One of the best documented and understood
+impacts of increased nitrogen is the eutrophication of estuaries
+and coastal waters. Eutrophication refers to the increase in the
+rate of supply of organic matter to an ecosystem and its many
+undesirable consequences. Symptoms of eutrophication are found in
+many of our nation's coastal ecosystems. They include algal blooms
+that are potentially hazardous to human health, low dissolved
+oxygen concentrations, declines in the health of fish and shellfish
+populations, loss of seagrass beds and coral reefs, and ecological
+changes in food webs.
+
+
+
+Summary of Health and Environmental Effects
+Adopting a unified approach to reduce SO2, NOx and mercury is
+better than looking at each pollutant separately because of
+synergistic effects. Beyond their impacts as separate emissions,
+SO2, NOx, and mercury together contribute to many air
+pollution-related problems affecting human health and the
+environment. In certain cases, synergies exist between emissions
+and among the various reduction approaches available, making it
+imperative that efforts to reduce risk address all three emissions
+accommodate these synergies. In the case of fine particles,
+atmospheric chemical relationships suggest that when only reducing
+sulfate for example, it is replaced in the atmosphere by nitrate.
+Thus, simultaneous NOx and SO2 emission reductions are critical. In
+the case of acid rain, significant reductions in sulfur dioxide
+have not corresponded to ecological changes due to continuing high
+levels of nitrogen. Continuing levels of sulfur deposition, albeit
+smaller than before, also work to prevent recovery due to extremely
+large sulfur loadings over the years. Both emissions count in
+achieving the goal of recovery. Additionally, some synergies have
+been observed between methylmercury and lake acidity - the more
+acidic, the greater the mercury concentration.
+As more environmental data become available and science
+improves, we are observing some environmental improvement
+accompanying the downward trend in emissions. However, there are
+persistent and growing concerns regarding recovery of ecosystems
+and the risks that air pollution pose to human health. For
+instance, nitrate levels in surface waters are not significantly
+improving, and at best are constant. Logically, if emissions
+continue at the same level, or increase, pollution problems will
+mirror that trend. Visibility impairment in national parks,
+wilderness areas and urban areas also continues to be a problem.
+Many people continue to be exposed to unacceptable levels of smog.
+Of particular significance --the American public has become acutely
+aware of the hazards to their health, including the risk of
+mortality, posed by inhalation of fine particles and exposure to
+mercury through fish consumption.
+
+
+IV Climate Change
+The President's Energy Plan, and the climate change strategy
+that is under development, will provide benefits by addressing
+climate change. Energy-related activities are the primary source of
+U.S. man-made greenhouse gas emissions. Power generators, which
+emit CO2, contribute abut 29% of the total emissions of all U.S.
+man-made greenhouse gases. Scientists continue to learn more about
+global climate change, its causes, potential impacts, and possible
+solution. We recently held Cabinet-level working group meetings to
+review the most recent, most accurate and most comprehensive
+science. During those meetings, we heard from scientists offering a
+wide spectrum of views. We have reviewed the facts and listened to
+many theories and suppositions. The working group asked the highly
+respected National Academy of Sciences to provide us the most
+up-to-date information about what is known and about what is not
+known on the science of climate change.
+We know the surface temperature of the Earth is warming. It has
+risen by .6 degrees Celsius over the past 100 years. There was a
+warming trend from the 1890s to the 1940s, cooling from the 1940s
+to the 1970s, and then sharply rising temperatures from the 1970s
+to today. There is a natural greenhouse effect that contributes to
+warming. Greenhouse gases trap heat and thus warm the Earth because
+they prevent a significant portion of infrared radiation from
+escaping into space. Concentration of greenhouse gases, especially
+CO2, have increased substantially since the beginning of the
+industrial revolution. And the National Academy of Sciences
+indicates that the increase is due in large part to human activity.
+The Academy's report also tells us that there are many unanswered
+questions about climate change, which makes it difficult to
+determine what levels of greenhouse gas emissions need to be
+avoided.
+To address global climate change and greenhouse gas emissions,
+we are pursuing a broad array of conservation and energy efficiency
+goals under the Administration's National Energy Policy as well as
+the development of a comprehensive policy under the ongoing
+cabinet-level review for this issue. On June 11, President Bush
+announced the establishment of two major initiatives to address the
+major scientific and technological challenges presented by this
+serious, long-term issue: the U.S. Climate Research Initiative and
+the National Climate Change Technology Initiative. In addition, he
+committed the United States to increasing cooperative efforts in
+the Western Hemisphere, and with our allies globally, to
+aggressively pursue joint research and actions. These efforts have
+recently borne fruit, particularly recent agreements with Japan and
+Italy to collaborate on climate modeling efforts and with El
+Salvador in a "forest for debt" swap that will preserve tropical
+forests there that sequester carbon. The complex challenge of
+global climate change requires a global response that will draw on
+the power of global markets and the promise of technology to
+achieve emissions reductions most flexibly and costeffectively in
+the coming century. The Administration intends to address this
+challenge in that context, and will leverage our national resources
+to enhance our scientific understanding of global climate change,
+and develop the advanced energy technologies that the world will
+need in coming decades to meet its energy and environmental
+needs.
+
+
+V. Conclusion
+Our country has made great progress in reducing air pollution
+over the last several decades, but pollution from power generation
+needs to be further controlled. We can draw no other conclusion
+given the significant contribution that power generation makes to
+the emissions that cause such serious public health and
+environmental problems.
+But our current regulatory programs are not the most efficient
+way to achieve the goal of ensuring a reliable energy supply in an
+environmentally responsible manner. Rather than take a
+pollutant-by-pollutant, problem-by-problem approach, we have the
+opportunity to examine the sector as a whole. Doing so provides us
+with the opportunity for cost-effective reductions and significant
+public health and environmental gains. That is why this
+Administration supports the development of new legislation that
+builds on the success of the market-based Acid Rain Program to
+reduce significantly the SO2, NOx and mercury emissions from power
+generation. Mandatory controls are not the only way to solve public
+health and environmental problems. President Bush's National Energy
+Plan also includes measures to increase conservation of energy,
+increase energy efficiency, and encourage technological advances
+such as clean coal technology, fuel cells, and combined heat and
+power facilities -- all of which will contribute to addressing the
+energy and environmental challenges of
+11
+this industry.
+I have already spent time with representatives of the power
+generation sector and have heard from a number of them who are
+interested in legislation that will provide the public health and
+environmental benefits we discussed today. I applaud their concern
+and their willingness to help craft a workable solution. I have
+also heard from environmentalists who are interested in these same
+issues. I know that many of you are interested in addressing these
+issues through legislation. I hope that our common interests will
+lead us to a consensus - one that will provide the country with
+significant benefits. I look forward to working with you on these
+issues.
+12
+
+
+

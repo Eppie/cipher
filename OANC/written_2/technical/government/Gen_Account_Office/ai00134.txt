@@ -1,0 +1,2358 @@
+
+
+
+
+
+Accounting and Information Management
+Division
+
+April 2000
+EXECUTIVE GUIDE
+
+
+
+Creating Value Through World-class Financial Management
+
+
+GAO/AIMD-00-134
+
+Preface
+To help promote effective implementation of federal financial
+management reform, we studied the financial management practices
+and improvement efforts of nine leading public and private sector
+finance organizations to identify the success factors, practices,
+and outcomes associated with worldclass financial management. This
+executive guide is intended to assist federal agencies in achieving
+the objectives of the Chief Financial Officers (CFO) Act of 1990
+and subsequent related legislation by providing case studies of 11
+practices critical for establishing and maintaining sound financial
+operations.
+The reforms laid out by the CFO Act and subsequent related
+legislation, when effectively implemented, will place the federal
+government on par with private sector corporations and state and
+local governments that have already made the necessary investment
+in financial management. While many agencies have made great
+strides toward generating more accurate and reliable annual
+financial statements, the process of preparing financial statements
+and subjecting them to independent audit is only the first step
+toward satisfying the requirements of the legislation. To reap the
+full benefits of financial reform, federal finance organizations
+must go beyond the audit opinion toward
+(1) establishing seamless systems and processes, (2) routinely
+generating reliable cost and performance information and analysis,
+(3) undertaking other valueadded activities that support strategic
+decisionmaking and mission performance, and (4) building a finance
+team that supports the agency's mission and goals.
+This executive guide was prepared under the direction of Lisa G.
+Jacobson, Director, Defense Audits. Other GAO contacts and key
+contributors are listed in appendix VIII. Questions can be directed
+to me at (202) 5122600, steinhoffj.aimd@gao.gov, or Linda Garrison,
+Assistant Director, by phone, email, or regular mail at the
+following:
+
+
+Jeffrey C. Steinhoff Acting Assistant Comptroller General
+Accounting and Information Management Division
+Contents
+Background
+Learning from Leading Organizations
+
+
+
+Background
+Creating a government that runs more efficiently and effectively
+has been a public concern for decades. In recent years, however,
+the push towards creating a smaller, more results oriented
+government has intensified the urgency to find ways to do more with
+less. To effectively evaluate and improve the value derived from
+government programs and spending, the Congress and other
+decisionmakers must have accurate and reliable financial
+information on program cost and performance. Further, they must be
+able to rely on federal finance organizations to provide analysis
+and insight about the financial implications of program decisions
+and the impact of those decisions on agency performance goals and
+objectives. Currently, financial data are not always useful,
+relevant, timely, and reliable enough to be used for federal
+decisionmaking, and many federal finance organizations are not yet
+well equipped enough to routinely provide analysis or advice
+related to this information.
+In the private sector, the role of the finance organization
+historically has centered on oversight and control, focusing on its
+fiduciary responsibilities and paying less attention to increasing
+the effectiveness of operating divisions. However, over the past
+decade, dramatic changes in the business environment have driven
+finance organizations to reevaluate this role. Increased
+competition resulting from an emerging global market has put
+pressure on finance organizations to find new ways to reduce
+administrative costs, add value, and provide a competitive
+advantage. At the same time, advances in information technology
+have made it possible for the finance function to shift from a
+paperdriven, labor intensive, clerical role to a more consultative
+role as advisor, strategist, analyst, and business partner.
+According to a 1997 study performed by a major public accounting
+firm,1 most CFOs in 1989 were spending 75 to 80 percent of their
+time on fiduciary issues, essentially external reporting. Today,
+the goal of many leading finance organizations is to spend about 20
+percent of their time on fiduciary issues and the remaining time
+performing strategic support activities, such as cost analysis or
+business performance analysis. Also, a 1996 report by the Institute
+of Management Accountants found that over the previous 5 to 10
+years, management accountants were increasingly being asked to
+supplement their traditional accounting role with more financial
+analysis and management consulting.2
+Dramatic changes also have occurred in federal financial
+management in response to the most comprehensive management reform
+legislation of the past 40 years. The combination of reforms
+ushered in by (1) the CFO Act of 1990, (2) the Government
+Management Reform Act (GMRA) of 1994, (3) the Federal Financial
+Management Improvement Act (FFMIA) of 1996, (4) the Government
+Performance and Results Act (GPRA) of 1993, and (5) the
+ClingerCohen Act of 1996 will, if successfully implemented, provide
+the necessary foundation to run an effective, resultsoriented
+government.
+1
+Reinventing the CFO: Moving from Financial Management to
+Strategic Management (Coopers and Lybrand, New York, New York:
+1997).
+2
+The Practice Analysis of Management Accounting, Institute of
+Management Accountants (Montvale, New Jersey: 1996).
+4
+The CFO Act and GMRA spelled out a long overdue and ambitious
+agenda to help the government remedy its lack of useful, relevant,
+timely, and reliable financial information. For the government's
+major departments and agencies, this legislation (1) established
+chief financial officer positions,
+(2) required audited financial statements annually, and (3) set
+expectations for agencies to develop and deploy more modern
+financial management systems, produce sound cost and operating
+performance information, and design results oriented reports on the
+government's financial condition by integrating budget, accounting,
+and program information. FFMIA built on the CFO Act and GMRA by
+requiring financial statement auditors to report whether agencies'
+financial systems comply with federal financial management systems
+requirements, federal accounting standards, and the U.S. Government
+Standard General Ledger.
+The Government Performance and Results Act of 1993commonly know
+as GPRA or the Results Actwas enacted to hold federal agencies
+accountable for achieving program results. It requires that
+agencies (1) set multiyear strategic goals and corresponding annual
+goals, (2) measure performance toward the achievement of those
+goals, and (3) report on their progress. Effective implementation
+of the Results Act, however, hinges on agencies' ability to
+routinely produce meaningful budget, accounting, and program
+information needed to manage performance and measure results. The
+CFO Act and other related financial reform legislation, if
+successfully implemented, will provide the basis for producing this
+information.
+To help insure that agencies effectively use information
+technology to achieve program results, the Congress passed the
+ClingerCohen Act of 1996. The ClingerCohen Act builds on the best
+practices of leading public and private sector organizations by
+requiring agencies to better link their information technology
+planning and investment decisions to program missions and goals.
+The ClingerCohen Act contains critical provisions requiring federal
+agencies to use investment and capital planning processes to manage
+their information management technology portfolios. Further, it
+requires that agencies modernize inefficient administrative and
+missionrelated work processes before making significant technology
+investments to support them.
+Implemented together, these measures provide a basis for
+improving accountability over government operations and routinely
+producing sound cost and operating performance information, thereby
+making it possible to better assess and improve the government's
+financial condition and operating performance.
+
+
+
+Learning From Leading Organizations
+To help promote effective implementation of federal financial
+management reform, we studied the financial management practices
+and improvement efforts of nine leading private and public sector
+finance organizations to identify the success factors, practices,
+and outcomes associated with worldclass financial management. The
+six private sector and three state organizations we studied have
+been recognized by their peers and other independent researchers
+for their outstanding financial management practices and successful
+finance reengineering efforts. For more information on the criteria
+we used to select these organizations, see appendix I. As federal
+agencies continue to improve their management and financial
+accountability, they will be able to draw upon the expertise and
+experience of these private sector and state government
+organizations.
+
+Leading Finance Organizations
+
+At one time, all of these organizations found themselves in an
+environment similar to the one confronting federal agencies
+todayone in which they were called upon to improve financial
+management while simultaneously reducing costs. The key practices
+drawn from the organizations we examined can provide a useful
+framework for federal agencies working to improve their financial
+management. This guide discusses the goals, success factors, and
+practices associated with building a worldclass finance
+organization. Specifically, we have identified 4 overall goals
+common to these leading organizations along with 11 practices that
+were critical to their ability to meet these goals. In addition,
+this guide includes examples from our case study work that best
+illustrate how each practice enabled the selected organization to
+achieve the desired outcomes.
+We preceded our case study work with an extensive review of
+financial management literature, guides, and reports. We also
+consulted with leading public and private sector experts in
+financial management. Case study data were collected through
+interviews and analysis of documentation. Further, the case study
+organizations reviewed all case study information included in this
+guide for accuracy and completeness. Appendix I provides a more
+detailed description of our research objectives, scope, and
+methodology.
+6
+
+
+
+Characteristics of a Worldclass Finance Organization
+A worldclass finance organization can best be defined in terms
+of the business outcomes it producesoutcomes such as improved
+business analysis, innovative solutions to business problems,
+reduced operating costs, increased capability to perform adhoc
+analysis, and improved overall business performance. To build a
+worldclass finance organization and help achieve better business
+outcomes, each of the organizations we examined set an agenda for
+transforming the finance organization by defining a " shared
+vision" -i.e., a mission, a vision for the future, core values,
+goals, and strategies- geared toward making the finance
+organization a valuecreating, customerfocused partner in business
+results. Although the techniques used varied depending on the
+organization's size and culture and some efforts were more mature
+than others, the goals, practices, and success factors outlined in
+the following illustration were instrumental in the organization
+achieving its vision.
+
+
+
+Goals, Practices, and Strategies To Consider
+This section summarizes the results of our research and case
+study work. Specifically, it contains the 4 overall goals and 11
+practices we identified as critical for building a worldclass
+finance organization. To facilitate the practical use of this
+guide, information is organized into four sections-each summarizing
+one of the four goals as well as those practices that have enabled
+leading organizations to achieve these goals. Further, for each of
+the 11 practices, we provided (1) a summary of key characteristics,
+(2) illustrative case study examples, and (3) strategies for
+federal agencies to consider when implementing the practice.
+8
+
+Make Financial Management an Entitywide Priority
+The quality and image of federal financial management has
+suffered from decades of neglect and an organizational culture that
+has not fully recognized the value of good financial managementnot
+even at its most basic levelas a means of ensuring accountability.
+Making financial management a priority throughout the federal
+government involves changing the organizational culture of federal
+agencies. Although the views about how an organization can change
+its culture vary considerably, the organizations we studied
+identified leadership as the most important factor in successfully
+making cultural changes. Top management must be totally committed
+in both words and actions to changing the culture, and this
+commitment must be sustained and demonstrated to staff.
+The leading organizations we studied made financial management
+improvement an entitywide priority by building a foundation of
+control and accountability that supports external reporting and
+performance management, providing clear strong executive
+leadership, and using training to change the organizational culture
+and engage line management.
+
+Practice 1
+
+Build a Foundation of Control and Accountability That Supports
+External Reporting and Performance Management
+Key characteristics
+
+
+•
+The financial reporting and audit process is a basic
+management and oversight tool.
+
+
+•
+Accountability is part of the organizational culture and
+goes well beyond receiving an unqualified audit opinion.
+
+
+•
+Internal controls meet both external financial reporting
+and performance management control objectives without significantly
+impacting efficiency.
+
+
+A solid foundation of control and accountability requires a
+system of checks and balances that provides reasonable assurance
+that the entity's transactions are appropriately recorded and
+reported, its assets protected, its established policies followed,
+and its resources used economically and efficiently for the
+purposes intended. The private sector and state organizations we
+visited built and maintained this foundation largely through the
+discipline of preparing routine periodic financial statements and
+annually subjecting them to an independent audit. However, senior
+executives at leading organizations recognize that the financial
+information demanded by decisionmakers to measure and manage
+performance requires greater precision and more timely access than
+that required to receive an unqualified opinion on the entity's
+financial statements. To ensure that decisionmakers have useful,
+relevant, timely, and reliable information, leading finance
+organizations establish accountability goals that extend well
+beyond receiving an unqualified audit opinion. In addition, the
+internal controls at these organizations are designed to
+efficiently meet the control objectives necessary for performance
+measurement and management as well as external financial
+reporting.
+Similarly, according to a 1998 survey of federal CFOs,3 federal
+finance organizations continue to expand their focus from audited
+financial statements to include performance measurement and
+strategic planning. For example, the CFO Council and the Office of
+Management and Budget (OMB) are aggressively working on eight
+priority initiatives outlined in the1998 Federal Financial
+Management Status Report and FiveYear Plan. Although one of the
+eight priorities focused on obtaining an unqualified opinion on
+agency financial statements, the eight priorities taken as a whole
+aim at improving the financial and performance information needed
+to make and implement effective policy, management, stewardship,
+and program decisions.
+3
+CFO Survey: Preparing for Tomorrow's Way of Doing Business,
+Grant Thornton LLP and the Association of Government Accountants
+(Alexandria, Virginia: March 1998).
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+10
+Goals, Practices, and Strategies to Consider ♦ Make Financial
+Management an Entitywide Priority ♦ Practice 1
+
+
+Case Studies
+Accountability goals and an effective control structure provide
+the basis for a more resultsoriented government
+
+Commonwealth of Virginia
+To build a foundation of control and accountability, senior
+government leaders in the Commonwealth of Virginia had clear goals
+and objectives that went beyond receiving an unqualified audit
+opinion. With the passage of the Single Audit Act in 1984, the
+Commonwealth of Virginia had to produce and have audited
+Comprehensive Annual Financial Reports (CAFR) for the first time.
+Although not required by the act, the state Comptroller had each
+state agency also produce audited financial statements, thereby
+ensuring accountability at every level of government rather than
+solely at those levels considered material to CAFR. The goal was to
+ensure that managers and lawmakers would have useful, relevant, and
+timely information for assessing and managing program
+performance.
+Now that Virginia routinely receives an unqualified opinion on
+its CAFR, only those state agencies with a specific need (e.g.,
+agencies' operating trust, enterprise and internal service funds)
+are required to produce auditable financial statements. The
+remaining agencies now are required to certify the accuracy of
+financial information that feeds CAFR. By subjecting all state
+agencies to the rigorous discipline of preparing financial reports
+and having them audited, the Comptroller increased accountability
+for data accuracy beyond that required to receive an unqualified
+audit opinion. State officials continue to raise the bar and seek
+new ways to increase accountability and improve the state's
+performance. For example, the Department of Planning and Budget
+currently performs trend analysis and prepares fiscal impact
+statements for the state's legislature, using useful, relevant, and
+timely financial information from the state's integrated budget and
+accounting systems. Also, to ensure that performance data and
+longrange plans drive budget decisions, the state has set goals,
+including implementing an activitybased accounting and budgeting
+system, for enhancing its performance budgeting process.
+Texas
+Similarly, in Texas the performance management system is an
+integral part of agency and statewide planning structures,
+evaluation and decisionmaking processes, and accountability
+systems. Creating and maintaining a performance management system
+required close, consistent, and coordinated attention above and
+beyond that required for external financial reporting purposes. In
+Texas, the ability to produce fairly stated external financial
+reports was only the first step in building a more effective,
+resultsoriented government. An unqualified opinion on the state's
+CAFR provided, assurance that financial information was accurate
+and reliable for evaluating its overall financial position.
+However, an unqualified audit opinion by itself does not ensure
+that the information needed to measure and manage performance is
+useful, relevant, timely, or reliable. The internal controls that
+were considered adequate for external financial reporting were not
+always sufficient for performance management. For example, internal
+controls over expenditure data met the control objectives for
+aggregating and reporting this information on the financial
+statements; however, they did not meet the objectives for
+calculating perunitcost efficiency measures required for
+performance management.
+Therefore, state agencies, with the help of the State Auditor's
+Office, reevaluated and redesigned agency internal controls to meet
+both external financial reporting and performance management
+control objectives. Because the state routinely receives an
+unqualified opinion on its CAFR, the State Auditor's Office and
+agency internal auditors no longer spend the bulk of their time on
+control issues related to external financial reporting. Instead,
+their focus is on improving the reliability of performance
+management information.
+
+
+
+Strategies to Consider
+To build a foundation of control and accountability, senior
+executives could:
+
+
+•
+Leverage audit resources and the financial statement
+audit process to improve data reliability and increase
+accountability.
+
+
+•
+Increase accountability by establishing goals for (1)
+producing financial and performance reports for major programs
+and/or business segments and (2) moving the organization toward
+more frequent financial reporting (e.g., quarterly,
+monthly).
+
+
+•
+As part of the agency's GPRA performance planning
+process, (1) establish efficiency criteria that measure the cost
+associated with program outcomes and (2) develop an approach for
+assessing and improving agency internal controls over
+financerelated efficiency measures.
+
+
+•
+Use accounting and operational performance data to
+support budget formulation and strategic planning.
+
+
+12
+Practice 2
+
+
+Provide Clear, Strong Executive Leadership
+Key characteristics
+
+
+•
+The chief executive recognizes the important role the
+finance organization can play in improving overall business
+performance and involves key business/line managers in financial
+management improvement initiatives.
+
+
+•
+The CFO is a member of the top management
+team.
+
+
+•
+Top executives' sustained commitment to improving
+financial management is reinforced through both their words and
+actions.
+
+
+A powerful, visionary leader can change the direction, culture,
+and perceptions of the finance organization. The chief executive
+officers (CEO) of leading organizations understand the important
+role the CFO and the finance organization play in improving the
+entity's overall business performance. Consequently, the CFO is a
+central figure on the top management team and heavily involved in
+strategic planning and decisionmaking. In addition, the senior
+executives at these organizations demonstrated their sustained
+commitment to financerelated improvement initiatives by using key
+business/line managers to drive improvement efforts, attending key
+meetings, ensuring that the necessary resources are made available,
+and creating a system of rewards and incentives to recognize those
+who support improvement initiatives. In fact, the committed support
+of the CEO and line management are critical to the success of
+financerelated improvement initiatives.
+In the same way, federal financial management reform has
+recently gained momentum through the committed support of top
+federal leaders. For example, the President has made financial
+management improvement a top priority and established a goal to
+obtain an unqualified opinion on the government's financial
+statements. To achieve this goal, he directed the head of each
+agency without an unqualified audit opinion to submit to the OMB
+(1) an initial plan for resolving financial reporting deficiencies
+and (2) quarterly progress reports for achieving the goal. Further,
+OMB is required to periodically report to the Vice President on the
+agency submissions and governmentwide progress. In addition, many
+federal CFOs have primary leadership responsibility for
+implementing the Results Act at the department or agency level. The
+CFO Council has played a key leadership role in establishing
+financial and performance improvement goals and priorities for
+changing the way federal agencies plan, budget, manage, evaluate,
+and account for federal programs.
+To ensure that federal financial management improvement efforts
+succeed and that the President's and the CFO Council's priorities
+are achieved, the support and involvement of key nonfinancial
+executives and managers is critical. This commitment starts with
+the heads of agencies establishing priorities and setting
+expectations and continues with the active involvement of
+program/line managers and executives in driving financial
+improvement initiatives.
+
+
+
+Strategies to Consider
+To demonstrate and reinforce commitment to improving financial
+management, heads of agencies and senior executives could:
+
+
+•
+Form an executive management team (heads of component
+organizations and those reporting directly to the agency head) to
+establish a vision and fundamental goals and provide sponsorship
+for each major financial management improvement project.
+
+
+•
+Involve key program /business managers in driving
+financial improvement initiatives.
+
+
+•
+Develop a plan to ensure that all key constituents
+visibly support financial management improvement
+initiatives.
+
+
+•
+Actively market the program benefits of financial
+management improvement efforts to secure the necessary resources
+and Congressional support.
+
+
+•
+Establish an expectation that top financial executives,
+as part of the top management team, provide forward looking
+analysis that creates a link between accounting information and
+budget formulation and contributes to strategic planning and
+decisionmaking.
+
+
+Practice 3 Key characteristics
+Use Training to Change the • Nonfinancial managers are educated
+about the financial implications of business Organizational Culture
+and decisions.
+
+
+Engage Line Management
+• Training and tools are provided to facilitate and accelerate
+the pace of change initiatives.
+Improving federal financial management hinges upon leadership's
+ability to manage change and create an organizational culture that
+values good financial management. Legislation starting with the CFO
+Act of 1990 has been directed at enhancing the finance
+organization's responsibilities in supporting the management of
+federal activities. Although acceptance by the program offices has
+sometimes been slow, according to a recent survey of federal CFOs,4
+program directors are starting to look to the finance organization
+for help. They attribute the change to a joint effort by program
+and finance offices to implement the Results Act and develop
+strategic plans. In addition, the CFO Council's numerous outreach
+efforts and GPRArelated education events have helped to win the
+acceptance of program managers.
+The key to successfully managing change and changing
+organizational culture is gaining the support of line management.
+To change the organizational culture and enlist the support of line
+managers, many organizations utilize training programs. Some are
+generic in nature and are intended to help people anticipate and
+cope with change and ensure that every person in the organization
+understands the need for change. Others are specifically geared
+towards providing line managers with a greater appreciation of the
+financial implications of their business decisions. Through these
+interactions, financial managers gain a better understanding of
+business problems and nonfinancial managers gain an appreciation of
+the value of financial information. This not only produces better
+managers, it also helps break down functional barriers that can
+affect productivity and impede improvement efforts.
+In addition, these organizations provide tools to facilitate and
+accelerate the pace of the change initiative. According to one
+executive we met with, change initiatives that are implemented
+slowly generally fail because staff have too much time to
+contemplate the potential negative effects that change might bring
+and rally opposition that ultimately undermines the effort.
+4
+CFO Survey: Preparing for Tomorrow's Way of Doing Business,
+Grant Thornton LLP and the Association of Government Accountants
+(Alexandria, Virginia: March 1998).
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+16
+Goals, Practices, and Strategies to Consider ♦ Make Financial
+Management an Entitywide Priority ♦ Practice 3
+
+
+Case Study
+Training programs teach nonfinancial managers the value of
+financial information and facilitate the pace of change
+
+The Boeing Company
+To ensure that nonfinancial managers at all levels understand
+the value of financial information, Boeing has developed an
+education program that teaches managers basic business competence.
+Using a threestep development planning process, managers assess
+their current capabilities, determine their specific development
+needs, and build and execute a development plan. (See appendix II.)
+Depending on individual need, Boeing offers a variety of learning
+experiences including selfpaced, team, classroom, case study, and
+simulation. For example, through Boeing's Creating Value learning
+project, managers learn how to recognize the importance of cash
+flow and its influence on business decisions, understand
+shareholder expectations and the consequences of not meeting them,
+and identify the relationship between individual decisions and
+actions and shareholder value.
+The information is presented in a "multiple media" format in
+order to accommodate different learning styles and to allow
+learning to occur in different environments and in periods best
+suited to the learner. Other learning experiences include course
+work, such as Elements of Product Cost, in which participants
+analyze and use cost element information to support decisionmaking
+related to improvement efforts, ensuring that resources are applied
+to those activities that return the greatest benefits and provide
+the highest value to customers. During the class, participants
+learn to apply unit cost principles to the products they produce as
+well as how process, activity, and individual cost elements, such
+as labor, materials, and overhead, are accumulated to become unit
+or product cost.
+
+
+General Electric
+General Electric's (GE) education and training programs have
+played a crucial role in changing the organizational culture and
+facilitating both financial and nonfinancial improvement
+initiatives. One of the most successful programs is the Change
+Acceleration Process (CAP) workshop. During the CAP workshop, GE
+managers and professional staff are given tools and taught
+strategies for removing cultural barriers to change. GE's finance
+organization has used these tools and strategies to facilitate
+improvement initiatives, ranging from organizational restructuring
+to changing the role of the internal audit function.
+To be successful, the project teams spearheading these
+initiatives had to achieve each of the following objectives: (1)
+lead change, (2) create a shared need,
+
+
+(3)
+shape a vision, (4) mobilize commitment,
+
+
+(5)
+make change last, (6) monitor progress, and
+
+
+(7)
+change systems and structures. To ensure that each
+objective would be accomplished, the team used a survey to profile
+the change process and measures its progress. Staff and managers
+were surveyed periodically and asked to score each of the five
+dimensions from 100 percent to 0 percent based on how well they
+think each is being accomplished. For change to be successful, most
+dimensions must be rated high.
+
+
+The profile directed the team's efforts so that they could
+develop a strategy to address the areas that needed the most
+attention. For example, mobilizing commitment, especially from
+those outside the finance organization, was often one of the more
+difficult objectives to accomplish. However, the team used a
+method, learned in the CAP workshop, for analyzing and increasing
+stakeholder commitment levels. First, the team listed the names of
+those individuals whose support was critical for the success of the
+project. Then, they assessed each stakeholder's level of commitment
+based on their perceived level of agreementto what degree does the
+individual agree that change is needed? If the team perceived a
+person did not agree, it developed an individual plan to get this
+person's support. Plans were developed by addressing questions such
+as: Why are they resisting this change? Do they have a vested
+interest in the status quo? What new opportunities will they have
+when the change is implemented? and Who influences this person and
+what is their level of acceptance?
+
+
+
+Strategies to Consider
+To engage line management and create a culture that values good
+financial management, heads of agencies and senior executives
+could:
+
+
+•
+Identify key financial and nonfinancial managers and
+staff whose support is critical to the success of financial
+management improvement initiatives.
+
+
+
+•
+Develop curriculum and provide training that teaches key
+nonfinancial managers and staff
+
+
+
+•
+how to use financial information to improve operational
+planning and decisionmaking and
+
+
+•
+how reform legislation (e.g. CFO Act, GMRA, FFMIA, GPRA)
+will affect operating unit roles, responsibilities, and processes
+within the context of specific agency operations.
+
+
+
+
+•
+For all key managers and staff, develop curriculum and
+provide training that provides a framework and tools that can be
+used to facilitate and accelerate the pace of change
+initiatives.
+
+
+18
+
+
+
+Redefine the Role of Finance To Better Support Mission
+Objectives
+In the private sector, the role of the finance organization
+historically has centered on oversight and control, focusing on its
+fiduciary responsibilities and external financial reporting
+requirements. However, over the past decade dramatic changes in the
+business environment have forced finance organizations to
+reevaluate this role. The pressure to reduce administrative costs
+resulting from competition in an emerging global market drove many
+finance organizations to find more efficient ways to deliver their
+services. Nonetheless, becoming more efficient is not enough to
+remain competitive. Today, leading finance organizations are
+focusing more on internal customer requirements by providing
+products and services that directly support strategic
+decisionmaking and ultimately improve overall business
+performance.
+Similarly, competition has changed the environment in which
+federal agencies operate. Shrinking budgets have increased
+competition for scarce resources, requiring managers to make tough
+resource allocation decisions that may affect program delivery.
+Without the support of federal finance organizations, program
+managers may not be able to determine or defend the cost associated
+with or benefits derived from government activities. We found the
+leading finance organizations we visited had redefined the role of
+finance to better support mission objectives by assessing the
+finance organization's current role in meeting mission objectives,
+maximizing the efficiency of daytoday accounting activities, and
+organizing finance to add value.
+
+Practice 4
+
+Assess the Finance Organization's Current Role in Meeting
+Mission Objectives
+Key characteristics
+
+
+•
+The percentage of resources spent on strategic support
+activities is used as an indicator of how well finance is
+supporting mission objectives.
+
+
+•
+Benchmarking and customer feedback is used to identify
+performance gaps and best practices.
+
+
+Many leading finance organizations assess their current role in
+supporting mission objectives by comparing the percentage of staff
+time spent on strategic support activities, such as business
+performance analysis or cost analysis, with the percentage of
+resources spent on transaction processing and other routine
+accounting activities. According to a 1995 Financial Executives
+Research Foundation report,5 transaction processing and other
+routine accounting activities, such as accounts payable, payroll,
+and external reporting, consume about 69 percent of costs within
+finance. Other studies indicate that these activities consume as
+much as 80 percent of finance's resources. While transaction
+processing will always exist, it does not have to drain the finance
+organization's resources. Therefore, many leading finance
+organizations have calculated and compared these percentages as a
+general indication of how well they supported the organization's
+business objectives. A goal for many leading organizations is to
+reduce the time spent on transaction processing activities to 20
+percent.
+To further assess the efficiency and effectiveness of specific
+products and services, many of the leading finance organizations we
+studied relied on benchmarking6 and customer feedback. For example,
+comparisons against worldclass benchmarks, such as closing the
+books in less than 4 days or processing payroll at $1.39 per
+transaction, were used to identify activities or processes in need
+of improvement. (See appendix III: Worldclass Performance Metrics.)
+In addition, these organizations used feedback from their internal
+customers to gather specific information related to quality and
+customer expectations. For example, HewlettPackard's finance
+organization conducted a detailed survey of about 200 internal
+customers worldwide in which customers were asked to rank certain
+components, or services, as either high or low in terms of both
+importance and satisfaction. The survey results were then used to
+guide improvement initiatives.
+5
+Reengineering the Finance Function, Financial Executives
+Research Foundation, Executive Report, Vol. 2, No. 3 (June
+1995).
+6
+Benchmarking is the continuous process of measuring products,
+services, and practices against the toughest competitors or those
+organizations recognized as industry leaders.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+20
+Goals, Practices, and Strategies to Consider ♦ Redefine the Role
+of Finance to Better Support Mission Objectives ♦ Practice 4
+
+
+Case Study
+Assessing and revising the organization's charter, processes,
+products, and services enables finance to better support business
+objectives
+The role of Pfizer's finance organization has changed
+significantly over the past several years, from an organization
+focused primarily on control and compliance, to one that is
+integral to making strategic business decisions. About 6 years ago,
+under the leadership of Pfizer's CEO and CFO, Pfizer's corporate
+finance organization embarked on a reengineering initiative to
+transform its charter, processes, products, and services. The CEO
+and CFO's vision was to make Pfizer " the preeminent corporate
+finance organization in the industry." At the heart of this vision
+was the concept that the finance organization should actively
+support the strategic imperatives of Pfizer Inc.
+Unlike many finance organizations going through this type of
+transformation, Pfizer's change effort was not in reaction to a
+crisis. In fact, given the company's long history of profitable
+growth, there seemed to be little reason to change. Pfizer's CFO,
+on the other hand, saw an opportunity to do things more effectively
+and efficiently and thereby redeploy resources from transactional
+activities (e.g., closing the books, preparing tax returns, paying
+invoices) to value added activities (e.g., operations, treasury and
+tax planning). The finance organization, for example, was producing
+too much data and not enough information. To build a case for
+change, Pfizer's CFO initiated a benchmarking survey to determine
+exactly how his organization stacked up against the other leading
+finance organizations. The results dramatized the magnitude of the
+opportunity.
+For example, Pfizer took 7 days to close its books versus the 3
+to 4 day worldclass standard. Further, it cost Pfizer twice as much
+as the benchmark average to pay an invoice. This sobering news
+served a vital purposeit created a sense of urgency surrounding the
+need to change and helped the CFO rally the organizational support
+needed to institute a comprehensive reengineering initiative
+To facilitate change within the finance organization, several
+crossfunctional process improvement teams were established. Through
+comprehensive revisions to its charter, processes, organization and
+systems, Pfizer has reduced the cost associated with transaction
+processing activities by up to 50 percent in certain functions and
+shifted its focus to activities that directly support Pfizer's
+business objectives.
+The shift in focus and resources has allowed Pfizer's finance
+organization to become a " growth enabler" on behalf of the company
+by:
+
+
+•
+supplying the necessary resources (from information to
+capital);
+
+
+
+•
+providing increased opportunities to invest (redeploy
+financial gains or savings on behalf of the business);
+
+• offering business solutions (" how," not " why not");
+and
+
+
+•
+assisting in making the right business
+decisions.
+
+
+
+
+Strategies to Consider
+To assess the finance organization's current role in meeting
+mission objectives, agency CFOs and senior finance executives
+could:
+
+
+•
+Identify all major functions performed by the finance
+organization (e.g., accounts payable, payroll, performance
+reporting, performance analysis) and group each function into
+meaningful categories (e.g., transaction processing, control and
+compliance, mission support).
+
+
+•
+Establish and monitor agency specific performance goals
+and measures that reflect the finance organization's role in
+meeting mission objectives (i.e., the percentage of time or
+resources devoted to mission support vs. transaction processing or
+control and compliance activities).
+
+
+•
+Benchmark financial management practices and processes
+with recognized industry leaders (e.g. the cost of finance as a
+percentage of total outlays, unit cost per accounting transaction)
+in order to measure performance and identify best
+practices.
+
+
+•
+To the extent that operating in a federal environment
+affects specific benchmarks, compare financial management practices
+and processes with other federal agencies to provide a context with
+which to interpret benchmarking results.
+
+
+•
+Periodically survey internal customers to obtain
+information related to the quality and value of the products and
+services they receive and use this information to guide improvement
+initiatives.
+
+
+22
+Practice 5
+
+
+Maximize the Efficiency of Daytoday Accounting Activities
+Key characteristics
+
+
+•
+Inefficient processes are eliminated or
+streamlined.
+
+
+•
+Transaction processing activities are consolidated,
+standardized, and reengineered at shared service
+centers.
+
+
+•
+The cost and benefits of outsourcing routine accounting
+activities are considered.
+
+
+As part of an overall strategy to reduce the cost of finance and
+better support business objectives, many leading organizations have
+reduced the number of staff required to perform routine transaction
+processing activities by eliminating or streamlining inefficient
+processes and/or consolidating these activities at shared services
+centers. Similarly, some federal agencies are aggressively
+expanding their use of Electronic Funds Transfer to include
+contract payments and travel payments as a means of increasing the
+efficiency of their routine accounting activities.
+Each of the six private sector finance organizations we visited
+consolidated, standardized, and reengineered routine processes,
+such as accounts payable, fixed asset accounting, and payroll at
+shared service centers. The primary objective for moving to shared
+services is to reduce operating costs. However, other benefits
+included better control and standardization of processes, more
+costeffective technology deployment, and an enhanced position for
+continual improvement and customer service.
+Although their approach varied depending on the size, culture,
+and industry, leading organizations have realized the benefits of
+shared services by completing each of the following stages. The
+first stage is consolidation and includes changing the
+organizational structure and gaining control over processes. The
+second stage is standardization and entails changing processes,
+adopting a common technology platform, and continuous improvement.
+The final stage is reengineering and involves changing workflow and
+leveraging technology through the use of electronic commerce, data
+warehousing, and document imaging.
+Similar to the findings in our previous report on outsourcing
+the finance function,7 we found that although outsourcing is
+considered an option for reducing costs and improving efficiency,
+none of the leading organizations we visited were currently
+outsourcing any significant aspect of their finance organizations.
+The primary reason for not outsourcing is due to the limited
+capacity of outsourcing vendors to perform larger, more complex
+finance and accounting operations. However, these organizations
+indicated that they are continually evaluating opportunities to
+reduce costs and improve quality; therefore, as the outsourcing
+market evolves and the capacity and quality of outsourcing vendors
+improves, outsourcing may become a more attractive alternative.
+7
+Financial Management: Outsourcing of Finance and Accounting
+Functions (GAO/AIMD/NSIAD9843).
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+
+
+Case Study
+Effectively implementing shared service centers can result in
+reduced operating costs and better customer support
+Over the past decade, hightech companies have seen their gross
+margins shrink smaller and smaller as a result of increased
+competition and the steady introduction of newer, faster, and more
+advanced technology. To remain competitive and ensure continued
+growth, Hewlett Packard formed a task force to find ways to reduce
+the cost of the finance organization. At the time, the cost of
+finance was
+2.8 percent of company revenues and accounting transaction costs
+were more than two to three times that of comparable companies. The
+task force recommended that Hewlett Packard consolidate its
+transaction processing activities such as accounts payable,
+accounts receivable, payroll, and fixed assets accounting from over
+100 decentralized centers into just 8 Financial Service Centers
+worldwide. As a result, the number of employees needed to process
+accounting transactions was reduced by more than halffrom about
+2,500 to only 1,200 employees worldwide.
+By implementing the Financial Service Centers, Hewlett Packard
+reduced the costs of its finance organization from 2.8 percent of
+revenues in 1989 to 1.4 percent in 1994 and to less than 1.0
+percent by 1998. The company's finance costs are now in the top
+quartile of comparable organizations.
+However, creating a shared service center was much more than
+simply centralizing activities and cashing in on economies of
+scale. To achieve these cost savings and provide innovative,
+costeffective shared business services, Hewlett Packard not only
+had to consolidate its activities, but it also had to reengineer
+its processes and change its organizational structure.
+At one Financial Service Center, processreengineering
+initiatives alone have resulted in cost savings of $36 million
+since 1990. Through the use of electronic data interchange,
+document imaging, and common software platforms, the center has
+maximized its use of human resources. Each month the center's 295
+employees process 165,000 invoices, 15,000 travel expense reports,
+44,000 checks, 77,000 payments, and 122,000 electronic
+transactions, reimbursements, and deposits. In addition, the center
+performs general ledger and fixed asset accounting and responds to
+customer inquiries. As part of its overall effort to reduce
+infrastructure costs, the center also redesigned its organizational
+structure using a selfdirected, teambased approach. Each of the
+fourto eightperson teams is responsible for a number of tasks, such
+as timecards, overtime, and discretionary budget management. The
+benefits of a team concept include ownership of customer problems,
+higher morale, and increased creativity/problem solving.
+24
+
+
+Strategies to Consider
+To maximize the efficiency of daytoday accounting activities,
+senior executives could:
+Identify highvolume processes or transactions that do not
+directly support the agency's mission (lowvalue, lowrisk) and
+evaluate opportunities for
+
+
+•
+consolidating, standardizing, and reengineering
+transaction processing and other routine accounting activities at a
+shared service center, initially by department and then across
+departments;
+
+
+•
+eliminating, streamlining, or reengineering costly,
+inefficient transaction processing and routine accounting
+activities, or
+
+
+• outsourcing transaction processing and routine accounting
+activities.
+
+Key characteristics
+Organize Finance to Add Value • The finance organization's
+mission supports the entity's business objectives.
+• The organizational structure and human capital strategies
+support strategic business unit needs as well as traditional
+controllership and transaction processing needs.
+According to a recent survey of federal CFOs,8 the federal
+finance organization of the future will have fewer people, with a
+greater percentage of analysts than clerks. Currently, however,
+most functions within finance organizations are focused primarily
+on (1) establishing and administering policy,
+(2) tracking, monitoring, and reconciling account balances, or
+(3) ensuring compliance with laws and regulations. While they
+recognize the need for change, according to the CFOs surveyed, many
+questions remain unanswered regarding how best to scope, define,
+and organize finance office responsibilities.
+When it comes to organizational design, we found that leading
+finance organizations often had the same or similar core functions
+(i.e., budgeting, treasury management, general accounting,
+payroll). However, the way these functions were organized varied
+depending on individual entity needs. In practice 5 of this guide,
+we discussed how leading organizations reduced the number of
+resources required to perform financial management activities by
+(1) consolidating activities at a shared service center and (2)
+eliminating or streamlining duplicative or inefficient processes.
+Their goal was not only to reduce the cost of finance but also to
+organize finance to add value by reallocating finance resources to
+more productive strategic support activities.
+To accomplish this, leading finance organizations have realigned
+their mission and organizational structure to better support the
+entity's business objectives. Specifically, many leading
+organizations have (1) organized around core business processes to
+simplify work and flatten hierarchies,
+(2) consolidated certain transaction processing activities to
+gain economies of scale, and (3) moved functions, such as cost
+accounting and financial analysis, to the business units to support
+business units' strategic planning and decisionmaking needs. In
+addition, these organizations have created a coherent human capital
+strategythat is, a framework of human capital policies, programs,
+and practices specifically designed to steer the organization
+toward its shared visionand integrated this strategy with the
+organization's overall strategic planning. (See practices 10 and 11
+for information on attracting, retaining, and developing financial
+professionals.)
+8
+CFO Survey: Preparing for Tomorrow's Way of Doing Business,
+Grant Thornton LLP and the Association of Government Accountants
+(Alexandria, Virginia: March 1998).
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+26
+Goals, Practices, and Strategies to Consider ♦ Redefine the Role
+of Finance to Better Support Mission Objectives ♦ Practice 5
+
+
+
+Strategies to Consider
+To organize finance to add value, senior executives could:
+
+
+•
+Define the finance organization's mission, vision for the
+future, core values, goals, and strategies to support the agency's
+overall mission objectives.
+
+
+•
+Develop an explicit workforce planning strategy that is
+linked to the agency's strategic and program planning efforts to
+ensure that financial managers and staff with skills for analyzing
+and interpreting financial data will support the agency's strategic
+planning and decisionmaking needs at both the field and
+headquarters level. (See practices 10 & 11 for information on
+attracting, retaining, and developing financial
+professionals).
+
+
+28
+
+
+
+Provide Meaningful Information to Decisionmakers
+Financial information is meaningful when it is useful, relevant,
+timely, and reliable. However, many federal agencies lack the
+systems and processes required to produce meaningful financial
+information needed for management decisionmaking. For example, many
+agency financial and management information systems do not
+routinely provide adequate, timely cost or performance information
+needed to manage cost, measure performance, make program funding
+decisions, and analyze outsourcing or privatization options.
+Similarly, many private sector and state organizations have
+struggled to overcome some of the same management information
+issues that now face federal agencies.
+Over the past decade, global competition and advances in
+information technology have changed information requirements and
+users' expectations regarding the availability and usefulness of
+financial information. Financial information that, in the past, was
+considered adequate for decisionmaking is now considered
+overaggregated and too late to be useful. The leading finance
+organizations we visited enhanced their capabilities for providing
+meaningful information to decisionmakers by developing management
+information systems that support the partnership between finance
+and operations, reengineering processes in conjunction with
+implementing new technology, and translating financial data into
+meaningful information.
+
+Practice 7
+
+Develop Systems That Support the Partnership Between Finance
+and Operations
+Key characteristics
+
+
+•
+The general ledger system is integrated into business
+processes and is adequate for financial reporting and
+control.
+
+
+•
+Automated system(s) are designed and deployed that (1)
+accurately measure the costs of activities, processes, products,
+and services and (2) provide line managers with timely, accurate
+financial and nonfinancial information on the quality and
+efficiency of business processes and performance
+
+
+•
+An enterprisewide system integrates operating, financial,
+and management information and allows decisionmakers to access
+relevant information easily and perform adhoc data
+analysis.
+
+
+As federal agencies develop plans for acquiring and installing
+financial systems, the ClingerCohen Act of 1996 and related
+executive branch guidance will provide a framework for designing
+and deploying information technology. The ClingerCohen Act requires
+agencies to better link their information technology planning and
+investment decisions to program missions and goals. If implemented
+effectively, this legislation will provide a foundation that will
+help federal agencies improve the interoperability of financial,
+operating, and management systems.
+The leading finance organizations we visited have long had
+general ledger systems capable of generating auditable financial
+statements efficiently and routinely, thereby providing information
+on stewardship and accountability at a high level. Further, they
+historically have had adequate systems for measuring and managing
+cost and performance. However, over the last decade new technology
+has made it possible for these organizations to integrate these
+systems and provide more relevant, accessible information that
+meets the changing needs of decisionmakers. Many leading
+organizations have already implemented, or are in the process of
+implementing an enterprisewide system to integrate financial and
+operating data to support both management decisionmaking and
+external reporting requirements. Some abandoned their legacy
+systems all together and turned to stateoftheart integrated
+architectures, while others used wellfunctioning legacy systems and
+tied them together with a data warehouse. Regardless of the
+approach, these systems provided financial analysts, accountants,
+and business unit managers access to the same cost, performance,
+and profitability information.
+Similarly, the CFO Council, JFMIP, OMB, Treasury, and individual
+agencies are working to improve the integration of budget,
+accounting, and program information and systems. To support this
+process, a Program Management Office was recently established to
+develop financial systems requirements, address system integration
+issues, and generally facilitate the system selection and
+procurement process. This and other measures are important to
+ensure that federal systems provide meaningful information for
+managing and measuring cost and performance as well as preparing
+external financial reports.
+30
+
+
+
+Strategies to Consider
+To develop systems that support the partnership between finance
+and operations senior executives could:
+
+
+•
+Acquire and install a general ledger system adequate for
+external financial reporting purposes.
+
+
+•
+Develop managerially relevant cost information systems
+and strategic performance management systems that access data from
+financial transaction systems and relevant operating
+systems.
+
+
+•
+Integrate the agency's financial (including budgetary),
+operating, and management systems and equip decisionmakers with the
+tools to easily access relevant information and perform adhoc
+analyses.
+
+
+
+•
+Ensure that financial systems comply with federal
+financial management systems requirements, federal accounting
+standards, and the U.S. Government Standard General Ledger
+by
+
+
+
+•
+establishing the goal of using a single general ledger
+chart of accounts (the U.S. Government Standard General Ledger)
+and
+
+
+•
+developing an interim approach to convert general ledger
+accounts not consistent with the U.S. Government Standard General
+Ledger. This approach should use automated crosswalks performed by
+those business segments responsible for the data.
+
+
+
+
+32
+Practice 8
+
+
+Reengineer Processes in Conjunction With Implementing New
+Technology
+Key characteristics
+
+
+•
+Commercial offtheshelf software packages implemented with
+limited modification.
+
+
+•
+Processes and controls adapted to fit commercial
+offtheshelf software.
+
+
+•
+Processes are reengineered across functional
+lines.
+
+
+At many of the leading finance organizations we visited, the
+vast majority of financial applications were commercial offtheshelf
+(COTS) packages that were implemented with limited modification to
+the basic application package itself. The advantages of using COTS
+software include (1) COTS software is less costly than developing
+inhouse applications, (2) software upgrades are affordable and are
+regularly available, and (3) COTS software is designed to include
+best practices.
+The key to successfully implementing COTS systems and best
+practice processes, according to leading finance organizations, is
+reengineering business processes to fit the new software
+applications. In fact, productivity gains typically result from
+more efficient processes, not from simply automating old ones.
+Effectively reengineering business processes, however, requires
+moving from a functionalbased organization to a processbased
+organization. For example, the procurement process in a
+processbased federal organization would start when a solicitation
+is issued, continue through contract award and signature, as well
+as the issuance of purchase/work orders and receipt of goods, and
+end when the vendor properly received payment. The business
+processes would be designed to maximize the efficiency and accuracy
+of the entire process.
+The ClingerCohen Act contains provisions requiring federal
+agencies to modernize inefficient administrative and missionrelated
+work processes before making significant technology investments to
+support them. As a result, federal agencies are beginning to
+consider the merits of information technology approaches that
+involve reengineering business processes in conjunction with
+implementing COTS software without significant modification.
+According to a report by the Financial Systems Committee of the CFO
+Council, most agencies favor an approach that uses COTS software
+for core financial systems and other financial management
+applications. However, agency efforts to use COTS products have
+been hampered by the government's failure to communicate
+requirements and functionality effectively to the vendors and a
+proclivity on the part of agencies to modify software to meet
+existing business processes and to replicate previous system
+functionality. To encourage the use of COTS, OMB and JFMIP are
+working to improve (1) the testing and certification of COTS
+systems, (2) existing procurement schedules, and (3) processes to
+obtain COTS systems.
+
+
+Case Study
+Reengineering core business processes across functional lines is
+the key to successful COTS implementation
+When implementing its new financial management system rather
+than fitting new technology to outofdate processes, Owens Corning
+redesigned its business processes to fit the new technology. The
+objective was to improve customer service and, at the same time,
+cut logistical costs related to various business processes. To
+achieve these objectives Owens Corning formed crossfunctional
+process improvement teams for each major business process to
+improve or replace longstanding and often ineffective business
+processes.
+During this effort, the improvement teams used many common
+reengineering tools, such as process mapping and process modeling.
+However, successfully reengineering its business processes had more
+to do with the parameters Owens Corning placed on its process
+improvement teams. For example, the teams were given compressed
+schedules for completing " as is" modeling to prevent overanalysis
+and to force decisions. Documenting current processes should be
+accomplished in a matter of a week or two. The bulk of time should
+be spent on defining user requirements and designing new processes.
+Another important aspect of Owens Corning process improvement
+effort was its use of a process reengineering management council.
+The council was made up of key process and business unit executives
+that acted as arbitrators when conflicts developed.
+By reengineering business processes in conjunction with
+implementing new technology, Owens Corning increased its ability to
+meet customer needs. In the past, for example, many of the
+company's computers were not linked, making it impossible for sales
+people to check on the availability of products or address problems
+on a customer invoice. Now, all activities that occur from the time
+a customer places an order to the time Owens Corning receives
+payment are part of the Customer Fulfillment Process. In addition,
+new technology has integrated functions related to the Customer
+Fulfillment Process, such as sales, ordering, production, shipping,
+billing, and accounts receivable, providing users with greater
+access to data. As a result, Owens Corning's salesforce not only
+has access to uptodate information, but more efficient processes
+allow sales staff to respond immediately to customer inquiries,
+instead of handing the problem off to another department.
+Other outcomes related to process improvement included (1)
+reducing the time it takes to close the books from 13 days to 5
+dayswith a target of 1 day, (2) reducing the chart of accounts from
+2,400 to 900, and (3) standardizing reporting, which allows
+comparisons to be made between operating divisions.
+34
+
+
+Strategies to Consider
+To reengineer processes that support new technology, senior
+executives could:
+
+
+•
+Form crossfunctional teams to (1) examine existing core
+business processes and (2) define user requirements.
+
+
+•
+Compare COTS products against the agency's requirements
+and identify the COTS packages that most closely match the agency's
+needs.
+
+
+•
+Reevaluate user requirements not supported by COTS
+software and determine, before customizing software, whether each
+requirement is still valid or whether alternatives exist that may
+be more costeffective.
+
+
+•
+Where software modifications are required, implement an
+effective configuration management system that includes (1) clearly
+defining and assessing the effects of modifications on future
+product upgrades before the modification is approved, (2) clearly
+documenting software products that are placed under configuration
+management, and (3) maintaining the integrity and traceability of
+the configuration throughout the system life cycle.
+
+
+•
+Implement a quality assurance process that ensures that
+project activities and software products adhere to management's
+established plans, standards, and procedures. This includes
+ensuring that the configuration management process is effectively
+implemented and that product changes are clearly documented and
+tested before being placed into production.
+
+
+•
+Implement an effective risk management strategy to ensure
+that project risks, such as customization and vendor's ability to
+deliver a given system, are adequately identified and effective
+mitigation strategies are implemented.
+
+
+
+Key characteristics
+Translate Financial Data • Reports are designed around key
+drivers into Meaningful Information such as markets, products, and
+customers.
+• Relevant financial information is presented in an
+understandable, simple format with suitable amounts of detail and
+explanation.
+While new technology has made financial data more available,
+without the ability to translate that data into relevant,
+understandable information, decisionmakers are left powerless.
+Traditionally, finance organizations have used voluminous paper
+reports, based primarily on the prior month's activity, to
+communicate financial information. Further, management reports were
+often designed around current organizational structures.
+Consequently, as organizational structures changed over time, many
+management reports became irrelevant.
+Today, leading finance organizations have eliminated, reduced,
+and/or redesigned much of their old management reporting formats to
+better meet the needs of the user. These organizations have
+designed new reporting formats around key business drivers rather
+than organizational structures to provide executives and managers
+with relevant, forwardlooking information on business unit
+performance. During this process, one company we visited actually
+stopped distributing selected management reports to determine
+whether anyone would miss them. They used the subsequent lack of
+reaction as an indicator that the information in the report was no
+longer relevant.
+Further, standardized reports are designed to present
+information that is analyzed to bring out pertinent and fundamental
+points with suitable amounts of detail and explanation. For
+example, Owens Corning's executives and managers access a
+standardized monthly financial report via the company's internal
+area network. The report's executive summary is 10 pages long and
+contains executivelevel reporting, forecasting, and budgeting
+information. However, multiple levels of detail are available, and
+decisionmakers can drill down to the desired level of detail.
+Similarly, efforts are currently underway across government to
+develop a meaningful, userfriendly accountability report on
+individual departments and agencies. These reports consolidate and
+integrate audited financial statements and reporting under the
+Results Act and other related laws to (1) show the degree to which
+an agency met its goals and at what cost and (2) aid the reader in
+determining whether the agency was well run.
+36
+
+
+
+Strategies to Consider
+To improve management reporting of financial information, senior
+finance executives, as part of the top management team, could:
+
+
+•
+Meet with key policymakers and managers on an ongoing
+
+basis to define key business drivers and determine what key
+business information is needed for management and oversight of the
+agency's mission and objectives.
+
+
+•
+Determine what information is needed by program
+executives and managers to meet and support key business
+information requirements.
+
+
+•
+Present various reporting format and content options to
+executives, managers, and Congressional Committees.
+
+
+38
+
+
+
+Build a Finance Team That Delivers Results
+As the finance function has evolved over the past decade, from a
+paperdriven, labor intensive, clerical role to a more consultative
+role as advisor, analyst, and business partner, many leading
+finance organizations have seen a corresponding shift in the mix of
+skills and competencies required to perform this new role. To
+respond to these changing business needs, the leading organizations
+we visited developed finance teams with the right mix of skills and
+competencies and built finance organizations that attract and
+retain talent as part of an overall strategic approach to human
+capital planning.
+Similarly, the CFO Act, GMRA, and GPRA have placed new demands
+on federal finance organizations. Accordingly, federal agencies
+need to reassess their human capital practices to ensure that
+federal financial professionals are equipped to meet these new
+challenges and support their agencies' mission and goals. This
+executive guide, along with our 1998 report on the training and
+qualifications of key financial management personnel and our 1999
+human capital selfassessment checklist,9 can provide a framework to
+strengthen the qualifications, skills, and competencies of federal
+financial management personnel.10
+Vision: To be a ValueCreating, CustomerFocused Partner in
+Business Results
+
+9
+Human Capital: A SelfAssessment Checklist for Agency Leaders
+(GAO/GGD99179, September 1999).
+10
+Financial Management: Profile of Financial Personnel in Large
+Private Sector Corporations and State Governments (GAO/AIMD9834,
+January 1998).
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management 39
+Practice 10
+
+Develop a Finance Team with the Right Mix of Skills and
+Competencies
+Key characteristics
+
+
+•
+A defined set of technical, management, and leadership
+skills and competencies is developed as part of the entity's
+overall approach to strategic humancapital planning and is used as
+a foundation for all humancapital management activities and
+decisions.
+
+
+•
+Training and career development programs use both
+classroom instruction and rotational assignments.
+
+
+•
+Opportunities to "learn the business" are
+provided.
+
+
+At leading finance organizations, developing a finance team with
+the right mix of skills and competencies starts by defining a set
+of skills and competencies that will enable the finance team to
+meet the current and future technical, management, and leadership
+needs of the business. The resulting competency profile is used to
+assess gaps in individual or group competency levels and develop
+human capital strategies to address current or expected future
+deficiencies. In this practice we discuss the training, career
+development, and successionplanning strategies leading finance
+organizations use to develop a team with the right mix of skills
+and competencies.
+The training and career development programs of the leading
+finance organizations we visited provided intensive 2to 3year entry
+level programs as well as midcareer and executivelevel programs
+that used both classroom instruction and rotational assignments to
+develop technical, management, and leadership skills and
+competencies. The programs' course work focuses initially on the
+tools and techniques of advanced accounting and finance as well as
+general business skills. Then, the focus shifts to the strategic
+application of these tools within businessspecific environments.
+However, the key to implementing a successful career development
+program is to complement course work with reallife business
+experience through the use of planned rotational assignments. The
+leading finance organizations we visited provided opportunities for
+staff to rotate through various positions throughout the finance
+organization as well as the operating divisions. Such opportunities
+are critical not only in developing employees that understand the
+whole business and, in turn, provide greater value to their
+customers in the operating divisions but also as a way of ensuring
+that an adequate supply of wellprepared financial professionals is
+available to fill key positions.
+Similarly, federal finance organizations are recognizing the
+need to provide a broad range of experience to its financial
+professionals. For example, as a way to develop a cadre of
+experienced and diverse leaders, the CFO Council Fellows Program
+was initiated in April of 1998 with the selection of nine fellows
+to serve 1year appointments at host organizations.
+40
+
+
+
+Strategies to Consider
+To develop a team with the right mix of skills and competencies,
+senior executives could:
+
+
+
+•
+As a part of an agencywide strategic approach to human
+capital planning
+
+
+
+(1)
+determine the leadership, management, and
+functional/technical competencies required for the finance
+organization to support agency missions, goals, and objectives, (2)
+evaluate the finance organization's current and future human
+capital capabilities, (3) identify skill gaps, (4) develop human
+capital policies and practices that will allow agencies to fill the
+identified skill gaps, and
+
+
+(5)
+evaluate these efforts and use performance data to
+continually update human capital strategies.
+
+
+• As a first step, assess the finance organization's human
+capital policies, programs and practices to determine whether they
+support the organization's mission and vision for the future. (See
+GAO's human capital selfassessment checklist.11)
+
+
+
+•
+Using both classroom training, planned staff rotations,
+and interagency assignments, design a career development program
+geared toward
+
+
+
+•
+improving leadership, management, and traditional
+financial management competencies, including the analytical skills
+needed to support program decisionmaking;
+
+
+•
+understanding how reform legislation (e.g., CFO Act,
+GMRA, FFMIA, GPRA) will affect the finance organization's roles,
+responsibilities, and processes within the context of specific
+agency operations; and
+
+
+•
+understanding overall agency operations, including
+program implications of financial decisions.
+
+
+
+
+•
+Establish continuing professional education requirements
+for financial managers similar to those required for
+auditors.
+
+
+11
+Human Capital: A Self Assessment Checklist for Agency Leaders
+(GAO/GGD99179, September 1999).
+42
+Practice 11
+
+
+Build a Finance Organization that Attracts and Retains
+Talent
+Key characteristics
+
+
+•
+Top financial leadership participates in the recruitment
+of new talent.
+
+
+•
+A variety of clear career path opportunities are offered
+and staff development programs are used as a means of exposing
+staff to different career opportunities.
+
+
+•
+Competitive compensation and benefits packages are
+available.
+
+
+As discussed in practice 10, sound training and career
+development strategies are needed for the finance organization to
+meet the current and future human capital needs of the business.
+Equally important, however, are recruitment, retention, and reward
+strategies that enable the finance organization to attract and
+retain talented financial professionals at all levels. Although
+their styles and strategies varied, the leading organizations we
+visited agreed that several key factors were important in
+attracting and retaining talent.
+First, recruiting a talented workforce requires the commitment
+of top leadership. The CFOs at these organizations are often
+heavily involved talent assessment and senior executive leaders are
+actively involved in oncampus recruiting. This sends a powerful
+message to potential new recruits that the position is important
+enough to the organization that it warrants senior executive
+attention.
+Second, attracting and ultimately keeping a highly qualified and
+motivated workforce involves providing meaningful career
+opportunities, such as the opportunity to
+(1) participate in exciting groundbreaking projects, (2) build a
+portfolio of new skills, and (3) choose a variety of career paths.
+These organizations often used their staff development programs to
+provide these opportunities. For example, as discussed in practice
+10, career development programs often include rotational
+assignments and not only provide excellent growth opportunities but
+also expose staff to a variety of career path opportunities.
+Third, compensation is a key factor in any career decision.
+While, according to employee compensation surveys, compensation is
+fairly comparable between the private and public sectors for entry
+level and middle management positions, executive compensation in
+the private sector far exceeds that of federal executives, thereby
+limiting federal agencies' ability to attract and retain federal
+executives. (See appendix IV for compensation survey results.)
+However, other factors such as the desire to effect change and make
+a difference may attract senior executives to public service. In
+addition, opportunities may exist that will enhance agencies'
+ability to attract and retain talent at all levels. For example,
+the revolutionary changes that are taking place as a result of the
+CFO and Results Acts provide an ideal occasion to revamp the
+opportunities available to federal financial professionals and to
+market the possibilities offered by a career in federal financial
+management.
+
+
+
+Strategies to Consider
+To build an organization that attracts and retains talent, the
+CFO and senior executives could:
+
+
+•
+Actively work with colleges and universities to (1)
+market the opportunities available for financial professionals and
+(2) include a federal accounting and financial management
+curriculum that will not only prepare students for careers in
+federal accounting but will also help promote federal career
+possibilities.
+
+
+•
+Continue to work with the Office of Personnel Management
+to provide more flexible career paths that provide opportunities
+for movement throughout the finance organization and agency program
+offices.
+
+
+•
+Utilize staff development programs and planned staff
+rotations to expose financial managers and staff to a variety of
+career paths.
+
+
+
+
+
+Appendix I
+
+Research Objectives, Scope, and Methodology
+The objectives of our research were to (1) define and describe
+the characteristics of a worldclass finance organization, (2)
+identify the factors that are essential for finance organizations
+to improve their financial management and move towards worldclass
+standards, and (3) provide case studies which illustrate the
+efforts of leading finance organizations from private sector
+companies and state governments to improve their financial
+management and the overall performance of their organizations.
+We formed an advisory group to assist with job design, our
+overall scope and methodology, and case study selection as well as
+to critique our research findings and comment on our draft report.
+The group consisted of private sector executives, state and local
+comptrollers, academicians, and other experts and consultants
+outside the federal government. (Key contacts and project advisors
+are listed in appendix VII.) We also consulted with members of
+various CFO Council committees and representatives from OMB and
+Treasury.
+To meet our research objectives, we performed an extensive
+literature search on the subject of financial management best
+practices using commercial best practice databases, the Internet,
+prior GAO reports, trade journals and magazines, federal
+guidelines, private sector studies, and other resources. We
+synthesized and analyzed the numerous documents acquired from our
+literature search and case study organizations to determine the
+objectives essential for organizations to improve their financial
+management. Based on consultations with our advisory group and our
+case study entities, we consolidated and refined the factors to
+those presented in this guide.
+We selected six private sector companies and three state
+governments to serve as our case studies. We selected the private
+sector companies based on (1) recognition for outstanding financial
+management practices and/or successful financial reengineering
+efforts, (2) size and complexity comparable to federal government
+agencies, and (3) discussions with members of our advisory group.
+We selected the state governments based on (1) the 1995 "The State
+of the States" report issued by Financial World magazine and (2)
+discussions with members of our advisory group and the CFO Council.
+We interviewed various officials, including chief financial
+officers, chief information officers, business unit executives,
+state executive and legislative branch officials, treasurers,
+controllers, internal auditors, agency administrators, and human
+resource specialists. We also reviewed various company documents,
+including vision statements, strategic plans, core competencies for
+finance personnel, training and development guides, key financial
+reports, performance metrics, and other documents related to
+reengineering efforts of the finance organization.
+We asked officials at the private sector companies and state
+governments profiled in the case studies to verify the accuracy of
+the information presented on their respective organizations and
+incorporated their comments as appropriate; however, we did not
+independently verify the accuracy of that information. In addition,
+we provided a draft of this entire guide to OMB, members of the CFO
+Council, and our advisory group for their review and comment.
+46
+
+
+
+Appendix II
+Supplemental Case Study Information The Boeing Company's
+Personal Planning Guide for Developing Business Competence
+(excerpt) Performance Expectation: Include business process and
+financial information in decisionmaking
+Key elements Supporting actions Rating Importance/Personal*
+Use appropriate facts • Locate sources of company information ��
+and data from company • Operate selected information systems ��
+information systems to • Select appropriate data and information ��
+support accomplishment • Make decisions based on analysis of data
+�� of business plans • Manage information resources to ensure ready
+access to information ��
+Make informed • Apply company integrity, values, and ethics ��
+decisions • Identify key components of decisions ��
+
+
+•
+Collect pertinent data ��
+
+
+•
+Analyze alternatives ��
+
+
+•
+Use selection criteria ��
+
+
+
+•
+Apply wisdom, judgement, and experience ��
+
+
+•
+Take action ��
+
+
+Create business • Lead the estimating and budgeting process ��
+forecasts • Develop schedules ��
+• Apply target costing (should cost) ��
+Apply total cost • Monitor budgets, costs, and schedules ��
+management principles • Apply variance analysis ��
+
+
+•
+Reallocate resources to meet objectives ��
+
+
+•
+Predict management estimate at completion ��
+
+
+•
+Use earned value ��
+
+
+Recognize cost • Apply unit cost practices �� structure
+(elements of • Apply process cost practices �� product cost) •
+Identify cost elements ��
+
+
+•
+Use life cycle costing to identify present and future
+costs ��
+
+
+•
+Identify components of rates ��
+
+
+
+Note 1: Importance Rating of the supporting action to your
+specific assignment (H = high, M = medium, L = low.) Note 2:
+Personal Rating of your level of competence for the supporting
+action. Use a scale of 1 to 5 (1 = weak, 5 = strong.)
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+
+
+Appendix III
+
+Worldclass Finance Performance Metrics
+Table 1: Comparison of Performance MetricsAverage vs. Worldclass
+Companies
+Performance metric Average Worldclass
+Cost as % of revenue 1.4% 0.97%
+A/P productivity per FTE 12,500 15,900
+Processing locations >3 1
+Systems per process 23 1
+Budget cycle 95 days 60 days
+Closingcycle 58days <4days
+Source: The Hackett Group.
+Table 2: Comparison of Labor Costs per TransactionAverage vs.
+Worldclass Companies
+Process Measure Average Worldclass
+Payables Invoice $3.55 $1.98
+Receivables Remittance $0.36 $0.14
+Travel & expense Expense report $6.05 $3.96
+Payroll Paycheck $1.91 $1.39
+Source: The Hackett Group.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+48
+
+
+
+Appendix IV
+
+Comparison of Selected Federal Agencies & Case Study
+Entities
+Table 1: Total Revenues/Outlays at Case Study Entities and
+Federal Agencies for 1998
+
+Agency/company Total revenues/outlays (in millions)
+Social Security Administration $393,311
+Department of the Treasury 379,345
+Department of Health and Human Services 339,535
+Department of Defense 288,604
+General Electric Company 100,469
+
+
+Boeing Company 56,154
+Department of Agriculture 52,547
+
+
+Hewlett Packard Company 47,061
+Office of Personnel Management 45,404
+
+
+State of Texas 43,816
+Department of Transportation 39,832
+Department of Veteran Affairs 39,280
+
+
+Commonwealth of Massachusetts 31,249
+Department of Labor 30,458
+Department of Education 30,009
+Department of Housing and Urban Development 27,527
+Commonwealth of Virginia 19,245
+
+
+Chase Manhattan Corporation 18,656
+Department of Energy 14,467
+Pfizer Inc 13,544
+
+
+Owens Corning 5,009
+Department of Commerce 3,783
+Federal Emergency Management Agency 3,326
+National Science Foundation 3,130
+
+Source: 1998 company annual reports, 1998 state comprehensive
+annual financial reports, Budget of the United States Government,
+Fiscal Year 1999.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+
+Source: 1997 company annual reports, 1997 state comprehensive
+annual financial reports, 1997 U.S. Office of Personnel
+Management.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management Appendix IV ♦ Comparison of Federal
+Agencies and Case Study Entities
+Table 3: Comparison of Revenues/Outlays In Millions with CFO
+Compensation (Salary and Bonus) at Selected Case Study Entities for
+1997
+Company Revenues/outlays CFO Bonus Total salary
+General Electric Company $100,469,000 $1,100,000 $2,000,000
+$3,100,000
+Federal Agency $72,568,000 $151,800 $151,800 (average) (max.)
+(max.)
+Boeing Company $56,154,000 $392,261 $137,700 $529,961
+Hewlett Packard Company $47,061,000 $997,625 $147,804
+$1,145,429
+Chase Manhattan Corporation $18,656,000 $628,846 $1,168,750
+$1,797,596
+Pfizer Inc $13,544,000 Not available
+Owens Corning $5,009,000 $371,875 $795,000 $1,166,875
+Source: 1998 company annual reports; Budget of the United States
+Government, Fiscal Year 1999; 1999 company proxy statements; 1998
+Senior Executive Service pay schedule.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management Appendix IV ♦ Comparison of Federal
+Agencies and Case Study Entities
+
+
+
+
+Appendix V
+
+Related Resources, Information Links, and Tools
+
+
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+52
+Accounting and Financial Management
+
+International Federation of Accountants- www.ifac.org
+IFAC is an organization of national professional accountancy
+organizations that represent accountants employed in public
+practice, business and industry, the public sector, and education
+as well as some specialized groups that interface frequently with
+the profession. This site provides access to publications and
+technical guidance related to accounting, auditing, financial
+management, and information technology.
+
+
+American Institute of Certified Public
+Accountants-www.aicpa.org
+This site provides online access to accounting publications like
+the Journal of Accountancy and the CPA Newsletter. In addition, "
+CPA Links" provides a gateway for online users who wish to visit
+other accountingrelated sites on the Internet.
+
+
+Association of Government Accountants-www.agacgfm.org
+AGA is an educational organization dedicated to the enhancement
+of public financial management. AGA serves the professional
+interests of financial managers from local, state, and federal
+governments as well as public accounting firms.
+
+
+Business Finance Magazine- www.businessfinancemag.com
+This site maintains links to academic resources, accounting
+organizations, accounting and auditing resources, accounting
+software, business and management resources, government resources,
+and other noncommercial web sites.
+
+
+FinanceNet- www.financenet.gov
+FinanceNet serves as a vehicle and catalyst for continual
+improvement and innovation, at all levels of government, by
+impacting financial management resources, practices, policies, and
+professional standards through the electronic sharing of best
+practices and dissemination of electronic information. This site
+provides links to other federal financial management related sites
+such as the Federal Accounting Standards Advisory Board, Joint
+Financial Management Improvement Program, CFO Council, and federal
+finance offices.
+
+
+Financial Accounting Standards Board- www.fasb.org
+The mission of the Financial Accounting Standards Board is to
+establish and improve standards of financial accounting and
+reporting for the guidance and education of the public, including
+issuers, auditors, and users of financial information.
+
+
+Governmental Accounting Standards Board- www.gasb.org
+GASB's mission is to establish and improve standards of state
+and local governmental accounting and financial reporting that will
+result in useful information for users of financial reports and
+guide and educate the public, issuers, auditors and users of
+reports.
+
+
+Institute of Management Accountants- www.imanet.org
+The IMA is a professional organization devoted to management
+accounting and financial management. This site provides for its
+members access to research databases, custom bibliographies, and
+fulltext articles related to accounting and financial
+management.
+
+
+Rutgers Accounting Web- www.rutgers.edu/Accounting/
+This site includes a database of accounting research and
+publications. Other accounting organizations on this site include:
+Association of Government Accountants, American Accounting
+Association, Institute of Internal Auditors, Inc., Institute of
+Management Accountants, Financial Accounting Standards BoardFASB,
+and Governmental Accounting Standards BoardGASB.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management Appendix V ♦ Related Resources,
+Information Links, and Tools
+
+
+Treasury Board of Canada Secretariat- www.tbssct.gc.ca
+This site highlights the reports and assessment guides
+associated with Canada's initiative to modernize its
+comptrollership function.
+Auditing
+
+
+AuditNet- www.auditnet.org
+This site provides information links, tools, and resources
+developed for the benefit of the audit profession, including audit
+programs, best practices, and research services.
+
+
+The Institute of Internal Auditors-www.theiia.org
+For IIA members who are internal auditing practitioners,
+executive management, boards of directors, or audit committees,
+this site provides standards, guidance, and information on internal
+auditing best practices.
+
+
+Internal Auditing World Wide Web-
+www.bitwise.net/iawww/index.html
+This site promotes the sharing information and knowledge
+pertaining to the internal auditing profession across associations,
+industries, and countries.
+Performance Management
+
+
+The Balance Scorecard Institute- www.balancedscorecard.org
+The Balanced Scorecard Institute is a web clearinghouse for
+managers to exchange information, ideas, and lessons learned in
+building strategic management systems using the balanced scorecard
+approach. This site provides guidance, information and tools to
+government and nonprofit managers as they attempt to design and
+implement measurementbased management in state, local, and federal
+government environments.
+
+
+Hackett Benchmarking & Research-
+www.answerthink.com/hackett/
+Hackett Benchmarking & Research maintains comprehensive,
+ongoing benchmarks of finance, human resources, information
+technology, planning/performance measurement, procurement, customer
+contact centers, and shared services centers.
+Information Technology
+
+
+The International Institute of Business Technologies, Inc.-
+www.iibt.org
+IIBT is a nonprofit educational and research institution for
+advancing the management of business technologies in the public and
+private sectors in order to improve performance.
+
+
+IT Governance Institute- www.itgovernance.org/itgi/
+This web site is designed enhance the vital link between IT and
+enterprise governance by offering information and resources for
+efficiently and effectively deploying secure, reliable information
+and applied technology, and providing best practice guidance on the
+management of ITrelated risks.
+Carnegie Mellon Software Engineering Institute-
+www.sei.cmu.edu
+The purpose of the Software Engineering Institute (SEI) is to
+improve the practice of software engineering.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management Appendix V ♦ Related Resources,
+Information Links, and Tools
+
+
+
+
+Appendix VI
+
+Bibliography
+Buckingham, Marcus and Coffman, Curt. First, Break all the
+Rules: What the World's Greatest Managers Do
+Differently, The Gallup Organization, 1999. Camp, Robert C.
+Benchmarking: The Search for Industry Best Practices That Lead to
+Superior Performance. ASQC Quality Press, 1989.
+Conference Board, The. " Benchmarking In the Finance Function: A
+Council Report," The Conference
+Board, 1994. Cooper, Robin and Kaplan, Robert S., Cost and
+Effect: Using Integrated Cost Systems to Drive Profitability and
+Performance, Harvard Business School Press, 1998.
+Davis, Henry A. and Militello, Frederick C. " The Empowered
+Organization: Redefining the Roles and
+Practices of Finance." Financial Executives Research Foundation,
+1994. Dunleavy, John, Hjelm, Elizabeth, Johansson, Henry, and
+Walther, Thomas. Reinventing the CFO: Moving From Financial
+Management to Strategic Management. Coopers & Lybrand,
+1997.
+Gates, Stephen. " The Changing Global Role of the Finance
+Function." The Conference Board, 1994.
+Heian, James B., Jablonsky, Stephen F., and Keating, Patrick J.
+" Business Advocate or Corporate Policeman? Assess Your Role as a
+Financial Executive." Financial Executives Research Foundation,
+1993. Hackett Group, The. " Reengineering the Finance Function."
+Financial Executives Research Foundation,
+1995. McLemore, Ivy. " The New And Improved Business Analyst."
+Controller Magazine, 1998.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+
+
+
+Appendix VII
+
+Leading Organization Contacts and Project Advisor
+Acknowledgements
+We would like to acknowledge the following private sector and
+government executives whose advice and assistance throughout this
+project has been invaluable.
+
+Key contacts at leading organizations
+Bruce H. Adams Senior Vice President, Global Services
+Administration The Chase Manhattan Bank
+David Devonshire Chief Financial Officer Ingersoll Rand
+Corporation (formerly with Owens Corning)
+Lynn L. Saylor General Electric DirectorCorporate Finance
+General Electric Company
+Boyd E. Givan (Retired) Chief Financial Officer The Boeing
+Company
+Richard L. Hoddeson Vice President, Operations Planning and
+Analysis Pfizer Inc
+Larry Lazicki Executive AssistantFiscal Mgmnt. Div. Comptroller
+of Public Accounts State of Texas
+William Landsidle Comptroller Commonwealth of Virginia
+William C. Steere, Jr. Chairman of the Board & Chief
+Executive Officer Pfizer Inc
+William Kilmartin Vice President American Management Systems,
+Inc. (formerly with the Commonwealth of Massachusetts)
+
+
+Project advisors
+Julia Carroll Chief Financial Officer Naperville, Illinois
+Thomas V. Fritz President & Chief Executive Officer Private
+Sector Council
+Edward J. Mazur Vice President Virginia State University
+John L. Puckett Assistant Vice President Information Technology
+www.toysmart.com
+Gerald R. Riso (deceased) Chief Executive Officer Riso &
+Riso
+Cornelius E. Tierney Professor of Accountancy George Washington
+University
+Patricia M. Wallington Vice President & Chief Information
+Officer Xerox Corporation
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+56
+
+
+
+
+Appendix VIII
+
+GAO Contacts and Staff Acknowledgements
+
+♦ Linda P. Garrison (404) 6791902 ♦ Diane G. Handley (404)
+6791986
+
+Acknowledgements
+In addition to those names above, Francine M. Delvecchio,
+Marshall L. Hamlett, and Elizabeth M. Mixon made key contributions
+to this report.
+GAO/AIMD00134 ♦ Executive Guide: Creating Value Through
+Worldclass Financial Management
+
+
+
+Ordering Information
+The first copy of each GAO report is free. Additional copies of
+reports are $2 each. A check or money order should be made out to
+the Superintendent of Documents. VISA and MasterCard credit cards
+are accepted, also.
+Orders for 100 or more copies to be mailed to a single address
+are discounted 25 percent.
+Orders by mail:
+U.S. General Accounting Office
+P.O. Box 37050 Washington, DC 20013
+Orders by visiting: Room 1100 700 4th St. NW (corner of 4th and
+G Sts. NW)
+U.S. General Accounting Office Washington, DC
+Orders by phone: (202) 512-6000 fax: (202) 512-6061 TDD (202)
+512-2537
+Each day, GAO issues a list of newly available reports and
+testimony. To receive facsimile copies of the daily list or any
+list from the past 30 days, please call (202) 512-6000 using a
+touchtone phone. A recorded menu will provide information on how to
+obtain these lists.
+Orders by Internet: For information on how to access GAO reports
+on the Internet, send an e-mail message with "info" in the body
+to:
+info@www.gao.gov
+or visit GAO's World Wide Web home page at:
+http://www.gao.gov
+Contact one:
+
+
+To Report Fraud,
+• Web site: http://www.gao.gov/fraudnet/fraudnet.htm
+
+
+Waste, or Abuse in
+
+• e-mail: fraudnet@gao.gov •
+1-800-424-5454 (automated answering system)
+
+
+
+
+
+
+

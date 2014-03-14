@@ -1,0 +1,142 @@
+ANDREW
+
+
+def pattern(word):
+    pattern = {}
+    result = ''
+    index = 0
+    for letter in word:
+        if not letter in pattern:
+            pattern[letter] = alphabet[index]
+            index = index + 1
+    for letter in word:
+        result = result + pattern[letter]
+    return result
+
+
+         14 function calls in 7.034 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    7.034    7.034 <string>:1(<module>)
+        5    6.970    1.394    6.970    1.394 ciphersolve.py:120(pattern)
+        1    0.063    0.063    7.033    7.033 ciphersolve.py:173(timing)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+        1    0.000    0.000    0.000    0.000 {range}
+
+
+ANDREW + CORY'S GENERATOR OPTIMIZATION
+
+
+def pattern(word):
+    pattern = {}
+    result = ''
+    index = 0
+    for letter in word:
+        if not letter in pattern:
+            pattern[letter] = alphabet[index]
+            index = index + 1
+    return "".join(pattern[letter] for letter in word)
+
+
+         22932424 function calls in 5.227 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    5.227    5.227 <string>:1(<module>)
+        5    0.866    0.173    5.165    1.033 ciphersolve.py:120(pattern)
+ 22932405    2.076    0.000    2.076    0.000 ciphersolve.py:131(<genexpr>)
+        1    0.062    0.062    5.227    5.227 ciphersolve.py:174(timing)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    2.223    0.445    4.299    0.860 {method 'join' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+        1    0.000    0.000    0.000    0.000 {range}
+
+
+CORY
+
+         22932419 function calls in 6.168 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    6.168    6.168 <string>:1(<module>)
+        5    4.493    0.899    6.052    1.210 ciphersolve.py:173(f)
+        1    0.115    0.115    6.168    6.168 ciphersolve.py:185(timing)
+ 22932400    1.422    0.000    1.422    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.138    0.028    0.138    0.028 {method 'join' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+        1    0.000    0.000    0.000    0.000 {range}
+
+
+MIKE
+
+         22932414 function calls in 19.576 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   19.576   19.576 <string>:1(<module>)
+        5   15.244    3.049   19.514    3.903 ciphersolve.py:173(f)
+        1    0.061    0.061   19.575   19.575 ciphersolve.py:185(timing)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+ 22932400    4.270    0.000    4.270    0.000 {method 'keys' of 'dict' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+        1    0.000    0.000    0.000    0.000 {range}
+
+
+JAMIE
+
+         149 function calls in 7.257 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    7.257    7.257 <string>:1(<module>)
+        5    7.194    1.439    7.194    1.439 ciphersolve.py:173(f)
+        1    0.062    0.062    7.257    7.257 ciphersolve.py:185(timing)
+      130    0.000    0.000    0.000    0.000 {chr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+        5    0.000    0.000    0.000    0.000 {ord}
+        1    0.000    0.000    0.000    0.000 {range}
+
+
+ERIC MCGINNIS
+
+         68797229 function calls in 18.753 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   18.753   18.753 <string>:1(<module>)
+        5   15.187    3.037   18.691    3.738 ciphersolve.py:173(f)
+        1    0.061    0.061   18.753   18.753 ciphersolve.py:189(timing)
+ 22932400    1.892    0.000    1.892    0.000 {chr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+ 45864805    1.612    0.000    1.612    0.000 {ord}
+        6    0.000    0.000    0.000    0.000 {range}
+
+
+ERIC LAU
+
+         45864819 function calls in 13.039 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   13.039   13.039 <string>:1(<module>)
+        5   10.139    2.028   12.925    2.585 ciphersolve.py:173(f)
+        1    0.114    0.114   13.039   13.039 ciphersolve.py:187(timing)
+ 22932400    1.851    0.000    1.851    0.000 {chr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.135    0.027    0.135    0.027 {method 'join' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 {open}
+ 22932400    0.800    0.000    0.800    0.000 {ord}
+        1    0.000    0.000    0.000    0.000 {range}

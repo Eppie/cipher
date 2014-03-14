@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-11-07" version="1.0.4" xmlns="http://www.xces.org/schema/2003">
+    <encodingDesc>
+        <tagsDecl>
+            <tagUsage gi="NounChunk" occurs="3038"/>
+            <tagUsage gi="VG" occurs="1506"/>
+            <tagUsage gi="body" occurs="1"/>
+            <tagUsage gi="cesDoc" occurs="1"/>
+            <tagUsage gi="div" occurs="23"/>
+            <tagUsage gi="head" occurs="23"/>
+            <tagUsage gi="item" occurs="39"/>
+            <tagUsage gi="label" occurs="37"/>
+            <tagUsage gi="list" occurs="14"/>
+            <tagUsage gi="p" occurs="158"/>
+            <tagUsage gi="s" occurs="569"/>
+            <tagUsage gi="text" occurs="1"/>
+            <tagUsage gi="tok" occurs="11025"/>
+        </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+        <textClass>
+            <domain>World Affairs</domain>
+            <subdomain>Government</subdomain>
+            <audience>adult</audience>
+            <medium>web</medium>
+        </textClass>
+        <annotations>
+            <annotation ann.loc="Sept14-2002_d011070.txt" type="content">Text content</annotation>
+            <annotation ann.loc="Sept14-2002_d011070-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="Sept14-2002_d011070-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="Sept14-2002_d011070-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="Sept14-2002_d011070-np.xml" type="np">Noun chunks</annotation>
+            <annotation ann.loc="Sept14-2002_d011070-vp.xml" type="vp">Verb chunks</annotation>
+        </annotations>
+    </profileDesc>
+</cesHeader>

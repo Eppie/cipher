@@ -1,0 +1,278 @@
+
+
+
+
+Changes in the Household-Level Demand for Postal Delivery
+Services from 1986 to 1994
+Frank A. Wolak Department of Economics, Stanford University
+Motivation-Over the past decade there has been an dramatic
+increase in 1) Available modes of interpersonal communication and
+the range in quality of these modes of communication in terms
+speed, reliability, and flexibility 2) Reductions in the price of
+these modes of communication-long-distance telephone service, FAX
+machines, on-line information services CompuServe and America
+Online (zero price for incremental messages)
+Many of these modes of communication are very attractive
+alternatives to traditional postal delivery services supplied by
+the United States Postal Service (USPS).
+Particularly true for household sector-E-mail, Electronic bill
+paying, FAX, long-distance call
+
+Total pieces delivered and mail revenues have continued to
+increase
+
+Percentages by volume in 1996: First-Class--53%, Standard Mail A
+(Formerly Third Class)--39%, Periodicals--6%, All others--2%.
+Standard Mail A-Primarily advertising circulars and mail-order
+catalogues-comprises an increasing share of pieces delivered
+37.5% of pieces delivered 1992 versus 39% of pieces delivered in
+1996
+From 1993 to 1994, single-piece First-Class volume fell by 0.2
+percent, but a 6.8 percent increase in pre-sorted First Class
+volume resulted in a net 2.4 percent increase in First-Class
+volume. From 1994 to 1995, single-piece fell by 1.0 percent and
+from 1995-1996 it fell by 1.5%.
+This event appears to signal a leveling-off or decline in
+household-level use of USPS postal delivery services
+
+
+Purpose of Talk
+Reconcile growth in aggregate pieces delivered and mail revenues
+with increasing relative price of postal delivery services and
+growing number of substitutes at household level
+Are household sector trends consistent with aggregate
+trends?
+Quantify decline in aggregate household sector postage
+consumption.
+Determine the relative extent to which the decline in household
+sector
+consumption over time can be attributed to
+1) Increasing penetration of alternative modes of
+communication
+2) Increasing relative price of USPS postal delivery
+services
+
+
+Specific Questions Addressed
+1) What has happened to the average household-level consumption
+and aggregate (US Population) household consumption of postal
+delivery services over the past decade?
+2) What are own-price, cross-price and expenditure elasticities
+of the household-level demand for postal delivery services and how
+have they changed over time?
+3) What is the impact of home computing technology on postal
+demand?
+4) What household characteristics predict differences in
+household-level postal demand?
+
+
+Aggregate Household Consumption of Postal Delivery
+Services
+Bureau of Labor Statistics (BLS) Consumer Expenditure Survey
+(CES). A national probability sample of households. Sampling frame
+generated from the 1980 Census 100-percent detail file.
+Two surveys administered to different samples of households: (1)
+Quarterly Interview Survey and (2) Diary Survey
+Diary Survey-Each selected household is requested to keep two
+one-week diaries of all expenditures over consecutive weeks. Source
+for householdlevel postage expenditures and other non-durable goods
+expenditures.
+Interview Survey-Household is interviewed every three months
+over a 15month period. Questions about durables holdings--cars,
+housing, and personal computers.
+Both surveys collect information on household
+characteristics-hours of work of the head and spouse, occupation of
+head and spouse, age and race of head and spouse, marital status,
+number of children, dwelling type, income, and census region of
+residence.
+For each household in Diary Survey from 1986 to 1994, BLS
+computes a sampling weight giving the representativeness of that
+household in the population of US households during the year it is
+sampled
+1) How many US households represented by a household with
+these
+demographic characteristics
+Using these weights and BLS-recommended procedure, can compute
+estimate of US population aggregate expenditures on postal delivery
+services or aggregate expenditures any other category of goods
+
+*Preliminary figures. Nominal declines aggregate household
+postage expenditures. In constant
+dollars, decline would be steeper due to real postage price
+increases Decline from $74.26 per household in 1989 to $54.35 in
+1994
+Almost double nominal increase in aggregate household telephones
+services expenditures from 1986 to 1994.
+Increase from $421.67 per household in 1986 to $690.65 in
+1994
+Shift away from consumption of postal delivery services to
+telephone services for household sector
+From 1987 to 1994 share of USPS mail revenues from US household
+fell From a little less than 20 percent to a little more than 10
+percent
+Significant shift way from consumption of postal delivery
+services for household sector relative US economy at large
+Second research question: What are the sources of these shifts
+in the consumption of postal delivery services?
+
+
+Digression on Economic Model of Household Behavior
+Each household is assumed to have a demand function for each
+good which depends on the prices of all goods, the household's
+budgeted total expenditure and observable and unobservable
+characteristics of the household
+Let p ,p ,...,p be the prices for goods household purchases, M
+be the
+12 K
+household's budgeted total expenditure and A ,A ,...,A are the
+attributes
+12 N
+(observable and unobservable characteristics) of the
+household.
+Define the household's demand function for the ith (i=1,...,K)
+good x * = D (p ,p ,...,p ,M,A ,A ,...,A )
+i i12K 12 N
+the amount each good, x , the household consumes. There are K
+goods and
+i
+N characteristics.
+One household characteristic we focus on is an indicator
+variable of whether or not the household owns a personal computer.
+This is our measure of the potential for electronic
+substitution.
+This will allow us to determine extent to which decline is
+household-level
+demand is due to
+1) Increasing relative price of postage
+2) Increasing penetration of personal computing technology
+
+Using econometric modeling techniques applied to our sample of
+households, we are able recover an estimate of the demand
+function
+x * = D (p ,p ,...,p ,M,A ,A ,...,A )
+i i12K 12 N
+for each household in the sample.
+Demand functions differ across household depending on observable
+and unobservable characteristics of the household
+Using our econometric model, we can compute an estimate of any
+US household's demand for postal delivery services given its M and
+A ,A ,...,A
+12 N
+
+
+Quantifying Demand Responses at Household-Level
+Price Elasticity of Demand = One percent increase in the price
+of the ith good, p , brings about what percentage change in the
+household's demand for
+i
+good j, Dj
+If i = j, then it is the own-price elasticity of demand,
+otherwise magnitude is called the cross-price elasticity of
+demand.
+Elasticity concept can be extended to any other variable in
+household's
+demand function Expenditure elasticity of Demand = One percent
+increase in the household's total expenditure, M, brings about what
+percentage change in household-level demand for good j, Dj
+For each US household can compute an estimate of its own-price
+and crossprice elasticities of demand and the expenditure
+elasticity of demand.
+One of observable attributes that is assumed to shift the
+household's demand
+for postage is whether or not is owns a personal computer. Model
+yields an estimate of the percentage change in a household's demand
+for postage as a result of owning a computer
+
+
+Aggregate Demand Function for the Household Sector
+Using BLS weights, can compute an estimate of the aggregate US
+population demand function for postage from the household sector as
+the weighted sum of sample household level-demand functions Can
+compute own-price and cross-price elasticities of aggregate
+household demand for postage using this aggregate demand
+function.
+Estimated Aggregate U.S. Household Postage Demand Elasticity
+Estimates These magnitudes give the percent change in the demand
+from the household sector as result of a one percent change in any
+price, household's total expenditure or fraction of US households
+owning a personal computer.
+
+Substantial increase in absolute value of own-price elasticity
+of aggregate household demand from 1986 to 1994, from -0.76 to
+-1.27.
+Decline in total expenditure (income) elasticity of demand from
+0.36 to 0.25 over same period.
+Increasing degree of substitutability between postal delivery
+services and telephone services over past decade, from -0.12 in
+1986 (complements) to
+0.11 (substitutes) in 1994
+Increased penetration of personal computing technology at
+household-level
+initially predicts increased demand for postal delivery
+services.
+By 1994, predicts reduction in demand for postal delivery
+services,
+holding all other factors constant.
+
+
+Estimated Aggregate Revenue Losses Based on 1994 Elasticity
+Estimates
+In general, an X% own-price increase in a product with an
+own-price elasticity of , increases revenues by X(1 + ,)%.
+If , is less than one in absolute value revenues increase. If it
+is greater than one revenues fall. In 1994, , = -1.27.
+Note that before 1989, , is less than one in absolute value, so
+that aggregate household revenues increase with price
+increases.
+Consider January 1, 1995 price increase for a one ounce
+First-Class letter from $0.29 to 0.32, a little more than a 10%
+increase.
+From estimated annual household postage expenditures in 1994 are
+approximately $5 billion, which implies a 2.7 percent reduction in
+annual aggregate expenditures or approximately a $135 million
+reduction in annual revenues from household sales, holding all else
+constant.
+Impact of on household-level demand a 17 percent increase in
+penetration of computer ownership for all households.
+In 1994, fraction of households owning a personal computer is
+0.25.
+A 17 percent increase in this number is 1.17(0.25) = 0.29, a
+plausible increase in the penetration of computer ownership by
+households over the course of a single year.
+From estimate in above table US aggregate elasticity of demand
+with respect to computer ownership is -0.16. Therefore, 17%
+increase in purchase probability brings about a 0.16(17) = 2.7
+percent reduction in aggregate demand.
+Assuming no postal price change, this implies a 2.7 percent
+reduction in revenues from sales to household, or $135 million
+reduction in revenues, same as a 10 percent price increase.
+
+
+Caveats
+There is uncertainty associated with all of the numbers
+presented in this paper due to sampling error and estimation error
+in econometric estimation procedure used to recover household-level
+demand functions
+Less confidence in exact magnitudes reported, more confidence in
+trends
+they illustrate 1) Decline in revenue share from household
+sector 2) Increasing, in absolute value, own-price elasticity 3)
+Increasing substitutability away from postage consumption with
+computer use 4) Increasing substitutability between postage and
+telephone consumption.
+Economic and econometric theory underlying analysis available in
+technical paper by same title that can be downloaded from
+http://www-leland.stanford.edu/~wolak
+
+
+Future Research
+1995 BLS data recently made available. It is source of
+preliminary numbers. 1996 data promised by end of summer.
+Have the above trends continued for household-level demand in
+1995 and 1996?
+Sources of electronic substitution-USPS Postal Diary Survey
+provides detailed information telecommunications capital equipment
+holdings, on-line service member and electronic bill paying.
+
+
+

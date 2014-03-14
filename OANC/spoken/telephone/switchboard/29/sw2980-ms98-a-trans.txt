@@ -1,0 +1,267 @@
+
+ 
+     		
+ 	
+ 		
+ 
+ 	
+ 	
+ 		
+ 
+ 	
+ 	
+ 		are you a computer professional
+ 	
+ 	
+ 		uh well i would like to call myself that yes but i'm sure there's always something new to learn because we have a growing  growing uh computer world out out there
+ 	
+ 	
+ 		but are you working at the Texas Instruments or are you at home
+ 	
+ 	
+ 		no i'm at uh Texas Instruments um-hum
+ 	
+ 	
+ 		okay
+ 		uh what's what's your application for PC's
+ 	
+ 	
+ 		oh golly numerous uh application presentations uh memos uh uh spreadsheets um
+ 		just all kinds of things
+ 	
+ 	
+ 		oh okay
+ 	
+ 	
+ 		i don't do any plotting though i don't do any you know i don't do any uh device creations or anything like that
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		like in AutoCAD i don't do those but we have that capability here
+ 	
+ 	
+ 		oh okay
+ 		well i got involved in uh computers because i have an interest in speech recognition
+ 	
+ 	
+ 		uh-huh
+ 	
+ 	
+ 		which is probably why i got involved in the TI switchboard project
+ 	
+ 	
+ 		um-hum that's been ongoing for quite a while now is the speech recognition it's uh i don't know how old it is but i know they've been pursuing it for a long time
+ 	
+ 	
+ 		and will probably be pursuing it for a long time to come
+ 	
+ 	
+ 		that's right yes a lot of uh glitches to get out of it to work out of it uh-huh
+ 	
+ 	
+ 		yeah
+ 		well i bought a uh PC oh well i bought a series of personal computers of one kind or another but the latest one i bought for the children
+ 		to use uh for their educational games and and for entertainment games
+ 		and i soon discovered that it was running faster than the IBM PCAT that i had purchased to do my uh uh
+ 		postgraduate studies
+ 	
+ 	
+ 		oh that's interesting isn't it
+ 	
+ 	
+ 		so i've uh i've taken over the children's computer
+ 	
+ 	
+ 		oh my word
+ 	
+ 	
+ 		and uh enhanced with uh uh
+ 		uh Texas Instruments DSP board
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and i'm using it for uh speech recognition research at this point
+ 	
+ 	
+ 		well that's wonderful how are you advancing on your uh endeavors
+ 	
+ 	
+ 		well i've gotten to the point where the program will phonetically label a sentence that i speak into the microphone
+ 	
+ 	
+ 		well great that sounds good
+ 	
+ 	
+ 		and uh it's it's just now up and running in that mode and i've got to make a lot of improvements and uh improve my models and
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		adjust coefficients and try to improve the performance a little bit but the first results look promising
+ 	
+ 	
+ 		yeah
+ 		well that's wonderful that's wonderful now if we can get everybody together that has got all these uh uh new inputs that they're doing for speech
+ 		and if if they could get them together and compare notes they probably would do well to jump a couple hundred feet in that area
+ 	
+ 	
+ 		i think we're getting to the point now where
+ 		uh there's a lot of people who've done research in a lot of individual areas and we're sort of entering the phase now where i think we're starting to pull some of these results together and getting them to work together
+ 	
+ 	
+ 		um-hum
+ 		well that's good do you have
+ 		do you have a group that uh you can interface with each other like uh
+ 		who's interested in speech
+ 	
+ 	
+ 		well not really uh but
+ 	
+ 	
+ 		that wouldn't be a bad idea though do you think that
+ 	
+ 	
+ 		well my company has has expressed an interest and they've asked me to do a lot of research so
+ 	
+ 	
+ 		uh-huh
+ 	
+ 	
+ 		i've been traveling around the company country talking to uh different groups i spent uh three or four days in Boston earlier this year talking to MIT and uh Bobrank and
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and a place named Sonotek uh just to find out what their state of the art is and i see what's out there that can all be brought to bear on the problem
+ 		and i think the focus of my dissertation is to uh to look at four different uh technologies that have already been researched and
+ 		see if i can't make them work together in synergy to to get a step ahead
+ 	
+ 	
+ 		right
+ 		um
+ 		um-hum um-hum
+ 	
+ 	
+ 		and uh so i think that's probably the way things will go in the future they'll they'll they'll start pulling together the different aspects of speech recognition i would say that there will be
+ 		well there'll certainly be a lot of commercial products on the market in the next five years
+ 	
+ 	
+ 		um-hum um-hum
+ 	
+ 	
+ 		and there'll probably some be some very good systems available by the turn of the century
+ 	
+ 	
+ 		so it's that that soon
+ 	
+ 	
+ 		yeah uh there'll probably be some
+ 		you know reasonable breakthroughs in terms of uh bringing products to market
+ 	
+ 	
+ 		um-hum
+ 		it's going to be interesting to uh
+ 		uh look at
+ 		i'm not involved in it myself you know but uh just hearing what is going on at TI is very uh fascinating
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and i don't know that much about it i know that um in the group that i was working in there was
+ 		an area that was really focused on speech recognition however i'm not in that uh organization any more within TI i'm in uh a different area of TI now working on something totally different
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		so uh my interest was spurred and then it was uh taken away because i i um was moved out of that area
+ 	
+ 	
+ 		yeah
+ 		yeah i think it's an interesting field and
+ 	
+ 	
+ 		oh it's definitely very fascinating
+ 	
+ 	
+ 		my primary interest is in speech understanding
+ 	
+ 	
+ 		uh-huh
+ 	
+ 	
+ 		uh so once we get the the basic word recognition or something resembling word recognition
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		uh my interest is in extracting the understanding and in developing uh man machine dialogue type operations like intelligent tutoring systems that uh
+ 		the tutoring system can sort of gain some insight into what the student knows or doesn't know and modify it's tutoring program accordingly
+ 	
+ 	
+ 		oh that's wonderful
+ 	
+ 	
+ 		and uh getting the interactive speech is a key part of that
+ 	
+ 	
+ 		that's like almost giving them a um evaluation
+ 	
+ 	
+ 		but
+ 		right
+ 	
+ 	
+ 		and going into the direction where they're gifted in
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		that's wonderful
+ 	
+ 	
+ 		well it's it's all of parallels techniques that teachers ordinarily use during the day they they're teaching a grade stool grade school student to
+ 		add and subtract they they pose problems for them and they see where they make their mistakes in in carrying or uh in borrowing or something like that and they then pose problems which will
+ 	
+ 	
+ 		um um-hum
+ 		um-hum
+ 	
+ 	
+ 		you know point out the proper procedure and then test them again to see that they've learned that fact
+ 		and so that's that's where the artificial intelligence comes in is is in developing that kind of an art in a machine
+ 	
+ 	
+ 		well you're you sound like you're very current with all that information
+ 		uh i know it because you have children too and you're also interested in the uh
+ 		uh voice recognition it's been so long since my  my children my grandchildren are in school now but i don't have to worry about them any more just worry about your children
+ 	
+ 	
+ 		huh
+ 	
+ 	
+ 		and uh let let the let the parents worry about the about their babies
+ 	
+ 	
+ 		right
+ 	
+ 	
+ 		but you just know that their doing well so but i don't have any idea what's going on in the schools today
+ 	
+ 	
+ 		hm
+ 	
+ 	
+ 		i'm not active in any school other than paying my school taxes
+ 		
+ 		
+ 	

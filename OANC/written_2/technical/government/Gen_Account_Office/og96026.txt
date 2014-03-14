@@ -1,0 +1,264 @@
+
+
+
+
+Office of the General Counsel
+B-272247
+July 5, 1996
+The Honorable John H. Chafee Chairman The Honorable Max Baucus
+Ranking Minority Member Committee on Environment and Public Works
+United States Senate
+The Honorable Thomas J. Bliley, Jr. Chairman The Honorable John
+D. Dingell Ranking Minority Member Committee on Commerce House of
+Representatives
+Subject: Accidental Release Prevention Requirements: Risk
+Management Programs Under Clean Air Act Section 112(r)(7)
+Pursuant to section 801(a)(2)(A) of title 5, United States Code,
+this is our report on a major rule promulgated by the Environmental
+Protection Agency (EPA), entitled "Accidental Release Prevention
+Requirements: Risk Management Programs Under Clean Air Act Section
+112(r)(7)" (FRL #5516-5, RIN: 2050-AD26). We received the rule on
+June 7, 1996. It was published in the Federal Register as a final
+rule on June 20, 1996. 61 Fed. Reg. 31668.
+This rule implements section 112(r) of the Clean Air Act
+Amendments of 1990, which mandates that EPA promulgate regulations
+and develop guidance to prevent accidental releases to the air from
+stationary sources and mitigate the consequences of such releases
+by focusing prevention measures on chemicals that pose the greatest
+risk to the public and the environment.
+Enclosed is our assessment of EPA's compliance with the
+procedural steps required by sections 801(a)(1)(B)(i) through (iv)
+of title 5 with respect to the rule. Our review indicates that EPA
+complied with the applicable requirements.
+GAO/OGC-96-26
+If you have any questions about this report, please contact
+Kathleen E. Wannisky, Associate General Counsel for Operations, at
+(202) 512-5207. The official responsible for GAO evaluation work
+relating to EPA is Peter F. Guerrero, Director for Environmental
+Protection Issues. Mr. Guerrero can be reached at (202)
+512-6111.
+Robert P. Murphy General Counsel
+cc: Craig Matthiessen Senior Chemical Engineer Environmental
+Protection Agency
+Page 2 GAO/OGC-96-26
+ENCLOSURE
+ANALYSIS UNDER 5 U.S.C. § 801(a)(1)(B)(i)-(iv) OF A MAJOR RULE
+ISSUED BY THE ENVIRONMENTAL PROTECTION AGENCY (EPA) ENTITLED
+"ACCIDENTAL RELEASE PREVENTION REQUIREMENTS: RISK MANAGEMENT
+PROGRAMS UNDER CLEAN AIR ACT SECTION 112(r)(7)" (RIN:
+2050-AD26)
+(i) Cost-benefit analysis
+Because EPA determined that the rule was an "economically
+significant regulatory action" under terms of Executive Order
+12866, it prepared an economic impact analysis in support of the
+rule on risk management program regulations. It submitted that
+analysis to the General Accounting Office on June 7, 1996, along
+with a copy of its final rule. The economic impact analysis
+describes the regulatory options EPA considered for revising its
+earlier proposed risk management requirements and estimates the
+costs and benefits attributable to these options.
+The chart below, extracted from the analysis, shows that, with
+the exception of the first year, EPA believes that the cost of the
+benefits associated with the implementation of the rule's
+requirements greatly exceed the costs of implementation of the
+rule.
+ANNUALIZED NET COSTS AND BENEFITS OF THE FINAL RULE
+
+In addition to the estimated benefits of reduced damages from
+releases of toxic substances, EPA's analysis also highlights what
+the agency believes to be additional qualitative benefits including
+those resulting from efficiency gains, increased technology
+transfer, indirect cost savings, increased goodwill, and increased
+public awareness.
+GAO/OGC-96-26
+(ii) Agency actions relevant to the Regulatory Flexibility Act,
+5 U.S.C. §§ 603-605, 607 and 609
+Section 603: Initial regulatory flexibility analyses
+The Regulatory Flexibility Act requires federal agencies to
+evaluate the effects of a proposed rule on small entities. EPA
+prepared an initial regulatory flexibility analysis in compliance
+with section 603 of the Act; it published a summary of that
+analysis in the preamble to the proposed rule in the Federal
+Register on October 20, 1993. 58 Fed. Reg. 54212. The analysis
+concluded that the economic burden for initial compliance would be
+minimal for about 90 percent of the small businesses affected. For
+the remaining 10 percent, however, the analysis stated that the
+program would impose a significant adverse effect in the first
+year.
+Based on the information presented during public hearings and in
+comments received on the proposed rule, EPA published a
+supplemental notice of proposed rulemaking in the Federal Register
+on March 13, 1995. 60 Fed. Reg. 13526. The agency included in the
+preamble to the revised proposed rule a summary of its updated
+regulatory flexibility analysis. The analysis concluded that the
+rule as proposed in 1993 would have had severe adverse effects on
+small businesses. The revised analysis evaluates three alternatives
+to the initially proposed rule and assesses the burdens and impacts
+of each. According to the EPA's discussion, the streamlined
+requirements of the revised proposed rule drastically reduce the
+burden on both small businesses and small communities.
+Section 604: Final regulatory flexibility analysis
+EPA published a summary of its final regulatory flexibility
+analyses as required by section 604 of the Act in the Federal
+Register on June 20, 1996. 61 Fed. Reg. 31715. EPA estimated that
+the total number of small entities affected by the rule was 12,500
+or 19 percent of the affected universe. No detailed analysis of the
+impact on small entities was performed because of the relatively
+low cost of implementation estimated by EPA (for most manufacturers
+substantially less than 1 percent of sales the first year and
+considerably less in subsequent years; for non-manufacturers less
+than $1,000 for initial compliance).
+According to EPA's analysis, a number of decisions adopted in
+the final rule (specifically, the adoption of tiers ("programs"),
+the reduced requirements for the risk management plan and the
+development of guidance for offsite consequence analysis) have
+significantly reduced the burden on small entities. EPA considered
+comments on both the initial and the proposed rule in making these
+decisions.
+All analyses prepared in accordance with this Act were submitted
+to the Chief Counsel, Small Business Administration.
+Page 2 GAO/OGC-96-26
+Section 607: Preparation of analysis
+EPA's analyses use both quantifiable and general descriptions of
+the effects of the rule and alternatives on small entities.
+Section 609: Participation by small entities
+EPA included small entities (from both government and business)
+in focus groups, public hearings, seminars, and meetings to develop
+this rule.
+(iii) Agency actions relevant to sections 202-205 of the
+Unfunded Mandates Reform Act of 1995, 2 U.S.C. §§ 1532-1535
+EPA has determined that this rule contains a federal mandate
+that may result in expenditures of $100 million or more for state,
+local, and tribal governments, or the private sector in only its
+first year. In compliance with section 202 of the Unfunded Mandates
+Reform Act, EPA prepared a written statement, including a cost
+benefit analysis, assessing the impact of the rule, which it
+published with both the proposed and the final rule. As discussed
+previously, EPA considered the future compliance costs in assessing
+the impact of the rule.
+Consistent with the intergovernmental provisions of sections 203
+and 204 of the Act, and Executive Order 12875 "Enhancing the
+Intergovernmental Partnership," EPA involved state, local, and
+business representatives in focus groups, public hearings,
+seminars, and meetings to develop the rule.
+Section 205 of the Act requires agencies to identify and
+consider a reasonable number of regulatory alternatives and to
+adopt the least costly, most cost-effective or least burdensome
+alternative that achieves the objectives of the rule. The preamble
+to the final rule indicates that EPA evaluated three different
+methodologies for implementation. It ultimately chose what it
+believed to be the least costly and least burdensome
+alternative.
+(iv) Other relevant information or requirements under Acts and
+Executive orders
+Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.
+This rule was promulgated through the general notice of proposed
+rulemaking procedures of the Act, 5 U.S.C. § 553. EPA afforded
+interested persons several opportunities to comment. Following
+publication of the proposed rule (58 Fed. Reg. 54190), EPA held
+four public hearings and received approximately 770 written
+comments. Because of these comments, EPA issued a supplemental
+notice of proposed rulemaking on March 13, 1995 (60 FR 13526) for
+comment on:
+Page 3 GAO/OGC-96-26
+approaches for setting different requirements for sources that
+pose different levels of hazard (tiering); worst-case releases and
+other hazard assessment issues; accident information reporting;
+public participation; inherently safer approaches; and
+implementation and integration of section 112(r) with state
+programs, particularly state air permitting programs. EPA held a
+public hearing on March 31, 1995, in Washington, DC, and received
+more than 283 written comments. In total, commenters represented 92
+chemical manufacturers, 81 other chemical users, 111 petroleum
+industry companies, 174 industry trade associations, 40 other trade
+associations, 58 agricultural supply retailers, 102 propane
+retailers, 132 explosives users, 29 water treatment facilities, 26
+utilities, 66 state agencies, 63 local governments, 8 other federal
+agencies, 52 academics and consultants, 61 environmental groups, 6
+labor unions, and 31 private citizens. This rule reflects EPA's
+consideration of all comments; major issues raised by commenters
+and EPA's response are briefly discussed in the preamble. A summary
+of all comments submitted and EPA's response to them is available
+at the agency.
+Paperwork Reduction Act, 44 U.S.C. §§ 3501-3520
+The rule imposes information collection requirements in the
+registration process, in the preparation and submission of the risk
+management plans, and in the maintenance of on-site documentation.
+EPA describes in the preamble to the rule the reasons for the
+collection of information, the type of information and an estimate
+of the burden imposed on the source. Both initial and supplemental
+proposed rule publications invited comments on the information
+collection requirements imposed by the rule. 58 Fed. Reg. 53212. 60
+Fed. Reg. 13543.
+Section 3506(c) of the Act requires each agency to establish an
+independent process to review each proposed collection of
+information before submitting the proposal to OMB for review. EPA's
+Office of Program Planning and Evaluation conducted such a review.
+EPA subsequently sent the information collection requirements to
+the Office of Management and Budget for approval under the Act. 44
+U.S.C. §§ 3507(a)(2) and (3). EPA's discussion of its compliance
+with the Paperwork Reduction Act was omitted from the final rule,
+including the agency's response to comments by OIRA required to be
+discussed in the final rule by 44 U.S.C. § 3507(d)(2).
+Consequently, there is no evidence in EPA's filing of OIRA's
+comments on, approval or disapproval of, the agency's information
+collection requirements. EPA did, however, reduce the potential
+burden of required information collection in drafting the final
+rule. See discussion below.
+EPA appears to meet the OMB requirement (5 C.F.R. §
+1320.8(a)(5)) that agencies evaluate the use of automated,
+electronic or other technological collection forms by allowing
+sources to register and file risk management plans electronically,
+thus avoiding what could have been a huge paperwork burden.
+Page 4 GAO/OGC-96-26
+Executive Order No. 12866
+Based on its economic impact, the rule was determined to be an
+"economically significant regulatory action" within the meaning of
+Executive Order 12866. EPA submitted both the proposed rule and the
+final rule to the Office of Information and Regulatory Affairs
+(OIRA) for review. According to EPA, OIRA raised some concerns
+about the scope of information collection requirements initially
+proposed by EPA. EPA addressed OIRA's concerns by lessening the
+information collection requirements for risk management plans in
+its final rule. In the Federal Register notice, EPA described
+lessening risk management plan information requirements as
+follows:
+". . . EPA has limited the requirements for information to that
+which can be reported as data elements. In contrast, the rule as
+proposed would have required sources to document for each process
+all major hazards, the consequences of each of these hazards, the
+risk reduction steps taken to address each hazard, and the
+consequences of each risk reduction step. The result would have
+been, for large, complex sources, documents of a l,000 pages or
+more."
+Statutory authorization for the rule
+This rule is promulgated under sections 112(a), 301(a)(1), title
+V of the Clean Air Act as amended (42 U.S.C. § § 7412(r),
+7601(a)(i), 7661-7661f). The intent of section 112(r) is to prevent
+accidental releases to the air and mitigate the consequences of
+such releases by focusing prevention measures on chemicals that
+pose the greatest risk to the public and the environment. Section
+112(r)(3) mandates that EPA promulgate a list of regulated
+substances, with threshold quantities; this list defines the
+stationary sources that will be subject to accident prevention
+regulations mandated by section 112(r)(7). EPA promulgated its list
+of substances on January 31, 1994 (59 Fed. Reg. 4478).
+EPA did not identify any other statute or executive order
+imposing procedural requirements relevant to this rule.
+Supplementary information
+The rule is not covered in the judicial review provisions
+recently added to the Regulatory Flexibility Act by the Small
+Business Regulatory Enforcement Act of 1996 (Pub. L. 104-121, Title
+II, March 29, 1996) because it was published as a final rule before
+the effective date of those provisions. It is, however, reviewable
+under
+Page 5 GAO/OGC-96-26
+the Clean Air Act. See 42 U.S.C. § 7607(b)(1). Under that
+provision, judicial review of the requirements contained in this
+rule is available only by petition for review in the U.S. District
+of Appeals for the District of Columbia Circuit within 60 days of
+publication of this final rule.
+Page 6 GAO/OGC-96-26
+
+
+

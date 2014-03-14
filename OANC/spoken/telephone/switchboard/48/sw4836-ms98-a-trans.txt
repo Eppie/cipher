@@ -1,0 +1,130 @@
+
+ 
+     		
+ 	
+ 		you wanna start or you want me to start
+ 	
+ 	
+ 		well go ahead if you're
+ 	
+ 	
+ 		okay  personal interests in computers basically nowadays it seems like you can't get by without one everywhere i go it's got some kind of computer interface like pressing on keyboards
+ 		uh pressing in personal identification numbers all the ATM machines things like that i personally don't own one because i can't afford one
+ 		uh every time you look in a friend's houses and they show you their computers and all the knickknacks they have it seems like they go from their basic computer to all these peripheral devices like uh modems and
+ 		fancy printers or lazy printers and fax machines and games that they like to play course i i was impressed by some of the games they have like flight simular game simulator for the different aircraft
+ 	
+ 	
+ 		yeah well that's uh  actually you might guess you could say even more than just a game it's uh
+ 		similar to the one they use at uh for training
+ 	
+ 	
+ 		very close to it i understand
+ 		except for the bouncing around it
+ 	
+ 	
+ 		well i have a i just got a i used to use a TI PC at work now i just got a 386
+ 		uh computer PC
+ 	
+ 	
+ 		you using it mostly for spreadsheets or do you use it for like word processing
+ 	
+ 	
+ 		uh  well i use it uh
+ 		in my business i have to uh tie into the mainframe and also into a uh minicomputer a 990
+ 		so i use a terminal emulation in uh talking to other computers plus word processing i do quite a bit of that
+ 		and it's uh that's supposed one of the features of the
+ 		the new one the 386 it's got Windows on it and so you can toggle back and forth between uh applications and you know get a
+ 		get a lot quicker in and out
+ 		used to be you had to log off  then log back on the other application
+ 	
+ 	
+ 		yeah i use a Z248 286 at work but it's basically to tie into the communications network
+ 		then through our communications network we go to our mainframe on the base there
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and use the Unix operating systems
+ 	
+ 	
+ 		yeah
+ 	
+ 	
+ 		use their VI editor and we use um read on line news through it
+ 		and we also have terminal emulations through IBM thirty two seventy eight
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and  i don't know i just don't i don't even use the hard disk drive to to copy any floppy disks or anything like that i just basically use it for a
+ 		a window into there to the Unix world
+ 	
+ 	
+ 		um-hum
+ 		yeah uh
+ 		we're supposed to be getting a fifteen hundred minicomputer pretty soon
+ 	
+ 	
+ 		uh is that IBM or is that an IBM type
+ 	
+ 	
+ 		replace our 990 huh
+ 		uh no it's a TI made 1500 it's a a minicomputer
+ 		uh it's a newer version of the nine ninety which is one they had
+ 		it uses uh Unix as one of the operating systems
+ 		but uh
+ 	
+ 	
+ 		i'm familiar with Unix commands like um copying files and compressing them things like that i just have a fun time using their mainframe at the base but
+ 	
+ 	
+ 		well Unix to me i mean uh that System Five i mean that's pretty  looks pretty uh user unfriendly
+ 	
+ 	
+ 		it's like a different language all right
+ 	
+ 	
+ 		uh
+ 		it seems like they sure uh
+ 		i got a lot of stuff to learn i haven't used it that much so
+ 	
+ 	
+ 		yeah we can use System Five or we can use um C shell
+ 		you know i like um i favor C shell over the other
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		i think i think most of our users like Bourne shell because they were trained in it and they just don't wanna learn something different
+ 	
+ 	
+ 		
+ 
+ 		that uh that's a powerful force  once you that's a powerful force once you learn something you you tend to wanna stick with it
+ 	
+ 	
+ 		pardon
+ 		oh yeah plus everybody in your office knows it and as the new people come in they kind of help each other out
+ 		but you have different people with different backgrounds and they have a hard time sharing information
+ 	
+ 	
+ 		that's like i learned uh DFM and PFM you know Professional File Manager which is can be used as a word processor it doesn't
+ 		it does everything i need moves splits you know all that but uh
+ 		doesn't have some of the little fancy stuff like underline caps bold i mean bold and all that so
+ 		uh that's other than that it's you know perfectly suitable for most things i do
+ 	
+ 	
+ 		yeah the disadvantage disadvantage of VI editor you can't see all those fancy things  i have another thing called Q-Office from Quadratron back in California that people like to use but it's a very slow system
+ 	
+ 	
+ 		um-hum
+ 	
+ 	
+ 		and i understand it's only on like we use a Gold 9050
+ 		and that's basically their format they use for word processing and they're trying to push people into using either WordPerfect
+ 		
+ 		
+ 	

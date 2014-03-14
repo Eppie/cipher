@@ -1,0 +1,3243 @@
+
+
+
+
+TECHNICAL ADDENDUM: METHODOLOGIES FOR THE BENEFIT ANALYSIS OF
+THE CLEAR SKIES INITIATIVE
+September 2002
+
+
+I. INTRODUCTION
+Background
+The Need for Multi-pollutant Legislation
+In the United States, power generation is responsible for 63% of
+sulfur dioxide (SO2), 22% of nitrogen oxides (NOx), and 37% of
+man-made mercury released to the environment. Once released, these
+pollutants together with their atmospheric transformation products
+(e.g. ozone and fine particles) can travel long distances before
+being deposited. Environmental and public health problems resulting
+from power generation emissions include:
+
+
+•
+Cardiovascular and respiratory conditions associated with
+exposure to fine particles (PM) and ozone;
+
+
+•
+Visibility impairment associated with regional
+haze;
+
+
+•
+Acidification of surface waters and forest
+ecosystems;
+
+
+•
+Ecosystem and public health effects associated with the
+accumulation of mercury in fish and other wildlife;
+
+
+•
+Acidic damage to cultural monuments and other
+materials;
+
+
+•
+Ozone damage to forested ecosystems; and
+
+
+•
+Eutrophication in coastal areas.
+
+
+While the current Clean Air Act has played a role in
+significantly improving some of these issues, additional reductions
+in the emissions of SO2, NOx, and mercury are necessary to address
+persistent public health and environmental problems. Because of the
+regional and global scale of these pollutants, individual states or
+localities experiencing the environmental effects cannot always
+control them. In addition, current law tends to address each
+environmental problem independently, even if one pollutant
+contributes to several problems. To more effectively address the
+environmental problems caused by power generation, there is a need
+for a national program that would take advantage of synergies of
+controlling multiple pollutants at once.
+The Clear Skies Act
+On February 14, 2002, the President announced the Clear Skies
+Initiative, a proposal to reduce emissions from electric power
+generating sources. The proposal was embodied in legislative form
+as the Clear Skies Act, which was introduced in the House of
+Representatives as H.R.5266 and in the Senate as S.2815 in July
+2002. For the purpose of the analyses presented here, the central
+features examined in the Initiative are identical to those
+contained in the Act.
+The Clear Skies Act would reduce emissions of sulfur dioxide
+(SO2), nitrogen oxides (NOx), and mercury from fossil fuel-fired
+combustion units by approximately 70% from current levels.1 These
+mandatory emission reductions would be achieved through a cap and
+trade
+1 The Clear Skies Act would cut sulfur dioxide (SO2) emissions
+by 73 percent, from current emissions of 11 million tons to caps of
+4.5 million tons in 2010 and 3 million tons in 2018. It would cut
+emissions of nitrogen oxides (NOx) by 67 percent, from current
+emissions of 5 million tons
+program, modeled on the current Acid Rain Program for SO2.
+Federally enforceable emissions limits, or national caps, for each
+pollutant would be established. Sources would be allowed to
+transfer these authorized emission limits among themselves to
+achieve the required reductions for all three pollutants at the
+lowest overall cost. This proposal would alleviate many of the
+remaining environmental and health problems associated with power
+generation.
+This document reports the methods and results of an analysis of
+the environmental and health benefits of the Clear Skies Act. It
+presents quantitative estimates of the health improvements and
+monetary benefits that would be achieved by this proposal.
+
+
+Summary of the Benefits Analysis Methods and Results
+The Clear Skies Act would provide significant benefits to public
+health and the environment, whether expressed as health and
+environmental improvements or as monetized benefits. These include
+prolonging thousands of lives and reducing tens of thousands to
+millions of cases in other indicators of adverse health effects,
+such as work loss days, restricted activity days, and days with
+asthma attacks. Environmental benefits include significant
+increases in visibility and substantial improvements in chronically
+acidic conditions in lakes in the Northeastern US. Based on
+emissions reductions that would start well before 2010 and the
+expected increase in benefits between 2010 and 2020, the cumulative
+health benefits of the program across the next two decades would be
+significant. The key results of this analysis of the Clear Skies
+Act are summarized in Exhibit 1.
+Section II (Analytical Approach) discusses the analytic
+framework used in conducting this assessment, which includes
+scenario development, emissions modeling, air quality modeling,
+human health and visibility effects estimation, economic valuation,
+and adjustments for income growth and benefits aggregation.
+As depicted in Exhibit 1, we have used two approaches to provide
+benefits in health and environmental effects and in monetary terms.
+While there is a substantial difference in the specific estimates,
+both approaches show that the monetary benefits of the Clear Skies
+Act are well in excess of the estimated costs of $3.7 billion in
+2010 and $6.5 billion in 2020.2
+The first approach presented, the Base Estimate, is a
+peer-reviewed method developed for previous risk and benefit-cost
+assessments carried out by the Environmental Protection Agency. It
+is the method used in the regulatory assessments of the Heavy Duty
+Diesel and Tier II Rules and the Section 812 Report to Congress.
+Following the approach of these earlier assessments, along with the
+results of the Base Estimate, we present various sensitivity
+analyses on the Base Estimate that alter select subsets of
+variables; these sensitivity analyses yield results as much as 42
+percent lower to over 180 percent higher. By far, the largest
+component of these monetized benefits is related to premature
+mortality from long-term exposure to particulate matter ($41
+billion and $89 billion in 2010 and 2020, respectively), followed
+by chronic bronchitis ($1.5 billion and $3.2 billion in 2010 and
+2020, respectively).
+to caps of 2.1 million tons in 2008 and 1.7 million tons in
+2018. Mercury emissions would be reduced by 69 percent, from
+current emissions of 48 tons to caps of 26 tons in 2010 and 15 tons
+in 2018.
+Detailed information on the costs of Clear Skies can be found in
+the Clear Skies Act Analytical Support Package (2002).
+In order to provide some insight into the potential importance
+of the key elements underlying estimates of the benefits of
+reducing SOx and NOx emissions, we developed an Alternative
+Estimate using different choices of data, methods, and assumptions
+that are detailed in Section II (Analytical Approach). As indicated
+in Exhibit 1, the differences between the Alternative and Base
+Estimates are found in the estimation of the impact of fine
+particle reductions on premature mortality and the valuation of
+reducing the risk of premature mortality and the risk of chronic
+bronchitis. The Alternative Estimate of the impact of fine particle
+reductions on premature mortality relies on recent scientific
+studies finding an association between increased mortality and
+short-term (days to weeks) exposure to particulate matter, while
+the Base Estimate relies on a recent reanalysis of earlier studies
+that found associations between long-term exposure to fine
+particles and increased mortality. The Alternative approach also
+uses different data to value reductions in the risk of premature
+mortality and chronic bronchitis and makes adjustments relating to
+the health status and potential longevity of the populations most
+likely affected by PM. Even using the more conservative assumptions
+of this Alternative, the benefits of Clear Skies still outweigh the
+projected costs of the proposal.
+All such benefit estimates are subject to a number of
+assumptions and uncertainties, which are discussed in Section III
+(Major Uncertainties in the Benefits Analysis) of this report. For
+example key assumptions underlying the Base and Alternative
+Estimates for the mortality category include the following: (1)
+Inhalation of fine particles is causally associated with premature
+death at concentrations near those experienced by most Americans on
+a daily basis. While biological mechanisms for this effect have not
+yet been definitively established, the weight of the available
+epidemiological evidence supports an assumption of causality. (2)
+All fine particles, regardless of their chemical composition, are
+equally potent in causing premature mortality. This is an important
+assumption, because fine particles from power plant emissions are
+chemically different from directly emitted fine particles from both
+mobile sources and other industrial facilities, but no clear
+scientific grounds exist for supporting differential effects
+estimates by particle type. (3) The concentration-response function
+for fine particles is approximately linear within the range of
+ambient concentrations under consideration. Thus, the estimates
+include health benefits from reducing fine particles in areas with
+varied concentrations of particulate matter, including both regions
+that are in attainment with fine particle standard and those that
+do not meet the standard. (4) The forecasts for future emissions
+and associated air quality modeling are valid. Although recognizing
+the difficulties, assumptions and inherent uncertainties in the
+overall enterprise, these analyses are based on peer-reviewed
+scientific literature and up-to-date assessment tools, and we
+believe the results are highly useful in assessing this
+proposal.
+In addition to the quantified and monetized benefits summarized
+above, there are a number of additional categories are not
+currently amenable to quantification or valuation. These include:
+the health and environmental benefits of reducing mercury
+accumulation in fish and other wildlife; reduced acid and
+particulate deposition damage to cultural monuments and other
+materials; reduced ozone effects on forested ecosystems; and
+environmental benefits due to reductions of impacts of
+acidification in lakes and streams and eutrophication in coastal
+areas. Additionally, we have not quantified a number of known or
+suspected health effects linked with PM and ozone for which
+appropriate concentration-response functions are not available or
+which do not provide easily interpretable outcomes (i.e. changes in
+forced expiratory volume (FEV1)).
+As a result, both the Base and Alternative monetized benefits
+estimates underestimate the total benefits attributable to the
+Clear Skies Act.
+Exhibit 1 Summary of Results: The Estimated PM and Ozone-Related
+Benefits of the Clear Skies Act in 2010 and 20203
+
+
+* Results calculated using three percent discount rate as
+recommended by EPA's Guidelines for Economic Analysis (US EPA,
+2000a).
+** Results calculated using seven percent discount rate as
+recommended by OMB Circular A-94 (OMB, 1992).
+The two sets of estimates depicted in this table reflect
+alternative assumptions and analytical approaches regarding
+quantifying and evaluating the effects of airborne particles on
+public health. All estimates assume that particles are causally
+associated with health effects, and that all components have the
+same toxicity. Linear concentration-response relationships between
+PM and all health effects are assumed, indicating that reductions
+in PM have the same impact on health outcomes regardless of the
+absolute level of PM in a given location. The Base Estimate relies
+on estimates of the potential cumulative effect of long-term
+exposure to particles, while the Alternative Estimate presumes that
+PM effects are limited to those that accumulate over much shorter
+time periods. The Alternative Estimate also uses different
+approaches to value health effects damages. All such estimates are
+subject to a number of assumptions and uncertainties. It is of note
+that, based on recent preliminary findings from the Health Effects
+Institute, the magnitude of mortality from short-tern exposure
+(Alternative Estimate) and hospital/ER admissions estimates (both
+estimates) may be under or overestimated.
+
+
+II. ANALYTICAL APPROACH
+The framework for the Clear Skies Act benefits analysis is the
+same as that used in three recent state-of-the-art EPA regulatory
+analyses: the Section 812 Prospective Analysis (U.S. EPA, 1999a);
+the Tier II motor vehicle/gasoline sulfur rules Regulatory Impact
+Analysis (RIA) (U.S. EPA, 1999b); and the Heavy-Duty Engine/Diesel
+Fuel RIA (U.S. EPA, 2000b). The analysis uses the same health
+effect and valuation functions employed in the most recent of these
+analyses, the Heavy-Duty Engine/Diesel Fuel RIA. The analytical
+approach can be described as a sequence of six steps, summarized
+below and described in detail later in this report. These steps,
+listed in order of completion, are:
+
+
+1.
+Scenario development
+
+
+2.
+Emissions modeling
+
+
+3.
+Air qua lity modeling
+
+
+4.
+Human health and visibility effects estimation
+
+
+5.
+Economic valuation
+
+
+6.
+Adjustments for income growth and benefits
+aggregation
+
+
+Exhibit 2 outlines the analytical framework used to study the
+benefits of the Clear Skies Act. The first step in the benefits
+analysis is the specification of the regulatory scenarios that will
+be evaluated. Typically, an analysis will include a baseline
+scenario that simulates future conditions in the absence of the
+proposed regulation and one or more control scenarios that simulate
+conditions under the regulations being evaluated. The benefits of a
+proposed regulation are then estimated as the difference in benefit
+outcomes (e.g., adverse health effects) between the control and
+baseline scenarios. For this analysis, the baseline scenarios for
+2010 and 2020 assume no additional emissions control regulation
+beyond the continuing effects of Title IV of the Clean Air Act
+Amendments, the NOx SIP Call, and other promulgated federal rules
+issued under the Clean Air Act. For each year (2010 and 2020), our
+analysis evaluates a single control scenario, as described
+below.
+After scenario development, the second step of the benefits
+analysis is the estimation of the effect of the Clear Skies Act on
+emissions sources. We generated emissions estimates for the
+baseline by projecting changes in emissions under the baseline case
+for 2010 and 2020. We generated emissions estimates for the Clear
+Skies Act control scenario using the same set of economic activity
+projections as the baseline but with additional emissions controls
+consistent with the Clear Skies Act caps. Emissions inputs were
+derived from the 1996 NTI and the 1996 NEI. In addition, emissions
+inventories prepared for the Heavy-Duty Diesel Engine rulemaking
+were the basis for future year emissions projections. The
+Integrated Planning Model (IPM) was used to derive all future
+projections of electricity generation source emissions.
+After the emissions inventories are developed, they are
+translated into estimates of futureyear air quality conditions
+under each scenario. We employed two sophisticated computer models,
+the Regulatory Modeling System for Aerosols and Deposition (REMSAD)
+and the Comprehensive Air Quality Model with Extensions (CAMx) to
+estimate changes to the concentration of particulate matter and
+ozone, respectively, resulting from the Clear Skies Act. The REMSAD
+model was also used to estimate changes in visibility associated
+with those changes in particulate matter concentrations and to
+estimate changes in deposition of sulfur, nitrogen, and
+mercury.
+The air quality modeling results serve as inputs to a modeling
+system that translates air quality changes to changes in health
+outcomes (e.g., premature mortality, emergency room visits) through
+the use of concentration-response functions. Scientific literature
+on the health effects of air pollutants provides the source of
+these concentration-response functions. At this point, we derive
+estimates of the differences between the two scenarios in terms of
+incidences of a range of human health effects that are associated
+with exposure to ambient particulate matter and ozone.
+In the next step, we use economic valuation models or
+coefficients to estimate a dollar value for the reduced incidence
+of those adverse effects amenable to monetization. For example,
+analysis of estimates derived from the economic literature provides
+an estimate of the value of reductions in mortality risk. Finally,
+we adjust the benefit values for expected income growth through
+2010 and 2020 and aggregate the benefits to the appropriate
+geographic level.
+As noted in Section I (Introduction), we present Base and
+Alternative estimates for mortality and chronic bronchitis
+benefits. The different methodologies and assumptions for these
+approaches are discussed in separate subsections in the effects
+estimation and valuation sections below.
+Exhibit 2 Analytic Sequence for Multi-Emissions Reduction
+Proposal Benefits Analysis
+
+
+
+Baseline and Regulatory Scenario Development
+This analysis looks at the impacts of the multi-pollutant
+reductions that are part of the Clear Skies Act for two future
+target years, 2010 and 2020. Avoided health effects and visibility
+improvements are quantified by comparing two scenarios:
+
+
+(1)
+A baseline scenario (Base Case) that reflects the
+continuing effects of Title IV of the Clean Air Act Amendments (the
+Acid Rain Program) as well as other promulgated federal rules
+issued under Clean Air Act authority that are expected to affect
+Electric Generating Units (EGUs) and other sources of emissions
+(e.g. the NOx SIP call and the Tier II and Heavy Duty Diesel Rules
+for mobile sources).
+
+
+(2)
+A scenario that reflects full implementation of the Clear
+Skies Act in the target year.
+
+
+
+
+Emissions Profile Development
+Emissions Inventories
+Emission inventories were developed to support the benefits
+analysis fo r the Clear Skies Act. Emissions profiles were
+generated for the following cases: 1996 Base Year, 2010 Base Case,
+2010 Clear Skies, 2020 Base Case, and 2020 Clear Skies.
+These national inventories were prepared for all 50 States at
+the county level for mobile highway and non-road sources. They were
+prepared for the 48 contiguous states at the countylevel for
+electric generating unit (EGU), non-EGU point, and stationary area
+sources. The approach used to create inventories was the same as
+that used for the Heavy-Duty Engine (HDE) Rulemaking analysis (US
+EPA, 2000d) with modifications to reflect emission and modeling
+advances since that analysis.4
+Power generation emissions of SOx and NOx for each of the
+scenarios is presented in The Clear Skies Act: Technical Support
+Package. Exhibit 3 presents total national emissions of NOx and SO2
+from all sectors, including power.
+This approach was documented and can be located at
+http://www.epa.gov/otaq/hdmodels.htm.
+Exhibit 3 National SOx and NOx Emissions Projections for Base
+and Clear Skies Scenarios (million tons)
+
+The 1996 Base Year inventory was used to project future
+emissions under the Base Case and differences between the Base Case
+and the Clear Skies Act. It was constructed using existing
+emissions inventories created for various recent rulemaking
+activities. For criteria pollutants, the 1996 National Emissions
+Inventory (NEI) used for the Heavy Duty Diesel vehicle rulemaking
+was used. For mercury, the 1996 National Toxics Inventory was
+modified based on the 1999 information collection effort for coal
+utilities and the 2002 MACT implementation for medical waste
+incinerators, and the 2000 MACT implementation for municipal waste
+combustors was used.
+For the 2010 and 2020 Base Cases, emissions under current
+regulations with economic and population growth were projected. The
+electric utility portion was developed using the Integrated
+Planning Model (IPM). IPM projects power sector emissions under
+Title IV of the 1990 Clean Air Act Amendments (The Acid Rain
+Program), which caps SO2 emissions at 8.95 million tons/year
+beginning in 2010. In addition, IPM's projections for electric
+utilities under the Base Case include the NOX SIP Call with a cap
+on summertime NOX emissions in SIP Call states in 2004 (based on
+0.15 lb/mmBtu from 2001) and state-imposed NOX caps in Texas,
+Connecticut, and Missouri. This case also includes no controls on
+mercury emissions from power generation. The emissions inventory
+for the Base Case also includes Tier II and Heavy Duty Diesel Rules
+for mobile sources. The uncertainty about how these mobile source
+rules will be implemented in the future contributes to uncertainty
+in both the Base Case and the Clear Skies Act profile.
+The 2010 and 2020 Clear Skies Act profile includes a 4.5 million
+ton/year cap on EGUs beginning in 2010 for SO2 emissions, which
+will be lowered to a 3 million ton cap in 2018; a 2.1 million
+ton/yr cap beginning in 2008 for NOX emissions, which will be
+lowered to a 1.7 million ton cap in 2018; and a 26 ton/yr cap
+beginning in 2010 for mercury emissions, which will be lowered to a
+15 ton cap in 2018. Because sources can reduce emissions early,
+earn allowances for these actions, and use the allowances later,
+actual emissions are projected to be higher than the cap in the
+first years of each cap.
+The Integrated Planning Model (IPM)
+The Integrated Planning Model (IPM) predicts future emissions
+outputs from EGUs affected by the Clear Skies Act. These outputs
+are used to develop the emissions inventories.
+IPM is a linear programming model of the electricity sector that
+finds the most efficient
+(i.e. least cost) approach to operating the electric power
+system over a given time period subjectto specific constraints
+(e.g. pollution caps or transmission limitations). The model, which
+was developed for EPA by ICF Resources, Inc., selects investment
+strategies given the cost and performance characteristics of
+available options, forecasts of customer demand for electricity,
+and reliability criteria. System dispatch, which determines the
+proper and most efficient use of the existing and new resources
+available to utilities and their customers, is optimized given the
+resource mix, unit operating characteristics, and fuel and other
+costs. Unit and system operating constraints provide
+system-specific realism to the outputs of the model.
+The IPM is dynamic; it has the capability to use forecasts of
+future conditions, requirements, and option characteristics to make
+decisions for the present. This ability replicates, to the extent
+possible, the perspective of utility managers, regulatory
+personnel, and the public in reviewing important investment options
+for the utility industry and electricity consumers. Decisions are
+made based on minimizing the net present value of capital and
+operating costs over the full planning horizon. IPM also models a
+variety of environmental market mechanisms, such as emissions caps,
+allowances, trading, and banking. 5
+
+
+Air Quality and Deposition Modeling
+Air quality modeling is a critical analytical step that provides
+the link between emissions changes and the physical effects that
+affect human health and the environment. This step of the analysis
+employs complex computer models that simulate the transport and
+transformation of emitted pollutants in the atmosphere. The results
+of these model runs are predictions of pollutant concentrations
+under each of the emission control scenarios specified above. These
+predicted concentrations are then used as inputs to the human
+health effect estimation model discussed in the next section.
+Air quality modelers face two key challenges in attempting to
+translate emission inventories into pollutant concentrations.
+First, they must model the dispersion and transport of pollutants
+through the atmosphere. Second, they must model pertinent
+atmospheric chemistry and other pollutant transformation and
+removal processes. These challenges are particularly difficult for
+those pollutants that are not emitted directly but instead form
+through secondary processes. Ozone is the best example; it forms in
+the atmosphere through a series of complex, non-linear chemical
+interactions of precursor pollutants, particularly certain classes
+of volatile organic compounds (VOCs) and nitrogen oxides (NOx).
+Modelers face similar challenges when
+Complete documentation of the IPM model can be found
+athttp://www.epa.gov/airmarkt/epa-ipm/index.html#documentation
+.
+estimating PM concentrations. Atmospheric transformation of
+gaseous sulfur dioxide and nitrogen oxides to particulate sulfates
+and nitrates, respectively, contributes significantly to ambient
+concentrations of fine particulate matter. In addition to
+recognizing the complex atmospheric chemistry relevant for some
+pollutants, air quality modelers also must deal with uncertainties
+associated with variable meteorology and the spatial and temporal
+distribution of emissions.
+Air quality modelers and researchers have responded to the need
+for scientifically valid and reliable estimates of air quality
+changes by developing a number of sophisticated atmospheric
+dispersion and transformation models. Some of these models have
+been employed in support of the development of federal clean air
+programs, national assessment studies, State Implementation Plans
+(SIPs), and individual air toxic source risk assessments. In this
+analysis, we used two of these well-established models, the
+Regional Modeling System for Aerosols and Deposition (REMSAD) and
+the Comprehensive Air Quality Model with Extensions (CAMx), to
+develop a picture of future changes in air quality resulting from
+the implementation of the Clear Skies Act.
+Regional Modeling System for Aerosols and Deposition
+(REMSAD)
+The change in PM concentrations due to the Clear Skies Act was
+modeled using the Regional Modeling System for Aerosols and
+Deposition (REMSAD). REMSAD was also used to estimate the changes
+in visibility and deposition of mercury, nitrogen, and sulfur.
+REMSAD is a three-dimensional, grid-based Eulerian air quality
+model designed to simulate long-term (e.g., annual) concentrations
+and deposition fluxes of atmospheric pollutants over large spatial
+scales (e.g., over the contiguous U.S.). Air pollution issues meant
+to be addressed by REMSAD include long-term PM2.5 ambient
+concentrations; visibility; ambient concentrations and deposition
+fluxes of several hazardous air pollutants, including mercury;
+deposition fluxes of nutrient nitrogen; and deposition of acids
+such as sulfuric acid and nitric acid.
+REMSAD has been developed under funding from the U.S.
+Environmental Protection Agency over the past five years. REMSAD
+consists of three components: (1) a meteorological data
+pre-processor; (2) the core aerosol and toxic deposition model
+(ATDM); and (3) postprocessing programs. The horizontal grid size
+can be on the order of a few kilometers (km) for an urban-scale
+simulation up to about 100 km for a continental-scale simulation.
+For large-scale simulations, one-way nesting of fine and coarse
+grids can be performed to allow simulation of sensitive areas with
+strong pollution spatial gradients using a fine grid resolution.
+The vertical structure of REMSAD covers the whole troposphere from
+the surface up to about 15 km. The physical and chemical processes
+simulated by REMSAD include emissions of pollutants from surface
+and elevated sources, advective transport, horizontal turbulent
+diffusion, vertical mixing via turbulent diffusion and convective
+transport, cloud processes, gas-phase and aqueous-phase chemistry,
+PM2.5 formation, dry deposition and wet deposition.
+Version 6.40 of REMSAD was employed for this analysis. Previous
+versions of REMSAD have been used to estimate PM for EPA's Heavy
+Duty Engine Diesel Fuel Rule and for the first Section 812
+Prospective Analysis. REMSAD Version 6.40 includes improvements
+that address comments EPA obtained during the 1999 peer review of
+REMSAD Version 4.1
+(Seigneur et al., 1999), including improved treatment of
+ammonium/nitrate/sulfate equilibrium, inclusion of additional
+aqueous sulfate formation pathways, and expanded treatment of
+mercury chemistry (ICF Consulting, 2001).
+The REMSAD modeling domain selected for the Clear Skies Act
+consists of 36 km x 36 km grid cells covering the 48-contiguous
+United States, and REMSAD can perform a full-year simulation,
+generating predictions of hourly PM concentrations (including both
+PM2.5 component species and PM10) at each grid cell. These hourly
+predictions form the basis for direct calculation of daily and
+annual PM air quality metrics (e.g., annual mean PM concentration)
+as inputs to the health and welfare C-R functions of the benefits
+analysis. REMSAD also gives visibility, which is used as an input
+into the visibility damage function.
+For this benefits analysis, we applied REMSAD to the entire U.S.
+for four future-year scenarios: a 2010 Base Case, a 2020 Base Case,
+a 2010 Clear Skies Act Case, and a 2020 Clear Skies Act Case. The
+difference in REMSAD-modeled PM concentrations for these scenarios
+represents the expected change in PM due to the emission controls
+under the Clear Skies Act.
+Comprehensive Air Quality Model with Extensions (CAMx)
+We modeled changes in ozone in the eastern U.S. using the
+Comprehensive Air Quality Model with Extensions (CAMx). CAMx is an
+Eulerian photochemical dispersion model designed to assess both
+gaseous and particulate air pollution over many scales, from urban
+to super-regional. The model estimates concentrations of both inert
+and chemically reactive pollutants by simulating the physical and
+chemical processes in the atmosphere that affect ozone formation.
+The latest version of the model, CAMx 3.10, provides full support
+for parallel processing for increased computational performance, as
+well as new algorithms for gas phase chemistry (CAMx v3.10 User's
+Guide, April 2002).
+The modeling domain for this analysis encompasses most of the
+eastern U.S., bounded on the east by the 67 degrees west longitude
+and on the west by the 99 degrees west longitude. Ozone modeling is
+only done for the East because there is very little confidence in
+the application of this model to the West. The horizontal
+resolution for the outer grid is approximately 36 km. The
+horizontal resolution for the inner grid is approximately 12 km.
+The vertical resolution for both grids consists of nine layers. The
+top of the modeling domain is 4000 meters above ground level.
+Recognizing the relationship between grid cell resolution and the
+certainty of results, we sought to estimate pollutant
+concentrations in more populated areas using higher resolution
+models. Similarly, we used an intermediate resolution grid (12 km x
+12 km) to model ozone in "inner OTAG" states where population
+density is high and ozone transport is a major problem.6 This
+approach makes CAMx well suited to estimate effects based on a
+range of ozone averaging times, an important capability for
+benefits assessment applications.
+This study extracted hourly, surface-layer ozone concentrations
+for each grid-cell from the standard CAMx output file containing
+hourly average ozone values. These model predictions are used in
+conjunction with the observed concentrations obtained from the
+Aerometric
+6
+The Ozone Transport Assessment Group (OTAG) consists of the 37
+easternmost states and the District of Columbia. The "inner OTAG"
+region is comprised of the more eastern (and more populated) states
+within the OTAG domain.
+Information Retrieval System (AIRS) to generate ozone
+concentrations for the entire ozone season. 7,8 The predicted
+changes in ozone concentrations from the Base Case to the Clear
+Skies Act serve as inputs to the health and welfare C-R functions
+of the benefits analysis, i.e., the Criteria Air Pollutant Modeling
+System (CAPMS).
+In order to estimate ozone-related health and welfare effects
+for the eastern U.S., fullseason ozone data are required for every
+CAPMS grid-cell. Given available ozone monitoring data, we
+generated full-season ozone profiles for each location in the
+modeling domain in two steps: (1) we combine monitored observations
+and modeled ozone predictions to interpolate hourly ozone
+concentrations to a grid of 8 km by 8 km population grid-cells, as
+will be described in the Human Health and Environmental Effects
+Modeling section, and (2) we converted these full-season hourly
+ozone profiles to an ozone measure of interest, such as the daily
+average. 9, 10 For the analysis of ozone impacts on agriculture, we
+use a similar approach except air quality is interpolated to county
+centroids as opposed to population grid-cells. We report ozone
+concentrations as a cumulative index called the SUM06. The SUM06 is
+the sum of the ozone concentrations for every hour that exceeds
+0.06 parts per million (ppm) within a 12-hour period from 8 am to 8
+pm in the months of May to September. These methods are described
+in detail in the Heavy Duty Engine/Diesel Fuel RIA (USEPA,
+2000b).
+
+
+Human Health and Environmental Effects Modeling
+As part of the evaluation of the effects of various scenarios
+concerning SO2 and NOx emissions, we have identified and, where
+possible, developed quantitative, monetized estimates of these
+health benefits. This section describes the first step in this
+process, the estimation of changes in the incidence of adverse
+health effects. Our analysis also looked at several environmental
+endpoints, including the benefits associated with visibility
+improvements, ozone damage to agriculture, and changes in
+acidification in lakes and streams in the East.
+Exhibit 4 provides a list of the health effects for which we
+estimate quantified benefits as part of our analysis plus a list of
+the health effects for which we are unable to quantify benefits at
+this time. The unquantified benefits for ozone and PM fall into two
+categories: (1) those for which the scientific literature does not
+provide an established Concentration-Response (C-R) function
+capable of estimating health effects with reasonable certainty and
+(2) those effects that may double-count benefits (e.g., hospital
+admissions for specific cardiovascular illnesses). The direct
+health effects of nitrogen oxide gases and sulfur dioxide gases are
+also unquantified. Although C-R functions are available to estimate
+health effects of exposure to nitrogen oxides
+7
+The ozone season for this analysis is defined as the 5-month
+period from May to September; however, to estimate certain crop
+yield benefits, the modeling results were extended to include
+months outside the 5-month ozone season.
+8
+Based on AIRS, there were 949 ozone monitors with sufficient
+data, i.e., at least 9 hourly observations per day (8 am to 8 pm)
+in a given season.
+9
+The 8 km grid squares contain the population data used in the
+health benefits analysis model, CAPMS. See Section C of this
+chapter for a discussion of this model.
+10
+This approach is a generalization of planar interpolation that
+is technically referred to as enhanced Voronoi Neighbor Averaging
+(EVNA) spatial interpolation (See Abt Associates (2000) for a more
+detailed description).
+and sulfur dioxide gases, these effects were not estimated in
+this analysis because of modeling and resource limitations. The
+health and environmental effects of mercury exposure are also not
+quantified. EPA is currently investigating methods to quantify and
+monetize the human health related benefits of reductions in air
+emissions of mercury. However, there are still major gaps in the
+science of mercury fate, transport, and transformation that make
+such an assessment difficult at time. Methods for mercury benefits
+analyses are still under development and do not yet provide a means
+to estimate the mercury-related benefits of the Clear Skies
+Act.
+Exhibit 4 Human Health Effects of Air Pollutants
+
+Pollutant Quantified Health Effects Unquantified Health
+Effects
+Ozone Minor restricted activity days
+Hospital admissions-Respiratory and Cardiovascular
+Emergency room visits for asthma Asthma attacks Mortality
+Increased airway responsiveness to stimuli Inflammation in the lung
+Chronic respiratory damage / Premature aging
+of the lungs Acute inflammation and respiratory cell damage
+Increased susceptibility to respiratory infection Respiratory
+symptoms Chronic asthma (new cases) Non-asthma respiratory
+emergency room visits
+Particulate Matter (PM10, PM2.5)
+Chronic Premature Mortality* Acute Premature Mortality ‡*
+Bronchitis - Chronic and Acute Hospital admissions -
+Respiratory and
+Cardiovascular Emergency room visits for asthma Lower and Upper
+respiratory illness Asthma Attacks Respiratory symptoms Minor
+restricted activity days** Days of work loss Changes in pulmonary
+function Neonatal mortality Low birth weight Chronic respiratory
+diseases other than
+chronic bronchitis Morphological changes Altered host defense
+mechanisms Moderate or worse asthma status
+(asthmatics) Shortness of breath Lung cancer Acute myocardial
+infarction Cardiac arrhythmias School absence days
+Mercury
+Neurological disorders Learning disabilities Retarded
+development Cerebral palsy
+Cardiovascular effects Altered blood pressure regulation
+Increased heart rate variability Myocardial infarctions
+Damage to the immune system Altered renal function and renal
+hypertrophy Reproductive effects
+Nitrogen Oxides Respiratory illness
+Hospital Admissions -All Respiratory and All Cardiovascular
+Non-asthma respiratory emergency room visits Increased airway
+responsiveness to stimuli Chronic respiratory damage / Premature
+aging of the
+lungs Inflammation of the lung Increased susceptibility to
+respiratory infection
+Acute inflammation and respiratory cell damage
+Sulfur Dioxide
+Hospital Admissions -All Respiratory and All Cardiovascular
+In exercising asthmatics: Chest tightness, Shortness of breath,
+or Wheezing
+Non-asthma respiratory emergency room visits Changes in
+pulmonary function Respiratory symptoms in non-asthmatics
+‡ Quantified as an alternative or supplemental calculation.
+Current uncertainties in our understanding of these effects
+and/or
+concern about double counting of benefits do not support
+including these quantitative estimates in the primary benefits
+estimate. Moderate or Worse Asthma Status is not included in
+Primary Estimate due to concerns of double-counting other asthma
+endpoints.
+* This analysis estimates avoided mortality using PM as an
+indicator of the criteria air pollutant mix to which individuals
+wereexposed.
+** Minor restricted activity days are estimated excluding asthma
+attacks to avoid double counting.
+Exhibit 5 provides a list of the ecological effects associated
+with the emissions targeted by Clear Skies. As stated earlier, most
+of these effects have not been quantified as part of our analysis,
+due to data or modeling limitations. We have, however, monetized
+effects of changes in ambient ozone on some agricultural production
+and changes in particulate matter on visibility.
+Exhibit 5 Ecological Effects of Air Pollutants
+
+
+Pollutant Quantified Effects Unquantified Effects
+Particulate Matter Recreational visibility in Class I areas in
+Recreational visibility for Class I areas in other (PM10, PM2.5)
+California, the Southwest, and the parts of the U.S.
+Southwest Residential visibility
+Ozone Impacts to agriculture (e.g., reduced crop Impacts on
+commercial timber sales yields) Ozone impacts on carbon
+sequestration in commercial timber
+Acidic Deposition
+Impacts to recreational freshwater fishing
+Impacts to commercial forests (e.g., timber, non-timber forest
+products)
+Impacts to commercial freshwater fishing
+Watershed damages (water filtration flood control)
+Impacts to recreation in terrestrial ecosystems (e.g. forest
+aesthetics, nature study)
+Reduced existence value and option values for non-acidified
+ecosystems (e.g. biodiversity values)
+Nitrogen Deposition
+Impacts to commercial fishing, agriculture, and forests
+Watershed damages (water filtration, flood control)
+Impacts to recreation in estuarine ecosystems (e.g. recreational
+fishing, aesthetics, nature study)
+Reduced existence value and option values for non-eutrophied
+ecosystems
+(e.g. biodiversity values)
+Mercury Deposition
+Impacts on birds and mammals (e.g. reproductive effects)
+Impacts to commercial, subsistence, and recreational fishing
+Reduced existence value and option values for ecosystems without
+accumulated mercury (e.g. biodiversity values)
+To estimate health benefits from the Clear Skies Act, we used
+the same general approach used in recent major OAR regulatory
+analyses (U.S. EPA, 1999a, 1999b and 2000b). This approach takes
+the estimates of changes in ambient pollutant concentrations
+predicted by air quality modeling for each scenario (relative to
+the baseline scenario) and converts them into estimates of changes
+in the incidence of adverse health effects using
+concentration-response (C-R) functions. The model we use to
+generate these estimates is the Criteria Air Pollutant Modeling
+System (CAPMS).
+We calculated the benefits attributable to the Clear Skies Act
+as the change in incidence of adverse health effects between the
+control and baseline scenarios. CAPMS estimates incidence changes
+for each health effect within 8 km x 8 km grid cells covering the
+contiguous
+U.S. and generates national health benefits estimates by summing
+the annual incidence changefor each effect across all grid cells.
+CAPMS uses C-R functions specific to each health effect to
+calculate incidences in each grid cell. C-R functions are equations
+that relate the change in the number of individuals in a population
+exhibiting a "response" (in this case an adverse health effect such
+as respiratory disease) to a change in pollutant concentration
+experienced by that population. In general, the C-R functions used
+in CAPMS require four input values: (1) the grid-cell-specific
+change in pollutant concentration; (2) the grid-cell affected
+population (i.e. asthmatic children); (3) the baseline incidence
+rate of the health effects; and (4) an estimate of the change in
+the number of individuals that suffer an adverse health effect per
+unit change in air quality. Both the form of the C-R function and
+the fourth input value are derived from epidemiological studies in
+the scientific literature that link pollutant exposures with
+adverse health effects.
+In addition to our national benefits results, we generated
+regional estimates of the benefits of the Clear Skies Act using the
+same benefits estimation procedure used to generate the national
+estimates. The REMSAD and CAMx air quality models provide
+information on the improvements in ambient air concentrations
+throughout the country within 36 km by 36 km gridboxes. This
+information is used in subsequent exposure, dose-response, and
+valuation steps, including location-specific baseline mortality and
+morbidity risk data to generate locationspecific estimates of
+health benefits. This "bottom-up" approach provides a more accurate
+representation of regional benefits estimates than a comparable
+"top-down", emissions-weighted approach might, particularly given
+the importance of long-range transport for the major pollutants
+controlled by the Clear Skies Act (SO2 and NOx, as well as
+mercury).
+Recreational visibility benefits can also be geographically
+disaggregated, based on either the location of the recreational
+Class I area where visibility is improved, or on the state of
+origin of visitors to these sites. For this analysis, we
+disaggregated benefits based on the state of origin of visitors,
+reflecting the notion that many of the recreational sites with the
+highest visitation rates are valued by individuals throughout the
+country, not only by those individuals who live closest to the
+site. The results of the regional analysis of visibility benefits
+indicate that benefits are realized throughout the country, with a
+higher concentration of benefits in those areas of higher
+population density.
+Exhibit 6 provides a list of the health effect endpoints we
+quantified as part of our analysis of the Clear Skies Act, as well
+as references to the studies that serve as the basis for the C-R
+functions. As with emissions and air quality estimates, our
+estimates of the effect of ambient pollution levels on all of these
+endpoints represent the best science and analytical tools
+available. With the exception of the short-term mortality endpoint,
+the choice of C-R functions and the majority of the analytical
+assumptions used to develop our estimates have been reviewed and
+approved by EPA's Science Advisory Board (SAB). The C-R functions
+in Exhibit 6 only capture effects related to exposures to
+particulate matter and ozone; they do not include human health
+effects related to exposures to SO2, NO2, or mercury. As a result,
+for these exposures, we have underestimated the total health
+benefits attributable to Clear Skies emissions reductions.
+Air Quality Changes
+As in the analysis of the Heavy-Duty Engine/Diesel Fuel Rule
+(U.S. EPA, 2000b), the REMSAD PM and CAMx ozone results discussed
+above served as direct inputs to the CAPMS model. To calculate
+population exposure to PM, each 8 km by 8 km CAPMS grid cell was
+assigned to the nearest REMSAD grid cell by calculating the
+shortest distance between the center of the CAPMS grid cell to the
+center of a REMSAD grid cell.
+To develop baseline and control exposure predictions for ozone,
+we used the results of the variable-grid Comprehensive Air Quality
+Model with Extensions (CAMx) for each scenario and observed ozone
+data for the baseline year (1996). At each ozone monitor, we
+quantified the relationship between CAMx modeled levels of ozone at
+the monitor for 1996 and the future year (2010 or 2020). These
+adjustment ratios are applied to the actual monitoring data to
+generate estimates of ozone levels at the monitor for the future
+scenarios. Note that we do not use the modeling data directly to
+estimate future-year ozone levels. Instead, we use them in a
+relative sense to simply adjust actual, 1996 ozone monitor levels
+to future Base Case or Clear Skies levels. This provides a better
+estimate than the CAMx modeling data itself. To calculate
+population exposure to ozone, each CAPMS grid cell was assigned a
+distance-weighted average of adjusted ozone levels from nearby
+ozone monitors.
+Population
+Health benefits are related to the change in air pollutant
+exposure experienced by individuals; because the expected changes
+in pollutant concentrations vary from location to location,
+individuals in different parts of the country may not experience
+the same level of health benefits. We apportioned benefits among
+individuals by matching the change in air pollutant concentration
+in each grid cell with the size of the population that experiences
+that change. We extrapolated grid cell population estimates for
+future years from 1990 U.S. Census Bureau data according to the
+method described in U.S. EPA (2000b).
+
+
+
+Asthma Attacks PM and Whittemore and Korn (1980) Asthmatics, all
+ages Ozone
+Acute Bronchitis PM Dockery et al. (1996) Children, 8-12
+years
+Upper Respiratory Symptoms PM Pope et al. (1991) Asthmatic
+children, 911
+Lower Respiratory Symptoms PM Schwartz et al. (1994) Children,
+7-14 years
+Work Loss Days PM Ostro (1987) Adults, 18-65 years
+Minor Restricted Activity Days PM and Ostro and Rothschild
+(1989) Adults, 18-65 years (minus asthma attacks) Ozone
+* For a discussion of the procedure for estimating these
+endpoints see USEPA 2000b.
+An epidemiological study typically focuses on a particular age
+cohort (e.g., adults age 30 and older), and the C-R relationship
+found in a particular study can not necessarily be generalized
+across broader age categories. Therefore, to avoid overestimating
+the benefits of reduced pollution levels, we applied C-R
+relationships only to those age groups corresponding to the cohorts
+studied. For outcomes where the study population reflects data
+limitations and not the age-specificity of a health effect, this
+assumption may lead us to underestimate the benefits of reductions
+in pollutant exposures to the entire, exposed population.
+Baseline Incidence Rate
+Some C-R functions (those expressed as a change relative to
+baseline conditions) require baseline incidence data associated
+with ambient levels of pollutants. County mortality rates were used
+in the estimation of PM-related mortality. For hospital admissions,
+national level incidence rates were used. In cases where neither
+county nor national-level incidence rates were available, the
+baseline incidence from the C-R reference study was applied.
+Sources for incidence rates are given in U.S. EPA (2000b).
+Concentration-Response Functions
+We relied on the most recently available, published scientific
+literature to ascertain the relationship between particulate matter
+exposure and adverse human health effects. We evaluated studies
+using the nine selection criteria summarized in Exhibit 7. These
+criteria include consideration of whether the study was
+peer-reviewed, the study design and location, and characteristics
+of the study population, among other considerations. The selection
+of C-R functions for the benefits analysis is guided by the goal of
+achieving a balance between comprehensiveness and scientific
+defensibility. The C-R functions for PM exposure selected for the
+Base Estimate are the same as those the Environmental Protection
+Agency used in the Heavy-Duty Engine/Diesel Fuel RIA. The
+Alternative Estimate uses alternative C-R functions to evaluate the
+effect of short-term exposure to particulate matter on premature
+mortality. We present information below on the selection of C-R
+functions for the two most significant health effects evaluated (in
+terms of monetized benefits), premature mortality and chronic
+bronchitis. Detailed information on the selection and application
+of C-R functions for other endpoints in Exhibit 4 is available in
+the Heavy-Duty Engine/Diesel Fuel RIA (U.S. EPA, 2000b).
+
+
+Exhibit 7 Summary of Considerations Used in Selecting C-R
+Functions
+Consideration Comments
+Peer reviewed research Peer reviewed research is preferred to
+research that has not undergone the peer review process.
+Study type Among studies that consider chronic exposure (e.g.,
+over a year or longer) prospective cohort studies are preferred
+over cross-sectional studies (a.k.a. "ecological studies") because
+they control for important confounding variables that cannot be
+controlled for in cross-sectional studies. If the chronic effects
+of a pollutant are considered more important than its acute
+effects, prospective cohort studies may also be preferable to
+longitudinal time series studies because the latter type of study
+is typically designed to detect the effects of short-term (e.g.
+daily) exposures, rather than chronic exposures. If short-term
+effects are considered more important, distributed lag approaches,
+which assume that mortality following a PM event will be
+distributed over a number of days following the event, are
+preferred over daily mortality studies. (Daily mortality studies
+examine the impact of PM2.5 on mortality on a single day or over
+the average of several days).
+Study period Studies examining a relatively longer period of
+time (and therefore having more data) are preferred, because they
+have greater statistical power to detect effects. More recent
+studies are also preferred because of possible changes in pollution
+mixes, medical care, and life style over time.
+Study population
+Studies examining a relatively large sample are preferred.
+Studies of narrow population groups are generally disfavored,
+although this does not exclude the possibility of studying
+populations that are potentially more sensitive to pollutants
+(e.g., asthmatics, children, elderly). However, there are tradeoffs
+to comprehensiveness of study population. Selecting a C-R function
+from a study that considered all ages will avoid omitting the
+benefits associated with any population age category. However, if
+the age distribution of a study population from an "all population"
+study is different from the age distribution in the assessment
+population, and if pollutant effects vary by age, then bias can be
+introduced into the benefits analysis.
+Study location U.S. studies are more desirable than non-U.S.
+studies because of potential differences in pollution
+characteristics, exposure patterns, medical care system, and life
+style.
+Pollutants included in model Models with more pollutants are
+generally preferred to models with fewer pollutants, though careful
+attention must be paid to potential colinearity between pollutants.
+Because PM has been acknowledged to be an important and pervasive
+pollutant, models that include some measure of PM are highly
+preferred to those that do not.
+Measure of PM PM2.5 and PM10 are preferred to other measures of
+particulate matter, such as total suspended particulate matter
+(TSP), coefficient of haze (COH), or black smoke (BS) based on
+evidence that PM2.5 and PM10 are more directly correlated with
+adverse health effects than are these other measures of PM.
+Economically valuable health Some health effects, such as forced
+expiratory volume and other technical measurements of effects lung
+function, are difficult to value in monetary terms. These health
+effects are not quantified in this analysis.
+Non-overlapping endpoints Although the benefits associated with
+each individual health endpoint may be analyzed separately, care
+must be exercised in selecting health endpoints to include in the
+overall benefits analysis because of the possibility of double
+counting of benefits. Including emergency room visits in a benefits
+analysis that already considers hospital admissions, for example,
+will result in double counting of some benefits if the category
+"hospital admissions" includes emergency room visits.
+Concentration-response relationships between a pollutant and a
+given health endpoint are applied consistently across all locations
+nationwide. This applies to both C-R relationships defined by a
+single C-R function and those defined by a pooling of multiple C-R
+functions. Although the C-R relationship may, in fact, vary from
+one location to another (for example, due to differences in
+population susceptibilities or differences in the composition of
+PM), locationspecific C-R functions are generally not available. A
+single function applied everywhere may result in overestimates of
+incidence changes in some locations and underestimates elsewhere,
+but these location-specific biases will negate each other, to some
+extent, when the total incidence change is calculated. It is not
+possible to know the extent or direction of the bias in the total
+incidence change based on the general application of a single C-R
+function everywhere.
+C-R functions may also be estimated with or without explicit
+thresholds. Air pollution levels below the threshold for each
+health effect studied are assumed not to cause the effect. When no
+threshold is assumed, as is often the case in epidemiological
+studies, any exposure level is assumed to pose a non-zero risk of
+response to at least one segment of the population. In the benefits
+analyses for some recent RIAs (e.g., the Regional Haze RIA and the
+NOx SIP Call RIA), the low-end estimate of benefits assumed a
+threshold in PM health effects at 15 :g/m3. However, the SAB,
+supported by recent literature addressing this issue (Rossi et al.,
+1999; Schwartz, 2000), subsequently advised EPA that there is
+currently no scientific basis for selecting a threshold of 15 :g/m3
+or any other specific threshold for the PM-related health effects
+considered in this analysis (EPA-SAB-Council-ADV-99-012, 1999).
+Therefore, for our benefits analysis, we assume there are no
+thresholds for modeling health effects. We do, however, present a
+quantitative sensitivity analysis of this assumption in the results
+section.
+Recently, the Health Effects Institute (HEI) reported findings
+by investigators at Johns Hopkins University and others that have
+raised concerns about aspects of the statistical methods used in a
+number of recent time-series studies of short-term exposures to air
+pollution and health effects (Greenbaum, 2002a). Some of the
+concentration-response functions used in this benefits analysis
+were derived from such short-term studies. The estimates derived
+from the long-term exposure studies, which account for a major
+share of the benefits in the Base Estimate, are not affected. As
+discussed in HEI materials provided to sponsors and to the Clean
+Air Scientific Advisory Committee (Greenbaum, 2002a, 2002b), these
+investigators found problems in the default "convergence criteria"
+used in Generalized Additive Models (GAM) and a separate issue
+first identified by Canadian investigators about the potential to
+underestimate standard errors in the same statistical package.11
+These and other investigators have begun to reanalyze the results
+of several important time series studies with alternative
+approaches that address these issues and have found a downward
+revision of some results. For example, the mortality risk estimates
+for short-term exposure to PM10 from NMMAPS were overestimated
+(this study was not used in this benefits analysis of fine particle
+effects).12 However, both the relative magnitude and the direction
+of bias introduced by the convergence issue are case-specific. In
+most cases, the concentration-response relationship may be
+overestimated; in other cases, it may be underestimated. The
+preliminary reanalyses of the mortality and morbidity components of
+NMMAPS suggest that analyses reporting the lowest relative risks
+appear to be affected more greatly by this error than studies
+reporting higher relative risks (Dominici et al., 2002; Schwartz
+and Zanobetti, 2002).
+11Most of the studies used a statistical package known as
+"S-plus." For further details, see
+http://www.healtheffects.org/Pubs/NMMAPSletter.pdf.
+12HEI sponsored the multi-city the National Morbidity,
+Mortality, and Air Pollution Study (NMMAPS). See
+http://biosun01.biostat.jhsph.edu/~fdominic/NMMAPS/nmmaps-revised.pdf
+for revised mortality results.
+Our examination of the original studies used in this analysis
+finds that the health endpoints that are potentially affected by
+the GAM issues include: reduced hospital admissions in both the
+Base and Alternative Estimates; reduced lower respiratory symptoms
+in the both the Base and Alternative Estimates; and reduced
+premature mortality due to short-term PM exposures in the
+Alternative Estimate. While resolution of these issues is likely to
+take some time, the preliminary results from ongoing reanalyses of
+some of the studies used in our Clear Skies analyses (Dominici et
+al, 2002; Schwartz and Zanobetti, 2002; Schwartz, personal
+communication 2002) suggest a more modest effect of the S-plus
+error than reported for the NMMAPS PM10 mortality study. While we
+wait for further clarification from the scientific community, we
+have chosen not to remove these results from the Clear Skies
+benefits estimates, nor have we elected to apply any interim
+adjustment factor based on the preliminary reanalyses. EPA will
+continue to monitor the progress of this concern, and make
+appropriate adjustments as further information is made
+available.
+Premature Mortality (Particulate Matter)
+Both long and short-term exposures to ambient levels of air
+pollution have been associated with increased risk of premature
+mortality. The size of the mortality risk estimates from these
+epidemiological studies, the serious nature of the effect itself,
+and the high monetary value ascribed to prolonging life make
+mortality risk reduction the most important health endpoint
+quantified in this analysis. Because of the importance of this
+endpoint and the considerable uncertainty among economists and
+policymakers as to the appropriate way to value reductions in
+mortality risks, this section discusses some of the issues
+surrounding the estimation of premature mortality. Additional
+discussion is found in the section on uncertainties.
+Health researchers have consistently linked air pollution,
+especially PM, with excess mortality. Although a number of
+uncertainties remain to be addressed by continued research (NRC,
+1998), a substantial body of published scientific literature
+recognizes a correlation between elevated PM concentrations and
+increased mortality rates. Two types of community epidemiological
+studies (involving measures of short-term and long-term exposures
+and response) have been used to estimate PM/ mortality
+relationships. Short-term studies relate shortterm (often
+day-to-day) changes in PM concentrations and changes in daily
+mortality rates up to several days after a period of elevated PM
+concentrations. Long-term studies examine the potential
+relationship between longer-term (e.g., one or more years) exposure
+to PM and annual mortality rates. Researchers have found
+significant associations using both types of studies.
+1. Base Estimate
+Over a dozen studies have found significant associations between
+various measures of long-term exposure to PM and elevated rates of
+annual mortality (e.g. Lave and Seskin, 1977; Ozkaynak and
+Thurston, 1987). While most of the published studies found positive
+(but not always significant) associations with available PM indices
+such as total suspended particles (TSP), fine particles components
+(i.e. sulfates), and fine particles, exploration of alternative
+model specifications sometimes found inconsistencies (e.g. Lipfert,
+1989). These early "crosssectional" studies were criticized for a
+number of methodological limitations, particularly for inadequate
+control at the individual level for variables that are potentially
+important in causing mortality, such as wealth, smoking, and diet.
+More recently, several new, long-term studies have been published
+that use improved approaches and appear to be consistent with the
+earlier body of literature. These new "prospective cohort" studies
+reflect a significant improvement over the earlier work because
+they include information on individual information with respect to
+measures related to health status and residence. The most extensive
+study and analyses has been based on data from two prospective
+cohort groups, often referred to as the Harvard "Six-City study"
+(Dockery et al., 1993) and the "American Cancer Society or ACS
+study" (Pope et al., 1995); these studies have found consistent
+relationships between fine particle indicators and mortality across
+multiple locations in the U.S. A third major data set comes from
+the California based 7th day Adventist study (e.g. Abbey et al,
+1999), which reported associations between long-term PM exposure
+and mortality in men. Results from this cohort, however, have been
+inconsistent and the air quality results are not geographically
+representative of most of the US. More recently, a cohort of adult
+male veterans diagnosed with hypertension has been examined
+(Lipfert et al., 2000). Unlike previous long-term analyses, this
+study found some associations between mortality and ozone but found
+inconsistent results for PM indicators.
+Given their consistent results and broad applicability to
+general US populations, the Six-City and ACS data have been of
+particular importance in benefits analyses. The credibility of
+these two studies is further enhanced by the fact that they were
+subject to extensive reexamination and reanalysis by an independent
+scientific analysis team of experts compiled by the Health Effects
+Institute (Krewski et al., 2000). The final results of the
+reanalysis were then independently peer reviewed by a Special Panel
+of the HEI Health Review Committee. The results of these reanalyses
+confirmed and expanded those of the original investigators. This
+intensive independent reanalysis effort was occasioned both by the
+importance of the original findings as well as concerns that the
+underlying individual health effects information has never been
+made publicly available. The HEI re-examination lends credibility
+to the original studies but also found unexpected sensitivities
+concerning (a) which pollutants are most important, (b) the role of
+education in mediating the association between pollution and
+mortality, and (c) the magnitude of the association depending on
+how spatial correlation was handled. Further confirmation and
+extension of the overall findings using more recent air quality and
+ACS health information was recently published in the Journal of the
+American Medical Association (Pope et al., 2002). In general, the
+risk estimates based on the long-term mortality studies are
+substantially greater than those derived from short-term
+studies.
+In developing and improving the methods for estimating and
+valuing the potential reductions in mortality risk over the years,
+EPA has consulted with a panel of the Science Advisory Board. That
+panel recommended use of long-term prospective cohort studies in
+estimating mortality risk reduction (EPA-SAB-COUNCIL-ADV-99-005,
+1999). More specifically, the SAB recommended emphasis on Pope, et
+al. (1995) because it includes a much larger sample size and longer
+exposure interval, and covers more locations (e.g. 50 cities
+compared to 6 cities examined in the Harvard data) than other
+studies of its kind. As explained in the regulatory impact analysis
+for the Heavy-Duty Engine/Diesel Fuel rule (U.S. EPA, 2000b), more
+recent EPA benefits analyses have relied on an improved
+specification from this data set that was developed in the HEI
+reanalysis of this study (Krewski et al., 2000). The particular
+specification estimated a C-R function based on changes in mean
+levels of PM2.5, as opposed to the function in the original study,
+which used median levels. This specification also includes a
+broader geographic scope than the original study (63 cities versus
+50). The SAB has recently agreed with EPA's selection of this
+specification for use in analyzing mortality benefits of PM
+reductions (EPA-SAB-COUNCIL-ADV-01-004, 2001). For these reasons,
+the present analysis uses the same Concentration-Response function
+in developing the Base Estimate of mortality benefits.
+2. Alternative Estimate
+To reflect concerns about the inherent limitations in the number
+of studies supporting a causal association between long-term
+exposure and mortality, an Alternative benefit estimate was derived
+from the large number of time-series studies that have established
+a likely causal relationship between short-term measures of PM and
+daily mortality statistics. A particular strength of such studies
+is the fact that potential confounding variables such as
+socio-economic status, occupation, and smoking do not vary on a
+day-to-day basis in an individual area. A number of multi-city and
+other types of studies strongly suggest that these
+effects-relationships cannot be explained by weather, statistical
+approaches, or other pollutants. The risk estimates from the vast
+majority of the short-term studies include the effects of only one
+or two-day exposure to air pollution. More recently, several
+studies have found that the practice of examining the effects on a
+single day basis may significantly understate the risk of
+short-term exposures (Schwartz, 2000; Zanobetti et al, 2002). These
+studies suggest that the short-term risk can double when the
+single-day effects are combined with the cumulative impact of
+exposures over multiple days to weeks prior to a mortality
+event.
+The fact that the PM-mortality coefficients from the cohort
+studies are far larger than the coefficients derived from the daily
+time-series studies provides some evidence for an independent
+chronic effect of PM pollution on health. Indeed, the Base Estimate
+presumes that the larger coefficients represent a more complete
+accounting of mortality effects, including both the cumulative
+total of short-term mortality as well as an additional chronic
+effect. This is, however, not the only possible interpretation of
+the disparity. Various reviewers have argued that 1) the long-term
+estimates may be biased high and/or 2) the short-term estimates may
+be biased low. In this view, the two study types could be measuring
+the same underlying relationship.
+Reviewers have noted some possible sources of upward bias in the
+long-term studies. Some have noted that the less robust estimates
+based on the Six-Cities Study are significantly higher than those
+based on the more broadly distributed ACS data sets. Some reviewers
+have also noted that the observed mortality associations from the
+1980's and 90's may reflect higher pollution exposures from the
+1950's to 1960's. While this would bias estimates based on more
+recent pollution levels upwards, it also would imply a truly
+long-term chronic effect of pollution.
+With regard to possible sources of downward bias, it is of note
+that the recent studies suggest that the single day time series
+studies may understate the short-term effect on the order of a
+factor of two. These considerations provide a basis for considering
+an Alternative Estimate using the most recent estimates from the
+wealth of time-series studies, in addition to one based on the
+long-term cohort studies.
+In essence, the Alternative Estimate addresses the above noted
+uncertainties about the relationship between premature mortality
+and long-term exposures to ambient levels of fine particles by
+assuming that there is no mortality effect of chronic exposures to
+fine particles. Instead, it assumes that the full impact of fine
+particles on premature mortality can be captured using a
+concentration-response function relating daily mortality to
+short-term fine particle levels. Specifically, a
+concentration-response function based on Schwartz et al. (1996) is
+employed, with an adjustment to account for recent evidence that
+daily mortality is associated with particle levels from a number of
+previous days (Schwartz, 2000). Previous daily mortality studies
+(Schwartz et al., 1996) examined the impact of PM2.5 on mortality
+on a single day or over the average of two or more days. Recent
+analyses have found that impacts of elevated PM2.5 on a given day
+can elevate mortality on a number of following days (Schwartz,
+2000; Samet et al., 2000). Multi-day models are often referred to
+as "distributed lag" models because they assume that mortality
+following a PM event will be distributed over a number of days
+following or "lagging" the PM event. 13
+There are no PM2.5 daily mortality studies which report numeric
+estimates of relative risks from distributed lag models; only PM10
+studies are available. Daily mortality C-R functions for PM10 are
+consistently lower in magnitude than PM2.5-mortality C-R functions,
+because fine particles are believed to be more closely associated
+with mortality than the coarse fraction of PM. Given that the
+emissions reductions under the Clear Skies Act result primarily in
+reduced ambient concentrations of PM2.5, use of a PM10 based C-R
+function results in a significant downward bias in the estimated
+reductions in mortality. To account for the full potential
+multi-day mortality impact of acute PM2.5 events, we use the
+distributed lag model for PM10 reported in Schwartz (2000) to
+develop an adjustment factor which we then apply to the
+PM2.5 based C-R function reported in Schwartz et al. (1996).
+If most of the increase in mortality is expected to be
+associated with the fine fraction of PM10, then it is reasonable to
+assume that the same proportional increase in risk would be
+observed if a distributed lag model were applied to the PM2.5 data.
+The distributed lag adjustment factor is constructed as the ratio
+of the estimated coefficient from the unconstrained distributed lag
+model to the estimated coefficient from the single-lag model
+reported in Schwartz (2000). The unconstrained distributed lag
+model coefficient estimate is 0.0012818 and the single-lag model
+coefficient estimate is 0.0006479. The ratio of these estimates is
+1.9784. This adjustment factor is then multiplied by the estimated
+coefficients from the Schwartz et al. (1996) study. There are two
+relevant coefficients from the Schwartz et al. (1996) study, one
+corresponding to all-cause mortality, and one corresponding to
+chronic obstructive pulmonary disease (COPD) mortality (separation
+by cause is necessary to implement the life years lost approach
+detailed below). The adjusted estimates for these two C-R functions
+are:
+All cause mortality = 0.001489 * 1.9784 = 0.002946
+COPD mortality = 0.003246 * 1.9784 = 0.006422
+Note that these estimates, while approximating the full impact
+of daily pollution levels on daily death counts, do not capture any
+impacts of long-term exposure to air pollution. As discussed
+earlier, EPA's Science Advisory Board, while acknowledging the
+uncertainties in estimation of a PM-mortality relationship, has
+repeatedly recommended the use of a study that
+13 As discussed above, based on recent preliminary findings from
+the Health Effects Institute, the magnitude of mortality from
+shorttern exposure (Alternative Estimate) and hospital/ER
+admissions estimates (both estimates) may be either under or
+overestimated by an uncertain amount.
+does reflect the impacts of long-term exposure. The omission of
+long-term impacts accounts for approximately 40 percent reduction
+in the estimate of avoided premature mortality in the Alternative
+Estimate relative to the Base Estimate.
+Chronic Bronchitis
+Chronic bronchitis is characterized by mucus in the lungs and a
+persistent wet cough for at least three months a year for several
+years in a row. Chronic bronchitis affects an estimated five
+percent of the U.S. population (American Lung Association, 1999). A
+limited number of studies have estimated the impact of air
+pollution on new incidences of chronic bronchitis. Schwartz (1993)
+and Abbey, et al. (1995) provide evidence that long-term PM
+exposure leads to the development of chronic bronchitis in the U.S.
+Following the same approaches of the Heavy-Duty Engine/Diesel Fuel
+RIA (U.S. EPA, 2000b) and the Section 812 Prospective Report (US
+EPA, 1999a), this analysis pooled estimates from these two studies
+to develop a C-R function linking PM to chronic bronchitis. The
+Schwartz (1993) study examined the relationship between exposure to
+PM10 and prevalence of chronic bronchitis. The Abbey, et al. (1995)
+study examined the relationship between PM2.5 and new incidences of
+chronic bronchitis. Both studies have strengths and weaknesses,
+which suggest that pooling the effect estimates from each study,
+may provide a better estimate of the expected change in incidences
+of chronic bronchitis than using either study alone.
+It should be noted that Schwartz used data on the prevalence of
+chronic bronchitis, not its incidence. Following the approach of
+the Section 812 Prospective Report, we estimated the percentage
+change in the prevalence rate for chronic bronchitis using the
+estimated coefficient from Schwartz's study in a C-R function, and
+then applied this percentage change to a baseline incidence rate
+obtained from another source. For example, if the prevalence
+declines by 25 percent with a drop in PM, then baseline incidence
+drops by 25 percent with the same drop in PM.
+Visibility Benefits
+As the name chosen for the Clear Skies Act implies, one of the
+direct consequences of the reductions in fine particles that
+accompany implementation of the SO2 and NOx emissions caps is an
+improvement in atmospheric clarity and visibility. Changes in the
+emissions of SO2 and NOx caused by the Clear Skies Act will change
+the level of visibility in much of the U.S by reducing
+concentrations of sulfate and nitrate particles. Fine particles
+absorb and scatter light, impairing visibility. Visibility directly
+affects people's enjoyment of a variety of daily activities both in
+the places they live and work and in the places they travel to for
+recreation. The Clean Air Act recognizes visibility as an important
+public good in naming visibility as one of the aspects of public
+welfare to be protected in setting secondary NAAQS. In Sections 165
+and 169, the Act places particular value on protecting visibility
+in 156 national parks and wilderness areas (e.g. Shenandoah,
+Acadia, and Grand Canyon) that are termed class I Federal areas. As
+noted above, the REMSAD modeling estimates regional and national
+visibility improvements associated with Clear Skies. As discussed
+in a subsequent section, this analysis also provides partial
+estimates of the potential economic value of these visibility
+improvements.
+A number of related measures can be used to measure changes in
+visibility associated with reduced fine particle concentrations. A
+key such measure is light "extinction," a measure of the amount of
+light scattered and absorbed by particles suspended in air. This
+light scattering and absorption reduces atmospheric clarity and is
+perceived as haze. Changes in fine particulate mass components are
+used directly to estimate changes in extinction. Decreasing
+extinction (in units of inverse distance) can in turn be used to
+estimate quantitative measures more directly related to human
+perception such as contrast of distant targets and visual range.
+More recently, Sisler (1996) created a unitless measure of
+visibility based directly on the degree of measured light
+absorption called the deciview. Deciviews, like the analagous term
+decibel, employ a logarithmic scale to evaluate relative changes in
+visibility that is more directly related to human perception.
+Sisler characterized a change in light extinction of one deciview
+as "a small but perceptible scenic change under many
+circumstances." For this analysis, REMSAD version 6.40 was used to
+predict the change in visibility, measured in deciviews and
+presented graphically, of the areas affected by the Clear Skies
+Act.
+
+
+
+Economic Valuation of Benefits
+The overall approach applied in our estimates of the benefits of
+the Clear Skies Act closely parallels that used in prior EPA
+analyses, including the Section 812 series of Reports to Congress
+(U.S. EPA, 1996 and 1999) and the recent Heavy-Duty Engine/Diesel
+Fuel RIA (U.S. EPA, 2000b). As in those analyses, the EPA has not
+conducted extensive new primary research to measure economic
+benefits for individual rulemakings. As a result, our estimates are
+based on the best available methods of benefits transfer. Benefits
+transfer is the science and art of adapting primary benefits
+research from similar contexts to obtain the most accurate measure
+of benefits for the environmental quality change under analysis.
+Where appropriate, we have made adjustments to existing primary
+research for the level of environmental quality change, the
+sociodemographic and economic characteristics of the affected
+population, and other factors in order to improve the accuracy and
+robustness of benefits estimates.
+In general, economists tend to view an individual's
+willingness-to-pay (WTP) for an improvement in environmental
+quality as the most complete and appropriate measure of the value
+of an environmental or health risk reduction. An individual's
+willingness-to-accept (WTA) compensation for not receiving the
+improvement is also a valid measure. Willingness to pay and
+Willingness to accept are comparable measures when the change in
+environmental quality is small and there are reasonably close
+substitutes available. However, WTP is generally considered to be a
+more readily measurable and conservative measure of benefits.
+Adoption of WTP as the measure of value implies that the value of
+environmental quality improvements is dependent on the individual
+preferences of the affected population and that the existing
+distribution of income (ability to pay) is appropriate.
+Our analysis relies on up-to-date reviews of the relevant
+resource economics literature that provides WTP values for health
+risk reductions and visibility improvements similar to those that
+will be provided by implementation of the Clear Skies Act. Exhibit
+8 provides a summary of the base WTP values used to generate
+estimates of the economic value of avoided health effects for this
+analysis, adjusted to 1999 dollars, and a brief description of the
+basis for these values. Exhibit 9 provides a summary of the
+monetary values for the Alternative Estimate used for economic
+valuation of mortality and chronic bronchitis. For these two
+endpoints, the Alternative Estimate valuation differs from the Base
+Estimate values.
+In the sections that follow, we discuss in greater detail the
+basis for generating WTP for premature mortality risk reductions
+and WTP for reductions in the risk of contracting chronic
+bronchitis and the basis for making adjustments to unit values to
+make them more applicable to the air pollution reductions we
+anticipate from the Clear Skies Act. The mortality and chronic
+bronchitis health endpoints are the most influential in our
+estimation of monetized benefits, because they account for over 95
+percent of the total estimated monetized benefits of the Clear
+Skies Act. In addition, we provide a brief summary of our approach
+to valuing visibility and agricultural yield improvements. Detailed
+descriptions of the basis for other economic valuation methods can
+be found in Chapter VII of EPA's Heavy-Duty Engine/Diesel Fuel RIA
+(U.S. EPA, 2000b).
+Exhibit 8 Unit Values Used for Economic Valuation of Health
+Endpoints
+Estimated Value Health or Welfare Per Incidence
+Endpoint (1999$) Derivation of Estimates Base Estimate
+Premature Mortality
+
+Value is the mean of a generated distribution of WTP to avoid a
+Chronic Bronchitis (Base) $331,000 per case of pollution-related
+CB. WTP to avoid a case of pollution
+2
+caserelated CB is derived by adjusting WTP (as described in
+Viscusi et al., 1991) to avoid a severe case of CB for the
+difference in severity and taking into account the elasticity of
+WTP with respect to severity of CB.
+Cost of Illness (COI) estimate is based on Cropper and Krupnick
+Chronic Bronchitis (Alternative) $107,000 per case (1990).
+
+Hospital Admissions
+Chronic Obstructive Pulmonary Disease (COPD) $12,378 (ICD codes
+490-492, 494-496)
+Pneumonia
+$14,693 Cost of Illness (COI) estimates are based on ICD-9 code
+level(ICD codes 480-487) information (e.g., average hospital care
+costs, average length of hospital stay, and weighted share of total
+COPD category illnesses) Asthma admissions $6,633 reported in
+Elixhauser (1993).
+All Cardiovascular (ICD codes 390-429) $18,387
+All Respiratory Variable
+Dysrhythmia $12,441
+Emergency room visits for $299 COI estimate based on data
+reported by Smith, et al. (1997). asthma
+
+
+Respiratory Ailments Not Requiring Hospitalization
+Upper Respiratory Symptoms $24 per case3 (URS)
+Combinations of the 3 symptoms for which WTP estimates are
+available that closely match those listed by Pope, et al. result in
+7 different "symptom clusters," each describing a "type" of URS. A
+dollar value was derived for each type of URS, using mid-range
+estimates of WTP (IEc, 1994) to avoid each symptom in the cluster
+and assuming WTPs are additive. The dollar value for URS is the
+average of the dollar values for the 7 different types of URS.
+Lower Respiratory Symptoms $15 per case3 (LRS)
+Combinations of the 4 symptoms for which WTP estimates are
+available that closely match those listed by Schwartz, et al.
+result in 11 different "symptom clusters," each describing a "type"
+of LRS. A dollar value was derived for each type of LRS, using
+mid-range estimates of WTP (IEc, 1994) to avoid each symptom in the
+cluster and assuming WTPs are additive. The dollar value for LRS is
+the average of the dollar values for the 11 different types of
+LRS.
+Acute Bronchitis $57 per case3 Average of low and high values
+recommended for use in Section 812 analysis (Neumann, et al.
+1994)
+Exhibit 8 Unit Values Used for Economic Valuation of Health
+Endpoints
+Estimated Value Health or Welfare Per Incidence Derivation of
+Estimates
+Endpoint (1999$) Base Estimate
+
+
+Restricted Activity and Work Loss Days
+Work Loss Days (WLDs) $105.83 per case4 Regionally adjusted
+median weekly wage for 1990 divided by 5 (adjusted to 1999$) (US
+Bureau of the Census, 1992).
+Minor Restricted Activity Days $48 per case3 Median WTP estimate
+to avoid one MRAD from Tolley, et al. (1986). (MRADs)
+1 This value does not reflect the 5-year lag adjustment and the
+adjustment for changes in real income over time that are included
+in the mortality valuation in our national benefits summaries. The
+lag adjustment distributes the mortality incidence over five years
+(25 percent in each of the first two years, and 17 percent for each
+of the remaining years) and discounts mortality benefits over this
+period at a rate of three percent. The adjustment to the mortality
+unit valuation for growth in real income in 2020 is achieved using
+an adjustment factor of 1.278.2 This value does not reflect the
+adjustment for changes in real income over time that is included in
+the chronic bronchitis valuation in our national benefits
+summaries. The adjustment to the chronic bronchitis unit valuation
+for growth in real income in 2020 is achieved using an adjustment
+factor of 1.319. 3 These values do not reflect the adjustment for
+changes in real income over time that is included in the benefit
+valuations in our national benefits summaries. The adjustment to
+the unit valuations of these endpoints for growth in real income in
+2020 is achieved using an adjustment factor of 1.089. 4 The value
+of a Work Loss Day presented here represents the national median.
+The valuation of Work Loss Days presented in our national benefits
+summaries, however, incorporates county-specific adjustment factors
+to account for variations in regional income.
+Valuation of Premature Mortality
+1. Base Estimate
+The monetary benefit of reducing premature mortality risk was
+estimated using the "value of statistical lives saved" (VSL)
+approach, although the actual valuation is of small changes in
+mortality risk experienced by a large number of people. The VSL
+approach applies information from several published value-of-life
+studies, which themselves examine tradeoffs of monetary
+compensation for small additional mortality risks, to determine a
+reasonable benefit of preventing premature mortality. The mean
+value of avoiding one statistical death (i.e., the statistical
+incidence of a single death, equivalent to a product of a
+population risk times a population size that equals one) is
+estimated to be $6 million in 1999 dollars. This represents an
+intermediate value from a range of estimates that appear in the
+economics literature, and it is a value the EPA uses in rulemaking
+support analyses and in the Section 812 Reports to Congress.
+This estimate is the mean of a distribution fitted to the
+estimates from 26 value-of-life studies identified in the Section
+812 reports as "applicable to policy analysis." The approach and
+set of selected studies mirrors that of Viscusi (1992) (with the
+addition of two studies), and uses the same criteria as Viscusi in
+his review of value-of-life studies. The $6 million estimate is
+consistent with Viscusi's conclusion (updated to 1999$) that "most
+of the reasonable estimates of the value of life are clustered in
+the $3.7 to $8.6 million range." Five of the 26 studies are
+contingent valuation (CV) studies, which directly solicit WTP
+information from subjects; the rest are wage-risk studies, which
+base WTP estimates on estimates of the additional compensation
+demanded in the labor market for riskier jobs, controlling for
+other job and employee characteristics such as education and
+experience. As indicated in the previous section on quantification
+of premature mortality benefits, we assume for this analysis that
+some of the incidences of premature mortality related to PM
+exposures occur in a distributed fashion over the five years
+following exposure. To take this into account in the valuation of
+reductions in premature mortality, we apply an annual three percent
+discount rate to the value of premature mortality occurring in
+future years.14
+The economics literature concerning the appropriate method for
+valuing reductions in premature mortality risk is still developing.
+The adoption of a value for the projected reduction in the risk of
+premature mortality is the subject of continuing discussion within
+the economic and public policy analysis community. Regardless of
+the theoretical economic considerations, distinctions in the
+monetary value assigned to the lives saved were not drawn, even if
+populations differed in age, health status, socioeconomic status,
+gender or other characteristics.
+Following the advice of the EEAC of the SAB, the VSL approach
+was used to calculate the Base Estimate of mortality benefits
+(EPA-SAB-EEAC-00-013). While there are several differences between
+the risk context implicit in labor market studies we use to derive
+a VSL estimate and the particulate matter air pollution context
+addressed here, those differences in the affected populations and
+the nature of the risks imply both upward and downward adjustments.
+For example, adjusting for age differences between subjects in the
+economic studies and those affected by air pollution may imply the
+need to adjust the $6 million VSL downward, but the involuntary
+nature of air pollution-related risks and the lower level of
+risk-aversion of the manual laborers in the labor market studies
+may imply the need for upward adjustments. In certain cases, labor
+market studies have not adequately controlled for non-fatal injury
+risks and other unfavorable job attributes (e.g. dirt and noise).
+These factors may increase the estimated risk premium for
+reductions in premature mortality risk.
+Some economists emphasize that the value of a statistical life
+is not a single number relevant for all situations. Indeed, the VSL
+estimate of $6 million (1999 dollars) is itself the central
+tendency of a number of estimates of the VSL for some rather
+narrowly defined populations. When there are significant
+differences between the population affected by a particular health
+risk and the populations used in the labor market studies, as is
+the case here, some economists prefer to adjust the VSL estimate to
+reflect those differences. The CV-based estimates of VSL
+collectively may better represent the population affected by
+pollution than the labor market studies.
+There is general agreement that the value to an individual of a
+reduction in mortality risk can vary based on several factors,
+including the age of the individual, the type of risk, the level of
+control the individual has over the risk, the individual's
+attitudes towards risk, and the health status of the individual.
+While the empirical basis for adjusting the $6 million VSL for many
+of these factors does not yet exist, a thorough discussion of these
+uncertainties is included in EPA's Guidelines for Preparing
+Economic Analyses (U.S. EPA, 2000a). The EPA recognizes the need
+for investigation by the scientific community to develop additional
+empirical support for adjustments to VSL for the factors mentioned
+above.
+14 The choice of a discount rate, and its associated conceptual
+basis, is a topic of ongoing discussion within the federal
+government. We adopted a 3 percent discount rate for our Base
+analysis in this case to reflect reliance on a "social rate of time
+preference" discounting concept. We have also calculated benefits
+using a 7 percent rate consistent with an "opportunity cost of
+capital" concept to reflect the time value of resources directed to
+meet regulatory requirements. In this analysis, the benefit
+estimates were not significantly affected by the choice of discount
+rate. Further discussion of this topic appears in EPA's Guidelines
+for Preparing Economic Analyses, EPA 240-R-00-003, September
+2000.
+As further support for the Base Estimate, the SAB-EEAC advised
+in their recent report that the EPA "continue to use a
+wage-risk-based VSL as its Base Estimate, including appropriate
+sensitivity analyses to reflect the uncertainty of these
+estimates," and that "the only risk characteristic for which
+adjustments to the VSL can be made is the timing of the
+risk"(EPA-SAB-EEAC-00-013). In developing the Base Estimate of the
+benefits of premature mortality reductions, we have discounted over
+the lag period between exposure and premature mortality. However,
+in accordance with the SAB advice, we use the VSL in the Base
+Estimate and present age adjusted values in the tables of
+alternative calculations, Exhibit 12 and 13.
+2. Alternative Estimate
+The Alternative Estimate reflects the impact of changes to key
+assumptions associated with the valuation of mortality. These
+include: 1) the impact of using wage-risk and contingent
+valuation-based value of statistical life estimates in valuing risk
+reductions from air pollution as opposed to contingent
+valuation-based estimates alone, 2) the relationship between age
+and willingness-to-pay for fatal risk reductions, and 3) the degree
+of prematurity in mortalities from air pollution.
+The Alternative Estimate addresses this issue by using an
+estimate of the value of statistical life that is based only on the
+set of five contingent valuation studies included in the larger set
+of 26 studies recommended by Viscusi (1992) as applicable to policy
+analysis. The mean of the five contingent valuation based VSL
+estimates is $3.7 million (1999$), which is approximately 60
+percent of the mean value of the full set of 26 studies.
+The second issue is addressed by assuming that the relationship
+between age and willingness-to-pay for fatal risk reductions can be
+approximated using an adjustment factor derived from Jones-Lee
+(1989). The SAB has advised the EPA that the appropriate way to
+account for age differences is to obtain the values for risk
+reductions from the age groups affected by the risk reduction.
+Several studies have found a significant effect of age on the value
+of mortality risk reductions expressed by citizens in the United
+Kingdom (Jones-Lee et al., 1985; Jones-Lee, 1989; Jones-Lee,
+1993).
+Two of these studies provide the basis to form ratios of the WTP
+of different age cohorts to a base age cohort of 40 years. These
+ratios can be used to provide Alternative age-adjusted estimates of
+the value of avoided premature mortalities. One problem with both
+of the Jones-Lee studies is that they examine VSL for a limited age
+range. They then fit VSL as a function of age and extrapolate
+outside the range of the data to obtain ratios for the very old.
+Unfortunately, because VSL is specified as quadratic in age,
+extrapolation beyond the range of the data can lead to a very
+severe decline in VSL at ages beyond 75.
+A simpler and potentially less biased approach is to simply
+apply a single age adjustment based on whether the individual was
+over or under 65 years of age at the time of death. This is
+consistent with the range of observed ages in the Jones-Lee studies
+and also agrees with the findings of more recent studies by
+Krupnick et al. (2000) that the only significant difference in WTP
+is between the over 70 and under 70 age groups. To correct for the
+potential extrapolation error for ages beyond 70, the adjustment
+factor is selected as the ratio of a 70 year old individual's WTP
+to a 40 year old individual's WTP, which is 0.63, based on the
+Jones-Lee (1989) results and 0.92 based on the Jones-Lee (1993)
+results. To show the maximum impact of the age adjustment, the
+Alternative Estimate is based on the Jones-Lee (1989) adjustment
+factor of 0.63, which yields a VSL of $2.3 million for populations
+over the age of 70. Deaths of individuals under the age of 70 are
+valued using the unadjusted mean VSL value of $3.7 million (1999$).
+Since these are acute mortalities, it is assumed that there is no
+lag between reduced exposure and reduced risk of mortality.
+Jones-Lee and Krupnick may understate the effect of age because
+they only control for income and do not control for wealth. While
+there is no empirical evidence to support or reject hypotheses
+regarding wealth and observed WTP, WTP for additional life years by
+the elderly may in part reflect their wealth position vis a vis
+middle age respondents.
+The third issue is addressed by assuming that deaths from
+chronic obstructive pulmonary disease (COPD) are advanced by 6
+months, and deaths from all other causes are advanced by 5 years.
+These reductions in life years lost are applied regardless of the
+age at death. Actuarial evidence suggests that individuals with
+serious preexisting cardiovascular conditions have a remaining life
+expectancy of around 5 years. While many deaths from daily exposure
+to PM may occur in individuals with cardiovascular disease, studies
+have shown relationships between all cause mortality and PM, and
+between PM and mortality from pneumonia (Schwartz, 2000). In
+addition, recent studies have shown a relationship between PM and
+non-fatal heart attacks, which suggests that some of the deaths due
+to PM may be due to fatal heart attacks (Peters et al., 2001). And,
+a recent meta-analysis has shown little effect of age on the
+relative risk from PM exposure (Stieb et al. 2002), which suggests
+that the number of deaths in non-elderly populations (and thus the
+potential for greater loss of life years) may be significant.
+Indeed, this analysis estimates that 21 percent of non-COPD
+premature deaths avoided are in populations under 65. Thus, while
+the assumption of 5 years of life lost may be appropriate for a
+subset of total avoided premature mortalities, it may over or
+underestimate the degree of life shortening attributable to PM for
+the remaining deaths."
+In order to value the expected life years lost for COPD and
+non-COPD deaths, we need to construct estimates of the value of a
+statistical life year. The value of a life year varies based on the
+age at death, due to the differences in the base VSL between the 65
+and older population and the under 65 population. The valuation
+approach used is a value of statistical life years (VSLY) approach,
+based on amortizing the base VSL for each age cohort. Previous
+applications have arrived at a single value per life year based on
+the discounted stream of values that correspond to the VSL for a 40
+year old worker (U.S. EPA, 1999a). This assumes 35 years of life
+lost is the base value associated with the mean VSL value of $3.7
+million (1999$). The VSLY associated with the $3.7 million VSL is
+$163,000, annualized assuming EPA's guideline value of a 3 percent
+discount rate, or $270,000, annualized assuming OMB's guideline
+value of a 7 percent discount rate. The VSL applied in this
+analysis is then built up from that VSLY by taking the present
+value of the stream of life years, again assuming a 3% discount
+rate. Thus, if you assume that a 40 year-old dying from pneumonia
+would lose 5 years of life, the VSL applied to that death would be
+$0.79 million. For populations over age 65, we then develop a VSLY
+from the age-adjusted base VSL of $2.3 million. Given an assumed
+remaining life expectancy of 10 years, this gives a VSLY of
+$258,000, assuming a 3 percent discount rate. Again, the VSL is
+built based on the present value of 5 years of lost life, so in
+this case, we have a 70 year old individual dying from pneumonia
+losing 5 years of life, implying an estimated VSL of $1.25 million.
+As a final step, these estimated VSL values are multiplied by the
+appropriate adjustment factors to account for changes in WTP over
+time, as outlined above.
+Applying the VSLY approach to the four categories of acute
+mortality results in four separate sets of values for an avoided
+premature mortality based on age and cause of death. Non-COPD
+deaths for populations aged 65 and older are valued at $1.4 million
+per incidence in 2010, and $1.6 million in 2020. Non-COPD deaths
+for populations aged 64 and younger are valued at $0.88 million per
+incidence in 2010, and $1.0 million in 2020. COPD deaths for
+populations aged 65 and older are valued at $0.15 million per
+incidence in 2010, and $0.17 million in 2020. Finally, COPD deaths
+for populations aged 64 and younger are valued at $0.096 million
+per incidence in 2010, and $0.11 million in 2020. The implied VSL
+for younger populations is less than that for older populations
+because the value per life year is higher for older populations.
+Since we assume that there is a 5-year loss in life years for a PM
+related mortality, regardless of the age of person dying, this
+necessarily leads to a lower VSL for younger populations.
+Valuation of Avoided Cases of Chronic Bronchitis
+1. Base Estimate
+The best available estimate of WTP to avoid a case of chronic
+bronchitis (CB) comes from Viscusi, et al. (1991). The Viscusi, et
+al. study, however, describes a severe case of CB to the survey
+respondents. We therefore employ an estimate of WTP to avoid a
+pollution-related case of CB, based on adjusting the Viscusi, et
+al. (1991) estimate of the WTP to avoid a severe case. This is done
+to account for the likelihood that an average case of
+pollution-related CB is not as severe. The adjustment is made by
+applying the elasticity of WTP with respect to severity reported in
+the Krupnick and Cropper (1992) study. Details of this adjustment
+procedure can be found in the Heavy-Duty Engine/Diesel Fuel RIA and
+its supporting documentation, and in the most recent Section 812
+study (EPA 1999).
+We use the mean of a distribution of WTP estimates as the
+central tendency estimate of WTP to avoid a pollution-related case
+of CB in this analysis. The distribution incorporates uncertainty
+from three sources: (1) the WTP to avoid a case of severe CB, as
+described by Viscusi, et al.; (2) the severity level of an average
+pollution-related case of CB (relative to that of the case
+described by Viscusi, et al.); and (3) the elasticity of WTP with
+respect to severity of the illness. Based on assumptions about the
+distributions of each of these three uncertain components, we
+derive a distribution of WTP to avoid a pollution-related case of
+CB by statistical uncertainty analysis techniques. The expected
+value (i.e., mean) of this distribution, which is about $331,000
+(1999$), is taken as the central tendency estimate of WTP to avoid
+a PM-related case of CB.
+2. Alternative Estimate
+For the Alternative Estimate, a cost-of illness value is used in
+place of willingness-to-pay to reflect uncertainty about the value
+of reductions in incidences of chronic bronchitis. In the Base
+Estimate, the willingness-to-pay estimate was derived from two
+contingent valuation studies (Viscusi et al., 1991; Krupnick and
+Cropper, 1992). These studies were experimental studies intended to
+examine new methodologies for eliciting values for morbidity
+endpoints. Although these studies were not specifically designed
+for policy analysis, the SAB (EPA-SAB-COUNCIL-ADV-00-002, 1999) has
+indicated that the severity-adjusted values from this study provide
+reasonable estimates of the WTP for avoidance of chronic
+bronchitis. As with other contingent valuation studies, the
+reliability of the WTP estimates depends on the methods used to
+obtain the WTP values. In order to investigate the impact of using
+the CV based WTP estimates, the Alternative Estimate relies on a
+value for incidence of chronic bronchitis using a cost-of-illness
+estimate based Cropper and Krupnick (1990) which calculates the
+present value of the lifetime expected costs associated with the
+illness. The current cost-of-illness (COI) estimate for chronic
+bronchitis is around $107,000 per case, compared with the current
+WTP estimate of $330,000.
+Valuation of Changes in Visibility
+Estimating benefits for visibility is a more difficult and less
+precise exercise than estimating health benefits because the
+endpoints are not directly or indirectly valued in markets. The
+contingent valuation (CV) method has been employed in the economics
+literature to value endpoint changes for visibility (Chestnut and
+Rowe, 1990a, 1990b; Chestnut and Dennis, 1997). The CV method
+values endpoints by using carefully structured surveys to ask a
+sample of people what amount of compensation is equivalent to a
+given change in environmental quality. There is an extensive
+scientific literature and body of practice on both the theory and
+technique of CV. The EPA believes that well-designed and
+well-executed CV studies are valid for estimating the benefits of
+air quality regulation. 15
+Individuals value visibility both in the places they live and
+work (referred to as residential visibility), and in the places
+they travel to for recreational purposes (referred to as
+recreational visibility). Although CV studies that address both
+types of visibility exist, in our analysis we rely only on
+recreational visibility studies, as explained further below.
+We considered benefits from two categories of visibility
+changes: residential visibility and recreational visibility.
+Residential visibility benefits are those that occur from
+visibility changes in urban, suburban, and rural areas, and also in
+recreational areas not listed as federal Class I areas.16 For the
+purposes of this analysis, recreational visibility improvements are
+defined as those that occur specifically in federal Class I areas.
+A key distinction between recreational and residential benefits is
+that only those people living in residential areas are assumed to
+receive benefits from residential visibility, while all households
+in the U.S. are assumed to derive some benefit from improvements in
+Class I areas.
+Only two existing studies provide defensible monetary estimates
+of the value of visibility
+15Concerns about the reliability of value estimates from CV
+studies arose because research has shown that bias can be
+introduced easily into these studies if they are not carefully
+conducted. Accurately measuring WTP for avoided health and welfare
+losses depends on the reliability and validity of the data
+collected. There are several issues to consider when evaluating
+study quality, including but not limited to 1) whether the sample
+estimates of WTP are representative of the population WTP; 2)
+whether the good to be valued is comprehended and accepted by the
+respondent; 3) whether the WTP elicitation format is designed to
+minimize strategic responses; 4) whether WTP is sensitive to
+respondent familiarity with the good, to the size of the change in
+the good, and to income; 5) whether the estimates of WTP are
+broadly consistent with other estimates of WTP for similar goods;
+and 6) the extent to which WTP responses are consistent with
+established economic principles.
+16
+The Clean Air Act designates 156 national parks and wilderness
+areas as Class I areas for visibility protection.
+changes. One is a study on residential visibility conducted in
+1990 (McClelland, et. al., 1993) and the other is a 1988 survey on
+recreational visibility value (Chestnut and Rowe, 1990a; 1990b).
+Both utilize the contingent valuation method. There has been a
+great deal of controversy and significant development of both
+theoretical and empirical knowledge about how to conduct CV surveys
+in the past decade. In EPA's judgment, the Chestnut and Rowe study
+contains many of the elements of a valid CV study and is
+sufficiently reliable to serve as the basis for monetary estimates
+of the benefits of visibility changes in recreational areas.17 This
+study serves as an essential input to our estimates of the benefits
+of recreational visibility improvements. Consistent with SAB
+advice, the EPA has designated the McClelland, et al. study as
+significantly less reliable for regulatory benefit-cost analysis,
+although it does provide useful estimates on the order of magnitude
+of residential visibility benefits (EPA-SAB-COUNCIL-ADV-00-002,
+1999). Residential visibility benefits are therefore only included
+as part of our sensitivity tests. The methods for this calculation
+are similar to the procedure for recreational benefits.
+The Chestnut and Rowe study measured the demand for visibility
+in Class I areas managed by the National Park Service (NPS) in
+three broad regions of the country: California, the Southwest, and
+the Southeast. Respondents in five states were asked about their
+willingness to pay to protect national parks or NPS-managed
+wilderness areas within a particular region. The survey used
+photographs reflecting different visibility levels in the specified
+recreational areas. The visibility levels in these photographs were
+later converted to deciviews for the current analysis. The survey
+data collected were used to estimate a WTP equation for improved
+visibility. In addition to the visibility change variable, the
+estimating equation also included household income as an
+explanatory variable.
+The Chestnut and Rowe study did not measure values for
+visibility improvement in Class I areas outside the three regions.
+Their study covered 86 of the 156 Class I areas in the U.S. We can
+infer the value of visibility changes in the other Class I areas by
+transferring values of visibility changes at Class I areas in the
+study regions. However, these values are not as defensible and are
+thus presented only as a sensitivity calculation.
+The estimated relationship from the Che stnut and Rowe study is
+only directly applicable to the populations represented by survey
+respondents. We used benefits transfer methods to extrapolate these
+results to the population affected by the Clear Skies Act. A
+general willingness
+17
+An SAB advisory letter indicates that "many members of the
+Council believe that the Chestnut and Rowe study is the best
+available." (EPA-SAB-COUNCIL-ADV-00-002, 1999) However, the
+committee did not formally approve use of these estimates because
+of concerns about the peer-reviewed status of the study. EPA
+believes the study has received adequate review and has been cited
+in numerous peerreviewed publications (Chestnut and Dennis,
+1997).
+to pay equation for improved visibility (measured in deciviews)
+was developed as a function of the baseline level of visibility,
+the magnitude of the visibility improvement, and household income.
+The behavioral parameters of this equation were taken from analysis
+of the Chestnut and Rowe data. These parameters were used to
+calibrate WTP for the visibility changes resulting from the Clear
+Skies Act. The method for developing calibrated WTP functions is
+based on the approach developed by Smith, et al. (1999). Available
+evidence indicates that households are willing to pay more for a
+given visibility improvement as their income increases (Chestnut,
+1997). The benefits estimates here incorporate Chestnut's estimate
+that a one percent increase in income is associated with a 0.9
+percent increase in WTP for a given change in visibility.
+For the sensitivity test calculation for residential visibility,
+the McClelland, et al. study's results were used to calculate the
+parameter to measure the effect of deciview changes on WTP. The WTP
+equation was then run for the population affected by the Clear
+Skies Act.
+Agricultural Benefits
+The Ozone Criteria Document notes that "ozone affects vegetation
+throughout the United States, impairing crops, native vegetation,
+and ecosystems more than any other air pollutant" (US EPA, 1996).
+Reduced levels of ground-level ozone resulting from the final Clear
+Skies Act will have generally beneficial results on agricultural
+crop yields and commercial forest growth. Welldeveloped techniques
+exist to provide monetary estimates of these benefits to
+agricultural producers and consumers. These techniques use models
+of planting decisions, yield response functions, and agricultural
+product supply and demand. The resulting welfare measures are based
+on predicted changes in market prices and production costs.
+Laboratory and field experiments have shown reductions in yields
+for agronomic crops exposed to ozone, including vegetables (e.g.,
+lettuce) and field crops (e.g., cotton and wheat). The most
+extensive field experiments, conducted under the National Crop Loss
+Assessment Network (NCLAN), examined 15 species and numerous
+cultivars. The NCLAN results show that "several economically
+important crop species are sensitive to ozone levels typical of
+those found in the U.S." (US EPA, 1996). In addition, economic
+studies have shown a relationship between observed ozone levels and
+crop yields (Garcia, et al., 1986).
+To estimate changes in crop yields, we used biological
+exposure-response information derived from controlled experiments
+conducted by the NCLAN (NCLAN, 1996). For the purpose of our
+analysis, we analyze changes for the six most economically
+significant crops for which C-R functions are available: corn,
+cotton, peanuts, sorghum, soybean, and winter wheat.18 For some
+crops there are multiple C-R functions, some more sensitive to
+ozone and some less. Our estimate assumes that crops are evenly
+mixed between relatively sensitive and relatively insensitive
+varieties.
+We analyzed the economic value associated with varying levels of
+yield loss for ozonesensitive commodity crops using the AGSIM©
+agricultural benefits model (Taylor, et al., 1993). AGSIM© is an
+econometric-simulation model that is based on a large set of
+statistically
+18 The total value for these crops in 1998 was $47 billion.
+40
+estimated demand and supply equations for agricultural
+commodities produced in the United States. The model is capable of
+analyzing the effects of changes in policies that affect commodity
+crop yields or production costs.19
+The measure of benefits calculated by the model is the net
+change in consumer and producer surplus from baseline ozone
+concentrations to the ozone concentrations resulting from
+attainment of particular standards. Using the baseline and
+post-control equilibria, the model calculates the change in net
+consumer and producer surplus on a crop-by-crop basis.20 Dollar
+values are aggregated across crops for each standard. The total
+dollar value represents a measure of the change in social welfare
+associated with implementation of the Clear Skies Act.
+Adjustments for Changes in Income Over Time
+Recent SAB deliberations on mortality and morbidity valuation
+approaches suggest that some adjustments to unit values are
+appropriate to reflect economic theory (EPA-SAB-EEAC-00-013, 2000).
+As noted above, we apply one adjustment by discounting lagged
+mortality incidence effects. A second adjustment is conducted as
+part of the mortality, morbidity, and visibility valuation
+procedures to incorporate the effect of changes in income over time
+on WTP. To estimate the effects of changes in income over time we
+use a procedure originally outlined in Appendix H of the Section
+812 Prospective Report to Congress (EPA 1999). That procedure uses
+per capita income estimates generated from Federal Government
+projections of income and population growth, and applies three
+different income elasticities for mortality, severe morbidity, and
+light symptom effects.21
+Benefits for each of the categories - minor health effects,
+severe and chronic health effects (which include chronic bronchitis
+and premature mortality), and visibility - were adjusted by
+multiplying the unadjusted benefits by the appropriate adjustment
+factor, listed in Exhibit 10 below.
+19AGSIM© is designed to forecast agricultural supply and demand
+out to 2010. We were not able to adapt the model to forecast out to
+2020. Instead, we apply percentage increases in yields from
+decreased ambient ozone levels in 2020 to 2010 yield levels, and
+input these into an agricultural sector model held at 2010 levels
+of demand and supply. It is uncertain what impact this assumption
+will have on net changes in surplus.
+20 Agricultural benefits differ from other health and welfare
+endpoints in the length of the assumed ozone season. For
+agriculture, the ozone season is assumed to extend from April to
+September. This assumption is made to ensure proper calculation of
+the ozone statistic used in the exposure-response functions. The
+only crop affected by changes in ozone during April is winter
+wheat.
+21 Note that the Environmental Economics Advisory Committee
+(EEAC) of the SAB advised EPA to adjust WTP for increases in real
+income over time, but not to adjust WTP to account for
+cross-sectional income differences "because of the sensitivity of
+making such distinctions, and because of insufficient evidence
+available at present" (EPA-SAB-EEAC-00-013).
+Exhibit 10 Adjustment Factors Used to Account for Projected Real
+Income Growth through 2010 and 2020
+Benefit Adjustment Factor Adjustment Factor Category (2010)
+(2020)
+Minor Health Effect 1.038 1.089
+Severe and Chronic Health Effects 1.127 1.319
+Premature Mortality 1.112 1.278
+Visibility 1.272 1.758
+The procedure used to develop these adjustment factors is
+described in more detail in the Heavy-Duty Engine/Diesel Fuel RIA
+(U.S. EPA, 2000b). Also note that no adjustments were made to
+benefits based on the cost-of-illness approach or to work loss
+days. This assumption will also lead us to underpredict benefits
+since it is likely that increases in real U.S. income would also
+result in increased cost-of-illness (due, for example, to increases
+in wages paid to medical workers) and increased cost of work loss
+days (reflecting that if worker incomes are higher, the losses
+resulting from reduced worker production would also be higher). The
+result of applying these adjustment factors is an updated set of
+unit economic values used in the valuation step. We summarize these
+adjusted values in Exhibit 11.
+42
+Endpoint Pollutant Valuation per case Valuation per case (2010
+mean est.) (2020 mean est.)
+
+
+
+1 This value reflects both the 5-year lag adjustment and the
+adjustments for changes in real income over time that are included
+in the mortality valuation in our national benefits summaries. The
+lag adjustment distributes the mortality incidence over five years
+(25 percent in each of the first two years, and 17 percent for each
+of the remaining years) and discounts mortality benefits over this
+period at a rate of three percent. The adjustment to the mortality
+unit valuation for growth in real income in 2010 is achieved using
+an adjustment factor of 1.112. For 2020, the adjustment factor is
+1.278. 2 This value reflects the adjustment for changes in real
+income over time that is included in the chronic bronchitis
+valuation in our national benefits summaries. The adjustment to the
+chronic bronchitis unit valuation for growth in real income in 2010
+is achieved using an adjustment factor of 1.127. For 2020, the
+adjustment factor is 1.319. 3 These values reflect the adjustment
+for changes in real income over time that is included in the
+benefit valuations in our national benefits summaries. The
+adjustment to the unit valuations of these endpoints for growth in
+real income in 2010 is achieved using an adjustment factor of
+1.038. For 2020, the adjustment factor is 1.089. 4 The value of a
+Work Loss Day presented here represents the national median. The
+valuation of Work Loss Days presented in our national benefits
+summaries, however, incorporates county-specific adjustment factors
+to account for variations in regional income.
+Totals may not sum due to rounding.
+
+
+
+III. MAJOR UNCERTAINTIES IN BENEFITS ANALYSIS
+The estimates of avoided health effects, improved visibility,
+and monetary benefits of the Clear Skies Act are based on a method
+that reflects peer-reviewed data, models, and approaches that are
+applied to support EPA rulemakings and generate Reports to Congress
+on the benefits of air pollution regulation. Although EPA has made
+a concerted effort to apply well-accepted methods, there remain
+significant uncertainties in the estimation of these benefits.
+There are three types of uncertainty that affect these
+estimates:
+
+In the remainder of this section, we discuss the major sources
+of each of these three categories of uncertainty related to the
+estimate of avoided health effects, avoided ecological effects, and
+monetary valuation of these benefits. Our analysis of the Clear
+Skies Act has not included formal uncertainty analyses, although we
+have conducted several sensitivity tests and have analyzed a full
+Alternative Estimate.
+
+
+Uncertainties Associated with Health Benefit Estimates
+Within-Study Variation
+Within-study variation refers to the precision with which a
+given study estimates the relationship between air quality changes
+and health effects. Health effects studies provide both a "best
+estimate" of this relationship plus a measure of the statistical
+uncertainty of the relationship. This size of this uncertainty
+depends on factors such as the number of subjects studied and the
+size of the effect being measured. The results of even the most
+well designed epidemiological studies are characterized by this
+type of uncertainty, though well-designed studies typically report
+narrower uncertainty bounds around the best estimate than do
+studies of lesser quality. In selecting health endpoints, we
+generally focus on endpoints where a statistically significant
+relationship has been observed, which by definition assures a
+reasonably
+44
+tight confidence interval around the best estimate of the mean
+concentration-response relationship.
+Across-study Variation
+Across-study variation refers to the fact that different
+published studies of the same pollutant/health effect relationship
+typically do not report identical findings; in some instances the
+differences are substantial. These differences can exist even
+between equally reputable studies and may result in health effect
+estimates that vary considerably. Across-study variation can result
+from two possible causes. One possibility is that studies report
+different estimates of the single true relationship between a given
+pollutant and a health effect due to differences in study design,
+random chance, or other factors. For example, a hypothetical study
+conducted in New York and one conducted in Seattle may report
+different C-R functions for the relationship between PM and
+mortality, in part because of differences between these two study
+populations (e.g., demographics, activity patterns). Alternatively,
+study results may differ because these two studies are in fact
+estimating different relationships; that is, the same reduction in
+PM in New York and Seattle may result in different reductions in
+premature mortality. This may result from a number of factors, such
+as differences in the relative sensitivity of these two populations
+to PM pollution and differences in the composition of PM in these
+two locations.22 In either case, where we identified multiple
+studies that are appropriate for estimating a given health effect,
+we generated a pooled estimate of results from each of those
+studies.
+Application of C-R Relationship Nationwide
+Whether this analysis estimated the C-R relationship between a
+pollutant and a given health endpoint using a single function from
+a single study or using multiple C-R functions from several
+studies, each C-R relationship was applied uniformly throughout the
+U.S. to generate health benefit estimates. However, to the extent
+that pollutant/health effect relationships are region-specific,
+applying a location-specific C-R function at all locations in the
+U.S. may result in overestimates of health effect changes in some
+locations and underestimates of health effect changes in other
+locations. It is not possible, however, to know the extent or
+direction of the overall effect on health benefit estimates
+introduced by application of a single C-R function to the entire
+U.S. This may be a significant uncertainty in the analysis, but the
+current state of the scientific literature does not allow for a
+region-specific estimation of health benefits.
+Uncertainties in the PM Mortality Relationship
+Health researchers have consistently linked air pollution,
+especially PM, with excess mortality. A substantial body of
+published scientific literature recognizes a correlation between
+elevated PM concentrations and increased mortality rates. However,
+there is much about this relationship that is still uncertain.23
+These uncertainties include:
+22 PM is a mix of particles of varying size and chemical
+properties. The composition of PM can vary considerably from one
+region to another depending on the sources of particulate emissions
+in each region.
+23The morbidity studies used in the Clear Skies Act benefits
+analysis may also be subject to many of the uncertainties listed in
+this section.
+
+24 Much of this literature is summarized in the 1996 PM Criteria
+Document (US EPA, 1996a). There is much about this relationship
+that is still uncertain. As stated in preamble to the 1997 PM
+National Ambient Air Quality Standards (40 CFR 50, 1997), "the
+consistency of the results of the epidemiological studies from a
+large number of different locations and the coherent nature of the
+observed effects are suggestive of a likely causal role of ambient
+PM in contributing to the reported effects," which include
+premature mortality. The National Academy of Sciences, in their
+report on research priorities for PM (NAS, 1998), indicates that
+"there is a great deal of uncertainty about the implications of the
+findings [of an association between PM and premature mortality] for
+risk management, due to the limited scientific information about
+the specific types of particles that might cause adverse health
+effects, the contributions of particles of outdoor origin to actual
+human exposures, the toxicological mechanisms by which the
+particles might cause adverse health effects, and other important
+questions." EPA acknowledges these uncertainties; however, for this
+analysis, we assume a causal relationship between exposure to
+elevated PM and premature mortality, based on the consistent
+evidence of a correlation between PM and mortality reported in the
+scientific literature.
+46
+relationship independent of that for PM. However, most of the
+studies examined by Ito and Thurston only controlled for PM10 or
+broader measures of particles and did not directly control for
+PM2.5. As such, there may still be potential for confounding of
+PM2.5 and ozone mortality effects, as ozone and PM2.5 are highly
+correlated during summer months in some areas.25 In its September
+2001 advisory on the draft analytical blueprint for the second
+Section 812 prospective analysis, the SAB cited the Thurston and
+Ito study as a significant advance in understanding the effects of
+ozone on daily mortality and recommended re-evaluation of the ozone
+mortality endpoint for inclusion in the next prospective study
+(EPA-SAB-COUNCIL-ADV-01-004, 2001). Thus, recent evidence suggests
+that by not including an estimate of reductions in short-term
+mortality due to changes in ambient ozone, both the Base and
+Alternative Estimates may underestimate the benefits of
+implementation of the Clear Skies Act.
+C Shape of the C-R Function. The shape of the true PM mortality
+C-R function is uncertain, but this analysis assumes the C-R
+function to have a log-linear form (as derived from the literature)
+throughout the relevant range of exposures. If this is not the
+correct form of the C-R function, or if certain scenarios predict
+concentrations well above the range of values for which the C-R
+function was fitted, avoided mortality may be misestimated.
+C Regional Differences. As discussed above, significant
+variability exists in the results of different PM/mortality
+studies. This variability may reflect regionally specific C-R
+functions resulting from regional differences in factors such as
+the physical and chemical composition of PM. If true regional
+differences exist, applying the PM/Mortality C-R function to
+regions outside the study location could result in mis-estimation
+of effects in these regions.
+C Exposure/Mortality Lags. It is currently unknown whether there
+is a time lag -- a delay between changes in PM exposures and
+changes in mortality rates -- in the chronic PM/mortality
+relationship. The existence of such a lag is important for the
+valuation of premature mortality incidence because economic theory
+suggests that benefits occurring in the future should be
+discounted. There is no specific scientific evidence of the
+existence or structure of a PM effects lag. However, current
+scientific literature on adverse health effects similar to those
+associated with PM (e.g., smoking-related disease) and the
+difference in the effect size between chronic exposure studies and
+daily mortality studies suggest that all incidences of premature
+mortality reduction associated with a given incremental change in
+PM exposure probably would not occur in the same year as the
+exposure reduction. The smoking-related literature also implies
+that lags of up to a few years are plausible. Adopting the lag
+structure used in the Tier 2/Gasoline Sulfur and Heavy-Duty
+Engine/Diesel Fuel RIAs and endorsed by the SAB
+(EPA-SAB-COUNCIL-ADV-00-001, 1999), we assume a five-year lag
+structure. This approach assumes that 25 percent of PM-related
+premature deaths occur in each of the first two years after the
+exposure and the rest occur in equal parts (approximately 17%) in
+each of the ensuing three years.
+C Cumulative Effects. As a general point, we attribute the
+PM/mortality relationship in the
+25 Short-term ozone mortality risk estimates may also be
+affected by the statistical issue discovered by the Health Effects
+Institute (Greenbaum, 2002a). See page 24 for a more detailed
+discussion of this issue.
+underlying epidemiological studies to cumulative exposure to PM.
+However, the relative roles of PM exposure duration and PM exposure
+level in inducing premature mortality remain unknown at this
+time.
+
+
+Uncertainties Associated with Environmental and Ecosystem
+Effects Estimation
+Our analysis of the Clear Skies Act includes a quantitative
+estimate of only two environmental effects: recreational visibility
+and ozone effects on agriculture. Scientific studies, however, have
+reliably linked atmospheric emissions of sulfur, nitrogen, and
+mercury to a much wider range of other environmental and ecological
+effects. Some of these effects are acute in nature, and some are
+longer-term and could take many years to manifest. The effects
+include the following:
+
+These effects are left unquantified for a variety of reasons,
+but mostly because of the complexity of modeling these effects and
+the major uncertainties in reliably quantifying the incremental
+effects of atmospheric emissions reductions on ecological
+endpoints.
+Individually, many of these environmental effects may be
+relatively small in terms of their overall ecosystem and monetary
+importance, particularly in the near-term. Their cumulative and
+longer term effects, however, some of which may be largely unknown
+at this time, may be substantial. As a result, the omission of this
+broad class of benefits from our quantitative results likely causes
+our estimates to substantially understate the total benefits of the
+Clear Skies Act.
+48
+
+
+Uncertainties Associated with Economic Valuation of
+Benefits
+Economic valuation of benefits often involves estimation of the
+willingness-to-pay of individuals to avoid harmful health or
+environmental effects. In most cases, there are no markets in which
+to directly observe WTP for these types of commodities. In some
+cases, we can rely on indirect market transactions, such as the
+implicit tradeoff of wages for on-the-job mortality risk among the
+working population, to estimate WTP. In other cases, we must rely
+on survey approaches to estimate WTP, usually through a variant of
+the contingent valuation approach, which generally involves
+directly questioning respondents for their WTP in hypothetical
+market situations. Regardless of the method used to estimate WTP,
+there are measurement errors, data inadequacies, and ongoing
+debates about the best practices for each method that contribute to
+the overall uncertainty of economic estimates.
+General Benefits Transfer Considerations
+For the Clear Skies benefits analysis, we do not have the time
+or resources to conduct primary economic research targeted at the
+specific air pollution-related benefits provided. As a result, we
+rely on the transfer of benefits estimates from existing studies.
+The conduct of "benefits transfer" exercises necessarily involves
+some uncertainties. These uncertainties can be reduced by careful
+consideration of the differences in the health risk or air
+pollution commodity and the study populations in the underlying
+economic literature versus the context of benefits conferred by the
+Clear Skies Act. For example, we make adjustments to the mortality
+valuation estimates to account for the estimated lag between
+exposure and manifestation of the effect, reflecting the basic
+economic tenet that individuals prefer benefits that occur sooner
+to those that occur later. We also make adjustments to account for
+expected changes in WTP over time as per capita income increases.
+We cannot adjust for all benefits transfer considerations, however,
+thus introducing additional uncertainty into our estimates.
+Lack of Adequate Data or Methods
+The lack of adequate data or methods to characterize WTP results
+in our inability to present monetized benefits of some categories
+of effects. For example, while studies exist that estimate the
+benefits of visibility improvements to individuals in the places
+they reside, these residential visibility studies are considered by
+some in the resource economics community to be less reliable
+because of the methods applied. In the case of residential
+visibility, we conduct sensitivity analyses to estimate the impact
+of this uncertainty in the reliability of methods. To the extent
+effects such as these represent categories of benefits that are
+truly valuable to the U.S. population, we have underestimated the
+total benefits of the Clear Skies Act.
+Uncertainties Specific to Premature Mortality Valuation
+The economic benefits associated with premature mortality are
+the largest category of monetized benefits of the Clear Skies
+Act.26 In addition, in prior analyses EPA has identified valuation
+of mortality benefits as the largest contributor to the range of
+uncertainty in monetized
+26As noted in the methods section, it is actually reductions in
+mortality risk that are valued in a monetized benefit analysis.
+Individual WTPs for small reductions in mortality risk are summed
+over enough individuals to infer the value of a statistical life
+saved. This is different from the value of a particular, identified
+life saved. The "value of a premature death avoided," then, should
+be understood as shorthand for "the value of a statistical
+premature death avoided."
+benefits (see USEPA 1999a). Because of the uncertainty in
+estimates of the value of premature mortality avoidance, it is
+important to adequately characterize and understand the various
+types of economic approaches available for mortality valuation.
+Such an assessment also requires an understanding of how
+alternative valuation approaches reflect that some individuals may
+be more susceptible to air pollution-induced mortality, or reflect
+differences in the nature of the risk presented by air pollution
+relative to the risks studied in the relevant economic
+literature.
+The health science literature on air pollution indicates that
+several human characteristics affect the degree to which mortality
+risk affects an individual. For example, some age groups appear to
+be more susceptible to air pollution than others (e.g., the elderly
+and children). Health status prior to exposure also affects
+susceptibility. At risk individuals include those who have suffered
+strokes or are suffering from cardiovascular disease and angina
+(Rowlatt, et al. 1998). An ideal benefits estimate of mortality
+risk reduction would reflect these human characteristics, in
+addition to an individual's willingness to pay (WTP) to improve
+one's own chances of survival plus WTP to improve other
+individuals' survival rates.27 The ideal measure would also take
+into account the specific nature of the risk reduction commodity
+that is provided to individuals, as well as the context in which
+risk is reduced. To measure this value, it is important to assess
+how reductions in air pollution reduce the risk of dying from the
+time that reductions take effect onward, and how individuals value
+these changes. Each individual's survival curve, or the probability
+of surviving beyond a given age, should shift as a result of an
+environmental quality improvement. For example, changing the
+current probability of survival for an individual also shifts
+future probabilities of that individual's survival. This
+probability shift will differ across individuals because survival
+curves are dependent on such characteristics as age, health state,
+and the current age to which the individual is likely to
+survive.
+Although a survival curve approach provides a theoretically
+preferred method for valuing the benefits of reduced risk of
+premature mortality associated with reducing air pollution, the
+approach requires a great deal of data to implement. The economic
+valuation literature does not yet include good estimates of the
+value of this risk reduction commodity. As a result, in this study
+we value avoided premature mortality risk using the value of
+statistical life approach in the Base Estimate, supplemented by
+valuation based on an age-adjusted value of statistical life
+estimate in the Alternative Estimate.
+Other uncertainties specific to premature mortality valuation
+include the following:
+Across-study Variation: The analytical procedure used in the
+main analysis to estimate the monetary benefits of avoided
+premature mortality assumes that the appropriate economic value for
+each incidence is a value from the currently accepted range of the
+value of a statistical life. This estimate is based on 26 studies
+of the value of mortal risks. There is considerable uncertainty as
+to whether the 26 studies on the value of a statistical life
+provide adequate estimates of the value of a statistical life saved
+by air pollution reduction. Although there is considerable
+variation in the analytical designs and data used in the 26
+underlying studies, the majority of the studies involve the value
+of risks to a middle-aged working population. Most of the studies
+examine differences in wages of risky occupations, using a
+wage-hedonic approach. Certain characteristics of both the
+27 For a more detailed discussion of altruistic values related
+to the value of life, see Jones-Lee (1992).
+50
+population affected and the mortality risk facing that
+population are believed to affect the average willingness to pay
+(WTP) to reduce the risk. The appropriateness of a distribution of
+WTP estimates from the 26 studies for valuing the mortality-related
+benefits of reductions in air pollution concentrations therefore
+depends not only on the quality of the studies (i.e., how well they
+measure what they are trying to measure), but also on (1) the
+extent to which the risks being valued are similar, and (2) the
+extent to which the subjects in the studies are similar to the
+population affected by changes in pollution concentrations.
+C Level of risk reduction. The transferability of estimates of
+the value of a statistical life from the 26 studies to the Clear
+Skies Act analysis rests on the assumption that, within a
+reasonable range, WTP for reductions in mortality risk is linear in
+risk reduction. For example, suppose a study estimates that the
+average WTP for a reduction in mortality risk of 1/100,000 is $50,
+but that the actual mortality risk reduction resulting from a given
+pollutant reduction is 1/10,000. If WTP for reductions in mortality
+risk is linear in risk reduction, then a WTP of $50 for a reduction
+of 1/100,000 implies a WTP of $500 for a risk reduction of 1/10,000
+(which is ten times the risk reduction valued in the study). Under
+the assumption of linearity, the estimate of the value of a
+statistical life does not depend on the particular amount of risk
+reduction being valued. This assumption has been shown to be
+reasonable provided the change in the risk being valued is within
+the range of risks evaluated in the underlying studies (Rowlatt et
+al. 1998).
+C Voluntariness of risks evaluated. Although there may be
+several ways in which jobrelated mortality risks differ from air
+pollution-related mortality risks, the most important difference
+may be that job-related risks are incurred voluntarily, or
+generally assumed to be, whereas air pollution-related risks are
+incurred involuntarily. There is some evidence28 that people will
+pay more to reduce involuntarily incurred risks than risks incurred
+voluntarily. If this is the case, WTP estimates based on wage-risk
+studies may understate WTP to reduce involuntarily incurred air
+pollution-related mortality risks.
+C Sudden versus protracted death. A final important difference
+related to the nature of the risk may be that some workplace
+mortality risks tend to involve sudden, catastrophic events,
+whereas air pollution-related risks tend to involve longer periods
+of disease and suffering prior to death. Some evidence suggests
+that WTP to avoid a risk of a protracted death involving prolonged
+suffering and loss of dignity and personal control is greater than
+the WTP to avoid a risk (of identical magnitude) of sudden death.
+To the extent that the mortality risks addressed in this assessment
+are associated with longer periods of illness or greater pain and
+suffering than are the risks addressed in the valuation literature,
+the WTP measurements employed in the present analysis would reflect
+a downward bias.
+
+
+IV. RESULTS
+Base Estimate
+28See, for example, Violette and Chestnut, 1983.
+Exhibits 12 and 13 present a summary of health effects benefits
+resulting from improvements in air quality between the Base Case
+and the Clear Skies Act scenarios. Exhibit 12 presents the mean
+estimate of avoided health effects in 2010 and 2020 for each health
+endpoint included in the Base analysis. We estimate that reductions
+in exposure to fine PM and ozone due to the Clear Skies Act will
+result in over 6,000 fewer deaths in 2010 and nearly 12,000 fewer
+deaths in 2020, as well as nearly 4,000 fewer cases of chronic
+bronchitis in 2010 and over 7,000 fewer cases in 2020. In addition,
+193,000 fewer asthma attacks are estimated to occur in 2010 and
+373,000 fewer in 2020. Exhibit 13 summarizes the mean monetized
+health and visibility benefits due to the Clear Skies Act. As that
+exhibit shows, we estimate the monetized benefits of the Clear
+Skies Act in the continental United States will be $44 billion in
+2010, including $43 billion in health benefits and $1 billion in
+recreational visibility benefits. In 2020, total benefits increase
+to $96 billion, with $93 billion in health benefits and $3 billion
+in recreational visibility benefits.
+The results of our regional benefits analysis indicate that the
+vast majority of the health benefits of the Clear Skies Act are
+realized in the easternmost 39 states, including the states of
+North Dakota, South Dakota, Nebraska, Kansas, Oklahoma, and Texas.
+We estimate total benefits of $44 billion in these 39 states in
+2010, and $95 billion in 2020.
+In addition to calculating the physical effects and monetary
+impacts of the Clear Skies Act, we also estimated the distribution
+of particulate matter air quality improvements that will be
+experienced by the US population. Exhibit 14 illustrates the
+numbers of individuals and the percent of the US population that
+they represent that will experience changes in ambient particulate
+matter concentrations in 2010 and 2020. As indicated in the table,
+the Clear Skies Act yields relatively modest air quality
+improvements for about one-fourth of the US population (i.e.,
+changes in PM concentrations of less than 0.25 µg/m3), in both 2010
+and 2020, but more substantial improvements for a large percentage
+of the population, including improvements in excess of 2 µg/m3 for
+more than 24 million individuals by 2020.
+52
+Exhibit 12 Change in Incidence of Adverse Health Effects
+Associated with Reductions in Particulate Matter and Ozone Due to
+the Clear Skies Act - 48 State U.S. Population (avoided cases per
+year)
+2010 2020 Endpoint Pollutant mean mean
+Mortality
+Chronic Exposure, Ages 30 and Older PM2.5 6,400 11,900
+
+Chronic Illness
+Chronic Bronchitis PM10, PM2.5 3,900 7,400
+Hospitalization / ER Visits
+COPD Admissions Pneumonia Admissions Cardiovascular Admissions
+Asthma AdmissionsAll Respiratory Admissions Dysrhythmia Admissions
+Emergency Room Visits for Asthma Hospitalization / ER Visits
+Subtotal Minor Respiratory Illness and Symptoms
+PM10 700 1,300
+PM10 800 1,500
+PM10 2,000 3,700
+PM2.5 600 1,200
+Ozone 500 1,000 Ozone 100 300 PM10 and 1,600 2,900 Ozone 6,300
+11,900
+Acute Bronchitis PM2.5 Upper Respiratory Symptoms PM10 Lower
+Respiratory Symptoms PM2.5 Asthma Attacks PM10 and
+Ozone Work Loss Days PM2.5 Minor Restricted Activity Days PM2.5
+and (minus asthma attacks)Ozone Minor Respiratory Illness and
+Symptoms Subtotal
+12,900 23,800 141,000 262,000 141,000 260,000 195,000
+373,000
+1,100,000 2,060,000 6,400,000 12,100,000
+8,000,000 15,100,000
+Totals may not sum due to rounding.
+Exhibit 13 Results of Human Health and Welfare Benefits
+Valuation for the Clear Skies Act (Particulate Matter and Ozone
+Reductions Only)
+
+
+Mortality
+Chronic Exposure, Ages 30 and older PM2.5 $41,400* $88,900*
+$38,900** $83,500**
+Chronic Illness
+Chronic Bronchitis PM10 PM2.5 $1,500 $3,200
+Hospitalization
+COPD Admissions PM10 Pneumonia Admissions PM10 Cardiovascular
+Admissions PM10 Asthma Admissions PM2.5
+All Respiratory Admissions Ozone Dysrhythmia Admissions Ozone
+Emergency Room Visits for Asthma PM10 and
+Ozone
+$8 $16 $12 $23 $37 $69 $4 $8 $6 $14 $1 $3 $0.4 $1
+$69 $130
+Hospitalization / ER Visits Subtotal Minor Respiratory Illness
+and Symptoms
+Acute Bronchitis Upper Respiratory Symptoms Lower Respiratory
+Symptoms Work Loss Days Minor Restricted Activity Days (minus
+asthma attacks)
+PM2.5 PM10 PM2.5 PM2.5 PM2.5 and Ozone $1 $1 $4 $7 $2 $4 $120
+$220 $325 $630
+$450 $860
+
+
+Minor Respiratory Illness and Symptoms Subtotal
+Total Health Benefits in 2020 $43,400* $93,000* $40,900**
+$87,600**
+Welfare
+Recreational Visibility; CA, SW, and SE park regions Agriculture
+Worker Productivity
+PM $900 $2,800
+Ozone $47 $56 Ozone $55 $130
+Total Benefits in 2020 $44,000* $96,000* $41,500** $90,600**
+Totals may not sum due to rounding.
+* Results calculated using three percent discount rate as
+recommended by EPA's Guidelines for Economic Analysis (US EPA,
+2000a).
+** Results calculated using seven percent discount rate as
+recommended by OMB Circular A-94 (OMB, 1992). Total benefit numbers
+reflect use of three percent discount rate.
+54
+
+
+* Totals may not sum due to rounding.
+
+
+
+
+Alternative Estimate
+Exhibits 15 and 16 present the results of the Alternative
+calculations. Exhibit 15 presents the mean estimate of avoided
+health effects in 2010 and 2020 for each health endpoint included
+in the Base analysis. Under the Alternative Estimate, the number of
+avoided cases of chronic bronchitis, hospital and ER visits, and
+minor respiratory illnesses and symptoms is the same as the Base.
+The Alternative projects that reductions in exposure to fine PM and
+ozone due to the Clear Skies Act will result in 3,800 avoided
+premature deaths in 2010 and nearly 7,200 avoided premature deaths
+in 2020. The omission of long-term impacts of particulate matter on
+mortality accounts for approximately 40 percent reduction in the
+estimate of avoided premature mortality in the Alternative Estimate
+relative to the Base Estimate.
+Exhibit 16 summarizes the mean monetized health and visibility
+benefits of the Alternative Estimate, which will be $6.3 billion in
+2010 and $14.1 billion in 2020. The 40 percent reduction in
+mortality under the Alternative Estimate and the difference in
+valuation of premature mortality and chronic bronchitis explain the
+difference in benefits between these two approaches. Even using the
+more conservative Alternative Estimate benefit projections,
+however, the benefits of Clear Skies still outweigh the costs of
+$3.7 billion in 2010 and $6.5 billion in 2020. It is also important
+to note that both the Alternative and Base Estimate are likely to
+underestimate the benefits of this proposal because of the many
+environmental and health effects that we were unable to quantify in
+this analysis.
+55
+Exhibit 15 Alternative Estimate of the Change in Incidence of
+Adverse Health Effects Associated with Reductions in Particulate
+Matter and Ozone Due to the Clear Skies Act in 2010 - 48 State U.S.
+Population (avoided cases per year)
+2010 2020
+
+Endpoint Pollutant mean mean
+Mortality
+Short-Term Exposure, Non-COPD Related, Ages 65 PM2.5 2,600 4,900
+and Over
+Short-Term Exposure, Non-COPD Related, Ages 64 PM2.5 800 1,500
+and Under
+Short-Term Exposure, COPD Related, Ages 65 and PM2.5 360 670
+Over
+Short-Term Exposure, COPD Related, Ages 64 and PM2.5 57 110
+Under
+Short-Term Mortality Subtotal 3,800 7,200
+
+Totals may not sum due to rounding.
+56
+
+
+
+* Results calculated using three percent discount rate as
+recommended by EPA's Guidelines for Economic Analysis (US EPA,
+2000a).
+** Results calculated using seven percent discount rate as
+recommended by OMB Circular A-94 (OMB, 1992).Totals may not sum due
+to rounding.
+57
+
+
+
+Sensitivity Analyses
+The Base Estimate is based on our current interpretation of the
+scientific and economic literature; its judgments regarding the
+best available data, models, and modeling methodologies; and the
+assumptions it considers most appropriate to adopt in the face of
+important uncertainties. The majority of the analytical assumptions
+used to develop the Base Estimate have been reviewed and approved
+by EPA's Science Advisory Board (SAB). However, we recognize that
+data and modeling limitations as well as simplifying assumptions
+can introduce significant uncertainty into the benefit results and
+that reasonable alternative assumptions exist for some inputs to
+the analysis, such as the mortality C-R functions.
+To address these concerns, we supplement our Base Estimate of
+benefits with a series of sensitivity calculations that make use of
+other sources of concentration-response and valuation data for key
+benefits categories. These sensitivity calculations are conducted
+only for the Base Estimate and not for the Alternative Estimate.
+First we applied three alternative concentrationresponse (C-R)
+functions to estimate premature mortality incidence. Although we
+used the Krewski, et al. (2000) mean-based ("PM2.5(DC), All
+Causes") model exclusively to derive our Base Estimate of avoided
+premature mortality, this analysis also examined the sensitivity of
+the benefit results to the selection of alternative C-R functions
+for premature mortality. We used three sources of alternative C-R
+functions for this sensitivity analysis: (1) an alternative
+specification of the Pope/ACS model from Krewski, et al. (2000)
+that adjusted for spatial correlation in the dataset; (2) the
+original Pope/ACS model; and (3) the Krewski et al. "Harvard Six
+Cities" estimate. Exhibits 15 and 16 present the results of these
+sensitivity analyses for 2010 and 2020, respectively.
+The first alternative C-R function is based on the relative risk
+of 1.16 from the "Fine Particles Alone, Regional Adjustment Random
+Effects" model reported in Table 46 of the HEI report. Commentary
+by an independent review panel noted that "a major contribution of
+the [HEI] Reanalysis Project is the recognition that both pollutant
+variables and mortality appear to be spatially correlated in the
+ACS data set. If not identified and modeled correctly, spatial
+correlation could cause substantial errors in both the regression
+coefficients and their standard errors (HEI, 2000)." This C-R
+function is a reasonable specification to explore the impact of
+adjustments for broad regional correlations. However, the HEI
+report noted that the spatial adjustment methods "may have over
+adjusted the estimated effect for regional pollutants such as fine
+particles and sulfate compared with the effect estimates for more
+local pollutants such as sulfur dioxide." Thus, the estimates of
+avoided incidences of premature mortality based on this C-R
+function may underestimate the true effect. (Note that this C-R
+function is based on the original air quality dataset used in the
+ACS study, covering 50 cities, and used the median PM2.5 levels
+rather than mean PM2.5 as the indicator of exposure.)
+For comparison with earlier benefits analyses, such as the first
+Section 812 Prospective Analysis, we also include estimates of
+avoided incidences of premature mortality based on the
+58
+original ACS/Pope et al. (1995) analysis in the second row of
+Exhibit 15 and 16. The third row of Exhibit 17 shows the Krewski,
+et al. "Harvard Six Cities" estimate of mortality. The
+Krewski-Harvard Six Cities study used a smaller sample of
+individuals from fewer cities than the study by Pope, et al.;
+however, it features improved exposure estimates, a slightly
+broader study population (adults aged 25 and older), and a
+follow-up period nearly twice as long as that of Pope, et al. The
+SAB has noted that "the [Harvard Six Cities] study had better
+monitoring with less measurement error than did most other studies"
+(EPA-SAB-COUNCIL-ADV-99-012, 1999).
+Second, we use an alternative valuation procedure to estimate
+the value of avoided premature mortality, with explicit
+consideration of the expected age of mortality incidence associated
+with air pollution exposure. Age-specific VSL adjustment factors
+can be derived from a series of contingent valuation studies
+conducted in the United Kingdom to evaluate WTP for road safety
+improvements that reduce mortality risk. The two available sources,
+both authored by Michael Jones-Lee, derive significantly differing
+adjustment factors, and reflect reflecting the overall uncertainty
+within the literature about age-specific VSL adjustments. The
+results of this alternative calculation reduce the overall Base
+Estimate for the Clear Skies Act by 43 percent for the more extreme
+adjustment derived from Jones-Lee (1989), and by 9 percent for the
+less extreme adjustment derived from Jones-Lee (1993), as
+summarized in Exhibits 15 and 16 below. The specific adjustment
+procedure applied is described in more detail in the Heavy-Duty
+Engine/Diesel Fuel RIA (U.S. EPA, 2000b).
+Third, as noted in the section above on visibility valuation, we
+chose not to include in our Base Estimate the valuation of
+residential visibility or valuation of recreational visibility at
+Class I areas outside of the study regions examined in the Chestnut
+and Rowe (1990a, 1990b) study. The last three rows of Exhibits 17
+and 18 summarize the impact of applying the existing visibility
+valuation literature more broadly than in our Base Estimate.
+59
+Exhibit 17 Key Sensitivity Analyses for the Clear Skies Act in
+2010A
+Impact on Base Benefits Description of Basis for Analysis
+Avoided Incidences Estimate Adjusted for Growth in Real Income
+(billion 1999$)
+Concentration-Response Functions for PM-related Premature
+Mortality
+Krewski/ACS Study Regional 7,300 +$5.8 (+13%) Adjustment
+ModelB
+Pope/ACS StudyC 7,700 +$8.5 (+20%)
+Krewski/Harvard Six-City StudyD 18,800 +$80 (+182%)
+Methods for Valuing Reductions in Incidences of PM-related
+Premature Mortality
+
+
+A These results indicate the sensitivity of the primary benefits
+estimate to alternative assumptions; results reflect the use of a
+three percent discount rate, where appropriate.
+B
+This C-R function is included as a reasonable specification to
+explore the impact of adjustments for broad regional correlations,
+which have been identified as important factors in correctly
+specifying the PM mortality C-R function. C The Pope et al. C-R
+function was used to estimate reductions in premature mortality for
+the Tier 2/Gasoline Sulfur benefits analysis. It is included here
+to provide a comparable estimate for the Clear Skies Act. D The
+Krewski et al. "Harvard Six-cities Study" estimate is included
+because the Harvard Six-cities Study featured improved exposure
+estimates, a slightly broader study population (adults aged 25 and
+older), and a follow-up period nearly twice as long as that of
+Pope, et al. and as such provides a reasonable alternative to the
+Base Estimate. E Jones-Lee (1989) provides an estimate of
+age-adjusted VSL based on a finding that older people place a much
+lower value on mortality risk reductions than middle-age people.
+Jones-Lee (1993) provides an estimate of age-adjusted VSL based on
+a finding that older people value mortality risk reductions only
+somewhat less than middle-aged people.
+60
+Exhibit 18 Key Sensitivity Analyses for the Clear Skies Act in
+2020A
+Impact on Base Benefits Description of Basis for Analysis
+Avoided Incidences Estimate Adjusted for Growth in Real Income
+(billion 1999$)
+Concentration-Response Functions for PM-related Premature
+Mortality
+Krewski/ACS Study Regional 13,400 +$11 (+11%) Adjustment
+ModelB
+Pope/ACS StudyC 14,200 +$17 (+17%)
+Krewski/Harvard Six-City StudyD 35,000 +$171 (+179%)
+Methods for Valuing Reductions in Incidences of PM-related
+Premature Mortality
+
+
+A These results indicate the sensitivity of the primary benefits
+estimate to alternative assumptions; results reflect the use of a
+three percent discount rate, where appropriate.
+B
+This C-R function is included as a reasonable specification to
+explore the impact of adjustments for broad regional correlations,
+which have been identified as important factors in correctly
+specifying the PM mortality C-R function. C The Pope et al. C-R
+function was used to estimate reductions in premature mortality for
+the Tier 2/Gasoline Sulfur benefits analysis. It is included here
+to provide a comparable estimate for the Clear Skies Act.D The
+Krewski et al. "Harvard Six-cities Study" estimate is included
+because the Harvard Six-cities Study featured improved exposure
+estimates, a slightly broader study population (adults aged 25 and
+older), and a follow-up period nearly twice as long as that of
+Pope, et al. and as such provides a reasonable alternative to the
+Base Estimate. E Jones-Lee (1989) provides an estimate of
+age-adjusted VSL based on a finding that older people place a much
+lower value on mortality risk reductions than middle-age people.
+Jones-Lee (1993) provides an estimate of age-adjusted VSL based on
+a finding that older people value mortality risk reductions only
+somewhat less than middle-aged people.
+61
+Fourth, we conducted a quantitative sensitivity test on one
+aspect of the PM-mortality dose-response function. Although the
+consistent advice from EPA's Science Advisory Board has been to
+model premature mortality associated with PM exposure as a
+non-threshold effect, that is, with harmful effects to exposed
+populations regardless of the absolute level of ambient PM
+concentrations, some analysts have hypothesized the presence of a
+threshold relationship. The nature of the hypothesized relationship
+is that there might exist a PM concentration level below which
+further reductions no longer yield premature mortality reduction
+benefits. EPA does not necessarily endorse any particular
+threshold. Nonetheless, Exhibit 19 illustrates how our estimates of
+the number of premature mortalities in the Base Estimate might
+change under a range of alternative assumptions for a PM mortality
+threshold. If, for example, there were no benefits of reducing PM
+concentrations below the proposed PM2.5 standard of 15 µg/m3, our
+estimate of the total number of premature mortalities in 2020 would
+be reduced by approximately 80 percent, from approximately 12,000
+annually to approximately 2,200 annually.
+One important assumption that we adopted for the threshold
+sensitivity analysis is that no adjustments are made to the shape
+of the concentration-response function above the assumed threshold.
+Instead, thresholds were applied by simply assuming that any
+changes in ambient concentrations below the assumed threshold would
+have no impacts on the incidence of premature mortality. If there
+were actually a threshold, then the shape of the C-R function above
+the threshold would likely change.
+62
+Exhibit 18 Sensitivity Analysis: Effect of Thresholds on
+Estimated 2010 and 2020 Clear Skies Analysis PM-Related
+Mortality
+
+63
+
+
+V. REFERENCES
+Abbey, D.E., B.L. Hwang, R.J. Burchette, T. Vancuren, and P.K.
+Mills. 1995a. "Estimated Long-Term Ambient Concentrations of PM(10)
+and Development of Respiratory Symptoms in a Nonsmoking
+Population." Archives of Environmental Health 50(2): 139-152.
+Abbey, D.E., N. Nishino, W.F. McDonnell, R.J. Burchette, S.F.
+Knutsen, W.L. Beeson, and J.X. Yang. 1999. "Long-Term Inhalable
+Particles and Other Air Pollutants Related to Mortality in
+Nonsmokers." American Journal of Respiratory and Critical Care
+Medicine. 159: 373-382.
+Abt Associates, 2000. Final Heavy-Duty Engine / Diesel Fuel
+Rule: Air Quality Estimation, Selected Health and Welfare Benefits
+Methods, and Benefit Analysis Results. Prepared for the
+U.S. Environmental Protection Agency, Office of Air Quality
+Planning and Standards, ResearchTriangle Park, NC. December.
+American Lung Association, 1999. Chronic Bronchitis. Web site
+available at: http://www.lungusa.org/diseases/lungchronic.html.
+Blumenschein, K. and M. Johannesson. 1998. "Relationship Between
+Quality of Life Instruments, Health State Utilities, and
+Willingness to Pay in Patients with Asthma." Annals of Allergy,
+Asthma, and Immunology 80:189-194.
+Comprehensive Air Quality Model with Extensions (CAMx) Overview;
+Accessed June 5, 2002 via http://www.camx.com/overview.html. CAMx
+Version 3.1 User's Guide; Accessed June 5, 2002 via
+http://www.camx.com/pdf/CAMx3.UsersGuide.020410.pdf.
+Chestnut, L.G. 1997. Draft Memorandum: Methodology for
+Estimating Values for Changes in Visibility at National Parks.
+April 15.
+Chestnut, L.G. and R.L. Dennis. 1997. Economic Benefits of
+Improvements in Visibility: Acid Rain Provisions of the 1990 Clean
+Air Act Amendments. Journal of Air and Waste Management Association
+47:395-402.
+Chestnut, L.G. and R.D. Rowe. 1990a. Preservation Values for
+Visibility Protection at the National Parks: Draft Final Report.
+Prepared for Office of Air Quality Planning and Standards, US
+Environmental Protection Agency, Research Triangle Park, NC and Air
+Quality Management Division, National Park Service, Denver, CO.
+Chestnut, L.G., and R.D. Rowe. 1990b. A New National Park
+Visibility Value Estimates. In Visibility and Fine Particles,
+Transactions of an AWMA/EPA International Specialty Conference,
+C.V. Mathai, ed. Air and Waste Management Association,
+Pittsburgh.
+Chestnut, L.G., and R.D. Rowe. 1990b. A New National Park
+Visibility Value Estimates. In Visibility and Fine Particles,
+Transactions of an AWMA/EPA International Specialty
+64
+Conference, C.V. Mathai, ed. Air and Waste Management
+Association, Pittsburgh.
+Cropper, M.L. and A.J. Krupnick. 1990. "The Social Costs of
+Chronic Heart and Lung Disease," Resources for the Future
+Discussion Paper QE 89-16-REV. Dickie, M. et al. 1991. Reconciling
+Averting Behavior and Contingent Valuation Benefit Estimates of
+Reducing Symptoms of Ozone Exposure (draft), as cited in Neumann,
+J.E., Dickie, M.T., and R.E. Unsworth. 1994. Industrial Economics,
+Incorporated. Memorandum to Jim DeMocker, US EPA, Office of Air and
+Radiation. March 31.
+Dockery, D.W., C.A. Pope, X.P. Xu, J.D. Spengler, J.H. Ware,
+M.E. Fay, B.G. Ferris and F.E. Speizer. 1993. "An association
+between air pollution and mortality in six U.S. cities." New
+England Journal of Medicine 329(24): 1753-1759.
+Dockery, D.W., J. Cunningham, A.I. Damokosh, L.M. Neas, J.D.
+Spengler, P. Koutrakis, J.H. Ware, M. Raizenne and F.E. Speizer.
+1996. "Health Effects of Acid Aerosols On North American
+Children-Respiratory Symptoms." Environmental Health Perspectives.
+104(5): 500505.
+Dominici, F., A. McSermott, S. Zeger, and J.M. Samet. 2002. "On
+the Use of Generalized Additive Models in Time-Series Studies of
+Air Pollution and Health." American Journal of Epidemiology.
+156(9): 193-203.
+Elixhauser, A., R.M. Andrews, and S. Fox. 1993. Clinical
+Classifications for Health Policy Research: Discharge Statistics by
+Principal Diagnosis and Procedure. Agency for Health Care Policy
+and Research (AHCPR), Center for General Health Services Intramural
+Research, US Department of Health and Human Services.
+EPA-SAB, Health and Ecological Effects Subcommittee of the
+Advisory Council on Clean Air Act Compliance Analysis. 1999.
+Summary Minutes of Public Meeting, April 21-22, 1999.
+EPA-SAB-COUNCIL-ADV-99-005, 1999. An SAB Advisory on the Health
+and Ecological Effects Initial Studies of the Section 812
+Prospective Study: Report to Congress: Advisory by the Health and
+Ecological Effects Subcommittee, February.
+EPA-SAB-COUNCIL-ADV-98-003, 1998. Advisory Council on Clean Air
+Compliance Analysis Advisory on the Clean Air Act Amendments (CAAA)
+of 1990 Section 812 Prospective Study: Overview of Air Quality and
+Emissions Estimates: Modeling, Health and Ecological Valuation
+Issues Initial Studies.
+EPA-SAB-COUNCIL-ADV-99-012, 1999. The Clean Air Act Amendments
+(CAAA) Section 812 Prospective Study of Costs and Benefits (1999):
+Advisory by the Health and Ecological Effects Subcommittee on
+Initial Assessments of Health and Ecological Effects: Part 1.
+July.
+EPA-SAB-COUNCIL-ADV-00-001, 1999. The Clean Air Act Amendments
+(CAAA) Section
+65
+812 Prospective Study of Costs and Benefits (1999): Advisory by
+the Health and Ecological Effects Subcommittee on Initial
+Assessments of Health and Ecological Effects: Part 2. October
+1999.
+EPA-SAB-COUNCIL-ADV-00-002, 1999. The Clean Air Act Amendments
+(CAAA) Section 812 Prospective Study of Costs and Benefits (1999):
+Advisory by the Advisory Council on Clean Air Compliance Analysis:
+Costs and Benefits of the CAAA. Effects Subcommittee on Initial
+Assessments of Health and Ecological Effects: Part 2. October
+1999.
+EPA-SAB-COUNCIL-ADV-01-004, 2001. Review of the Draft Analytical
+Plan for EPA's Second Prospective Analysis - Benefits and Costs of
+the Clean Air Act 1990-2020: Advisory by a Special Panel of the
+Advisory Council on Clean Air Compliance Analysis. September
+2001.
+Greenbaum, D. 2002a. Memorandum. May 30, 2002. Health Effects
+Institute, Cambridge, MA.
+Greenbaum D. 2002b. Main Points of the Preliminary Review and
+Critique of the Revised Analyses by the HEI Peer Review Panel.
+Presentation to the Clean Air Science Advisory Committee. July 18,
+2002. Health Effects Institute, Cambridge, MA.
+Hoskins, G., C. McCowan, R.G. Neville, G.E. Thomas, B. Smith,
+and S. Silverman. 2000. "Risk Factors and Costs Associated with and
+Asthma Attack." Thorax. 55: 19-24.
+Hoskins, G., C. McCowan, R.G. Neville, G.E. Thomas, B. Smith, S.
+Silverman. 2000. Risk Factors and Costs Associated with an Asthma
+Attack. Thorax, 55: 19-24.
+ICF Consulting. 2001. Memorandum to Jim DeMocker, Office of Air
+and Radiation, Office of Policy Analysis and Review, US
+Environmental Protection Agency, June 27.
+Jones-Lee, M.W. 1989. The Economics of Safety and Physical Risk.
+Oxford: Basil Blackwell.
+Jones-Lee, M.W., G. Loomes, D. O'Reilly, and P.R. Phillips.
+1993. The Value of Preventing Non-fatal Road Injuries: Findings of
+a Willingness-to-pay National Sample Survey. TRY Working Paper, WP
+SRC2.
+Krewski D, Burnett RT, Goldbert MS, Hoover K, Siemiatycki J,
+Jerrett M, Abrahamowicz M, White WH. 2000. Reanalysis of the
+Harvard Six Cities Study and the American Cancer Society Study of
+Particulate Air Pollution and Mortality. Special Report to the
+Health Effects Institute, Cambridge MA, July 2000
+Krupnick, A.J. and M.L. Cropper. 1992. "The Effect of
+Information on Health Risk Valuations." Journal of Risk and
+Uncertainty 5(2): 29-48.
+Krupnick, A.J., A. Alberini, M. Cropper, N. Simon, B. O'Brien,
+R. Goeree, and M. Heintzelman. 2000. Age, Health, and the
+Willingness to Pay for Mortality Risk Reductions: A Contingent
+66
+Valuation Survey of Ontario Residents. Resources for the Future
+Discussion Paper 00-37.
+Kunzli N, Medina S, Kaiser R, Quenel P, Horak F Jr, Studnicka M
+2001. Assessment of deaths attributable to air pollution: should we
+use risk estimates based on time series or on cohort studies?
+American Journal of Epidemiology. 153:1050_5.
+Lang, C., G. Yarwood, F. Lalonde, and R. Bloxam. 1995.
+Environmental and Health Benefits of Cleaner Vehicles and Fuels.
+Prepared for: Canadian Council of Ministers of the Environment Task
+Force on Cleaner Vehicles and Fuels, Winnipeg, Manitoba.
+October.
+Lave, L.B. and E.P. Seskin, 1977. Air Pollution and Public
+Health. Johns Hopkins Univeristy Press, Baltimore.
+Loehman, E.T., S.V. Berg, A.A. Arroyo, R.A. Hedinger, J.M.
+Schwartz, M.E. Shaw, R.W. Fahien, V.H. De, R.P. Fishe, D.E. Rio,
+W.F. Rossley, and A.E.S. Green. 1979. "Distributional Analysis of
+Regional Benefits and Cost of Air Quality Control." Journal of
+Environmental Economics and Management 6: 222-243.
+Lipfert F.W. 1989. Sulfur oxides, particulates, and human
+mortality: synopsis of statistical correlations. JAPCA.
+30:366-371.
+Lipfert F.W., H.M. Perry, Jr., J.P. Miller, J.D. Baty, R. Wyzga,
+S.E. Carmody. 2000. The Washington University - EPRI Veterans'
+Cohort Mortality Study: Preliminary Results. Inhalation Toxicology.
+12:41-73.
+McClelland, G., W. Schulze, D. Waldman, J. Irwin, D. Schenk, T.
+Stewart, L. Deck, and M. Thayer. 1993. Valuing Eastern Visibility:
+A Field Test of the Contingent Valuation Method. Prepared for
+Office of Policy, Planning and Evaluation, US Environmental
+Protection Agency. September.
+National Research Council (1998). Research Priorities for
+Airborne Particulate Matter: Immediate Priorities and a Long-Range
+Research Portfolio. National Academy Press. Washington, DC.
+Neumann, J.E., R.E. Unsworth, W.E. Brown. 1994. Memorandum to
+Jim DeMocker, Office of Air and Radiation, Office of Policy
+Analysis and Review, US Environmental Protection Agency, March
+31.
+OMB Circular A-94, "Guidelines and Discount Rates for
+Benefit-Cost Analysis of Federal Programs," October 29, 1992.
+Ostro, B.D. 1987. Air Pollution and Morbidity Revisited: a
+Specification Test. Journal of Environmental Economics Management.
+14: 87-98.
+67
+Ostro B.D. and S. Rothschild. 1989. "Air Pollution and Acute
+Respiratory Morbidity: An Observational Study of Multiple
+Pollutants." Environmental Research 50:238-247.
+Ozkaynak, H. And G.D. Thurston. 1987. Associations between 1980
+U.S. mortality rates and alternative measures of airborne particle
+concentration. Risk Anal. 7: 449-461.
+Peters et al. 2001. Increased Particulate Air Pollution and the
+Triggering of Myocardial Infarction. Circulation 103:
+2810-2815.
+Pew Environmental Health Commission. 2000. Attack Asthma: Why
+America Needs A Public Health Defense System to Battle
+Environmental Threats. Johns Hopkins School of Public Health,
+Baltimore, MD.
+Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D.
+Krewski, K. Ito, and G.D. Thurston. 2002. "Lung Cancer
+Cardiopulmonary Mortality, and Long-term Exposure to Fine
+Particulate Air Pollution." Journal of the American Medical
+Association. 287(9):1132-41.
+Pope, C.A., III, M.J. Thun, M.M. Namboodiri, D.W. Dockery, J.S.
+Evans, F.E. Speizer, and
+C.W. Heath, Jr. 1995. "Particulate Air Pollution as a Predictor
+of Mortality in a Prospective Study of U.S. Adults." American
+Journal of Respiratory Critical Care Medicine 151: 669-674.
+Pope, C.A., III, D.W. Dockery, J.D. Spengler, and M.E. Raizenne.
+1991. "Respiratory Health and PM10 Pollution: a Daily Time Series
+Analysis" American Review of Respiratory Diseases 144: 668-674.
+Rossi, G., M.A. Vigotti, A. Zanobetti, F. Repetto, V. Gianelle,
+and J. Schwartz. 1999. "Air Pollution and Cause-Specific Mortality
+in Milan, Italy, 1980-1989" Arch. Environ. Health. 54:158-164.
+Rowe, R.D. and L.G. Chestnut. 1986. "Oxidants and Asthmatics in
+Los Angeles: A Benefits Analysis--Executive Summary." Prepared by
+Energy and Resource Consultants, Inc. Report to the US EPA, Office
+of Policy Analysis. EPA-230-09-86-018. Washington, DC March.
+
+Samet JM, Zeger SL, Dominici F, Curriero F, Coursac I, Dockery
+DW, Schwartz J, Zanobetti A. 2000. The National Morbidity,
+Mortality and Air Pollution Study: Part II: Morbidity, Mortality
+and Air Pollution in the United States. Research Report No. 94,
+Part II. Health Effects Institute, Cambridge MA, June 2000.
+Schwartz, J., D.W. Dockery and L.M. Neas. 1996. "Is Daily
+Mortality Associated Specifically With Fine Particles" Journal of
+the Air & Waste Managment Association. 46: 927-939.
+Schwartz, J., Dockery, D.W., Neas, L.M., Wypij, D., Ware, J.H.,
+Spengler, J.D., Koutrakis, P., Speizer, F.E., and Ferris, Jr., B.G.
+1994. "Acute Effects of Summer Air Pollution on Respiratory Symptom
+Reporting in Children" American Journal of Respiratory Critical
+Care
+68
+Medicine 150: 1234-1242.
+Schwartz, J. and A. Zanobetti. 2002. "Re-Analysis of NMMAPS
+Morbidity Data and Further Exploration of the GAM-Time Series
+Issue." A Report on Revised NMMAPS Morbidity by Analysts at Harvard
+University.
+Schwartz, J. 1993. "Particulate Air Pollution and Chronic
+Respiratory Disease" Environmental Research 62: 7-13.
+Schwartz, J. 2000. "Assessing Confounding, Effect Modification,
+and Thresholds in the Association Between Ambient Particles and
+Daily Deaths" Environ. Health Perspectives 108:563-568.
+Schwartz, J. 2000. "The Distributed Lag Between Air Pollution
+and Daily Deaths" Epidemiology 11:320-326.
+Schwartz, J. 2000. Harvesting and Long Term Exposure Effects in
+the Relation between Air Pollution and Mortality. American Journal
+of Epidemiology 151: 440-448.
+Seigneur, C., G. Hidy, I. Tombach, J. Vimont, and P. Amar. 1999.
+Scientific Peer Review of the Regulatory Modeling System for
+Aerosols and Deposition (REMSAD).
+Sheppard, L., D. Levy, G. Norris, T.V. Larson, and J.Q. Koenig.
+1999. "Effects of ambient air pollution on nonelderly asthma
+hospital admissions in Seattle, Washington" 1987-1994.
+Epidemiology. Vol. 10(1):23-30.
+Sisler, J.F. 1996. Spatial and Seasonal Patterns and Long Term
+Variability of the Composition of the Haze in the United States: An
+Analysis of Data from the IMPROVE Network. Cooperative Institute
+for Research in the Atmosphere, Colorado State University; Fort
+Collins, CO July.
+Smith, D.H., D.C. Malone, K.A. Lawson, L. J. Okamoto, C.
+Battista, and W.B. Saunders, 1997. "A National Estimate of the
+Economic Costs of Asthma." American Journal of Respiratory Critical
+Care Medicine 156: 787-793.
+Smith, V.K., G.Van Houtven, and S. Pattanayak. 1999. "Benefit
+Transfer as Preference Calibration" Resources for the Future
+Discussion Paper 99-36.
+Stieb, D.M., S. Judek, and R.T. Burnett. 2002. Meta-analysis of
+Time-series Suties of Air Pollution and Mortality: Effects of Gases
+and Particles and the Influence of Cause of Death, Age, and Season.
+Journal of the Air and Waste Management Association 52:
+470-484.
+Tolley, G.S. et al. 1986. Valuation of Reductions in Human
+Health Symptoms and Risks. University of Chicago. Final Report for
+the US Environmental Protection Agency. January.
+69
+Thurston, G.D., and K. Ito. 2001. Epidemiological Studies of
+Acute Ozone Exposures and Mortality. Journal of Exposure Analysis
+and Environmental Epidemiology. 11:286-294.
+US Department of Commerce, Economics and Statistics
+Administration. 1992. Statistical Abstract of the United States,
+1992: The National Data Book. 112th Edition, Washington, DC US
+Department of Commerce, Bureau of Economic Analysis. BEA Regional
+Projections to 2045: Vol. 1, States. Washington, DC US Govt.
+Printing Office, July 1995.
+US Department of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics.
+1994. Vital Statistics of the United States, 1990. Volume
+II-Mortality. Hyattsville, MD.
+US Department of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics.
+1999. National Vital Statistics Reports, 47(19).
+US Environmental Protection Agency, 1997. The Benefits and Costs
+of the Clean Air Act, 1970 to 1990. Prepared for US Congress by US
+EPA, Office of Air and Radiation/Office of Policy Analysis and
+Review, Washington, DC
+US Environmental Protection Agency, 1997b. Regulatory Impact
+Analysis for the Particulate Matter and Ozone National Ambient Air
+Quality Standards and Proposed Regional Haze Rule. Appendix J.
+Table 3. Prepared by: Office of Air Quality Planning and Standards,
+Research Triangle Park, NC. July.
+US Environmental Protection Agency, 1999a. Benefits and Costs of
+the Clean Air Act: 19902010; EPA Report to Congress. US EPA, Office
+of Air and Radiation and Office of Policy. Washington, DC. Document
+No. EPA-410-R-99-001. November.
+US Environmental Protection Agency, 1999b. Regulatory Impact
+Analysis: Control of Air Pollution from New Motor Vehicles: Tier 2
+Motor Vehicle Emissions Standards and Gasoline Sulfur Control
+Requirements. Prepared by: Office of Mobile Sources, Office of Air
+and Radiation, December.
+US Environmental Protection Agency, 1999c. Regulatory Impact
+Analysis for the Final Regional Haze Rule. Prepared by: Office of
+Air Quality Planning and Standards, Office of Air and Radiation,
+April.
+US Environmental Protection Agency, 2000a. Guidelines for
+Preparing Economic Analyses. Document Number EPA 240-R-00-003.
+Prepared by: Office of the Administrator, September.
+US Environmental Protection Agency, 2000b. Regulatory Impact
+Analysis for the Heavy-Duty Standards/Diesel Fuel Rulemaking.
+Prepared by: Innovative Strategies and Economics Group, Office of
+Air Quality Planning and Standards, Research Triangle Park, NC
+December.
+70
+US Environmental Protection Agency, 2000c. Valuing Fatal Cancer
+Risk Reductions. White Paper for Review by the EPA Science Advisory
+Board.
+US Environmental Protection Agency, 2000d. Procedures for
+Developing Base Year and Future Year Mass and Modeling Inventories
+for the Heavy-Duty Engine and Vehicle Standards and Highway Diesel
+Fuel (HDD) Rulemaking. EPA420-R-00-020. October 2000.
+Viscusi, W.K. 1992. Fatal Tradeoffs: Public and Private
+Responsibilities for Risk. (New York: Oxford University Press).
+Viscusi, W.K., W.A. Magat, and J. Huber. 1991. "Pricing
+Environmental Health Risks: Survey Assessments of Risk-Risk and
+Risk-Dollar Trade-Offs for Chronic Bronchitis" Journal of
+Environmental Economics and Management, 21: 32-51.
+Whittemore, A.S. and E.L. Korn. 1980. "Asthma and Air Pollution
+in the Los Angeles Area" Am J Public Health. Vol. 70:687-696.
+Zanobetti A, Schwartz J, Samoli E, Gryparis A, Touloumi G,
+Atkinson R, Le Tertre A, Bobros J, Celko M, Goren A, Forsberg B,
+Michelozzi P, Rabczenko D, Aranguez Ruiz E, Katsouyanni K. 2002.
+The temporal pattern of mortality responses to air pollution: a
+multicity assessment of mortality displacement. Epidemiology.
+Jan;13(1):87_93.
+71
+
+
+
+

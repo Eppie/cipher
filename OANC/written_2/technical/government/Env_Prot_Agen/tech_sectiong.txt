@@ -1,0 +1,255 @@
+
+
+
+
+Section G:
+Summary of the Models used for the Analysis
+
+
+
+Description of the Integrated Planning Model (IPM)
+Analytical Framework of IPM
+• EPA uses the Integrated Planning Model (IPM) to analyze the
+projected impact of environmental policies on the electric power
+sector in the 48 contiguous states and the District of Columbia.
+Developed by ICF Resources Incorporated and used to support public
+and private sector clients, IPM is a multi-regional, dynamic,
+deterministic linear programming model of the U.S. electric power
+sector.
+• The model provides forecasts of least-cost capacity
+expansion, electricity dispatch, and emission control strategies
+for meeting energy demand and environmental, transmission,
+dispatch, and reliability constraints. IPM can be used to evaluate
+the cost and emissions impacts of proposed policies to limit
+emissions of sulfur dioxide (SO2), nitrogen oxides (NOx), carbon
+dioxide (CO2), and mercury (Hg) from the electric power
+sector.
+• IPM was a key analytical tool in developing the President's
+Clear Skies proposal.
+IPM Is Well Suited to Model Multi-Emission Control Programs
+• Among the factors that make IPM particularly well suited to
+model multi-emissions control programs are (1) its ability to
+capture complex interactions among the electric power, fuel, and
+environmental markets, (2) its detail-rich representation of
+emission control options encompassing a broad array of retrofit
+technologies along with emission reductions through fuel switching,
+changes in capacity mix, and electricity dispatch strategies, and
+(3) its capability to model a variety of environmental market
+mechanisms, such as emissions caps, allowances, trading, and
+banking.
+• IPM is particularly well suited for modeling Clear Skies
+because the program relies on the operation of an allowance market,
+the availability of a broad range of emissions reduction options,
+and empowerment of economic actors to achieve emission limits.
+Extensive documentation of the IPM is available at
+http://www.epa.gov/airmarkets/epa-ipm/index.html.
+
+
+Description of Air Quality Modeling
+• The results for fine particle concentrations, visibility,
+sulfur deposition, and nitrogen deposition are based on the
+Regional Modeling System for Aerosols and Deposition (REMSAD).
+• REMSAD is an Eulerian air quality model developed to simulate
+regional-scale distributions, sources, formation, transport, and
+removal processes for fine particles and other airborne pollutants.
+This analysis used REMSAD version 6.4 with meteorological inputs
+previously developed for 1996 using the Mesoscale Meteorological
+Model (MM-5).
+• The results for ozone concentrations are based on the
+Comprehensive Air Quality Model with Extensions (CAMx).
+• CAMx is an Eulerian air quality model developed to simulate
+local and regional-scale distributions, sources, formation
+transport, and removal processes for ozone and other photochemical
+pollutants. This analysis used CAMx version 3.1 with meteorological
+inputs previously developed using the Regional Atmospheric Modeling
+System (RAMS) for episodes in June, July, and August 1995.
+• The Integrated Planning Model (IPM) was used to derive all
+future projections of electricity generation source emissions.
+• Emissions inputs for non-electric generating facilities for
+REMSAD and CAMx were derived from the 1996 National Emissions
+Inventory (NEI). In addition, inventories prepared for the Heavy
+Duty Diesel Engine rulemaking were the basis for future year
+emissions projections.
+• For the most part, the modeling results are analyzed in terms
+of the change in future year air quality relative to predictions
+under baseline conditions. In this way, effects of any
+uncertainties in emissions forecasts and air quality modeling are
+minimized.
+• Results for projected annual PM2.5 and 8-hour ozone
+nonattainment were determined by "rolling back" current air quality
+levels. This was based on the change in air quality between the
+1996 Base Year and each future year scenario. Since no ozone
+modeling was performed for the Western U.S., future ozone
+nonattainment in the West was determined through an emissions
+scaling analysis that used forecast changes in NOx emissions in the
+West coupled with the response of ozone to emissions changes, as
+modeled in the East.
+• Maps which display the impacts on PM2.5 concentrations and
+deposition are reported as a percent reduction. A positive percent
+reduction (e.g. 30%) is a decrease in concentration or deposition
+compared to current conditions (an improvement); a negative percent
+reduction (e.g. -30%) is an increase in concentration or deposition
+compared to current conditions.
+• Visibility results are reported as a change in deciviews.
+"Perfect" visibility is represented by a deciview of zero, so a
+decrease in deciview is an increase or improvement in visibility.
+An increase in deciview is a decrease in visibility.
+
+
+Description of Benefits Modeling
+• The Criteria Air Pollutant Modeling System (CAPMS) is used to
+quantify human health benefits due to the changes in a population's
+exposure to fine particulate matter and ozone.
+• Using the air quality modeling results, the change in
+pollutant concentration based on modeling for each CAPMS grid cell
+is determined. This is the level at which the population living in
+that grid cell is assumed to be exposed.
+• Concentration-response functions from epidemiological studies
+are applied to each grid cell to predict the changes in incidences
+of health outcomes (e.g. asthma attacks) that would occur with the
+projected changes in air quality.
+• The grid cells are aggregated to estimate the health impact
+of the change in air quality across the study region.
+• The estimated economic value of an avoided health outcome
+(e.g. $41 per asthma attack day) is multiplied by total change in
+events to determine the health benefits of air quality improvements
+for the entire region.
+• For visibility, benefits were calculated based on changes in
+fine particle concentrations, presented as deciviews, which are
+provided by the REMSAD air quality model.
+• Individuals place a value on visibility improvements in
+recreational areas, such as National Parks and wilderness
+areas
+• The economic value that people place on improved visibility
+on a day that they visit a Class I area is applied to the predicted
+deciview changes and projected number of park visitors affected to
+attain recreational visibility monetary benefits.
+
+
+Description of Freshwater Modeling
+• The Model of Acidification of Groundwater in Catchments
+(MAGIC) is used to examine changes in surface freshwater chemistry
+as indicated by changes in acid neutralizing capacity (ANC) in the
+waterbody.
+• ANC represents the ability of a lake or stream to neutralize,
+or buffer, acid. The condition of a lake or stream improves as the
+the ANC increases, moving from chronically acidic � episodically
+acidic � not acidic.
+• Episodically acidic lakes (ANC of 0-50 µeq/l) have a greater
+capacity to neutralize acid deposition than chronically acidic
+ones. However, these lakes remain susceptible to becoming
+chronically acidic if acid deposition increases.
+• Watershed characteristics (e.g., soils, bedrock type,
+geologic history) affect the rate of water chemistry response to
+acid deposition.
+• "Direct response" lakes or streams manifest changes more
+quickly, whereas "delayed response" lakes or streams manifest
+changes over a longer period of time.
+• MAGIC results show the distribution of lakes and streams (by
+percentage) over the three ANC classes
+• Three regions were modeled (the Adirondacks, the Northeast
+(including the Adirondacks), and the Southeast).
+• Results are reported for current conditions (2000) and in
+2030 under the Base Case and the Clear Skies Act.
+Results are based on a model called the "Model of Acidification
+of Groundwater in Catchments" (MAGIC) used by the National Acid
+Precipitation Assessment Program (NAPAP) to estimate the long-term
+effects of acidic deposition (sulfur) on lakes and streams. The
+model simulates the size of the pool of exchangeable base cations
+in the soil. As the fluxes to and from the pool change over time
+due to changes in atmospheric deposition, the chemical equilibria
+between soil and soil solution shift to give changes in surface
+water chemistry. Changes in surface water chemistry are
+characterized by changes in Acid Neutralizing Capacity (ANC) - the
+ability of a waterbody to neutralize strong acids added from
+atmospheric deposition.
+
+
+Description of the Technology Retrofit and Updating Model
+
+Uses of the Technology Retrofit and Updating Model
+• At this time, IPM does not model price elasticity of demand
+and the effect of multiple allowance allocation mechanisms. To
+study the effect of these variables on electricity prices and
+markets, ICF developed a macro-driven spreadsheet program termed
+the "technology retrofit and updating model."
+• The model is used to discern trends in marginal costs and
+retrofits, the approximate magnitudes of those trends, and the
+reasons for those trends.
+Modeling Approach
+• The technology retrofit and updating model consists of a set
+of approximately six hundred "sample" generating units with varying
+characteristics. The mix of generation types and sizes was chosen
+to mirror, in general terms, the nationwide mix of capacities. Each
+unit is assumed to choose emission control retrofit options, fuels,
+and generation levels so as to maximize its own net profit in
+response to fuel prices, emission allowance prices, and prices of
+electricity for various demand segments. Prices of fuels can be
+adjusted in the model in response to demand; prices of electricity
+by demand segment is set in the model so as to meet demand; and
+allowance prices can be adjusted to cause the industry to meet
+given caps.
+• To simulate the effects of demand elasticity, the quantity of
+electricity demanded in each segment can be set as a function of
+electricity prices using an elasticity value that is entered as an
+input to the model. Finally, to simulate the effects of allowance
+updating, the value of reallocated allowances can be calculated and
+subtracted from each unit's cost of generation - thereby inducing
+each unit to change its profit-maximizing level of generation in
+response to a given set of fuel, allowance, and electricity prices.
+Readjusting the allowance prices to meet the same emission caps
+then generates results showing the costs of meeting given caps with
+and without updating.
+• An important limitation of this model is that it does not
+simulate changes over time in the demand for electricity, prices,
+technology, or other factors considered within IPM. Instead, it is
+run as though every year is the same as every other year and is
+therefore static in its outlook. In addition, it does not recognize
+the distinctions among electricity demand regions and the
+transmission constraints that can keep them separate. Thus, only
+one price of electricity is determined for each demand segment for
+the entire set of sample plants.
+
+
+Description of the Retail Electricity Price Model
+Primary Attributes of the Model
+• The Model provides a forecast of average retail electricity
+prices from 2005 to 2020 for 13 regions and the contiguous U.S.,
+and considers areas of the country that (1) will have competitive
+pricing of power generation and, (2) are likely to price retail
+power based on a cost-of-service basis.
+• Combines IPM and EIA information with data from the National
+Regulatory Research Institute and Center for Advanced Energy
+Markets regarding the restructuring of the power industry.
+• "Main Case" is EPA's forecast of "likely deregulation"
+considering areas of the country that should price generation
+services for retail customers competitively and those that most
+likely to use cost-of-service pricing principles.
+• The Model readily analyzes alternative multi-pollutant and
+base case scenarios modeled with IPM, alternative assumptions on
+deregulation and future savings/costs, and the implications of
+different allowance allocation approaches. The strongest
+application of the Calculator occurs from examining the relative
+price differences between two or more scenarios.
+The Limitations of the Model Include
+• The Model combines IPM and EIA cost elements that use similar
+-- but not identical -- assumptions on capital recovery and
+aggregate cost data in a similar -- but not identical -- regional
+manner that needs adjustment.
+• The Model assumes public and private companies seek the same
+return and have the same tax treatment, which overstates prices in
+areas where there are large amounts of public power.
+• The Model focuses on major costs. It assumes for
+cost-of-service areas (where most of power sales are likely to
+occur) that allowance allocations will not alter pricing of
+electricity.
+• Uses EIA's limited (but best available) data in some areas
+(e.g. rate base with stranded assets).
+• The Model cannot address the uncertainty of deregulation
+created by California's experience -- where competition may
+increase or decrease in the future. With the phasing in of
+competition and limited experience, the full benefits and costs of
+deregulation still remain unknown.
+
+
+

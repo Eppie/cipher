@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-05-02" version="1.0.4"
+    xmlns="http://www.xces.org/schema/2003" xmlns:xces="http://www.xces.org/schema/2003">
+    <fileDesc>
+        <titleStmt>
+            <title>Bahamas</title>
+        </titleStmt>
+        <sourceDesc>
+            <biblStruct>
+                <monogr>
+                    <title>Bahamas</title>
+                    <imprint>
+                        <publisher>Langenscheidt</publisher>
+                        <pubPlace>USA</pubPlace>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <textClass>
+            <domain>Leisure</domain>
+            <subdomain>Travel</subdomain>
+            <subject>Places to see</subject>
+            <audience>Adult</audience>
+            <medium>Book</medium>
+        </textClass>
+        <annotations>
+            <annotation ann.loc="Bahamas-WhereToGo.txt" type="content">Text content</annotation>
+            <annotation ann.loc="Bahamas-WhereToGo-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="Bahamas-WhereToGo-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="Bahamas-WhereToGo-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="Bahamas-WhereToGo-vp.xml" type="vp">Verb chunks</annotation>
+            <annotation ann.loc="Bahamas-WhereToGo-np.xml" type="np">Noun chunks</annotation>
+        </annotations>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <changeDate>2005-05-02</changeDate>
+            <respName>Keith Suderman</respName>
+            <item>Updated to v1.0.4 with complete standoff markup</item>
+            <item>Added Hepple part of speech tags</item>
+            <item>Fixed sentence boundaries</item>
+        </change>
+        <change>
+            <changeData>2007-11-02</changeData>
+            <respName>Keith Suderman</respName>
+            <item>Added validated sentence annotations</item>
+        </change>
+    </revisionDesc>
+</cesHeader>
